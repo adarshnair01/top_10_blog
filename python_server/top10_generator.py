@@ -12,19 +12,16 @@ THEME_IMAGES = {
         "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
         "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
         "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
     ],
     "tech": [
         "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
         "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80"
+        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"
     ],
     "gadgets": [
         "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80"
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80"
     ],
     "mysteries": [
         "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
@@ -150,7 +147,7 @@ Stricly follow this JSON structure:
         }
 
     def format_as_jekyll_markdown(self, post: Dict[str, Any]) -> str:
-        """Converts structured Top 10 post to clean, lightweight, SEO-friendly Jekyll Markdown."""
+        """Converts structured Top 10 post to clean, elegant, SEO-friendly Light Theme Markdown."""
         blog = post.get("blog", {})
         title = blog.get("title", "Top 10 Trends")
         subtitle = blog.get("subtitle", "")
@@ -172,9 +169,9 @@ Stricly follow this JSON structure:
             'author: "Top 10 AI Story Engine"',
             "---",
             "",
-            '<div class="glass-card" style="margin-bottom: 30px; border-left: 4px solid var(--accent-purple);">',
-            '  <h4 style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: var(--accent-purple); margin-bottom: 8px;">PROLOGUE & ATMOSPHERE</h4>',
-            f'  <p style="font-size: 1.05rem; line-height: 1.7; color: var(--text-main);">{intro}</p>',
+            '<div class="glass-card" style="border-left: 4px solid #2563eb; background: #ffffff;">',
+            '  <h4 style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: #2563eb; margin-bottom: 8px; letter-spacing: 0.05em;">EDITORIAL PROLOGUE</h4>',
+            f'  <p style="font-family: var(--font-serif); font-size: 1.15rem; line-height: 1.7; color: #334155;">{intro}</p>',
             '</div>',
             "",
             "---",
@@ -201,8 +198,8 @@ Stricly follow this JSON structure:
             md_lines.append(f'    <div class="{badge_class}">#{rank}</div>')
             md_lines.append('    <div>')
             if specs:
-                md_lines.append(f'      <span style="font-size: 0.75rem; font-weight: 700; background: rgba(255,255,255,0.08); padding: 2px 8px; border-radius: 8px; color: var(--accent-cyan);">📍 {specs}</span>')
-            md_lines.append(f'      <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">{item_title}</h3>')
+                md_lines.append(f'      <span style="font-size: 0.78rem; font-weight: 700; background: #f1f5f9; padding: 4px 10px; border-radius: 6px; color: #0284c7; display: inline-block; margin-bottom: 6px;">📍 {specs}</span>')
+            md_lines.append(f'      <h3 style="font-family: var(--font-serif); font-size: 1.5rem; font-weight: 700; color: #0f172a; line-height: 1.3;">{item_title}</h3>')
             md_lines.append('    </div>')
             md_lines.append('  </div>')
             
@@ -212,23 +209,23 @@ Stricly follow this JSON structure:
                 md_lines.append(f'    <div class="post-img-caption">📸 Concept Visual: {item.get("image_prompt", item_title)}</div>')
                 md_lines.append('  </div>')
             
-            md_lines.append(f'  <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">{story}</div>')
+            md_lines.append(f'  <div style="font-size: 1.05rem; line-height: 1.75; color: #334155; margin-bottom: 20px;">{story}</div>')
             
             # Fact Grid Callout
             md_lines.append('  <div class="fact-grid">')
             md_lines.append('    <div class="fact-box fact-box-verified">')
-            md_lines.append('      <div class="fact-title" style="color: var(--accent-green);">🛡️ Verified Fact Check</div>')
+            md_lines.append('      <div class="fact-title" style="color: #166534;">🛡️ Verified Fact Check</div>')
             md_lines.append(f'      <div>{fact}</div>')
             md_lines.append('    </div>')
             
             md_lines.append('    <div class="fact-box fact-box-trending">')
-            md_lines.append('      <div class="fact-title" style="color: var(--accent-pink);">🔥 Why People Are Talking</div>')
+            md_lines.append('      <div class="fact-title" style="color: #9f1239;">🔥 Why People Are Talking</div>')
             md_lines.append(f'      <div>{trending}</div>')
             md_lines.append('    </div>')
             
             if secret:
                 md_lines.append('    <div class="fact-box fact-box-secret">')
-                md_lines.append('      <div class="fact-title" style="color: var(--accent-amber);">💡 Insider Secret / Pro Tip</div>')
+                md_lines.append('      <div class="fact-title" style="color: #92400e;">💡 Insider Secret / Pro Tip</div>')
                 md_lines.append(f'      <div>{secret}</div>')
                 md_lines.append('    </div>')
             md_lines.append('  </div>')
@@ -236,19 +233,19 @@ Stricly follow this JSON structure:
             md_lines.append('</div>')
             md_lines.append("")
 
-        md_lines.append('<div class="glass-card" style="border-left: 4px solid var(--accent-cyan);">')
-        md_lines.append('  <h2 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin-bottom: 10px;">Conclusion & Final Reflections</h2>')
-        md_lines.append(f'  <p style="font-size: 1.05rem; line-height: 1.7; color: var(--text-main);">{conclusion}</p>')
+        md_lines.append('<div class="glass-card" style="border-left: 4px solid #0f172a;">')
+        md_lines.append('  <h2 style="font-family: var(--font-serif); font-size: 1.4rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">Conclusion & Editorial Summary</h2>')
+        md_lines.append(f'  <p style="font-size: 1.05rem; line-height: 1.75; color: #334155;">{conclusion}</p>')
         md_lines.append('</div>')
         md_lines.append("")
 
         if poll and poll.get("question"):
-            md_lines.append('<div class="glass-card" style="background: rgba(0,0,0,0.4); border: 1px solid var(--border-glow);">')
-            md_lines.append(f'  <h3 style="font-size: 1.1rem; font-weight: 800; color: #fff; margin-bottom: 8px;">🗣️ Reader Interactive Poll</h3>')
-            md_lines.append(f'  <p style="font-size: 0.95rem; color: var(--text-muted); margin-bottom: 14px;">{poll.get("question")}</p>')
+            md_lines.append('<div class="glass-card" style="background: #f8fafc; border: 1px solid #cbd5e1;">')
+            md_lines.append(f'  <h3 style="font-family: var(--font-serif); font-size: 1.2rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">🗣️ Reader Interactive Poll</h3>')
+            md_lines.append(f'  <p style="font-size: 0.95rem; color: #475569; margin-bottom: 14px;">{poll.get("question")}</p>')
             md_lines.append('  <ul style="list-style: none; display: flex; flex-direction: column; gap: 8px;">')
             for opt in poll.get("options", []):
-                md_lines.append(f'    <li style="padding: 10px 14px; background: rgba(255,255,255,0.03); border: 1px solid var(--border-glass); border-radius: 8px; font-size: 0.9rem; color: #fff;">{opt}</li>')
+                md_lines.append(f'    <li style="padding: 12px 16px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.92rem; color: #0f172a; font-weight: 600;">{opt}</li>')
             md_lines.append('  </ul>')
             md_lines.append('</div>')
 

@@ -16,58 +16,53 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:card" content="summary_large_image">
 
-  <!-- Premium Typography: Outfit + Syne + Plus Jakarta Sans -->
+  <!-- Elegant Fonts: Newsreader (Editorial Serif) + Inter & Plus Jakarta Sans (Sans) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,600&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- Theme Stylesheet -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
 
-  <!-- Background Ambient Glows -->
-  <div class="bg-glow bg-glow-1"></div>
-  <div class="bg-glow bg-glow-2"></div>
-
-  <!-- Sticky Glass Header -->
+  <!-- Elegant Header -->
   <header class="site-header">
     <div class="container nav-wrapper">
       <a href="{{ '/' | relative_url }}" class="site-logo">
-        <div class="logo-icon">🔥</div>
+        <span class="logo-mark">T10</span>
         <div class="logo-text">
-          <span class="brand-title">TOP 10 <span class="brand-accent">JOURNAL</span></span>
-          <span class="brand-subtitle">Fact-Checked Trend Engine</span>
+          <span class="brand-title">TOP 10 <span class="brand-sub">JOURNAL</span></span>
+          <span class="brand-tagline">Fact-Checked Investigative Reports</span>
         </div>
       </a>
 
       <nav class="nav-links">
         <a href="{{ '/' | relative_url }}" class="nav-link active">Home</a>
-        <a href="{{ '/' | relative_url }}#categories" class="nav-link">Categories</a>
+        <a href="{{ '/' | relative_url }}#archive" class="nav-link">Archive</a>
       </nav>
     </div>
   </header>
 
-  <!-- Main Container -->
-  <main class="container">
+  <!-- Main Content Area -->
+  <main class="container main-content">
     {{ content }}
   </main>
 
-  <!-- Footer -->
+  <!-- Elegant Footer -->
   <footer class="site-footer">
     <div class="container footer-content">
-      <div class="footer-brand">
-        <div class="site-logo">
-          <div class="logo-icon">🔥</div>
-          <span class="brand-title" style="color: #fff;">TOP 10 JOURNAL</span>
-        </div>
-        <p style="margin-top: 8px; font-size: 0.85rem; color: var(--text-dim);">
-          Investigative fact-checking & immersive countdown storytelling on global trends.
+      <div class="footer-info">
+        <a href="{{ '/' | relative_url }}" class="site-logo" style="text-decoration: none;">
+          <span class="logo-mark" style="background: #0f172a; color: #fff;">T10</span>
+          <span class="brand-title" style="color: #0f172a;">TOP 10 JOURNAL</span>
+        </a>
+        <p style="margin-top: 10px; font-size: 0.9rem; color: #64748b; max-width: 420px; line-height: 1.6;">
+          An independent editorial journal delivering thoroughly fact-checked, storytelling countdowns on science, culture, technology, and global wonders.
         </p>
       </div>
-
       <div class="footer-copy">
-        <p>&copy; {{ 'now' | date: "%Y" }} TOP 10 JOURNAL • Powered by Gemini AI</p>
+        <p>&copy; {{ 'now' | date: "%Y" }} TOP 10 Journal • All Rights Reserved</p>
       </div>
     </div>
   </footer>
