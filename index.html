@@ -3,38 +3,43 @@ layout: default
 title: "Latest Top 10 Fact-Checked Stories"
 ---
 
-<section className="hero" style="text-align: center; padding: 40px 0;">
-  <span className="hero-tag">🔥 VIRAL TREND JOURNAL</span>
-  <h1 className="hero-title" style="font-size: 2.5rem; margin-bottom: 12px;">Top 10 Trends & Immersive Stories</h1>
-  <p className="hero-subtitle" style="max-width: 650px;">
-    Thoroughly fact-checked countdown posts on groundbreaking technology, mysterious places, space discoveries, and viral phenomena.
+<section class="hero">
+  <div class="hero-pill">
+    <span>🔥 VIRAL TREND JOURNAL</span>
+  </div>
+  <h1 class="hero-title">Top 10 Trends & Immersive Stories</h1>
+  <p class="hero-subtitle">
+    Investigative, fact-checked countdown posts on groundbreaking technology, mysterious places, space discoveries, and viral phenomena.
   </p>
 </section>
 
-<div className="post-grid">
+<div class="post-grid">
   {% for post in site.posts %}
     <a href="{{ post.url | relative_url }}" class="post-card">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-        <span style="font-size: 0.75rem; font-weight: 700; color: var(--accent-purple); background: rgba(139, 92, 246, 0.15); padding: 2px 8px; border-radius: 8px;">
-          {{ post.category | default: "Trends" | upcase }}
-        </span>
-        <span style="font-size: 0.75rem; color: var(--text-dim);">
-          {{ post.date | date: "%b %d, %Y" }}
-        </span>
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+          <span style="font-size: 0.72rem; font-weight: 800; color: var(--accent-violet); background: rgba(139, 92, 246, 0.15); padding: 4px 10px; border-radius: 12px; letter-spacing: 0.04em;">
+            {{ post.category | default: "Trends" | upcase }}
+          </span>
+          <span style="font-size: 0.75rem; color: var(--text-dim);">
+            {{ post.date | date: "%b %d, %Y" }}
+          </span>
+        </div>
+
+        <h2 class="post-card-title">
+          {{ post.title }}
+        </h2>
+
+        {% if post.subtitle %}
+          <p class="post-card-excerpt">
+            {{ post.subtitle }}
+          </p>
+        {% endif %}
       </div>
 
-      <h2 style="font-size: 1.15rem; font-weight: 800; color: #fff; margin-bottom: 8px; line-height: 1.35;">
-        {{ post.title }}
-      </h2>
-
-      {% if post.subtitle %}
-        <p style="font-size: 0.85rem; color: var(--text-muted); line-clamp: 2; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 12px;">
-          {{ post.subtitle }}
-        </p>
-      {% endif %}
-
-      <div style="font-size: 0.8rem; font-weight: 700; color: var(--accent-cyan); display: flex; align-items: center; gap: 4px;">
-        Read Full Top 10 →
+      <div class="post-card-footer">
+        <span>Read Top 10 Countdown</span>
+        <span>→</span>
       </div>
     </a>
   {% else %}
