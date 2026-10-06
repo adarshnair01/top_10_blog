@@ -25,9 +25,7 @@ We are living through the golden renaissance of the electric hypercar. No longer
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aspark Owl</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Aspark Owl" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A low-angle cinematic shot of the sleek carbon-fiber Aspark Owl hypercar parked on a neon-lit Tokyo expressway at night, volumetric lighting reflecting off its ultra-low aerodynamic body.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born from the fever dream of Japanese engineering firm Aspark and brought to life with Italian coachbuilding artistry, the Owl is a masterclass in low-profile aerodynamic obsession. Standing barely 99 centimeters tall, it looks less like a vehicle and more like a sleek carbon-fiber manta ray gliding across the tarmac. When the four permanent-magnet synchronous motors unleash their full wrath, the transition from standstill to hyper-velocity happens with a violent, instantaneous jolt that leaves ordinary physics far behind.
 
@@ -56,9 +54,7 @@ Driving the Owl is akin to piloting a fighter jet at runway level. The cabin env
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pininfarina Battista</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Pininfarina Battista" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic side profile of a metallic blue Pininfarina Battista speeding along an autumn-lined Italian countryside road, motion blur in the background, golden hour sun flare.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Italian design house Pininfarina has spent nearly a century sketching the dreams of petrol-heads, but with the Battista, they have sculpted an electrified nightmare for traditional supercar makers. Every curve, vent, and active aerodynamic flap has been whittled down by wind tunnels to achieve maximum visual poetry and aerodynamic efficiency. Inside, the cabin smells of sustainably tanned leather and brushed aluminum, offering a sensory luxury experience that contrasts sharply with the blistering violence of its powertrain.
 
@@ -87,9 +83,7 @@ When you mash the throttle, the Battista doesn't just accelerate; it surges forw
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lotus Evija</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Lotus Evija" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic studio shot of the British racing green Lotus Evija against a dark, smoky background, dramatic overhead lighting highlighting the massive rear venturi tunnels.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Colin Chapman’s legendary mantra of 'simplify, then add lightness' receives a radical, high-voltage evolution in the Lotus Evija. Crafted in the sacred workshops of Hethel, England, this British heavyweight champion reimagines aerodynamic downforce through massive venturi tunnels carved directly through the rear haunches of the bodywork. These hollowed-out air channels give the Evija an unmistakable, alien silhouette that commands absolute dominance wherever it rolls.
 
@@ -118,9 +112,7 @@ Sinking into the minimalist carbon bucket seat, you are greeted by an F1-inspire
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Rimac Nevera</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Rimac Nevera" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An intense action shot of a silver Rimac Nevera drifting on a wet asphalt track, water spray illuminated by bright stadium lights, cinematic shutter speed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep in the Croatian countryside, Mate Rimac and his renegade team of engineers didn't just build a hypercar; they dismantled the established automotive hierarchy and rebuilt it from silicon up. The Rimac Nevera is a technological juggernaut, housing an advanced torque-vectoring brain that makes calculations 100 times per second across all four independent wheels. It doesn't fight the laws of physics; it rewrites them in real-time, adapting grip levels on wet, dry, or dusty surfaces instantaneously.
 
@@ -149,9 +141,7 @@ Strapping into the Nevera feels like stepping onto the bridge of a futuristic st
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Nio EP9</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Nio EP9" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: The aggressive matte-blue Nio EP9 navigating a sharp turn on the Nürburgring track, lush green pine trees blurred by speed, cinematic overcast daylight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before electric hypercars became mainstream conversation pieces, the Nio EP9 was quietly stalking the most dangerous racing circuit on Earth, hunting down legendary gasoline hypercars and leaving them in its silent wake. Engineered with dual-sub-chassis architecture and aerospace-grade aerodynamics, the EP9 was built to prove that Chinese engineering could dominate the absolute pinnacle of motorsport performance.
 
@@ -180,9 +170,7 @@ Inside the cockpit, drivers are strapped into a dual-cockpit racing environment 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Devel Sixteen EV Variant</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Devel Sixteen EV Variant" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic hypercar concept with aggressive angular lines parked in front of the Burj Khalifa at sunset, dramatic golden hour lighting, hyper-realistic reflections.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the land of architectural impossibilities and billionaire playpens, Dubai-based Devel Motors took their already absurd gasoline monster and turned their sights toward the infinite torque frontier of electrification. While the original V16 variant chased headline-grabbing power figures, the electric iteration taps into solid-state battery chemistry and heavy-duty multi-motor propulsion to target the mythical 300-mph barrier for zero-emission road cars.
 
@@ -211,9 +199,7 @@ Walking around the Devel Sixteen is an exercise in intimidation. Its fighter-jet
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Zenvo Aurora Tur</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Zenvo Aurora Tur" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek, silver-gray Zenvo Aurora Tur speeding across a modern Scandinavian suspension bridge under a dramatic moody Nordic sky, high shutter speed action.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Denmark may be famed for minimalist furniture and bicycle culture, but Zenvo Automotive has injected pure Nordic lightning into the hypercar landscape with the Aurora Tur. While technically a hybrid, the Aurora relies heavily on a massive modular electric drive system mated to a screaming quad-turbocharged V8, delivering an unrelenting surge of power that pushes the boundaries of mechanical and electrical engineering harmony.
 
@@ -242,9 +228,7 @@ The philosophy behind the Aurora is unfiltered driving connection. The Z-flow ca
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">McMurtry Spéirling</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="McMurtry Spéirling" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A compact, black bat-like McMurtry Spéirling race car tearing up the asphalt at the Goodwood Hillclimb, dust kicking up from the rear, spectators blurred in the background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Looking like a cross between a 1960s Formula 1 racer and the Batmobile, the McMurtry Spéirling is a compact, single-seat terror that completely shatters conventional racing metrics. Developed with input from former F1 engineers, this diminutive electric track weapon utilizes a pair of massive underfloor fans to suck the car directly onto the pavement, generating up to 4,400 pounds of downforce from a dead stop. You don't need speed to create grip; the fan creates it instantly.
 
@@ -273,9 +257,7 @@ Listening to the Spéirling is an otherworldly experience. Instead of a traditio
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Rimac Nevera R</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Rimac Nevera R" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A menacing, dark-orange-accented carbon-fiber Rimac Nevera R drifting aggressively through a high-speed corner on a professional racing circuit, tire smoke billowing.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standard hypercars were simply not extreme enough for Mate Rimac, leading to the creation of the Nevera R—a lighter, angrier, more ferocious evolution designed specifically to dominate the world's most grueling racing tracks. Stripped of unnecessary luxury weight, equipped with massive carbon-ceramic brakes, and packing an upgraded silicon-anode battery pack, the Nevera R pushes the envelope of what a battery-electric vehicle can achieve under continuous, punishing track abuse.
 
@@ -304,9 +286,7 @@ Sinking into the cockpit of the Nevera R feels like strapping into a ballistic m
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tesla Roadster (SpaceX Package Concept)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Tesla Roadster (SpaceX Package Concept)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic red Tesla Roadster prototype parked on a futuristic launchpad at dusk, faint blue vapor misting from compressed air thrusters integrated into the rear bumper, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute apex of our countdown sits the most talked-about, anticipated, and radical electric hypercar ever conceived: the next-generation Tesla Roadster equipped with the rumored SpaceX cold-gas thruster package. While production prototypes have teased enthusiasts for years, the engineering promise remains nothing short of science fiction brought to life. By utilizing composite overwrapped pressure vessels derived from SpaceX rocket technology, this machine aims to blur the line between terrestrial automotive engineering and rocket science.
 

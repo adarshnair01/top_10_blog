@@ -25,9 +25,7 @@ Join us as we plunge into the heart of these aqueous enigmas. From acoustic phen
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Bloop: Echo from an Unknown Beast</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Bloop: Echo from an Unknown Beast" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a deep-sea hydrophone array, glowing faintly in the crushing darkness, with a massive, indistinct shadowy form passing far in the background. Eerie blue and green light. High detail, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a sound so colossal, so utterly gargantuan, that it was detected by hydrophones across a staggering 5,000-kilometer range. This was 'The Bloop,' a low-frequency, high-amplitude underwater sound recorded in 1997 by the U.S. National Oceanic and Atmospheric Administration (NOAA). It wasn't seismic, nor artificial. Its wave pattern resembled that of a living creature, yet it was far too powerful for any known animal on Earth.
 
@@ -56,9 +54,7 @@ Scientists initially speculated about a previously undiscovered mega-creature, p
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Baltic Sea Anomaly: The 'Millennium Falcon' of the Deep</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Baltic Sea Anomaly: The 'Millennium Falcon' of the Deep" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater shot of a massive, perfectly circular disc-shaped object resting on the seabed of the Baltic Sea. Eerie green light filters through the water. A diver hovers near it, dwarfed by its scale. Dark, mysterious atmosphere. Photorealistic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In 2011, a Swedish ocean exploration team, Ocean X, stumbled upon something extraordinary. Lying on the floor of the Baltic Sea was a massive, circular object, approximately 60 meters in diameter, with a ramp-like structure leading up to it. Its bizarre, perfectly round shape and distinct features immediately sparked comparisons to science fiction spacecraft, earning it the nickname 'The Baltic Sea Anomaly' or 'The Millennium Falcon.'
 
@@ -87,9 +83,7 @@ Divers reported strange electronic interference and equipment malfunctions when 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Yonaguni Monument: Japan's Sunken Pyramid City?</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="Yonaguni Monument: Japan's Sunken Pyramid City?" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater scene of the Yonaguni Monument, showcasing massive, stepped stone structures with sharp angles. Clear blue water with sunlight filtering down, revealing ancient-looking carvings. A few divers explore the scale. Mysterious, ancient atmosphere. Photorealistic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Off the coast of Yonaguni Island in Japan, a colossal underwater structure rises from the seabed—a series of immense, terraced stone formations resembling pyramids, steps, and even carved faces. Discovered by a local diver in 1986, the Yonaguni Monument immediately ignited a fierce debate: Is it a natural geological wonder sculpted by millennia of seismic activity and erosion, or is it the remains of an ancient, advanced civilization lost to the waves?
 
@@ -118,9 +112,7 @@ Architectural features like perfectly straight edges, 90-degree angles, parallel
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The 'Mariana Scream': A Persistent Abyss Whisper</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The 'Mariana Scream': A Persistent Abyss Whisper" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic underwater shot from inside a deep-sea submersible's viewport, looking out into the pitch-black Challenger Deep. Faint sonar pings emanate, and a strange, metallic-blue ripple of energy distorts the view. A sense of immense pressure and isolation. High detail, dark, atmospheric.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long after 'The Bloop' was hypothetically explained, new acoustic mysteries emerged from the deepest known point on Earth: the Challenger Deep. In 2016, scientists deployed a titanium-shelled hydrophone into the Mariana Trench's crushing depths, expecting to record the silence of the abyss. Instead, they captured a cacophony of previously unidentified sounds, including a distinctive, metallic, and strangely mournful 'scream' or 'groan' that lasted for several seconds.
 
@@ -149,9 +141,7 @@ This 'Mariana Scream' defied easy explanation. It wasn't the rumble of earthquak
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The 'Lost City' Hydrothermal Field: Pillars of Life in Darkness</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The 'Lost City' Hydrothermal Field: Pillars of Life in Darkness" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Majestic underwater shot of 'Lost City' hydrothermal vents, towering white mineral spires against a dark blue abyssal background. Strange, glowing deep-sea creatures swarm around the vents. Ethereal light, sense of ancient wonder. Photorealistic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Discovered in 2000, the 'Lost City' Hydrothermal Field isn't just a collection of vents; it's an entire underwater metropolis of towering, white mineral spires, some reaching over 60 meters (200 feet) in height—taller than many land-based cathedrals. Unlike the black smokers typically found at mid-ocean ridges, Lost City's vents emit alkaline fluids at a much lower temperature, creating a unique chemistry that supports an entirely different, bizarre ecosystem.
 
@@ -180,9 +170,7 @@ This alien landscape is teeming with life forms never seen anywhere else, thrivi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Deep-Sea Brine Pools: The 'Jacuzzi of Despair'</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Deep-Sea Brine Pools: The 'Jacuzzi of Despair'" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater shot of a glowing, ethereal deep-sea brine pool on the ocean floor. The surface shimmers like an alien lake, surrounded by strange, bioluminescent deep-sea creatures that thrive on its edges. Dark, mysterious, otherworldly. Photorealistic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine lakes and rivers at the bottom of the ocean, but instead of fresh water, they're filled with super-salinated brine—so dense it doesn't mix with the surrounding seawater. These are deep-sea brine pools, often nicknamed 'Jacuzzis of Despair' due to their extreme toxicity. Any creature unfortunate enough to fall into these underwater lakes is instantly poisoned, its body preserved in a chemical tomb. Yet, around their edges, life thrives in an extraordinary way.
 
@@ -211,9 +199,7 @@ These bizarre underwater oases are formed by salt deposits seeping from the seab
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Devil's Sea (Dragon's Triangle): The Pacific's Bermuda Enigma</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Devil's Sea (Dragon's Triangle): The Pacific's Bermuda Enigma" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A storm-tossed cargo ship being engulfed by massive, dark waves under a ominous, swirling sky in the open Pacific Ocean. Strange, faint green lights flicker beneath the surface. Sense of dread and disappearance. Cinematic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Just as the Atlantic has its Bermuda Triangle, the Pacific harbors an equally notorious, and perhaps even more ancient, zone of unexplained disappearances: the Devil's Sea, also known as the Dragon's Triangle. For centuries, Japanese fishermen and sailors have told tales of ships vanishing without a trace, strange lights in the sky, and ghostly apparitions within this volatile region. It’s a place where compasses spin wildly and communication systems fail.
 
@@ -242,9 +228,7 @@ While official explanations often point to volatile weather patterns, rogue wave
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Atlantic 'Dark Ocean' Bioluminescence Bursts: Unseen Light Shows</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Atlantic 'Dark Ocean' Bioluminescence Bursts: Unseen Light Shows" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning underwater shot of a vast abyssal plain, illuminated by sudden, brilliant bursts of blue and green bioluminescence. Thousands of tiny lights create an ethereal, cosmic effect against the dark ocean backdrop. No clear source visible. Cinematic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a light show so immense it could rival a meteor shower, yet it occurs in the perpetual darkness of the deep ocean, far from any known source. Scientists have observed inexplicable, massive bursts of bioluminescence from the abyssal plains of the Atlantic—vast areas lighting up for brief, intense periods, without any obvious trigger. This isn't the gentle glow of a jellyfish or the fleeting flash of an anglerfish; these are wide-scale, synchronized illuminations.
 
@@ -273,9 +257,7 @@ What could cause such a spectacle? Theories range from massive, coordinated scho
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The 'Great Pacific Ghost': Echoes of Colossal Unknowns</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The 'Great Pacific Ghost': Echoes of Colossal Unknowns" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic underwater shot from a deep-sea submersible's window, peering into the inky blackness. A massive, indistinct silhouette of a colossal, serpentine or tentacled creature is barely visible in the far distance, its eyes glowing faintly. Sense of awe and terror. Cinematic, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For decades, unexplained sonar contacts, immense pressure-wave signatures, and historical accounts from deep-ocean voyagers have hinted at the existence of a truly colossal, unknown marine organism lurking in the Pacific's deepest trenches. Dubbed the 'Great Pacific Ghost,' this hypothetical creature isn't just a bigger squid or shark; it's something that defies current zoological classification, a leviathan of unimaginable proportions.
 
@@ -304,9 +286,7 @@ While direct visual proof remains elusive, the circumstantial evidence is compel
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Unidentified Submerged Objects (USOs) of the Deep: The Ultimate Abyss Enigma</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Unidentified Submerged Objects (USOs) of the Deep: The Ultimate Abyss Enigma" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Hyper-realistic, cinematic shot from a deep-sea submersible's viewport. In the distance, a sleek, metallic, non-aerodynamic object, glowing with an internal, pulsating blue light, streaks silently through the abyssal darkness at impossible speed. Immense sense of wonder and fear. High detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">If UFOs capture the skies, then USOs—Unidentified Submerged Objects—dominate the abyss. For decades, naval sonar operators, submarine crews, and even commercial divers have reported encounters with objects moving at impossible speeds, performing maneuvers that defy known physics, and operating at depths that would crush any human-made vessel. These aren't just 'strange pings'; they are often described as solid, metallic objects, sometimes observed visually before vanishing into the crushing darkness.
 

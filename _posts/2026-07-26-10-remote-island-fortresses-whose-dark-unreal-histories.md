@@ -25,9 +25,7 @@ Staring out across the gray swells, it is almost impossible not to hear the whis
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fort Boyard: The Stone Giant of the Atlantic</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Fort Boyard: The Stone Giant of the Atlantic" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle drone shot of Fort Boyard standing isolated in choppy, deep-blue Atlantic waters under a dramatic stormy sky, highly detailed stone texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising abruptly from the treacherous waters of the Pertuis d'Antioche strait, Fort Boyard looks like a massive stone ship permanently anchored in the middle of nowhere. Its construction was dreamed up as early as the 17th century to protect France's coastline, but engineers quickly declared it an impossible engineering feat due to the shifting sands below. For decades, the project languished as a laughable white elephant while the Atlantic pounded its nascent foundations.
 
@@ -56,9 +54,7 @@ It wasn't until the 19th century, thanks to advancements in concrete and maritim
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Spitbank Fort: The Victorian Iron-Plated Titan</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Spitbank Fort: The Victorian Iron-Plated Titan" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A moody, twilight photograph of Spitbank Fort, showing its heavy Victorian granite circular walls rising out of the misty sea with warm lights glowing from its windows.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born out of panic during the mid-19th-century French invasion scare, Spitbank Fort was engineered to be an impenetrable floating shield guarding the approaches to Portsmouth Harbor. Workers dumped thousands of tons of granite blocks onto the shifting seabed until a man-made island emerged, upon which they erected a thick ring of iron-plated masonry. Inside this damp, echoing fortress, Victorian soldiers lived in an austere world of iron doors, vaulted brick ceilings, and coal-fired hearths.
 
@@ -87,9 +83,7 @@ Life out in the Solent was a relentless battle against dampness, biting wind, an
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Castle of San Juan de Ulúa: The Coral Bastion of Despair</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Castle of San Juan de Ulúa: The Coral Bastion of Despair" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric ground-level shot of San Juan de Ulúa's weathered coral walls meeting the turbulent green-gray waters of the Gulf of Mexico under a glaring tropical sun.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched precariously upon a submerged coral reef guarding the port of Veracruz, the Castle of San Juan de Ulúa was the Spanish Empire’s ultimate treasure-chest lockbox. Here, enormous galleons laden with Incan gold and Aztec silver stopped before braving the Atlantic crossing back to Madrid. But behind its glistening white coral-stone ramparts lay a terrifying underworld of suffocating dungeons that earned the fortress a reputation as the most feared prison in the Americas.
 
@@ -118,9 +112,7 @@ Water would seep into the lower cells with every rising tide, forcing prisoners 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hachijo-jima's Coastal Battery: The Pacific's Forgotten Volcanic Redoubt</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Hachijo-jima's Coastal Battery: The Pacific's Forgotten Volcanic Redoubt" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A misty, cinematic photo of a concrete World War II pillbox opening overgrown with vibrant green ferns on the volcanic cliffs of Hachijo-jima.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Far off the coast of mainland Tokyo, swept by Pacific typhoons and dominated by twin volcanic peaks, lies Hachijo-jima. During the final desperate months of World War II, the Imperial Japanese military transformed this isolated island into a heavily fortified subterranean redoubt. Convinced that Allied forces would attempt an amphibious invasion here, engineers forced thousands of conscripted laborers and prisoners to carve a labyrinth of caves, ammunition depots, and gun emplacements directly into the volcanic rock.
 
@@ -149,9 +141,7 @@ Walking into these damp, echoing concrete bunkers today is like stepping into a 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Suomenlinna: The Gibraltar of the North</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Suomenlinna: The Gibraltar of the North" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Drone view of Suomenlinna's star-shaped bastions covered in a light dusting of snow, surrounded by icy blue Baltic waters and historic red-brick buildings.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Spread across a cluster of rocky islands just outside Helsinki's harbor, Suomenlinna is a masterpiece of 18th-century Scandinavian military engineering. Commissioned by the Swedish Crown when Finland was part of the realm, this sprawling sea fortress was designed to project absolute power across the Baltic Sea. Massive dry docks, zig-zagging ramparts, and subterranean gunpowder vaults were blasted out of the granite islands, creating what contemporaries dubbed the 'Gibraltar of the North.'
 
@@ -180,9 +170,7 @@ Yet, for all its stone magnificence, the fortress fell to Russian forces in 1808
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Elizabeth Castle: The Tidal Guardian of Jersey</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Elizabeth Castle: The Tidal Guardian of Jersey" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic long-exposure photograph of Elizabeth Castle at sunset, with the wet sand of the causeway reflecting the warm hues of the sky and the dark stone walls.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched on a rugged jagged islet in St. Aubin's Bay, Elizabeth Castle dominates the sea approaches to the island of Jersey with an air of medieval defiance. Depending entirely on the whims of the Atlantic tides, this fortress transforms twice a day: at high tide, it is an isolated island citadel cut off from the world; at low tide, a long, pebble-strewn causeway emerges, allowing visitors to walk across the seabed in the shadow of its formidable ramparts.
 
@@ -211,9 +199,7 @@ Named after the Virgin Queen by Sir Walter Raleigh—who served as the island's 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bourtange's Island Redoubt: The Geometric Star of Groningen</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Bourtange's Island Redoubt: The Geometric Star of Groningen" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning vertical drone shot of Bourtange's star-shaped fortress surrounded by its glistening star moats and green countryside, bathed in golden morning light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While technically engineered as an inland island fortification surrounded by marshlands and engineered moats, Bourtange is a masterclass in geometric paranoia. Built in 1593 by order of William of Orange, its sole purpose was to control the only strategic sandy road leading through the impassable Bourtange bogs from Germany into the Netherlands. From the air, the fortress is a breathtaking geometrical mandala of razor-sharp arrow bastions, moats, and ramparts designed so that no attacker could ever find a blind spot.
 
@@ -241,9 +227,7 @@ During the Eighty Years' War, Bourtange successfully repelled numerous brutal si
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Robben Island: The Windswept Prison Citadel</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Robben Island: The Windswept Prison Citadel" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of the harsh white limestone quarry on Robben Island under a dramatic overcast sky, with the distant silhouette of Table Mountain across the dark water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Lying out in the freezing, shark-infested swells of Table Bay, Robben Island has served for centuries as a place of isolation, banishment, and profound human suffering. Long before it became internationally famous as the maximum-security prison that held Nelson Mandela for 18 grueling years, the Dutch East India Company and later the British used the remote island as a leper colony, a military garrison, and a political penitentiary. Its flat, windswept terrain offered zero natural shelter from the howling Atlantic gales.
 
@@ -272,9 +256,7 @@ Guards patrolled the gravel pathways while prisoners broke stones in the glaring
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fort Jefferson: The Brick Colossus of the Dry Tortugas</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Fort Jefferson: The Brick Colossus of the Dry Tortugas" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone photography of the massive hexagonal red-brick Fort Jefferson surrounded by brilliant turquoise and emerald shallows of the Caribbean Sea.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Floating in a remote cluster of coral keys nearly 70 miles west of Key West, Fort Jefferson is an astonishing architectural behemoth rising out of dazzling turquoise waters. Begun in 1846, it was designed to control the Florida Straits and protect shipping lanes against pirates. Over sixteen million handmade red bricks were shipped across the ocean to construct a towering, three-tiered hexagon complete with hundreds of heavy casemate gun positions that could unleash devastating artillery fire in every direction.
 
@@ -303,9 +285,7 @@ Yet, building a gargantuan masonry fortress on a sinking coral atoll was an engi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Château d'If: The Infamous Dungeon of the Count of Monte Cristo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Château d'If: The Infamous Dungeon of the Count of Monte Cristo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic golden-hour photo of Château d'If's jagged limestone battlements rising sharply out of deep-blue Mediterranean waters, with Marseille's distant skyline veiled in mist.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Emerging jagged and defiant from the brilliant turquoise waters of the Bay of Marseille, Château d'If is the undisputed king of remote island fortresses. Built between 1524 and 1531 by King Francis I to guard the French coastline against naval invasion, the stark white limestone fortress quickly realized a much darker destiny. Due to its fierce surrounding currents, sheer vertical cliffs, and complete isolation, escape was deemed an absolute physical impossibility—turning the castle into Marseille's most terrifying state prison.
 

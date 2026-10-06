@@ -25,9 +25,7 @@ Across sterile clinical trial suites from California to Switzerland, tiny silico
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Synchron Stentrode: The Blood-Vessel Brain Pioneer</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Synchron Stentrode: The Blood-Vessel Brain Pioneer" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro shot of a microscopic stent-like neural mesh glowing faintly inside a human cerebral blood vessel, dramatic blue and gold lighting, photorealistic medical tech.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, the gold standard of brain-computer interfaces required cracking open the skull—a daunting, highly invasive neurosurgical procedure. Enter a radical stroke of bio-engineering genius: slipping a neural interface through the body's natural plumbing. Guided through the jugular vein like a microscopic submarine, the Stentrode navigates the tortuous curves of blood vessels until it nestles snugly against the motor cortex.
 
@@ -56,9 +54,7 @@ Once in position, it expands, pressing its delicate electrodes against the blood
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">BrainGate2: The Veteran Intracortical Trailblazer</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="BrainGate2: The Veteran Intracortical Trailblazer" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of a Utah electrode array resting on a fingertip, glowing neural pathways overlay, sterile laboratory background with soft bokeh.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before neural implants became cocktail-party conversation, the BrainGate collaboration was quietly laying the foundation in dim clinical laboratories. At the heart of this system lies the Utah array—a grid of 96 microscopic silicon needles that pierce the gray matter like a bed of lightning-fast nails, each one listening to the chaotic, beautiful chatter of individual neurons.
 
@@ -87,9 +83,7 @@ In clinical trials, participants outfitted with BrainGate2 have performed astoni
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Neuralink Telepathy: Ultra-High-Bandwidth Cortical Stitching</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Neuralink Telepathy: Ultra-High-Bandwidth Cortical Stitching" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A state-of-the-art robotic surgical arm delicately placing ultra-fine neural threads onto the human cortex, dramatic cinematic laboratory lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">To capture the rich, symphonic complexity of human thought, you need more than a few listening posts—you need an army of them. Neuralink’s surgical robot operates with a microscopic needle thinner than a human hair, stitching flexible polymer threads containing over a thousand electrodes directly into the motor cortex while actively dodging surface blood vessels.
 
@@ -118,9 +112,7 @@ In its groundbreaking PRIME clinical trial, participants have demonstrated the v
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Wyss Center MindMVE: Restoring the Symphony of Movement</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Wyss Center MindMVE: Restoring the Symphony of Movement" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek, glowing wireless neuro-implant resting on a medical console in a Swiss laboratory, cinematic overhead shot with cool blue tones.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Nestled in the intellectual hub of Geneva, the Wyss Center approaches neural interfaces with a distinctly European flair for elegant, translational design. Their clinical trials focus not just on reading brain waves, but on closing the loop entirely—connecting the brain directly back to the muscles through functional electrical stimulation.
 
@@ -149,9 +141,7 @@ Imagine a spinal cord injury so severe that the neural highway is completely sev
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Blackrock Neurotech Cereport: The High-Fidelity Signal Highway</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Blackrock Neurotech Cereport: The High-Fidelity Signal Highway" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic portrait of a clinical trial participant with a discrete titanium neural port on their head, interacting with a glowing holographic display.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When every single millisecond matters in decoding human intention, latency is the ultimate enemy. Blackrock Neurotech’s robust technology has been the unseen engine powering academic and clinical BCI research for over two decades. Their Cereport system acts as a high-fidelity socket installed directly into the skull, providing a secure, hardwired data port for raw neural activity.
 
@@ -180,9 +170,7 @@ In clinical trials ranging from speech synthesis to prosthetic control, Blackroc
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Onward ARC-IM: Epidural Electrical Stimulation for Spinal Revival</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Onward ARC-IM: Epidural Electrical Stimulation for Spinal Revival" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An X-ray style medical visualization showing an epidural electrode lead glowing along a human spine, dramatic lighting, high-end scientific aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While many neural interfaces look upward toward the brain, Onward looks downward to the epicenter of movement: the spinal cord. In revolutionary clinical trials, chronic paraplegic patients have undergone surgeries where a paddle of 32 electrodes is surgically slid directly over the epidural space of the spinal cord.
 
@@ -211,9 +199,7 @@ When paired with intelligent software and targeted stimulation protocols, this i
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Starlab Barcelona Neural Prosthetics: Non-Invasive EEG Mastery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Starlab Barcelona Neural Prosthetics: Non-Invasive EEG Mastery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A clinical trial participant wearing a futuristic sleek white dry-electrode EEG headband, smiling as a robotic arm pours water, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Not everyone is willing or medically eligible to undergo invasive neurosurgery—and that is where non-invasive pioneers like Starlab Barcelona enter the narrative. Operating from a sleek, sunlit facility overlooking the Mediterranean, their clinical trials explore how far we can push mind-control without ever breaking the skin.
 
@@ -242,9 +228,7 @@ Utilizing advanced dry-sensor EEG headbands and cutting-edge machine learning fi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">UCL Queen Square IC-BCI: Restoring Lost Voices</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="UCL Queen Square IC-BCI: Restoring Lost Voices" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up cinematic shot of a computer monitor displaying real-time neural waveforms translating into glowing text words, moody laboratory atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Silence is perhaps the cruelest symptom of advanced motor neuron diseases like ALS. When the lips, tongue, and vocal cords refuse to move, thoughts pool endlessly inside the mind with no outlet. At University College London's Queen Square Institute of Neurology, clinical trials are tackling this profound isolation head-on by decoding speech *before* it reaches the mouth.
 
@@ -273,9 +257,7 @@ By placing high-density arrays directly over the cortical areas responsible for 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kernel Flow: Time-Domain Functional Near-Infrared Spectroscopy</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Kernel Flow: Time-Domain Functional Near-Infrared Spectroscopy" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A clinical subject wearing a sleek, matte-black futuristic neural helmet covered in subtle glowing fiber-optic ports, cinematic studio lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">What if we could measure brain activity not with electricity or needles, but with pure light? At Kernel's high-tech California headquarters, engineers have built futuristic helmets that look like sleek props from a sci-fi epic, yet pack the analytical punch of multi-million-dollar laboratory fMRI machines.
 
@@ -304,9 +286,7 @@ Kernel Flow measures blood oxygenation levels across the cortex using time-domai
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Caltech Biophotonics & BCI Lab: The Dual-Brain Symphony</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Caltech Biophotonics & BCI Lab: The Dual-Brain Symphony" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a high-tech Caltech cleanroom where researchers analyze a glowing 3D holographic model of a human brain with embedded neural probes.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute pinnacle of current neural interface clinical trials sits the legendary Pasadena laboratory where cutting-edge ambition meets uncompromising science. Here, researchers are breaking past the traditional limits of single-modality sensors by pioneering hybrid interfaces that combine high-resolution intracortical electrical recording with functional ultrasound imaging.
 

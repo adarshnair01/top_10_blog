@@ -25,9 +25,7 @@ Far from being lifeless vaults of stone, these extreme underground realms pulse 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Whispering Abode of Krubera Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Whispering Abode of Krubera Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle photograph of an adventurous speleologist rappelling down a massive, vertical limestone shaft inside a dark, deep cave, dramatic lighting from headlamps reflecting off wet rock walls.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As you rappel down the vertical shafts of Krubera Cave—once the deepest known cave on Earth—the suffocating silence is broken only by the rhythmic drip of freezing water and the howl of subterranean gales. Plunging over two kilometers into the limestone heart of the Caucasus Mountains, this dizzying vertical labyrinth feels less like a cave and more like an inverse mountain scraping the underworld. 
 
@@ -56,9 +54,7 @@ Deep within its frigid, echoing corridors, scientists have discovered complex bi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Neon Labyrinth of Waitomo Glowworm Caves</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Neon Labyrinth of Waitomo Glowworm Caves" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Magical wide shot of a small wooden boat drifting on a calm underground river inside a dark cave, illuminated entirely by millions of glowing blue-green glowworms clinging to the ceiling.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Stepping onto a wooden boat floating silently along the underground river of Waitomo is akin to drifting through the cosmos on a clear, moonless night. Above you, the vaulted limestone ceilings are not covered in stone, but in millions of glowing emerald constellations. These living stars are the larvae of the fungus gnat *Arachnocampa luminosa*, weaving sticky, silk-strung webs to lure unsuspecting prey into their biochemical traps. 
 
@@ -87,9 +83,7 @@ This subterranean river ecosystem hums with an eerie, quiet majesty. The glowwor
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Golden Spires of Lechuguilla Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Golden Spires of Lechuguilla Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic photograph of giant, crystalline gypsum chandeliers hanging inside a pristine, golden-toned subterranean cave chamber, dramatic atmospheric lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden for ages behind a choked pile of rubble, Lechuguilla Cave was unlocked in 1986, revealing a mineralogist's fever dream. Unlike most caves carved by acidic rainwater seeping from above, Lechuguilla was forged from the bottom up by sulfuric acid eating away at the limestone, leaving behind delicate, fragile formations that defy imagination. 
 
@@ -118,9 +112,7 @@ In this sulfur-rich, mineral-heavy sanctuary, chemosynthetic bacteria form the b
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Crimson Void of Rio Secreto</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Crimson Void of Rio Secreto" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning underwater and surface split-shot photograph of a crystalline subterranean river in Mexico, showing intricate stalactites above water and glowing blue clarity below.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Wading through the crystal-clear, cerulean waters of Rio Secreto feels like walking through a liquid cathedral. Located beneath the dense jungle of the Yucatán Peninsula, this labyrinthine subterranean river system was formed by millions of years of rainfall dissolving the porous limestone bedrock, creating a breathtaking flooded ecosystem. 
 
@@ -149,9 +141,7 @@ Beneath the hanging stalactites and plunging roots of surface strangler figs, th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Abyssal Vaults of Mammoth Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Abyssal Vaults of Mammoth Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric, wide-angle photo of massive, cavernous stone rooms inside Mammoth Cave, with a winding wooden pathway cutting through the immense scale of the underground chamber.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Mammoth Cave is not merely a cave; it is a sprawling, multi-tiered subterranean continent beneath the rolling hills of Kentucky. As the longest known cave system on Earth, its seemingly infinite maze of dry trunks, vertical shafts, and roaring underground rivers holds secrets accumulated over millions of years. 
 
@@ -180,9 +170,7 @@ Within the eternal twilight of its deeper zones live legendary creatures: the ey
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Toxic Eden of Movile Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Toxic Eden of Movile Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody macro photograph of bizarre, translucent cave invertebrates crawling across a white, bubbling microbial mat floating on a subterranean sulfide pool in total darkness.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sealed off from the outside world for an estimated 5.5 million years, Movile Cave is arguably the closest thing we have to an alien ecosystem on Earth. Descending through a narrow shaft into this limestone chamber immediately triggers a sensory warning: the air is thick with hydrogen sulfide, carbon dioxide, and a suffocating humidity that grips your lungs. 
 
@@ -211,9 +199,7 @@ Yet, this toxic vapor is the very lifeblood of the cave. A thick, milky microbia
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Realm of Cenote Ik Kil</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Realm of Cenote Ik Kil" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking vertical shot looking down into a deep sinkhole cenote with lush green vines hanging from the rim, a bright beam of sunlight piercing down into the crystal-blue water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Plunging deep into the sun-drenched sinkhole of Ik Kil feels like falling into the center of an emerald crater. Formed when the limestone roof of an underground cavern collapsed, this open-air cenote acts as a breathtaking bridge between the sunlit world and the subterranean rivers below. Long green vines cascade down forty meters of sheer rock walls, seeking the cool water surface where black catfish dart gracefully through the turquoise depths. 
 
@@ -242,9 +228,7 @@ This unique semi-subterranean ecosystem supports lush ferns, clinging orchids, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Dragon's Throat of Postojna Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Dragon's Throat of Postojna Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up macro photograph of a pale, pinkish, blind cave salamander (Proteus anguinus) with delicate red gills resting on dark underwater limestone rocks.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Carved over millions of years by the Pivka River, Postojna Cave is a wonderland of monumental arches, translucent curtains of stone, and glowing stalagmites. But beyond its geological splendor lies its greatest biological treasure: the legendary 'human fish,' known scientifically as the *Proteus anguinus*. 
 
@@ -273,9 +257,7 @@ This pale, slender, amphibious salamander slithers through the freezing subterra
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subterranean Amazon of Phong Nha-Kẻ Bàng</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Subterranean Amazon of Phong Nha-Kẻ Bàng" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic drone shot inside a gigantic underground cave with a massive ceiling collapse letting in a dramatic shaft of sunlight, illuminating an internal jungle with towering trees.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden within the jungle-clad karst mountains of Vietnam lies Son Doong Cave—so vast that an entire Boeing 747 could comfortably fly through its largest chamber. When massive ceiling collapses occurred millennia ago, they formed colossal skylights known as dolines. Sunlight flooded into the pitch-black abyss, sparking a botanical miracle. 
 
@@ -304,9 +286,7 @@ Beneath these natural domes, dense underground jungles flourish. Towering trees,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Primordial Depths of Voronya Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Primordial Depths of Voronya Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, high-contrast photograph of extreme cave explorers in full technical gear navigating a treacherous, freezing underground waterfall inside a plunging limestone pit.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the apex of our subterranean journey lies Voronya Cave (also known as Veryovkina Cave), the ultimate frontier of terrestrial exploration. Plunging nearly 2.2 kilometers down into the jagged limestone of the Western Caucasus, Voronya is a relentless gauntlet of freezing vertical drops, roaring underground waterfalls, and treacherous flooded sumps. 
 

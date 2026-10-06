@@ -24,9 +24,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghost Trees of Mount Washington: Rime Ice Forests</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ghost Trees of Mount Washington: Rime Ice Forests" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic wide-angle shot of a Mount Washington rime ice forest at dawn, deep blue hour, with ghost-like, heavily rime-encrusted trees reaching towards a pale, frosty sky. Extreme detail on ice crystals, atmospheric.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Ascend to the summit of Mount Washington in winter, and you don't just find snow; you enter a silent, spectral forest. Here, every tree, every signpost, every antenna is encased in an otherworldly armor of rime ice. The relentless winds, often clocked as the strongest on Earth, drive supercooled fog and cloud droplets against surfaces, freezing instantly to create bizarre, elongated sculptures. These 'ghost trees' stand as petrified sentinels, their branches stretching into impossible, crystalline claws, their forms twisted into abstract art by the very forces that define this extreme environment. It's a landscape of frozen dreams, where nature's fury is distilled into exquisite, ephemeral beauty.</div>
   <div class="fact-grid">
@@ -53,9 +51,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sastrugi Labyrinths: The Wind-Sculpted Oceans of Ice</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Sastrugi Labyrinths: The Wind-Sculpted Oceans of Ice" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot looking down on vast, intricate sastrugi patterns stretching across a pristine Antarctic Plateau under a clear, low-angle polar sun, casting long, sharp shadows. Emphasize the labyrinthine, wave-like forms.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine an endless, white desert, not of sand, but of snow and ice, sculpted into intricate, undulating patterns by winds of unimaginable power. This is the realm of Sastrugi. Found across high-altitude polar plateaus, these sharp, irregular ridges are formed by erosive wind action on snow surfaces. They can range from mere ripples to towering, blade-like formations several feet high, creating a treacherous, yet mesmerizing, 'frozen ocean.' Navigating a field of sastrugi is like traversing a crystal labyrinth, each ridge a testament to the ceaseless, sculpting breath of the planet's coldest winds, their razor-sharp edges glinting under the pale polar sun.</div>
   <div class="fact-grid">
@@ -82,9 +78,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Whispering Glacial Tables of the Alps</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Whispering Glacial Tables of the Alps" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a massive glacier table on the Gorner Glacier, with a large, dark boulder balanced on a translucent blue ice pedestal, intricate ice patterns visible within the pedestal. A lone, distant hiker provides scale against the vast alpine backdrop.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High in the Swiss Alps, as ancient glaciers slowly recede, they reveal a peculiar phenomenon: 'Glacier Tables.' These are massive boulders, often weighing many tons, perched precariously on pedestals of ice. How do they form? The rock absorbs sunlight, melting the ice directly beneath it, while the surrounding ice, unprotected, melts faster. The result is a sculptural marvel, a natural plinth of ice holding up a stone cap. But these aren't static wonders; they are dynamic, ever-changing sculptures. The ice pedestal itself, shielded from the sun, often reveals ancient, trapped air bubbles and crystalline structures, whispering secrets of millennia past before it eventually crumbles, sending its stony crown crashing down.</div>
   <div class="fact-grid">
@@ -111,9 +105,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Ice Flowers on High-Altitude Lakes: Ephemeral Blooms</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Ice Flowers on High-Altitude Lakes: Ephemeral Blooms" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up macro shot of delicate, intricate ice flowers blooming on the surface of a newly frozen alpine lake, catching the soft golden light of a sunrise. Blurred background shows distant mountains and a serene winter scene.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On the pristine surface of newly frozen high-altitude lakes, under conditions of extreme cold and low humidity, a breathtaking phenomenon occurs: ice flowers. These delicate, feathery crystal formations, resembling botanical blooms, sprout from the nascent ice. They form when water vapor from tiny cracks in the ice meets the super-cold, dry air, instantly freezing into intricate patterns. Each 'petal' is a testament to the physics of extreme cold, a fragile sculpture that can reach several inches in height, catching the light in a million shimmering facets. They are nature's fleeting masterpieces, blooming only in the perfect, bitter embrace of an alpine winter morning, vanishing with the slightest warmth or wind.</div>
   <div class="fact-grid">
@@ -140,9 +132,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Serac Towers: The Guardians of Glacial Falls</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Serac Towers: The Guardians of Glacial Falls" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, low-angle shot looking up at colossal, brilliant blue serac towers in a glacial icefall, with sharp, crystalline edges and deep shadows. A tiny climber with a headlamp is visible in the distance, providing scale against the towering ice.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Within the heart of colossal glaciers, especially where they tumble over steep inclines, lies a perilous wonderland of ice known as a serac field. Seracs are towering pinnacles or blocks of glacial ice, often the size of multi-story buildings, formed when the glacier fractures and crumbles under immense stress. In the infamous Khumbu Icefall on Mount Everest, these colossal, crystalline structures stand like frozen sentinels, sometimes glowing with an ethereal blue hue from the compacted ancient ice. They are beautiful, terrifying, and constantly in motion, their groans and cracks echoing the slow, inexorable march of the glacier, a stark reminder of the dynamic power hidden within the highest peaks.</div>
   <div class="fact-grid">
@@ -169,9 +159,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Diamond Dust & Sun Pillars: Atmospheric Jewels</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Diamond Dust & Sun Pillars: Atmospheric Jewels" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning wide-angle landscape of a high-altitude arctic tundra at sunrise, bathed in golden light. Thousands of glittering diamond dust particles are visible in the air, forming a dramatic, tall sun pillar extending from the low sun into the pale blue sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On the coldest, clearest days in high-altitude polar regions, when the air is still and the temperature plummets, a magical atmospheric phenomenon transforms the sky: diamond dust. These are tiny, reflective ice crystals, suspended in the air, catching and scattering sunlight like a million microscopic jewels. When the sun hangs low, these crystals can align to create breathtaking 'sun pillars' – shimmering vertical shafts of light extending above or below the sun. It's an ethereal light show, a fleeting masterpiece where the very air glitters, making the vast, frozen landscape feel like a celestial ballroom, draped in diamonds and bathed in otherworldly light.</div>
   <div class="fact-grid">
@@ -198,9 +186,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Blue Heart of the Glacier: Vatnajökull Ice Caves</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Blue Heart of the Glacier: Vatnajökull Ice Caves" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Immersive wide-angle shot from inside a Vatnajökull ice cave, showcasing glowing, translucent blue ice walls and ceiling with intricate crystalline textures. A small shaft of light pierces through, highlighting a section of pure, deep blue ice. Emphasize the cathedral-like scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Venture beneath the colossal Vatnajökull glacier, Europe's largest, and you enter a world of unimaginable beauty: a network of ice caves, carved by meltwater and sculpted by time. Here, the ice is not white, but a mesmerizing, luminous blue – the result of centuries of compression squeezing out all air bubbles, allowing the ice to absorb all light spectrums except blue. Stepping inside is like entering a crystalline cathedral, where walls shimmer with ancient light, and intricate patterns of frozen water tell stories of geological ages. The silence is profound, broken only by the drip of melting ice, a poignant reminder of these ephemeral wonders, constantly shifting, collapsing, and reforming.</div>
   <div class="fact-grid">
@@ -227,9 +213,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Frost Flowers of Exposed Alpine Rocks</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Frost Flowers of Exposed Alpine Rocks" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Ultra-macro photography shot of delicate, translucent frost flowers blooming from the cracks of a dark, weathered alpine rock. The ice forms intricate, feathery ribbons catching the sharp, cold light of a high-altitude morning. Shallow depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Higher still than the treeline, where only hardy lichens cling to ancient rocks, a delicate marvel emerges from the very stone itself on sub-zero mornings. These aren't the lake-surface ice flowers, but 'frost flowers' that bloom directly from exposed, porous alpine rocks or soil. As groundwater beneath the surface freezes, it expands, pushing tiny filaments of ice out through microscopic cracks and pores. These filaments then grow into intricate, ribbon-like, or feathery ice structures, sometimes several inches long, shimmering with iridescence. Each formation is a testament to the secret life of water, a crystalline expression of geological pressure and extreme cold, appearing as if the very mountains are exhaling frozen breath.</div>
   <div class="fact-grid">
@@ -256,9 +240,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ice Gardens of Perito Moreno: Glacial Sculptures</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ice Gardens of Perito Moreno: Glacial Sculptures" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Enchanting, medium-close shot within a small ice cave or crevasse of the Perito Moreno Glacier, revealing an 'ice garden' – intricate, detailed crystalline formations on the ice walls, glowing with a soft, ethereal blue light. Emphasize organic, sculptural shapes.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While much of the Perito Moreno Glacier is a spectacle of massive ice cliffs, special conditions within its internal structure and at its lower reaches create 'ice gardens' – a fantastical realm of smaller, intricate crystal formations. Here, meltwater carves delicate channels and caves, revealing ancient layers of ice compressed over centuries. Sunlight filtering through creates shimmering internal reflections, illuminating bizarre, almost botanical sculptures of ice. These are not just smooth surfaces, but highly detailed crystalline forms, sometimes resembling frozen leaves, intricate snowflakes, or even alien fungi, all crafted from the purest, deepest blue glacial ice. It’s a hidden world, a momentary glimpse into the heart of a living glacier.</div>
   <div class="fact-grid">
@@ -285,9 +267,7 @@ From the razor-sharp spires that pierce Andean skies to the ghostly cathedrals d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Alien Spikes of the Andes: Penitentes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Alien Spikes of the Andes: Penitentes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking wide-angle landscape shot of a vast field of towering, razor-sharp penitentes under a clear, deep blue Andean sky. The sun casts dramatic, long shadows, emphasizing their eerie, alien appearance. A tiny, distant human figure provides scale and a sense of wonder/peril.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Ascend to the highest, driest reaches of the Andes, and you might stumble upon a landscape so alien it seems plucked from another world: fields of Penitentes. These are razor-sharp blades of ice or hardened snow, sometimes growing several meters tall, sculpted by a unique interplay of sun and wind. Each spire faces the sun, slowly evaporating (sublimating) into the thin, dry air, leaving behind a field of 'frozen worshippers' bowing to the sky. Walking through a penitente field is an unnerving experience, a silent, treacherous maze of crystalline daggers that can slice through clothing and skin. They are the ultimate high-altitude crystal formation – majestic, dangerous, and utterly unique to Earth's highest, most extreme desert-mountains.</div>
   <div class="fact-grid">

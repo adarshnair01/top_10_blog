@@ -25,9 +25,7 @@ Today, the paradigm has shifted. We are entering the era of architectural transp
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">TCL RayNeo X2 Lite</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="TCL RayNeo X2 Lite" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek modern smart glasses resting on a dark wooden table in a dimly lit Tokyo cafe, subtle green holographic text glowing softly on the lenses, cinematic lighting, 8k resolution, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine walking through a bustling foreign night market in Tokyo, the air thick with the scent of sizzling yakitori, while neon kanji characters blur past your vision. With a subtle flick of your gaze, floating subtitles of spoken Japanese materialize directly in your field of view, translated in real-time without blocking your view of the vendor's welcoming smile. The TCL RayNeo X2 Lite strips away the cumbersome facade of traditional augmented reality, packing binocular full-color waveguide technology into a frame that looks deceptively like standard hipster eyewear.
 
@@ -56,9 +54,7 @@ Crafted for the nomadic professional and the urban explorer, these glasses bridg
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Vuzix Z100 Smart Glasses</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Vuzix Z100 Smart Glasses" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up portrait of a hiker wearing ultra-thin minimalist smart glasses, subtle green data overlay reflecting in the lenses, misty mountain background, cinematic golden hour lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">There is a profound elegance in extreme minimalism. Weighing a mere 38 grams—barely heavier than your favorite pair of reading glasses—the Vuzix Z100 feels like wearing nothing at all, yet it acts as a permanent HUD for your waking life. Picture standing on a windy alpine ridge, your hands buried deep in your winter jacket pockets, checking your biometric heart rate and climbing elevation projected as crisp, emerald-green telemetry floating against the majestic backdrop of snowy peaks.
 
@@ -87,9 +83,7 @@ Engineered for the relentless pace of everyday multitasking, the Z100 bypasses p
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Rokid Max 2</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Rokid Max 2" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A person sitting in a modern minimalist train carriage at night, wearing sleek futuristic video glasses, a vibrant glowing cinematic screen reflected in the lenses, moody cyberpunk atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">You step into a cramped economy airplane cabin, the drone of jet engines vibrating through your bones. As the cabin lights dim, you slip on the Rokid Max 2. Instantly, the cramped metal tube dissolves away, replaced by a private IMAX theater floating in a starlit cosmic void. A massive, cinematic 215-inch virtual screen hangs effortlessly before you, rendering blockbuster movies with deep, inky blacks and stunning vibrant contrast that rivals the finest home entertainment systems.
 
@@ -118,9 +112,7 @@ Unlike standalone headsets that require bulky internal batteries and heavy proce
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">XREAL Air 2 Ultra</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="XREAL Air 2 Ultra" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An industrial designer working at a drafting table wearing sleek titanium smart glasses, multiple translucent 3D holographic wireframe models floating in the air, studio lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The true holy grail of spatial computing has always been six degrees of freedom (6DoF)—the ability to lean in, duck down, and walk around virtual objects as if they possess physical mass. The XREAL Air 2 Ultra captures this magical capability within a titanium chassis that looks like it belongs on a runway in Milan rather than an engineering lab. Virtual windows stay pinned precisely to specific coordinates in your living room; walk into the kitchen, and your floating weather dashboard remains anchored securely in the hallway.
 
@@ -149,9 +141,7 @@ Equipped with dual 3D environmental sensors, these glasses map your surroundings
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Solos AirGo 3</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Solos AirGo 3" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stylish woman walking down a sunny Parisian street wearing chic tortoiseshell smart glasses, soft natural lighting, candid street photography style, high-end fashion magazine aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Conversation is an art form, one that is too often ruined by glowing screens and buzzing wristwatches. The Solos AirGo 3 approaches augmented reality through the acoustic portal, transforming eyewear into an invisible conversational assistant powered by advanced artificial intelligence. As you walk through a crowded art gallery, your AI companion whispers historical context about a Renaissance oil painting directly into your ear via directional open-ear speakers that keep ambient sound crystal clear.
 
@@ -180,9 +170,7 @@ With modular, interchangeable frames ranging from classic aviators to bold torto
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Ray-Ban Meta Smart Glasses (Gen 2)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Ray-Ban Meta Smart Glasses (Gen 2)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A smiling young man wearing iconic Ray-Ban Wayfarer style smart glasses while camping in a sun-dappled redwood forest, warm cinematic lens flare, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">You are standing at the edge of a rushing waterfall in Iceland, mist cooling your face, your toddler laughing as they skip a smooth stone across the pool. Instead of fumbling for your smartphone, you simply tap the discreet temple button. A first-person perspective captures the exact magical moment through your own eyes, framed precisely as you experienced it. Moments later, you ask Meta AI to 'look and tell me what waterfall this is,' and an expert voice quietly identifies the geological formation in your ear.
 
@@ -211,9 +199,7 @@ While lacking a visual heads-up display, the Ray-Ban Meta Gen 2 glasses have cap
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Brilliant Labs Frame</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Brilliant Labs Frame" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Futuristic round wire-rimmed smart glasses resting on blueprints, glowing neon-pink holographic data floating in the lens reflection, moody laboratory background, cinematic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Looking through the Brilliant Labs Frame feels like stepping straight out of a classic science fiction novel and into the twenty-first century. Inspired by iconic retro-futuristic eyewear aesthetics, these distinctive round frames project a vibrant, full-color holographic HUD directly into your central field of vision using a pioneering geometric prism optic. Ask your AI assistant 'Noa' to analyze a vintage menu, and floating pricing charts appear instantly over the paper.
 
@@ -242,9 +228,7 @@ What truly sets the Frame apart is its radical open-source ethos. Built for hack
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Even Realities G1</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Even Realities G1" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A confident male keynote speaker on a dramatic stage, wearing ultra-thin minimalist glasses, subtle glowing text visible in the lens reflection, professional cinematic event photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Public speaking is universally feared, but imagine stepping onto a corporate stage while a pristine, invisible teleprompter scrolls your keynote speech smoothly across the lenses of your glasses. Your audience sees only a confident speaker maintaining natural eye contact; you see your entire presentation floating gracefully in the air before you. The Even Realities G1 achieves this impossible feat with an exquisite, bespoke waveguide display that vanishes entirely when turned off.
 
@@ -273,9 +257,7 @@ When you step off the stage and into a boardroom meeting, the G1 shifts gears in
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Apple Vision Pro (Slim Concept / Lightweight Iteration)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Apple Vision Pro (Slim Concept / Lightweight Iteration)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic sleek headset transforming into thin smart glasses on a glowing white minimalist desk, dramatic rim lighting, conceptual tech product render, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;"></div>
   <div class="fact-grid">
@@ -302,9 +284,7 @@ When you step off the stage and into a boardroom meeting, the G1 shifts gears in
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Meta Orion (The Prototype Breakthrough)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Meta Orion (The Prototype Breakthrough)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A visionary tech CEO holding up revolutionary lightweight AR glasses with glowing holographic windows wrapping around a futuristic laboratory, cinematic dramatic lighting, highly detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of the spatial computing revolution sits a device so technologically audacious that industry insiders wept when it was finally unveiled: the Meta Orion. For a decade, building true augmented reality glasses with a wide field of view and transparent lenses seemed practically defying the laws of physics. Traditional glass was too heavy; plastics distorted light; waveguides leaked. Meta solved this by forging lenses out of exotic silicon carbide, creating an optical masterpiece capable of projecting sweeping, full-color holographic windows across a massive 70-degree field of view.
 

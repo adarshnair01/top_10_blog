@@ -25,9 +25,7 @@ Today, global superpowers and private space barons are locked in a high-stakes r
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Classic SPS: Glaser’s Baseline Solar Power Satellite</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Classic SPS: Glaser’s Baseline Solar Power Satellite" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A cinematic, wide-angle shot of a massive rectangular photovoltaic satellite array in geostationary orbit, Earth curving below in a brilliant blue and white crescent, sun flare catching the metallic trusses, highly detailed sci-fi concept art.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before carbon footprints were a universal metric, Dr. Peter Glaser sat at his desk in 1968 and stared out at the stars, sketching a dream that sounded like sheer madness. His concept was simple yet monumental: place a colossal array of photovoltaic cells in high geostationary orbit, where the sun never sets, and beam the gathered bounty down via microwaves. It was a silhouette of colossal proportions—a floating grid of mirrors and silicon stretching across the blackness, capturing raw sunlight and turning it into an invisible, hummable beam of pure potential.
 
@@ -56,9 +54,7 @@ For decades, Glaser’s blueprint gathered dust in university archives, dismisse
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">CALSPAS: The Circular Retrodirective Array Architecture</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="CALSPAS: The Circular Retrodirective Array Architecture" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A majestic circular space solar station spinning slowly against a backdrop of distant nebulae, emitting a faint golden microwave beam toward a tiny Earth in the background, hyper-realistic 3D render.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Picture a celestial eye looking down upon our blue marble, blinking with the quiet grace of infinite engineering. The Circular Retrodirective Array architecture, affectionately known in design circles as CALSPAS, abandons rigid rectangular grids in favor of a spinning, highly balanced circular disc. As it orbits, centrifugal force keeps its gossamer-thin photovoltaic skin taut, maximizing energy capture while minimizing the structural mass required to hold the behemoth together.
 
@@ -87,9 +83,7 @@ The real magic of CALSPAS lies in its hypnotic symmetry and safety protocols. By
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The SPS-ALPHA: Arbitrarily Large PHased Array</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The SPS-ALPHA: Arbitrarily Large PHased Array" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A detailed close-up of interlocking modular triangular solar tiles in space, sunlight gleaming off golden polymer surfaces, Earth visible far below through the gaps, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a microscopic swarm of metallic butterflies assembling themselves in the freezing vacuum of space into a breathtaking, flexible mosaic. The SPS-ALPHA design throws out the rulebook of rigid, monolithic space construction. Instead of launching one fragile, multi-ton space station that could be crippled by a single micrometeoroid, engineers conceived an army of thousands of identical, ultra-lightweight modular tiles that automatically lock together in orbit.
 
@@ -118,9 +112,7 @@ Each individual tile acts as an autonomous sun-tracker and wireless power transm
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">SunTower: The Vertical Solar Skyscraper</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="SunTower: The Vertical Solar Skyscraper" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A vertical 3-kilometer-long space station shaped like a gleaming needle, pointing straight down toward the curvature of the Earth, stars twinkling sharply in the deep black void, photorealistic style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Gravity gradient stabilization is an invisible hand that keeps tall objects pointed directly toward the center of the Earth. The SunTower harnesses this subtle orbital physics trick to build a skyscraper in the heavens without a single foundation. Standing three kilometers tall, this vertical spine features a gravity-stabilized mast adorned with thousands of gossamer solar panels on one side and a massive phased-array microwave transmitter at the bottom pointing faithfully homeward.
 
@@ -149,9 +141,7 @@ Looking at a rendering of the SunTower induces a strange vertigo—a gleaming si
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The CAS Space-Solar Megastation (China’s Tiangong-Grid)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The CAS Space-Solar Megastation (China’s Tiangong-Grid)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic massive orbital station with glowing blue energy conduits, engineered with precision Asian aerospace aesthetics, Earth's atmosphere glowing at the horizon, dramatic cinematic art.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the mountains of southwestern China, a quiet revolution is taking shape. While Western headlines focus on commercial rockets, Chinese space agencies have broken ground on terrestrial testing bases designed to feed data directly to an upcoming fleet of orbital power titans. The CAS Space-Solar project is a state-backed behemoth engineered to deliver multi-gigawatt outputs—enough power to light up a sprawling metropolis—directly to remote or disaster-stricken regions on Earth.
 
@@ -180,9 +170,7 @@ Engineers here are testing ultra-high-frequency microwave links and colossal car
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">SPS-ICARUS: The Inflatable Concentrator Array</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="SPS-ICARUS: The Inflatable Concentrator Array" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing, semi-transparent inflatable sphere reflector floating in low Earth orbit, focusing a concentrated beam of sunlight onto a central receiver array, hyper-detailed cosmic photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">What if your space power station could be inflated like a party balloon in the vacuum of the cosmos? The ICARUS design introduces a radical departure from rigid aluminum and heavy titanium frames. Instead, it relies on ultra-thin, highly reflective polymer membranes that are packed tightly into a rocket cargo bay and then expanded in orbit using trace internal gas pressure and rigidizing ultraviolet-cured resins.
 
@@ -211,9 +199,7 @@ Once inflated, these enormous parabolic mirrors focus raw sunlight onto high-eff
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The SolarDisc: High-Concentration Photovoltaic Matrix</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The SolarDisc: High-Concentration Photovoltaic Matrix" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek, disc-shaped space solar station resembling a sci-fi spacecraft, its top surface covered in a mosaic of hexagonal optical lenses reflecting the sun, cinematic space backdrop.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a colossal, flat coin spinning slowly in the velvety dark of Medium Earth Orbit, catching the blinding glare of the unfiltered sun and transforming it into a concentrated furnace of photon energy. The SolarDisc design eliminates bulky wings and unwieldy trusses, opting instead for a sleek, disc-like architecture reminiscent of a classic flying saucer. Its entire top surface is paved with microscopic optical lenses that bend and concentrate incoming sunlight up to tenfold before it strikes the photovoltaic substrate.
 
@@ -242,9 +228,7 @@ This high-concentration approach drastically reduces the amount of expensive sem
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Dyson-Swarm Micro-Nodes: The Kardashev-Scale Prototype</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Dyson-Swarm Micro-Nodes: The Kardashev-Scale Prototype" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A breathtaking cosmic view of a vast, sprawling constellation of thousands of tiny glittering solar micro-satellites forming a luminous net across cis-lunar space, Earth and Moon in the distance.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Why limit our ambition to a single satellite when the entire solar system is bathed in an ocean of wasted stellar energy? Inspired by Freeman Dyson’s ultimate theoretical megastructure, the Dyson-Swarm Micro-Node design is the first practical step toward a Type II civilization on the Kardashev scale. Instead of attempting to build a solid shell around the sun—an impossibility given current material science—visionary physicists have proposed a distributed cloud of millions of interconnected, refrigerator-sized micro-nodes blanketing cis-lunar space.
 
@@ -273,9 +257,7 @@ These tiny, autonomous scouts harvest solar wind and photon pressure simultaneou
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">SPS-OMEGA: Tethered Orbital Microwave Energy Generation Array</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="SPS-OMEGA: Tethered Orbital Microwave Energy Generation Array" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive dumbbell-shaped satellite connected by a glowing, electrically charged tether stretching thousands of meters across the blackness of space, Earth's horizon curving below, ultra-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Picture a gleaming, dumbbell-shaped titan stretching across the horizon of space, held together by an unbreakable electrodynamic tether that hums with raw electrical voltage. The SPS-OMEGA design is a masterpiece of kinetic physics. By utilizing a long conductive tether interacting with Earth’s magnetic field, this station generates its own onboard high-voltage current while simultaneously maintaining perfect stability without burning a single drop of fuel.
 
@@ -304,9 +286,7 @@ At each end of the tether sit massive energy collection and transmission pods, b
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The SPS-SOMA: Self-Assembling Orbital Megastructure</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The SPS-SOMA: Self-Assembling Orbital Megastructure" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A colossal, awe-inspiring automated robotic factory station in geostationary orbit, mechanical arms welding glowing metal trusses together, massive solar wings unfolding into the starlight, cinematic masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Behold the holy grail of extraterrestrial engineering: a fully autonomous, self-replicating robotic shipyard floating in the silent abyss, building its own children from asteroid ore and recycled rocket boosters. The SPS-SOMA design represents the pinnacle of human ingenuity—a massive orbital factory equipped with AI-driven robotic arms, 3D metal printers, and automated welding lasers that continuously manufacture, assemble, and launch new solar collector modules into high orbit.
 

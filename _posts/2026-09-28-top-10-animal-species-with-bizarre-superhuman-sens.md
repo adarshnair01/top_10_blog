@@ -25,9 +25,7 @@ Beyond the fragile boundaries of human perception lies a wild, invisible univers
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Stargazer's Ghost: The Elephant-Nosed Fish</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Stargazer's Ghost: The Elephant-Nosed Fish" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro photography of an elephant-nosed fish glowing with faint, ethereal blue electric waves in a murky, moody African riverbed, volumetric lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine dropping into the pitch-black, suffocating depths of an African river where mud chokes out every ray of light and eyes are rendered entirely useless. In this murky abyss, the elephant-nosed fish does not wander blindly; instead, it hums with invisible electricity. By discharging a specialized organ near its tail, it projects an invisible electric field outward, painting a dynamic, three-dimensional sonar map of its entire dark world.
 
@@ -56,9 +54,7 @@ What makes this creature truly extraordinary is its bizarrely elongated trunk-li
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Thermal Sniper: The Pit Viper</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Thermal Sniper: The Pit Viper" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up macro shot of a pit viper's face, highlighting its glowing infrared pit organ with a digital-like thermal overlay effect, dark moody desert night background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Night falls over the scorching desert, plunging the landscape into freezing, ink-black darkness. To a human, the world vanishes into an ominous void. But to the sidewinder pit viper, the night is violently illuminated by a glowing symphony of thermal signatures. Suspended between its nostrils and eyes are two microscopic pits lined with gossamer-thin membranes that act as living thermal cameras.
 
@@ -87,9 +83,7 @@ When a warm-blooded rodent scurries across the cool sand, the viper doesn't just
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Invisible Web-Weavers: Jumping Spiders</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Invisible Web-Weavers: Jumping Spiders" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro portrait of a colorful jumping spider with large, glassy, reflective eyes mirroring a starry ultraviolet cosmos, vivid green bokeh background, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched on a sunlit green leaf, a tiny jumping spider turns its magnificent, oversized principal eyes toward the sky, beholding a universe of colors we cannot even begin to name. While humans possess trichromatic vision built around red, green, and blue, these miniature acrobats wield a staggering four-color visual palette that pierces deep into the ultraviolet spectrum.
 
@@ -118,9 +112,7 @@ To a jumping spider, the mundane markings of a potential mate or rival bloom wit
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Planetary Compass: The Homing Pigeon</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Planetary Compass: The Homing Pigeon" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a homing pigeon soaring high above a dramatic cloudscape at dawn, subtle glowing magnetic lines weaving around its wings, epic scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Release a homing pigeon a thousand miles away from its loft in a sealed, pitch-black box, and it will still circle twice into the blue sky and point its beak dead home. For centuries, this uncanny homing ability baffled naturalists, who suspected magic or invisible signposts. The reality is far more wondrous: these birds are wearing an organic, quantum-powered compass that reads the invisible magnetic skeleton of planet Earth.
 
@@ -149,9 +141,7 @@ Inside the pigeon's beak lie millions of microscopic crystals of magnetite, acti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Deep-Ocean Seismograph: The African Elephant</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Deep-Ocean Seismograph: The African Elephant" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide cinematic shot of an elephant herd walking across a dusty golden-hour savanna, subtle glowing seismic shockwaves rippling through the cracked earth beneath their feet.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing upon the sun-baked dust of the African savanna, an elephant suddenly freezes mid-stride, lifting one massive foot slightly off the ground. To the casual observer, nothing has changed. But miles away, a thunderstorm is rumbling over the horizon, or a rival herd is communicating across the plains using deep, bass-heavy rumbles that vibrate right through the crust of the earth.
 
@@ -180,9 +170,7 @@ The elephant is not merely hearing with its ears; it is listening with its entir
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Quantum Navigator: The Sea Turtle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Quantum Navigator: The Sea Turtle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater cinematic shot of a majestic sea turtle swimming through deep blue pelagic waters, ethereal beams of sunlight piercing the surface, highly detailed shell texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hatching from a fragile leathery shell on a moonlit Caribbean beach, a baby loggerhead sea turtle makes a frantic dash toward the crashing surf. For the next decade, it will vanish into the vast, trackless expanse of the open ocean, swimming thousands of miles across oceanic gyres. Yet, when it reaches maturity, it will navigate back to the exact same stretch of coastline where it hatched to lay its own eggs.
 
@@ -211,9 +199,7 @@ How do they conquer the open sea without a map or a compass? Sea turtles carry a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Electric Predator: The Platypus</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Electric Predator: The Platypus" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up underwater photography of a platypus foraging in a clear Australian creek, its bill glowing faintly with sensory electricity, mossy rocks and bubbles in the background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Diving into a chilly Australian river with its eyes, ears, and nostrils tightly sealed shut, the platypus looks like a comical patchwork of different animals. But beneath the surface water, it transforms into an elite, blindfolded aquatic hunter. It sweeps its rubbery, highly sensitive bill from side to side in a rhythmic scanning motion, tapping directly into the bioelectric signatures of hidden prey.
 
@@ -242,9 +228,7 @@ Every living muscle contraction—a freshwater shrimp twitching its tail, a craw
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sonar Architect: The Greater Horseshoe Bat</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Sonar Architect: The Greater Horseshoe Bat" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic low-angle shot of a horseshoe bat swooping through a misty ancient forest at twilight, sound waves visualized as glowing ethereal rings emanating from its mouth.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside a dripping, obsidian-black limestone cave, thousands of greater horseshoe bats hang dormant in the stillness. When twilight falls, they erupt into the night sky, weaving through dense, tangled forest canopies at breakneck speeds without ever colliding with a single leaf. They do not see the world with light; they paint it with sound.
 
@@ -273,9 +257,7 @@ As they fly, they unleash a rapid-fire torrent of ultrasonic chirps shaped like 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Thermal Ghost Hunter: The Common Vampire Bat</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Thermal Ghost Hunter: The Common Vampire Bat" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro shot of a vampire bat's face in a dark rainforest canopy, its nose leaf glowing with an intense crimson thermal aura, dramatic cinematic shadows.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While other bats navigate the night using sound, the common vampire bat relies on an entirely different sensory superpower: thermal touch at a distance. Perched on a high branch in the tropical rainforest, it scans the sleeping bodies of cattle or wild mammals resting below. It doesn't need to see them; it searches for the blinding beacon of raw body heat.
 
@@ -304,9 +286,7 @@ Located on the bat's nose is a specialized leaf-like pit containing nerve ending
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Abyssal Leviathan: The Great White Shark</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Abyssal Leviathan: The Great White Shark" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic underwater photography of a massive great white shark gliding through deep blue ocean water, tiny glowing electrical currents shimmering around its snout, sunbeams breaking through the surface.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Cruising through the deep, sapphire-blue realm of the open ocean, the great white shark appears to be a mindless engine of destruction. In reality, it is a master of supreme sensory perception operating in a world utterly alien to humanity. Across its snout are hundreds of translucent jelly-filled pores known as the Ampullae of Lorenzini—a biological electrical grid of staggering sensitivity.
 

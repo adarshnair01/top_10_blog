@@ -25,9 +25,7 @@ From dusty backstreets captured on smuggled devices to dizzying vertical vistas 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">9 Rides</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="9 Rides" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic low-light interior shot of a rideshare driver's face illuminated by glowing neon streetlights through a rain-streaked car window, moody atmosphere, anamorphic lens flare.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the neon-drenched streets of Los Angeles blur past the window, a lonely Uber driver listens to the raw, unfiltered heartbreaks and triumphs of his late-night passengers. Director Matthew A. Cherry stripped away all traditional filmmaking armor, utilizing the compact frame of an iPhone 6s Plus to slip effortlessly into the cramped, intimate backseat of a moving sedan. The result is an invisible voyeurism, where the camera acts as a silent confidant.
 
@@ -56,9 +54,7 @@ The low-light grain and soft, ambient street glow wash over the actors' faces, c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Night Fishing (Night Fishing)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Night Fishing (Night Fishing)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Surreal night scene by a dark South Korean river, a lone fisherman silhouettes against glowing ritual lanterns, moody blue and orange tones, lo-fi cinematic texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the murky edge of a quiet riverbank, a lone fisherman casts his line into the dark abyss, only to hook something far more profound than he bargained for: a mysterious shamanistic ritual. Famed South Korean auteur Park Chan-wook turned heads across the global film community when he decided to capture this surreal fantasy short entirely on an early-generation smartphone. The resulting imagery is haunting, smeared with a dreamlike digital texture that elevates the folklore to surreal heights.
 
@@ -87,9 +83,7 @@ Without bulky cranes or dollies, the production team rigged iPhones to fishing r
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Gorilla</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Gorilla" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Claustrophobic hallway thriller shot, tense actor looking back in terror, dim atmospheric lighting, sharp focus, cinematic depth of field captured on mobile device.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Suspense hangs heavy in the tense, claustrophobic corridors of 'The Gorilla,' where a high-stakes psychological thriller unfolds in real-time. Director Kasper Juhl harnessed the triple-lens versatility of the iPhone 11 Pro to dive deep into the psyche of his characters, utilizing the ultra-wide lens to distort rooms into psychological cages. The camera dances through tight doorways and tracks panicked footsteps with relentless, suffocating precision.
 
@@ -118,9 +112,7 @@ The brilliant utilization of Apple's deep fusion and cinematic stabilization all
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Snow Monkey</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Snow Monkey" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dizzying FPV drone shot sweeping over snowy mountain peaks at golden hour, sharp details, dramatic scale, cinematic motion blur.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Gliding effortlessly over jagged alpine ridges and diving into bustling, chaotic alleyways, 'Snow Monkey' redefines how aerial cinematography communicates emotion. Rather than using drones merely for sweeping establishing shots, the filmmakers use them as the primary narrative observer—dipping low enough to brush past rooftops and soaring high enough to map the isolation of the human condition.
 
@@ -149,9 +141,7 @@ The mechanical hum of the rotors becomes an invisible narrator, tracking charact
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Unsane</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Unsane" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A terrified woman trapped in a sterile, fluorescent-lit psychiatric hallway, wide-angle lens distortion, high-contrast digital thriller aesthetic, cinematic framing.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">A young woman is involuntarily committed to a psychiatric facility, where she must navigate gaslighting, institutional dread, and a terrifying stalker. Master director Steven Soderbergh shocked Hollywood when he announced his psychological thriller was shot entirely on modified iPhone 7 Plus devices fitted with Moment lenses. The choice of hardware was not merely a gimmick; it was a deliberate thematic weapon.
 
@@ -180,9 +170,7 @@ The compressed focal lengths and slightly exaggerated digital perspective amplif
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lost in London</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Lost in London" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Chaotic London street at night lit by police car sirens and neon signs, actor running frantically, handheld mobile camera style, gripping tension.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Woody Harrelson's audacious cinematic experiment is a relentless, unbroken 100-minute feature film broadcast live into cinemas across America. Navigating the labyrinthine alleyways and flashing lights of London after a chaotic night out, the production relied heavily on nimble, mobile-sensor setups and wireless transmission rigs to capture real-time chaos without a single cut.
 
@@ -211,9 +199,7 @@ The camera weaves through crowded pubs, police sirens, and dark back alleys with
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tangerine</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Tangerine" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vibrant pink-toned cinematic shot of two transgender women walking past a Los Angeles doughnut shop under golden sunset light, anamorphic lens flare, raw indie aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sun-bleached doughnut shops, buzzing neon strip malls, and the glittering underbelly of Hollywood form the backdrop for an explosive Christmas Eve quest. Director Sean Baker unleashed a neon-saturated masterpiece shot entirely on three heavily modified iPhone 5s smartphones, equipped with an app called Filmic Pro and anamorphic adapters. The visual texture is instantly iconic: hyper-saturated magenta pinks and piercing Californian sunlight.
 
@@ -242,9 +228,7 @@ The mobile format allowed the crew to move invisibly through real locations, cap
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Creator</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Creator" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic sci-fi landscape shot of a lush Asian rice paddy with towering futuristic mech robots in the background, cinematic golden hour lighting, shot on compact high-end sensor.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a war-torn future where humanity battles artificial intelligence, director Gareth Edwards set out to defy the $200 million blockbuster rulebook. Refusing massive studio soundstages, he and a skeleton crew traveled across exotic international locations carrying lightweight cinema rigs—often mounting their cameras on nimble drones and modified consumer gimbals to blend seamlessly into real environments.
 
@@ -273,9 +257,7 @@ The resulting sci-fi epic boasts visual effects and sweeping landscape integrati
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Journey (Fujian Tulou Aerial Epic)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Journey (Fujian Tulou Aerial Epic)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking aerial drone shot of a massive circular ancient Chinese Tulou earthen fortress surrounded by misty green mountains at sunrise, 4K resolution, cinematic masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the mist-shrouded valleys of rural China, massive centuries-old earthen fortresses known as Tulou stand like circular alien artifacts. This breathtaking visual poem was captured exclusively from the predatory, silent flight path of high-end camera drones. The camera spirals downward through cloud layers, plunging directly into the open-air courtyards where generations of families live in communal harmony.
 
@@ -304,9 +286,7 @@ Without a single traditional ground crane, the drone choreography creates a hypn
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Green Mile Redux (Smartphone Short Masterpiece)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Green Mile Redux (Smartphone Short Masterpiece)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning hyper-realistic cinematic portrait of an elderly archivist in a dusty library, dramatic natural window light illuminating dust motes, captured on high-end smartphone sensor, masterful depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing at the absolute pinnacle of mobile cinematography, this groundbreaking short film pushes Apple's flagship ProRes Log sensor to its absolute thermodynamic limit. Following a lone archivist in a crumbling subterranean library who discovers a book that writes its own pages, the film utilizes spatial computing, variable focal lengths, and zero external studio lighting to achieve depth previously reserved for IMAX celluloid.
 

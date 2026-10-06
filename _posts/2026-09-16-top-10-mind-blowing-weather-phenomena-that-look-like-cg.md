@@ -25,9 +25,7 @@ From the wind-carved steppes of Patagonia to the freezing expanse of Siberia, th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Morning Glory Cloud</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Morning Glory Cloud" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A cinematic wide-angle shot of a colossal, perfectly cylindrical roll cloud stretching across the early morning sky over the flat Australian outback, ultra-realistic, 8k resolution, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine standing on the sun-baked coast of northern Australia just as dawn breaks, only to watch a colossal, perfectly cylindrical tube of vapor roll across the heavens like an endless celestial steamroller. This is the Morning Glory cloud, a breathtaking atmospheric roll cloud that sweeps across the Gulf of Carpentaria with hypnotic regularity. Glider pilots travel from across the globe to surf these invisible aerial waves, riding the smooth updrafts while the world below is shadowed by a pristine, rotating highway of white.
 
@@ -56,9 +54,7 @@ To witness it is to feel utterly dwarfed by the sheer scale of fluid dynamics in
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Asperitas Clouds</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Asperitas Clouds" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic low-angle photograph of dark, churning Asperitas clouds over a rural landscape, resembling an inverted stormy sea painted by Van Gogh, highly detailed, cinematic atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">If you ever wanted to know what it feels like to live inside a turbulent, churning oil painting, look no further than Asperitas clouds. Officially recognized as a distinct cloud classification only recently, these formations evoke the tumultuous surface of a stormy ocean viewed from underneath. Stark, shadowy waves and dramatic ripples ripple across the sky, catching the golden hour light in ways that defy traditional meteorological understanding.
 
@@ -87,9 +83,7 @@ Looking up at an Asperitas sky induces an immediate sense of vertigo. It feels a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fire Rainbows (Circumhorizontal Arcs)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Fire Rainbows (Circumhorizontal Arcs)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A breathtaking high-altitude view of a brilliant, multi-colored circumhorizontal arc (fire rainbow) spreading horizontally across thin cirrus clouds, vibrant neon hues, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Forget everything you know about traditional rain-fed rainbows. The phenomenon known scientifically as a circumhorizontal arc—and popularly as a 'fire rainbow'—is a dazzling explosion of pure spectral color painted horizontally across wispy cirrus clouds. When the sun is positioned exceptionally high in the sky (at least 58 degrees above the horizon), its light passes through plate-shaped ice crystals nestled inside high-altitude clouds, acting as a colossal prism spread across the heavens.
 
@@ -118,9 +112,7 @@ The result is a shimmering tapestry of neon pinks, electric blues, blazing golds
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lenticular Clouds</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Lenticular Clouds" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A majestic snow-capped mountain peak with multiple stacked, UFO-shaped lenticular clouds hovering directly above it at sunset, golden hour lighting, cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">To travelers driving past towering mountain ranges, the sight of a stationary, lens-shaped cloud hovering directly over a peak is enough to cause sudden stops and dropped jaws. Lenticular clouds form when moist air flows over a massive geological barrier like a mountain, creating a series of standing waves of air on the leeward side. As moisture condenses at the crest of these waves and evaporates in the troughs, it carves out smooth, lens- or UFO-shaped clouds that remain eerily anchored in place while fierce winds blow straight through them.
 
@@ -149,9 +141,7 @@ Time and again, these saucer-like formations trigger frantic calls to local weat
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Light Pillars</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Light Pillars" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A magical winter landscape in Lapland with vibrant neon pink and golden light pillars shooting straight up from city lights into a starry night sky, ultra-detailed, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When the winter temperature plunges into bone-chilling depths across the polar regions, the night sky occasionally awakens with towering, vertical columns of brilliant, multicolored light. Known as light pillars, this ethereal phenomenon occurs when artificial ground lights—streetlamps, car headlights, or city skylines—reflect off millions of microscopic, flat ice crystals suspended horizontally in the freezing air. 
 
@@ -180,9 +170,7 @@ The vertical shafts beam straight upward into the stratosphere, transforming ord
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Catatumbo Lightning</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Catatumbo Lightning" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic long-exposure photograph of thousands of jagged purple and blue lightning bolts flashing over a dark tropical lake, surreal CGI-like nature photography, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep in the tropical marshes of northwestern Venezuela, where the Catatumbo River empties into Lake Maracaibo, the sky puts on the world's most relentless, high-voltage nightly performance. For nearly half the year, this specific pocket of the globe erupts in silent, continuous lightning storms that flash night after night, hour after hour, without a single clap of thunder. Thousands of jagged, purple-white bolts arc across the sky in a mesmerizing strobe effect that can be seen from hundreds of miles away.
 
@@ -211,9 +199,7 @@ Historically used as a natural lighthouse by Caribbean navigators crossing the d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Green Flash</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Green Flash" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up telephoto shot of the sun setting over a calm ocean horizon, with the very top edge flaring a brilliant, neon emerald green, cinematic lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For centuries, the green flash was dismissed by sailors and scientists alike as a maritime myth—a optical sailor's tale whispered over rum in dim taverns. Yet, this impossibly brief flash of emerald light is a verified physical reality. As the sun dips below a flat ocean horizon or sets across a desolate desert expanse, atmospheric refraction bends the solar spectrum. While red and orange wavelengths fade quickly, the very last sliver of the sun's upper limb occasionally flares into a breathtaking, vivid emerald green for just a fleeting couple of seconds.
 
@@ -242,9 +228,7 @@ Catching a green flash requires absolute patience, crystal-clear atmospheric con
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fata Morgana Mirages</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Fata Morgana Mirages" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A surreal coastal landscape showing large cargo ships floating high in the air above the horizon due to a Fata Morgana mirage, hazy atmospheric distortion, cinematic realism.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing on the shores of southern Italy and looking across the Strait of Messina, travelers have occasionally reported seeing towering, shimmering medieval castles floating suspended in the middle of the sea. This is the legendary Fata Morgana, a complex superior mirage caused by a dramatic thermal inversion. When a layer of warm air sits directly atop a much colder layer of air near the water's surface, the atmosphere acts as a gigantic, refractive lens, bending light rays to project distant coastlines, ships, or icebergs high up into the sky, warping and stretching them into fantastical, impossible shapes.
 
@@ -273,9 +257,7 @@ Named after Morgan le Fay, the shape-shifting sorceress of Arthurian legend, the
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mammatus Clouds</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Mammatus Clouds" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning wide shot of bulbous, pouch-like Mammatus clouds covering the entire stormy sky at sunset, illuminated in deep amber and purple hues, ultra-realistic photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Few cloud formations evoke as much visceral awe and apocalyptic dread as Mammatus clouds. Appearing on the underside of massive cumulonimbus storm anvils, these formations look less like typical weather and more like a field of giant, bulbous golden-brown or bruised-purple bubbles descending directly from the heavens. Derived from the Latin word *mamma* (meaning udder or breast), these smooth, pouch-like clusters form when sinking pockets of cold air push down against warmer air currents.
 
@@ -304,9 +286,7 @@ Seeing a sky full of Mammatus clouds during the dying light of a severe thunders
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">St. Elmo's Fire</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="St. Elmo's Fire" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic close-up of a mountaineer's ice axe glowing with eerie blue plasma fire (St. Elmo's Fire) against a dark, stormy night background, ultra-realistic cinematic shot, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Taking the crown at Rank #1 is a luminous, crackling phenomenon that has terrified and mesmerized mariners and mountaineers for centuries: St. Elmo's Fire. When an intense electric charge builds up in the atmosphere during a violent thunderstorm, the electric field around pointed objects—such as ship masts, aircraft wingtips, or even the tips of human fingers and hiking poles—becomes so strong that the surrounding air begins to ionize and glow.
 

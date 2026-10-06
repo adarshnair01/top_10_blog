@@ -25,9 +25,7 @@ We stand on the precipice of an energy revolution that makes the lithium-ion bat
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Graphene-Infused Micro-Supercapacitor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Graphene-Infused Micro-Supercapacitor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of a microscopic graphene supercapacitor wafer glowing with faint blue electrostatic energy against a dark silicon background, cinematic studio lighting, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a quiet basement lab in Philadelphia, researchers squint through electron microscopes at a breakthrough that feels like pure alchemy. Traditional batteries rely on sluggish chemical reactions, taking hours to sip electricity and degrading with every cycle. But these micro-supercapacitors drink power in milliseconds and exhale it with terrifying velocity.
 
@@ -56,9 +54,7 @@ By layering microscopic sheets of graphene into an intricate 'onion-like' carbon
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Laser-Scribed Graphene Energy Forests</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Laser-Scribed Graphene Energy Forests" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An industrial laser beam searing intricate geometric patterns onto a flexible amber polymer sheet, bright sparks flying, dramatic blue and orange lighting, close-up macro view.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The hum of a carbon-dioxide laser slices through the silence of a Houston workshop, searing intricate patterns onto cheap plastic sheets. Where the beam touches, the polymer instantly transforms into porous, highly conductive three-dimensional graphene foam. It looks like a microscopic landscape of jagged black canyons and velvet forests.
 
@@ -87,9 +83,7 @@ This technique, known as Laser-Scribed Graphene (LSG), bypasses the notoriously 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Autonomous Graphene-Aluminum Hybrid Batteries</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Autonomous Graphene-Aluminum Hybrid Batteries" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek, industrial battery module glowing with neon green status indicator lights, resting on a brushed steel workbench, cinematic fog and moody backlighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, aluminum was considered the great unrealized promise of battery chemistry—abundant, safe, and cheap, but plagued by rapid degradation and poor energy density. Enter the Brisbane innovators who decided to wrap aluminum-ion nanoparticles inside a pristine cage of graphene platelets.
 
@@ -118,9 +112,7 @@ The result is a battery that scoffs at thermal runaway. While lithium cells bloa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Graphene-Sulfur Cathode Shield</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The Graphene-Sulfur Cathode Shield" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: 3D render of a microscopic graphene honeycomb cage trapping glowing yellow sulfur particles, atomic scale, cinematic depth of field, high-end scientific visualization style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sulfur has long been the holy grail and the heartbreak of battery chemists. It holds an absurd amount of electrical energy, but when a standard battery discharges, sulfur reacts to form lithium polysulfides that dissolve into the electrolyte, rapidly destroying the cell in what researchers call the 'polysulfide shuttle effect.'
 
@@ -149,9 +141,7 @@ At Stanford, scientists wrapped sulfur nanoparticles inside a microscopic honeyc
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Wearable Graphene Energy Harvesters</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Wearable Graphene Energy Harvesters" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up of smart athletic fabric woven with glowing black graphene threads, water droplets beading on the surface, moody neon gym lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine pulling on a running shirt that doesn't just keep you dry, but quietly harvests the kinetic energy of your stride, storing it to power your smartphone while you jog. In the storied laboratories of Cambridge, this once-impossible dream has solidified into washable, conductive ink threads infused with pristine graphene flakes.
 
@@ -180,9 +170,7 @@ Textiles coated in this specialized carbon suspension bend, twist, and stretch w
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cryogenic Graphene Thermal Runaway Barriers</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Cryogenic Graphene Thermal Runaway Barriers" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cutaway view of an electric vehicle battery pack with glowing orange thermal barriers separating green energy cells, high-tech engineering diagram style, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Battery fires are notoriously vicious. When a single cell within a massive electric vehicle pack enters thermal runaway, it acts like a domino, triggering a chain reaction of explosions that can engulf an entire vehicle in seconds.
 
@@ -211,9 +199,7 @@ Manchester engineers have deployed ultrathin vertical graphene heat-spreaders pl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Graphene-Enhanced Solid-State Electrolytes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Graphene-Enhanced Solid-State Electrolytes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic electric vehicle battery cell glowing with white-hot energy inside a sterile cleanroom, reflected in the visor of a cleanroom engineer's helmet.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The liquid electrolyte inside traditional lithium-ion batteries is a necessary evil—it conducts ions smoothly, but it is highly flammable and prone to forming jagged lithium dendrites that pierce separators and short-circuit the cell. Samsung's advanced materials division changed the game by integrating silver-carbon nanocomposites anchored with graphene.
 
@@ -242,9 +228,7 @@ This solid-state matrix stops dendrites dead in their tracks while offering unpr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Ambient Energy Graphene 'Harvesters' (Ambient RF & Thermal)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Ambient Energy Graphene 'Harvesters' (Ambient RF & Thermal)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro conceptual art showing microscopic atomic ripples on a sheet of glowing black carbon mesh capturing stray light and heat waves, cinematic dark background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For decades, physicists believed harvesting energy from thermal Brownian motion—the random jiggling of atoms at room temperature—was forbidden by the second law of thermodynamics. A brilliant team in Arkansas shattered that dogma by watching ripples in free-standing graphene.
 
@@ -273,9 +257,7 @@ Because of its unique atomic structure, a suspended sheet of graphene ripples an
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Graphene-Silicon Anode Revolution</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Graphene-Silicon Anode Revolution" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Microscopic visualization of a silicon core expanding safely inside a resilient graphene spherical cage, glowing blue and amber energy particles, cinematic studio shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Silicon can hold ten times more lithium ions than the graphite traditionally used in battery anodes. The catch? When silicon absorbs lithium, it swells up like a wet sponge, expanding by up to 300% and instantly pulverizing itself into atomic dust within a few charge cycles.
 
@@ -304,9 +286,7 @@ Sila Nanotechnologies solved this century-old engineering nightmare by encasing 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Twistronics: Magic-Angle Superconducting Graphene Grids</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Twistronics: Magic-Angle Superconducting Graphene Grids" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Two glowing hexagonal carbon lattices layered at a precise microscopic offset angle, creating a shimmering interference moiré pattern of neon blue and violet light, abstract cinematic masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute summit of graphene breakthroughs lies an discovery born of pure geometric poetry: 'Twistronics.' When physicists stack two single sheets of graphene on top of each other and rotate the top layer by precisely 1.08 degrees—the so-called 'magic angle'—something miraculous occurs in the quantum fabric of the universe.
 

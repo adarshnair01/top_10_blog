@@ -25,9 +25,7 @@ Today, that foundation of trust is fracturing. As quantum processors cross histo
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">IBM Eagle & Osprey Qubit Scaling</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="IBM Eagle & Osprey Qubit Scaling" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of a golden quantum computing dilution refrigerator chandelier inside a high-tech cleanroom, glowing blue and amber light, ultra-detailed, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Inside a cylindrical golden chandelier glowing softly in a darkened cleanroom, temperatures drop to a fraction of a degree above absolute zero. It is here that IBM’s landmark superconducting processor architectures first demonstrated that quantum computing could scale beyond mere laboratory curiosities. By overcoming massive parasitic interference between neighboring circuits, engineers managed to orchestrate hundreds of quantum bits simultaneously.
 
@@ -56,9 +54,7 @@ This brute-force leap in qubit density transformed theoretical algorithms into l
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Google Sycamore's Quantum Supremacy Milestone</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Google Sycamore's Quantum Supremacy Milestone" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic macro shot of a tiny quantum processor chip glowing with faint neon blue pathways, surrounded by intricate gold wire bonding, dark background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In late 2019, the world of computational physics shifted on its axis. Deep within Google’s Santa Barbara facility, the Sycamore processor was fed a complex randomized sampling task designed to push computational boundaries to their absolute limits. In precisely 200 seconds, Sycamore completed an operation that its creators calculated would take the world’s most powerful classical supercomputer, Summit, approximately 10,000 years to crunch.
 
@@ -87,9 +83,7 @@ While critics debated the strict definition of 'supremacy,' the symbolic barrier
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">IonQ's Trapped-Ion Architecture</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="IonQ's Trapped-Ion Architecture" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Futuristic laboratory setup showing glowing blue laser beams intersecting inside a metallic vacuum chamber, cinematic lighting, moody and mysterious atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While many tech giants construct fragile webs of superconducting circuits, a different philosophy of quantum mechanics thrives in Maryland. Here, individual atoms of rare-earth metals like ytterbium are levitated in pristine ultra-high vacuum chambers by invisible cages of laser light and oscillating electric fields. These trapped ions serve as pristine, identical qubits free from the manufacturing defects plaguing silicon chips.
 
@@ -118,9 +112,7 @@ Because every ion is a fundamental particle of nature rather than a manufactured
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">QuEra's Neutral Atom Arrays</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="QuEra's Neutral Atom Arrays" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Abstract scientific visualization of glowing glowing neutral atoms arranged in a precise geometric grid connected by thin beams of light, dark cyber aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a microscopic chess board suspended in mid-air, where the pieces are not carved wood, but ultra-cold rubidium atoms held captive by shimmering holographic optical tweezers. QuEra's breakthrough harnesses the strange phenomenon of Rydberg states, where atoms are excited to massive orbits, causing them to interact with their neighbors across astonishing distances.
 
@@ -149,9 +141,7 @@ By dynamically rearranging these neutral atoms in real-time using computer-gener
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">NIST Post-Quantum Cryptography Standardization</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="NIST Post-Quantum Cryptography Standardization" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a massive futuristic digital shield made of glowing cryptographic lattices protecting a glowing globe, dark moody cyberpunk theme.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While physicists build the machines capable of breaking the world, cryptographers in Maryland are frantically building the digital armor to survive them. After a grueling, multi-year global competition involving hundreds of the world's sharpest mathematical minds, NIST finalized its first round of standardized post-quantum cryptographic algorithms.
 
@@ -180,9 +170,7 @@ These new mathematical fortresses—based on lattice-based cryptography and hash
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Harvard-MIT Logical Qubit Breakthrough</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Harvard-MIT Logical Qubit Breakthrough" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Complex microscopic view of fault-tolerant quantum error-correcting pathways glowing with green and gold light, cinematic depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, the Achilles' heel of quantum computing was decoherence—the frustrating tendency of qubits to forget their quantum state the moment a stray magnetic field or thermal vibration touched them. The race was on to build 'logical qubits,' clusters of physical qubits banded together in error-correcting error-hunting democratic unions.
 
@@ -211,9 +199,7 @@ A collaborative team from Harvard, MIT, and QuEra shattered previous boundaries 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">'Harvest Now, Decrypt Later' Intelligence Interceptions</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="'Harvest Now, Decrypt Later' Intelligence Interceptions" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dark server room filled with endless rows of humming black server racks under eerie green illumination, digital streams of data flowing through fiber optic cables.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The most terrifying reality of quantum encryption breaking is happening right now, silently, in the dark fiber-optic cables beneath the ocean. Sophisticated state-sponsored threat actors are aggressively vacuuming up and storing petabytes of encrypted government communications, medical records, and financial transactions.
 
@@ -242,9 +228,7 @@ Even though today's quantum computers cannot yet crack these modern ciphers in r
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Silicon Spin Qubits & CMOS Manufacturing</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Silicon Spin Qubits & CMOS Manufacturing" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme macro photography of a silicon wafer reflecting iridescent rainbow light patterns under cleanroom yellow lighting, high fidelity industrial aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside conventional semiconductor fabrication foundries—the very same factories that produce the chips inside your smartphone—a quiet revolution is unfolding. Rather than building exotic machines out of rare superconductors or laser-trapped atoms, researchers have learned to isolate the spin of a single electron trapped inside standard silicon transistors.
 
@@ -273,9 +257,7 @@ By utilizing isotopically purified silicon-28, scientists have eliminated backgr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Quantum Key Distribution (QKD) Satellite Networks</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Quantum Key Distribution (QKD) Satellite Networks" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a high-tech satellite orbiting Earth, beaming a glowing beam of quantum light down to a mountain observatory, starry night sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As encryption algorithms crumble under quantum pressure, humanity is turning to the unbreakable laws of quantum mechanics itself to secure communications. Through Quantum Key Distribution, encryption keys are transmitted via individual photons polarized in superposition. According to the Heisenberg Uncertainty Principle, any attempt by a spy to intercept or measure these photons alters their state, instantly collapsing the wave function and sounding an un-silenceable alarm.
 
@@ -304,9 +286,7 @@ Space agencies have successfully bounced these delicate quantum keys between low
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Looming Threat of Shor's Algorithm Execution</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Looming Threat of Shor's Algorithm Execution" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, cinematic conceptual art of a glowing digital code matrix dissolving into glowing quantum particles under the beam of a laser, high tension and suspense.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of this technological precipice sits Peter Shor’s legendary 1994 algorithm, long treated as a theoretical ghost haunting textbooks. Unlike classical algorithms that test prime factors sequentially, Shor's algorithm exploits quantum interference to test every possible factor simultaneously, turning an impossible multidimensional maze into a straight, sunlit path.
 

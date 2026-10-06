@@ -25,9 +25,7 @@ To gaze upon these pages is to stare directly into the abyss of human silence. T
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Rohonc Codex</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Rohonc Codex" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro photography of an open medieval leather-bound book filled with intricate, unknown symbols and faded ink illustrations under dramatic amber desk lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine opening a book that looks entirely European, featuring exquisite leather binding and ecclesiastical illustrations of battles and crucifixions, only to realize you cannot read a single syllable. Discovered in western Hungary, the Rohonc Codex uses an alphabet nearly ten times longer than any known script in human history. Its pages teem with marching armies, crosses, and crescent moons, suggesting a grand historical or spiritual chronicle.
 
@@ -56,9 +54,7 @@ Yet, every statistical analysis of its text reveals an erratic, maddening struct
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Copiale Cipher</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Copiale Cipher" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dimly lit 18th-century scholar's desk featuring an open ornate gold and blue brocade book, magnifying glass, quill, and dramatic shadows.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Bound with lavish blue-and-gold brocade paper that speaks of aristocratic wealth, the Copiale Cipher looks less like a spy's ledger and more like a royal diary. Seized from an 18th-century German secret society, the manuscript is written entirely in an arcane mixture of abstract symbols, Greek letters, and Roman characters that initially appear to be complete gibberish. For decades, it sat untouched in academic vaults, guarding the strange rituals of a fraternity obsessed with ophthalmology and eye surgery.
 
@@ -87,9 +83,7 @@ When a team of computer scientists finally cracked it in 2011 using statistical 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Voynich Manuscript</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Voynich Manuscript" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An atmospheric shot of the Beinecke Library vault, focusing on an open page of the Voynich manuscript showing strange botanical drawings and looping script.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The undisputed king of cryptographic mysteries, the Voynich Manuscript has driven brilliant minds to madness since its acquisition by antique dealer Wilfrid Voynich in 1912. Illustrated with fantastical botanical drawings of plants that exist nowhere on Earth, bizarre astronomical charts, and naked nymphs bathing in glowing green fluid through intricate plumbing systems, the book pulses with surreal energy. Every attempt to read its flowing, elegant script has collapsed under scrutiny.
 
@@ -118,9 +112,7 @@ Linguists have argued for a century over whether it is a lost medieval tongue, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Rongorongo Script</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Rongorongo Script" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of weathered ancient driftwood covered in intricate carved human and animal glyphs, dramatic side lighting, museum display.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Far out in the vast, unforgiving expanse of the Pacific Ocean, the isolated inhabitants of Easter Island left behind a legacy carved into weathered pieces of driftwood. Known as Rongorongo, these glyphs depict stylized human figures, animals, plants, and celestial bodies arranged in a dramatic 'reverse-chant' layout—where you read one line, flip the tablet upside down, and read the next. It is the only known writing system developed in Oceania prior to colonization.
 
@@ -149,9 +141,7 @@ When European missionaries arrived in the 19th century, the island's indigenous 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Beale Ciphers</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Beale Ciphers" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A vintage 19th-century parchment paper covered in columns of numbers, resting on a rustic wooden table beside an old iron key and a golden coin.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the rolling hills of Bedford County, Virginia, millions of dollars in gold, silver, and jewels allegedly lie buried beneath the earth, waiting for anyone who can decode three slips of paper left behind by a mysterious frontiersman named Thomas J. Beale in 1822. Of the three ciphers, only the second has ever been solved—using the Declaration of Independence as a decryption key. That solved cipher revealed the dimensions of the vault and the sheer staggering wealth inside, but frustratingly, not the location.
 
@@ -180,9 +170,7 @@ The remaining two ciphers, including the one detailing the exact geographical co
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Indus Valley Script</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Indus Valley Script" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of an ancient carved soapstone Indus Valley seal showing a mythical unicorn and mysterious hieroglyphic symbols, dramatic museum lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Along the fertile floodplains of the ancient Indus River, one of the world's first great urban civilizations flourished, complete with advanced sanitation, grid-planned cities, and standardized weights. Yet, unlike their contemporaries in Egypt and Mesopotamia, the people of the Indus Valley left behind no epic poetry, no royal king lists, or monumental inscriptions. Instead, their entire written corpus survives on tiny, exquisite soapstone seals featuring mysterious animal motifs—unicorns, zebus, and elephants—topped by cryptic, brief lines of script.
 
@@ -211,9 +199,7 @@ With inscriptions rarely exceeding four or five characters, linguists lack the '
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Phaistos Disc</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Phaistos Disc" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic studio shot of the ancient terracotta Phaistos Disc resting on dark velvet, highlighting its intricate spiral stamped hieroglyphs.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unearthed in the basement of the Minoan palace of Phaistos in 1908, this small, unassuming disc of fired clay is one of archaeology's greatest optical illusions. Stamped into both sides in a swirling, spiral path are 245 distinct tokens, representing 45 unique symbols—including walking men, plumed helmets, beehives, cats, and marine creatures. What makes the disc revolutionary is its production method: it is history's earliest known example of movable type printing, created thousands of years before Gutenberg.
 
@@ -242,9 +228,7 @@ Despite this technological marvel, no one knows what the symbols mean or what la
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Voynich-Like Codex Seraphinianus</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Voynich-Like Codex Seraphinianus" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An open art book displaying surreal, colorful illustrations of bizarre alien plants and flowing unknown script under bright studio lights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While most manuscripts on this list are products of ancient obscurity, the Codex Seraphinianus proves that human beings can still invent unbreakable ciphers in the modern era. Conceived and illustrated by Italian architect Luigi Serafini between 1976 and 1978, this surreal encyclopedia details an alternate, dreamlike universe. Its pages feature bizarre biology—such as bleeding fruit and fish that swim through skies—alongside incomprehensible machinery and human transformations, all explained in a flowing, beautiful, yet completely unreadable script.
 
@@ -273,9 +257,7 @@ Serafini designed the script to mimic the experience that illiterate people feel
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Voynich-Linked Liber Ignium (Book of Fires) & Alchemical Formulae</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Voynich-Linked Liber Ignium (Book of Fires) & Alchemical Formulae" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An atmospheric medieval laboratory setting with bubbling glass flasks, glowing green liquids, and an open parchment manuscript covered in alchemical cipher symbols.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the soot-stained laboratories of medieval alchemists, survival often depended on keeping secrets away from the Inquisition and rival scholars. Among the most dangerous of these documents are the encrypted alchemical recipe books, often misattributed or lost within monastic archives. These manuscripts use complex substitution ciphers, alchemical shorthand symbols, and coded metaphors to describe explosive compounds, poisons, and the legendary creation of the Philosopher's Stone.
 
@@ -304,9 +286,7 @@ While some alchemical texts have been successfully translated, many remain locke
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Linear A Script</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Linear A Script" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up of an ancient Minoan clay tablet inscribed with delicate Linear A curved wedge symbols, museum display case, moody lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of cryptographic tragedy sits Linear A, the administrative writing system of the glorious Minoan civilization of Crete. While its younger sibling, Linear B, was brilliantly deciphered by architect Michael Ventris in 1952 and proven to be an early form of Greek, Linear A remains an unyielding wall of silence. Thousands of clay tablets bearing its elegant, curving signs have been unearthed across the Aegean, yet linguists cannot read a single complete sentence.
 

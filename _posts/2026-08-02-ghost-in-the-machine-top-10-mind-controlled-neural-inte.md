@@ -25,9 +25,7 @@ We stand at the precipice of a silent neurological revolution. Through miraculou
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cortical Bridge of Geneva</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Cortical Bridge of Geneva" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of a sleek wireless neural interface resting gently beneath a human skull during a sterile surgical procedure, ambient blue laboratory lighting, photorealistic, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High in the pristine alpine air of Switzerland, researchers at the Wyss Center are listening to the silent symphony of the human brain without ever piercing its delicate tissue. Through a breakthrough minimally invasive procedure, a wafer-thin grid of electrodes is slipped delicately beneath the skull, resting like a microscopic blanket over the motor cortex. Here, in the quiet hum of clinical suites, patients who haven't walked in years are beginning to bridge the chasm between intention and motion.
 
@@ -56,9 +54,7 @@ As the participant focuses on the abstract concept of movement, the device captu
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Stentrode Vascular Vanguard</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Stentrode Vascular Vanguard" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A macro 3D medical visualization of a glowing stentrode expanding inside a cerebral blood vessel, pulsing neural sparks, dramatic cinematic lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">What if entering the brain didn't require drilling through bone at all? Enter the ingenious world of endovascular neural interfaces, where neurosurgeons act more like deep-sea plumbers than traditional brain surgeons. Navigating a catheter up through the twisting labyrinth of the jugular vein, medical teams guide a tiny, expandable wire-mesh tube—the Stentrode—directly into a blood vessel resting against the motor cortex.
 
@@ -87,9 +83,7 @@ As the stent expands, its microscopic electrodes press outward against the vesse
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">BrainGate's High-Density Cortical Grid</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="BrainGate's High-Density Cortical Grid" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up shot of the silicon Utah array resting on a fingertip in a cleanroom, gold wire bonding glinting under microscope lights, cinematic focus, high contrast.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over two decades, the BrainGate collaboration has served as the gold standard and the intrepid pioneer of intracortical recording. In sterile academic surgical theaters, neurosurgeons implant a tiny square of silicon—dubbed the Utah Array—studded with 96 hair-thin micro-needles that plunge directly into the gray matter of the motor cortex. Each needle dances intimately with individual neurons, eavesdropping on the gossamer-thin electrical impulses of thought.
 
@@ -118,9 +112,7 @@ The sensory and emotional weight of these trials is palpable. When a trial parti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Neuralink Prime Directive</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The Neuralink Prime Directive" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic cinematic portrait of a patient with a discrete, matte-black titanium neural implant flush with the shaved scalp, glowing faint blue interface rings, moody ambient lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Operated by a custom-built, ultra-precise robotic sewing machine that dodges blood vessels with microscopic dexterity, Neuralink’s N1 implant represents a quantum leap in channel density. Slipping 1,024 hair-thin polymer threads across 64 distinct arrays into the cerebral cortex, this system listens to the brain's symphony with unprecedented resolution. The engineering is as ruthless as it is breathtaking.
 
@@ -149,9 +141,7 @@ Inside clinical trial wards, participants fitted with the coin-sized titanium di
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Wyss Institute's Soft Robotics Neural Sleeve</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Wyss Institute's Soft Robotics Neural Sleeve" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A photorealistic shot of an elderly stroke survivor wearing a glowing, high-tech soft robotic glove, gently picking up a glass of water, warm cinematic lighting, expressive human emotion.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Not all miracles require opening the skull. At Harvard's Wyss Institute, scientists have built a world where mind and fabric merge into fluid motion. For patients suffering from severe hand trauma or stroke-induced paralysis, invasive surgery isn't always the first choice. Instead, they slip on a featherlight, textile-based soft exosuit woven with pneumatic artificial muscles that respond instantly to the wearer's electrophysiological cues.
 
@@ -180,9 +170,7 @@ When the user simply imagines squeezing an orange or picking up a delicate glass
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Clinatec 'Wand' Exo-Skeleton Symphony</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Clinatec 'Wand' Exo-Skeleton Symphony" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a clinical trial participant in a heavy, glowing carbon-fiber exoskeleton walking down a sterile, high-tech hallway, dramatic backlighting, awe-inspiring atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the shadow of the French Alps, the Clinatec laboratory is orchestrating a technological symphony that reads like modern mythology. Here, tetraplegic patients are outfitted with an imposing, full-body robotic exoskeleton. To command this mechanical behemoth, two titanium-encased recording devices—affectionately dubbed 'Wands'—are surgically anchored directly onto the dura mater, floating just above the motor regions governing all four limbs.
 
@@ -211,9 +199,7 @@ When a participant encased in the 65-kilogram carbon-fiber suit imagines walking
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Blackrock Neurotech's MoveAgain Prosthetic Link</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Blackrock Neurotech's MoveAgain Prosthetic Link" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro cinematic shot of a high-tech robotic hand gently holding a glowing glass marble, sparks of digital data flowing along integrated fiber-optic veins, dark moody background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Moving a robotic arm with your mind is an astonishing triumph; being able to *feel* the texture of what that robotic hand touches is nothing short of miraculous. At Blackrock Neurotech, researchers are closing the loop between brain and machine by turning prosthetics into sentient extensions of the human body. By implanting high-density micro-electrode arrays into both the motor and sensory cortices, they have created a two-way neural superhighway.
 
@@ -242,9 +228,7 @@ In clinical trials, a participant wearing a robotic arm doesn't just push button
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Biodextrous Mind: Johns Hopkins APL Neural Interface</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The Biodextrous Mind: Johns Hopkins APL Neural Interface" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up cinematic photo of a bionic robotic hand connecting to a human forearm via a magnetic carbon-fiber interface, glowing LED status indicators, clinical white room.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When amputation or severe nerve damage steals a limb, the peripheral nerves in the residual stump often keep firing into the void, searching for a destination that is no longer there. Johns Hopkins engineers solved this acoustic puzzle with Targeted Muscle Reinnervation (TMR), rerouting those orphaned neural signals to surviving chest or shoulder muscles. When the patient thinks about flexing a missing thumb, a nearby muscle twitches instead.
 
@@ -273,9 +257,7 @@ Ultrasensitive electrodes pick up these redirected signals and relay them to the
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Synchron Synchronous Speech Synthesizer</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Synchron Synchronous Speech Synthesizer" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A touching cinematic portrait of an elderly patient smiling while a nearby speaker outputs clear synthesized speech from a neural interface tablet, soft warm sunlight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For individuals locked inside their bodies by ALS or advanced motor neuron disease, the ultimate tragedy is not the loss of movement, but the loss of voice. Synchron has addressed this existential silence by pairing their blood-vessel-dwelling Stentrode with advanced large-language artificial intelligence models. As the patient simply thinks words or sentences in their mind, the endovascular array captures the cortical firing patterns associated with speech.
 
@@ -304,9 +286,7 @@ An on-board AI decoder translates those raw neural whispers into audible synthes
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Stanford Semantic Thought-to-Text Array</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Stanford Semantic Thought-to-Text Array" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An extreme cinematic close-up of a computer screen displaying words appearing instantly from neural brainwaves, reflecting in the focused eyes of a clinical researcher, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute pinnacle of current neural interface technology lies the Stanford laboratory of neural prosthetics, where thought is translated into written language at speeds that shatter previous boundaries. Rather than decoding clumsy cursor movements across an on-screen keyboard, Stanford researchers tackled the brain's internal representations of handwriting. When a paralyzed participant imagines picking up a pen and writing cursive letters on an imaginary notepad, dual intracortical arrays capture the precise spatial trajectories of the pen tip.
 

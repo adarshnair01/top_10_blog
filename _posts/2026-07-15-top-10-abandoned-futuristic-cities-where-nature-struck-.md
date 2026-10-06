@@ -25,9 +25,7 @@ From subterranean Soviet marvels to futuristic Asian tourist paradises left to r
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Brutalist Pyramids of Belchite</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Brutalist Pyramids of Belchite" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle drone shot of the haunting brutalist ruins of Belchite in Spain, overgrown with wild olive trees and creeping ivy under a dramatic golden hour sky, highly detailed, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Conceived as an avant-garde blueprint for a modern, industrialized future in the early 20th century, Belchite was designed with sweeping geometric plazas and radical architectural experimentation. But history dealt it a devastating blow during the Spanish Civil War, turning its futuristic brick-and-mortar boulevards into a scarred theater of combat. Rather than rebuilding, the regime left the devastated shell untouched as a haunting monument.
 
@@ -56,9 +54,7 @@ Today, walking through Belchite feels like stepping onto an alien planet where t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Domes of Cape Romano</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Domes of Cape Romano" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A striking photograph of the futuristic white dome structures of Cape Romano sinking into emerald-green Florida coastal waters, encrusted with barnacles and surrounded by turquoise waves, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In 1980, retired oil producer Bob Lee envisioned a self-sustaining, eco-futuristic paradise rising directly out of the Gulf of Mexico. He constructed a cluster of futuristic, flying-saucer-like dome homes constructed of fiberglass and concrete, designed to withstand hurricanes through aerodynamics. For a brief moment, it was the ultimate sci-fi bachelor pad sitting atop stilted platforms above turquoise waters.
 
@@ -87,9 +83,7 @@ Yet, Mother Nature scoffed at Lee's engineering. Shifting shorelines, relentless
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Metropolis of Sazava</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Metropolis of Sazava" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic underwater photograph inside a flooded subterranean futuristic bunker, showing rusted control panels covered in bioluminescent moss and clear blue water, dramatic underwater beam lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deeper in the rolling hills of Central Europe lies an experimental subterranean city grid—an ambitious Cold War-era subterranean bunker complex designed to house elite scientists and politicians in the event of nuclear apocalypse. Built with revolutionary air-filtration systems and hydroponic agricultural bays, it was a subterranean marvel of futuristic survivalism cut deep into ancient limestone bedrock.
 
@@ -118,9 +112,7 @@ When the geopolitical landscape shifted in 1989, funding evaporated overnight, s
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Orbital Spire Ruins of Pripyat Amusement Park</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Orbital Spire Ruins of Pripyat Amusement Park" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An eerie, high-contrast photograph of the iconic yellow Ferris wheel in Pripyat, Ukraine, surrounded by overgrown pine trees and misty gray morning fog, cinematic and melancholic mood.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Built for the bright, atomic-powered future of Soviet nuclear technicians, Pripyat was designed as a utopian model city of the future—wide avenues, modernist cultural centers, and bustling public squares. Its crowning jewel was a brand-new amusement park featuring a towering Ferris wheel, scheduled to open on May 1, 1986. That opening day never arrived.
 
@@ -149,9 +141,7 @@ Just days before the grand opening, the Chernobyl disaster forced an immediate, 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghost City of Kayakoy's Modern Terraces</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Ghost City of Kayakoy's Modern Terraces" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide drone shot of the abandoned hillside stone city of Kayakoy in Turkey, covered in vibrant green vegetation and wildflowers under a warm Mediterranean sunset, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising up the steep hillsides of the Taurus Mountains, Kayakoy was envisioned as an architectural blueprint for harmonious cross-cultural living, featuring thousands of uniform stone-and-concrete dwellings equipped with advanced water-collection cisterns and terraced urban agriculture. It represented a sophisticated pinnacle of early 20th-century Mediterranean town planning.
 
@@ -180,9 +170,7 @@ Following sweeping geopolitical shifts and population exchanges in 1923, the ent
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Submerged Concrete Utopia of Lake Qiandao's Lion City</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Submerged Concrete Utopia of Lake Qiandao's Lion City" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking underwater photograph of an ancient ornate Chinese stone gateway submerged in deep blue crystal water, surrounded by swimming fish and soft aquatic algae, cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Shi Cheng, or the Lion City, was an architectural masterpiece dating back to the Han dynasty, but in the late 1950s, it was slated to become the site of a futuristic hydroelectric dam project. The entire ancient metropolis, complete with intricate five-tiered memorial arches, wide ceremonial paved stone roads, and elaborate lion-carved gateways, was intentionally flooded to create an artificial reservoir.
 
@@ -211,9 +199,7 @@ Forgotten by the world above, the city was preserved underwater in an aquatic ti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Elevated Rail Haven of New York's High Line Ancestor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Elevated Rail Haven of New York's High Line Ancestor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematographic golden hour shot of abandoned industrial railway tracks completely overgrown with birch trees and tall grass, with a rusting steel train shed in the background, highly detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before urban greenways became trendy, the Central Railroad of New Jersey Terminal was a sprawling, hyper-industrial futuristic transit cathedral of steel trusses, massive steam cranes, and elevated rail viaducts designed to orchestrate the movement of thousands of commuters daily. It was the absolute pinnacle of industrial-age mechanical engineering.
 
@@ -242,9 +228,7 @@ When rail travel declined, this sprawling leviathan of iron and riveted steel wa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Brutalist Cliffside Fortress of San Pietro Infine</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Brutalist Cliffside Fortress of San Pietro Infine" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic drone shot of an abandoned Italian mountain village clinging to a steep cliff, with massive tree roots engulfing stone walls, misty mountain backdrop, highly detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched dramatically on the rugged slopes of Mount Sambucaro, San Pietro Infine was constructed as a fortified medieval and modern architectural terraced marvel, blending stone defensive walls with modern concrete additions. During World War II, it became the epicenter of fierce mountain combat, reducing the futuristic-for-its-time settlement to a shattered shell of concrete and masonry.
 
@@ -273,9 +257,7 @@ The Italian government chose to build a new town below, leaving the scarred moun
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Floating Forest of Sydney's SS Ayrfield</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Floating Forest of Sydney's SS Ayrfield" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning long-exposure photograph of a rusted ship hull in Sydney Harbour with a dense forest of green mangrove trees growing out of it, glassy water reflection, dramatic sunset colors.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Built in 1911, the SS Ayrfield was a heavy-duty steam collier that served valiantly through world wars before being retired to the ship graveyard of Homebush Bay in Sydney in 1972. It was a utilitarian iron vessel, designed purely for heavy industrial cargo transportation with zero thought given to aesthetics or future ecological harmony.
 
@@ -304,9 +286,7 @@ Left to rot in the shallow, nutrient-rich bay waters, the rusty iron hull filled
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Concrete Sky-Forest of Bangkok's Sathorn Unique Tower</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Concrete Sky-Forest of Bangkok's Sathorn Unique Tower" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic vertical shot of the colossal 49-story Sathorn Unique skyscraper in Bangkok, with massive tropical trees and thick green vines spilling over every concrete balcony, moody overcast sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Soaring 49 stories into the humid Bangkok sky, the Sathorn Unique Tower was slated to be the ultimate luxury skyscraper of Thailand's late-1990s economic boom—featuring neoclassical columns, sweeping balconies, and high-tech elevators. Then, the 1997 Asian financial crisis struck like a lightning bolt, freezing construction when the tower was 80% complete.
 

@@ -25,9 +25,7 @@ From glass walkways that shatter the illusion of safety to suspension bridges sw
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Capilano Suspension Bridge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Capilano Suspension Bridge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle photo of a swaying suspension bridge surrounded by towering misty evergreen trees, soft morning light filtering through the canopy, hyper-realistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Draped gracefully across a dense, emerald-green canyon of ancient Douglas firs, the Capilano Suspension Bridge sways with an intoxicating elasticity under the weight of every passing traveler. Originally built from hemp ropes and cedar planks in 1889, it demands a deep surrender of the senses as the forest floor drops dizzyingly far beneath your trembling boots.
 
@@ -56,9 +54,7 @@ As the cool coastal mist rolls in from the Pacific, the bridge transforms into a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Titlis Cliff Walk</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Titlis Cliff Walk" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic high-altitude shot of a narrow metal suspension bridge on a snowy mountain cliff, deep alpine abyss below, moody overcast sky, cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging desperately to the jagged limestone face of Mount Titlis, the Cliff Walk is not for the faint of heart. Stepping out of a subterranean ice cave, you are instantly greeted by thin alpine air and a sheer 500-meter drop-off that stares straight down into the abyss of the glacier below.
 
@@ -87,9 +83,7 @@ Crosswinds howl furiously through the gorge, making the narrow one-meter-wide su
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Langkawi Sky Bridge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Langkawi Sky Bridge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sweeping curved pedestrian bridge perched on a dramatic tropical mountain peak, lush green jungle below, bright sunny day with scattered clouds, architectural photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Suspended in a breathtaking curve high above the lush rainforests of Langkawi, this engineering marvel is held up by a single, colossal steel pylon. The curved pedestrian deck provides an ever-changing panoramic perspective of Andaman Sea islands and emerald jungle peaks as you walk along its sweeping arc.
 
@@ -118,9 +112,7 @@ Because the bridge is anchored to a mountain peak and hangs out in open space, w
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aiguille du Midi Sky Walk</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Aiguille du Midi Sky Walk" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glass box viewing platform projecting off a snowy Alpine cliff, dramatic mountain peaks in the background, cinematic golden hour lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine stepping out onto a sheet of glass, with nothing but thin alpine air and a vertical drop of more than 3,800 meters separating your soles from the rocky valley floor of Chamonix. Aptly named 'Step into the Void,' this glass box glasshouse extends outward from the highest peak terrace of the Aiguille du Midi.
 
@@ -149,9 +141,7 @@ Surrounded by the icy giants of the Mont Blanc massif, visitors must slip into o
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Royal Gorge Bridge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Royal Gorge Bridge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An iconic American suspension bridge spanning a massive, deep river canyon at sunset, dramatic lighting, steep rock cliffs, cinematic aerial perspective.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For nearly a century, the Royal Gorge Bridge reigned supreme as the highest suspension bridge in the world. Straddling the sheer granite walls of a deep Colorado canyon, it looks down upon the roaring white water of the Arkansas River slicing through the ancient rock below.
 
@@ -180,9 +170,7 @@ Walking across its timber-planked deck while wooden boards rattle beneath your f
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Zhangjiajie Glass Bridge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Zhangjiajie Glass Bridge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic glass-bottom bridge suspended between dramatic stone pillar mountains in China, misty valleys, cinematic blockbuster aesthetic, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Draped between two towering quartz-sandstone pillars in the otherworldly landscape that inspired *Avatar*, the Zhangjiajie Glass Bridge is a masterpiece of modern structural audacity. Its transparent deck, made of massive panes of tempered glass, offers a pristine, unobstructed look straight down into the dizzying canyon abyss.
 
@@ -211,9 +199,7 @@ Walking across feels less like traversing a bridge and more like levitating abov
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Trift Bridge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Trift Bridge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A narrow wooden rope bridge suspended over a vibrant turquoise glacial lake in the Swiss Alps, dramatic glaciers and peaks, overcast cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Modeled after traditional Nepalese three-rope suspension bridges, the Trift Bridge hangs precariously over a turquoise glacial lake in the heart of the Swiss Bernese Alps. Originally built to allow hikers to reach a remote mountain hut after the glacier receded, it has since evolved into one of Europe's most thrilling pedestrian crossings.
 
@@ -242,9 +228,7 @@ With no solid ground beneath you save for a narrow slatted wooden walkway and wa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hussaini Hanging Bridge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Hussaini Hanging Bridge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dangerously rickety wooden plank bridge with wide gaps, suspended over a turbulent grey glacial river in the Karakoram mountains, moody documentary photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Widely regarded as one of the most perilous functional bridges on Earth, the Hussaini Hanging Bridge is a makeshift gauntlet of rotting wooden planks and wide gaps suspended over the ferocious, glacier-fed Hunza River. There are no safety nets, and missing planks leave terrifying voids where rushing grey water churns violently below.
 
@@ -273,9 +257,7 @@ Local villagers cross this rickety span daily out of necessity, battling fierce 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Royal-Canyon Bridge (Huajiang Grand Canyon Bridge)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Royal-Canyon Bridge (Huajiang Grand Canyon Bridge)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive ultra-modern suspension bridge spanning a gigantic, foggy mountain canyon in China, towering pylons, epic cinematic scale, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising like a titan from the mist-shrouded limestone karst mountains of southwestern China, this engineering colossus shatters records as one of the highest bridges ever constructed. Towering over 600 meters above the raging Beipan River gorge, it redefines the scale of human ambition.
 
@@ -304,9 +286,7 @@ Driving or walking across this colossal suspension bridge places you higher than
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Ponte Tibetano Cesana (Claviere Bridge)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Ponte Tibetano Cesana (Claviere Bridge)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A daring adventurer in a climbing harness crossing a wire-rope Tibetan bridge over a deep alpine gorge, dramatic lighting, adrenaline-fueled action shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of danger and psychological intensity sits the Ponte Tibetano in Claviere, recognized as the longest Tibetan-style suspension bridge in the world. Rather than a solid walking deck, this dizzying pathway is constructed of three parallel wire ropes—one for your feet and two for your hands—forcing you into a via ferrata harness system for the entire journey.
 

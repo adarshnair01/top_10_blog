@@ -25,9 +25,7 @@ For decades, this orbital energy bonanza lived strictly within the pages of Isaa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The SPS-ALPHA (Solar Power Satellite via Arbitrarily Large PHased Array)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The SPS-ALPHA (Solar Power Satellite via Arbitrarily Large PHased Array)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic sci-fi photo of a modular mosaic solar array floating in geostationary orbit, earth visible in the distant background, dramatic sun flare hitting ultra-thin reflective panels.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Picture a massive, floating mandala of microscopic mirrors, drifting in the silent abyss 22,000 miles above our heads. Conceived initially through NASA's Innovative Advanced Concepts program, the SPS-ALPHA design throws out the rulebook of rigid, heavy aerospace construction. Instead of launching one fragile, monolithic structure, this station relies on a swarm of thousands of featherlight, independent modular reflectors that self-assemble or coordinate via wireless laser links.
 
@@ -56,9 +54,7 @@ As sunlight strikes these pivoting mirrors, they concentrate and channel photons
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The CASI (Chinese Academy of Space Technology) Omega Station</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The CASI (Chinese Academy of Space Technology) Omega Station" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Photorealistic rendering of a massive dumbbell-shaped space solar station in orbit, emitting a subtle, harmless microwave beam downward toward a misty Earth landscape.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High above the sprawling manufacturing hubs of East Asia, a quiet revolution in orbital engineering is taking shape. The Chinese Academy of Space Technology has advanced rapidly through computer simulations and atmospheric balloon tests, laying the groundwork for the Omega Station—a massive, dumbbell-shaped configuration designed to capture solar rays and convert them into microwave beams with staggering efficiency.
 
@@ -87,9 +83,7 @@ The engineering hurdles of the Omega design read like a masterclass in audacity.
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The CALSO (Caltech Space Solar Power Project) Trilayer Tile</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The CALSO (Caltech Space Solar Power Project) Trilayer Tile" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up macro photography style image of ultrathin, flexible golden photovoltaic tiles unfurling against the blackness of space, glowing with captured sunlight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, the greatest enemy of space solar power was weight. Traditional silicon solar panels are heavy, brittle, and ruinously expensive to blast out of Earth's gravity well. Enter Caltech's revolutionary Trilayer Tile architecture, a triumph of nanotechnology and materials science. Each tile integrates a lightweight photovoltaic layer, an integrated power conversion circuit, and a flexible microwave antenna all into a single, paper-thin sheet.
 
@@ -118,9 +112,7 @@ Imagine rolling up acres of solar panels like a cheap carpet, stuffing them into
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sun Tower (JAXA's Tethered Space Solar Array)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The Sun Tower (JAXA's Tethered Space Solar Array)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle shot of a towering, multi-kilometer vertical solar tower in space, sunlight blazing off its upper tier while its lower half points at a swirling blue Earth.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Engineering in zero gravity often demands that we throw away our terrestrial intuitions. In the vacuum of space, you don't need a heavy foundation to build a skyscraper; you can build a vertical titan that stretches endlessly toward the heavens. Japan Aerospace Exploration Agency (JAXA) conceptualized the Sun Tower, a radical architectural marvel that uses the Earth's natural gravitational gradient to maintain a stable, vertical posture without wasting precious fuel on thruster adjustments.
 
@@ -149,9 +141,7 @@ The Sun Tower acts as a vertical spine. The top of the tower is an unblinking ey
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The European Space Agency's 'SOLARIS' Initiative</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The European Space Agency's 'SOLARIS' Initiative" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek, futuristic European space station with crystalline solar wings floating serenely above the curvature of Europe at dusk, city lights twinkling below.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Across the historic capitals of Europe, a renewed urgency has transformed energy policy, giving birth to the ESA's ambitious SOLARIS initiative. Rather than focusing on a single experimental satellite, SOLARIS is a comprehensive roadmap designed to prove the commercial and technical feasibility of deploying a fleet of multi-megawatt orbital power stations that can feed clean baseload energy directly into the European interconnected grid.
 
@@ -180,9 +170,7 @@ The design philosophy behind SOLARIS emphasizes environmental harmony and public
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The SPS-IC (Inflatable Concentrator Solar Satellite)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The SPS-IC (Inflatable Concentrator Solar Satellite)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ethereal, glowing inflatable transparent sphere floating in space, capturing and focusing beams of blinding sunlight onto a central energy core.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Heavy metal trusses and robotic assembly arms are expensive. What if you could build a solar power station using technology borrowed from party balloons and high-altitude weather probes? The SPS-IC design relies on ultra-thin, transparent polymer membranes that are packed tightly into standard rocket payloads and inflated once they reach the vacuum of space using trace gases or residual solar heating.
 
@@ -211,9 +199,7 @@ Once inflated, these giant transparent bubbles form pristine, parabolic concentr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Solar Disk (Dyson-Swarm Micro-Prototype)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The Solar Disk (Dyson-Swarm Micro-Prototype)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive, spinning metallic circular disk floating in deep space near a distant, brilliant sun, casting sharp geometric reflections across its metallic facade.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For true believers in cosmic engineering, no concept is more seductive than the Dyson Sphere—a hypothetical megastructure that completely encapsulates a star to harvest 100% of its output. While building a full Dyson sphere remains far beyond our current Kardashev scale, the Solar Disk design acts as a brilliant, micro-scale stepping stone toward that grand interstellar dream.
 
@@ -242,9 +228,7 @@ Operating near the Sun-Earth Lagrangian Point L1—where the gravitational pull 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The SPS-SSPS (Sandwich-Module Concentrator)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The SPS-SSPS (Sandwich-Module Concentrator)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A detailed, technical visualization of a sandwich-module solar panel, showing golden solar cells on top glowing and invisible energy passing through a glowing core to radio transmitters below.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In standard satellite designs, power collected on the sunny side of the craft must travel through miles of internal wiring and heavy copper bus bars to reach the transmission antennae on the dark side, incurring severe energy losses and adding dead weight. The SPS-SSPS Sandwich Module design solves this brilliantly by physically merging the two functions into a single, elegant layer.
 
@@ -273,9 +257,7 @@ Picture a vast plate where photovoltaic cells blanket the sun-facing upper surfa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Solar Blade (Laser-Beaming Constellation)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Solar Blade (Laser-Beaming Constellation)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek, dagger-like satellite gliders in low Earth orbit shooting thin, glowing emerald-green laser beams down toward a remote mountain research station at night.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Microwaves require vast, football-field-sized receiver rectennas on Earth, making urban deployment difficult. What if a space solar station could bypass bulky radio waves entirely and beam its energy down using focused, invisible laser beams? The Solar Blade design trades radio frequencies for high-efficiency infrared laser light, capable of piercing through atmospheric windows and targeting compact, highly localized receiver stations.
 
@@ -304,9 +286,7 @@ Imagine a flock of sleek, dagger-shaped satellites slicing silently through low 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Space-Based Power Grid (NSS-SOLAR Mega-Constellation)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Space-Based Power Grid (NSS-SOLAR Mega-Constellation)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An epic, breathtaking cinematic masterpiece of a global network of golden solar satellites blanketing Earth in a web of subtle, interconnected energy beams from space down to glowing cities.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute pinnacle of current space engineering stands the ultimate vision: not just a single satellite, but an integrated, multi-tiered global energy internet. The NSS-SOLAR Mega-Constellation design integrates hundreds of orbital nodes spanning from low-altitude relay swarms up to sprawling geostationary mother stations, creating an unbroken, planetary-scale power distribution highway.
 

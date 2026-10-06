@@ -25,9 +25,7 @@ Walking with an eerily organic gait, these autonomous humanoid machines possess 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fourier Intelligence GR-1</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Fourier Intelligence GR-1" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a sleek bipedal humanoid robot, Fourier GR-1, walking down a modern electronics assembly line in Shanghai, dramatic lighting, reflections on polished concrete floors, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the neon-lit corridors of Shanghai's tech hubs, the GR-1 was born with a specific destiny: to bridge the gap between delicate eldercare and heavy industrial logistics. Its frame, engineered with custom lightweight actuators, moves with a fluid, human-like cadence that instantly unnerves first-time observers. As it strides across slick factory tiles, its torso twists dynamically to absorb momentum, mimicking the natural biomechanics of a human runner.
 
@@ -56,9 +54,7 @@ Inside the pilot manufacturing suites, the GR-1 is being stress-tested for repet
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">UBTECH Walker S</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="UBTECH Walker S" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of UBTECH Walker S robot hands inspecting an automotive car door hinge inside a high-tech EV manufacturing plant, sparks flying in background, shallow depth of field, moody industrial lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The massive automotive stamping plants of China demand relentless endurance, an environment where the UBTECH Walker S has found its proving ground. Standing tall amidst roaring presses and sparking welding torches, this advanced humanoid looks remarkably athletic, clad in clean white panels with dark sensor visors. It doesn't just stand in a corner; it actively patrols the perimeter, scanning assembly quality with microscopic precision.
 
@@ -87,9 +83,7 @@ What sets the Walker S apart is its deep integration with factory neural network
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sanctuary AI Phoenix</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Sanctuary AI Phoenix" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric medium shot of Sanctuary AI Phoenix robot sorting items on a workbench in a high-tech Canadian laboratory, soft volumetric lighting, dramatic shadows, highly detailed industrial design.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the crisp morning air of British Columbia, Sanctuary AI is teaching machines how to think with their hands. The Phoenix humanoid is not defined merely by its walking capability, but by its astonishingly human-like hands, which boast 20 degrees of freedom per arm. These hands can peel ripe fruit, thread tiny wires through cramped circuit boards, and heft heavy crates with equal, effortless grace.
 
@@ -118,9 +112,7 @@ Inside industrial testing labs, Phoenix learns through teleoperation and reinfor
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Agility Robotics Digit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Agility Robotics Digit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic action shot of Agility Robotics Digit moving a plastic tote box inside a bustling, dimly lit distribution warehouse, motion blur in background, sharp focus on the robot's unique avian legs, dramatic teal and orange grading.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Digit looks unlike anything else on the factory floor. With its reverse-articulated legs—reminiscent of a ground-dwelling bird—and a torso equipped with a single, rotating perception pod, it moves with a bizarre, mesmerizing efficiency. Developed in Oregon and tested intensely within massive logistics hubs, Digit was purpose-built to handle the most backbreaking chore in warehousing: moving tote boxes from waist height down to floor level and back up again.
 
@@ -149,9 +141,7 @@ Watching Digit work is like watching a tireless athlete that never needs to catc
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tesla Optimus (Gen 2)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Tesla Optimus (Gen 2)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide cinematic shot of Tesla Optimus Gen 2 walking across a pristine factory floor with gleaming epoxy floors, futuristic automotive manufacturing background, dramatic rim lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Inside the hyper-accelerated ecosystem of Tesla's Gigafactories, the second-generation Optimus robot glides past rows of vehicle chassis with calm precision. Encased in a polished, aerodynamic shell of black and white composite panels, Gen 2 represents a quantum leap from its clumsy predecessor. Its newly designed hands feature tactile sensing on every finger, allowing it to delicately lift a fragile raw egg from its carton, crack it into a pan, and set the shell aside without a fracture.
 
@@ -180,9 +170,7 @@ When deployed to the production lines, Optimus performs mundane battery cell sor
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Figure AI Figure 01</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Figure AI Figure 01" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Medium close-up of Figure 01 robot interacting with a human technician in a Silicon Valley workshop, expressive posture, soft warm lighting, intricate mechanical joints visible on arms and chest.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the sun-baked tech incubator of Sunnyvale, Figure 01 stands ready to converse, reason, and act. Powered by a landmark partnership with OpenAI, Figure 01 possesses the rare ability to hear a human voice, comprehend complex intent, and execute physical tasks while explaining its thought process out loud. When asked for something to eat, it identifies an apple on a nearby table, reaches out, grasps it with calibrated pressure, and hands it directly to the user.
 
@@ -211,9 +199,7 @@ On the factory floor, this conversational intelligence changes everything. Super
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Xiaomi CyberOne</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Xiaomi CyberOne" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of Xiaomi CyberOne standing guard in a high-tech manufacturing facility, glowing chest display panel, cool blue ambient lighting, reflections on metal surfaces, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">CyberOne is a master of sensory integration. Developed by consumer electronics titan Xiaomi, this sleek, dark-visored bipedal machine was designed to perceive the emotional and physical state of its surroundings. Equipped with a custom Mi-Sense depth vision module and a binaural sound recognition system, CyberOne can distinguish 85 distinct types of environmental sounds and identify human emotions from vocal cadence.
 
@@ -242,9 +228,7 @@ In specialized industrial application testing, CyberOne is deployed to monitor c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Agility Robotics 'Digit' (Industrial Fleet Deployment)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Agility Robotics 'Digit' (Industrial Fleet Deployment)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide cinematic shot of multiple Agility Digit robots working in unison inside a massive automated shipping warehouse in Michigan, vast racks of inventory, dramatic industrial lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Moving beyond single-unit prototypes, the multi-robot fleet deployment of Digit at Amazon and major shipping hubs represents the crossing of the Rubicon for industrial humanoids. Here, fleets of identical bipedal machines operate in synchronized swarms, communicating via secure local mesh networks to clear trailers and move bins without human intervention.
 
@@ -273,9 +257,7 @@ Walking through these mega-warehouses reveals an eerie, hypnotic choreography. T
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Boston Dynamics Atlas (Electric Edition)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Boston Dynamics Atlas (Electric Edition)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic cinematic close-up of the new electric Boston Dynamics Atlas robot in a high-tech testing laboratory in Waltham, sleek minimalist design, glowing blue optical sensors, moody shadows, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, the hydraulic version of Boston Dynamics' Atlas astonished the world with its acrobatic backflips and parkour mastery. But when the company retired the hydraulics in favor of an all-new, fully electric Atlas, it signaled a profound shift: the acrobat was entering the workplace. The new electric Atlas looks impossibly sleek, with a circular dome head reminiscent of a classic sci-fi sentinel and limbs capable of twisting and rotating through angles that defy human anatomy.
 
@@ -304,9 +286,7 @@ Designed specifically for heavy industrial applications, the electric Atlas can 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Apptronik Apollo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Apptronik Apollo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle photograph of Apptronik Apollo robot working alongside human engineers on a Mercedes-Benz assembly line in Austin, Texas, bright industrial lighting, hyper-detailed textures, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute pinnacle of our countdown stands Apptronik's Apollo—the undisputed king of commercial factory-floor integration. Born out of decades of NASA-funded bipedal research, Apollo was engineered from day one to be the safest, most robust, and most easily integrated humanoid robot on earth. Clad in industrial yellow and silver, Apollo features friendly, approachable proportions designed to put human coworkers instantly at ease.
 

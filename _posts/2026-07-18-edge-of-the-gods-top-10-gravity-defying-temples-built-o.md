@@ -25,9 +25,7 @@ From mist-shrouded Himalayan ledges to blood-red Chinese sandstone cliffs, these
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Meteora Monasteries: St. Nicholas Anapausas</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Meteora Monasteries: St. Nicholas Anapausas" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle drone shot of the St. Nicholas Anapausas monastery perched on a slender stone pillar in Meteora, Greece, morning mist, dramatic golden hour lighting, hyper-realistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising abruptly from the flat plains of Thessaly, the monolithic pillars of Meteora look like stone fingers reaching out of a prehistoric ocean to touch the heavens. Perched precariously on the narrowest of these vertical columns sits the Monastery of St. Nicholas Anapausas, a masterclass in medieval vertical optimization. To approach it is to surrender to vertigo, winding up stone stairs carved directly into the living rock.
 
@@ -56,9 +54,7 @@ Inside, the frescoes painted by the famed Cretan artist Theophanes glow with an 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Popa Taungkalat Shrine</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Popa Taungkalat Shrine" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning daylight photograph of the Popa Taungkalat golden monastery perched on a sheer volcanic plug in Myanmar, lush jungle base, bright blue sky, crisp details.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising violently from the flat arid plains of central Myanmar, Mount Popa's Taungkalat volcanic plug is a jagged spire of dark rock that pierces the tropical sky. Atop this sheer, jagged summit sits a golden-domed Buddhist monastery complex that glitters blindingly under the Southeast Asian sun. To reach the sacred shrines, pilgrims must ascend 777 barefoot steps carved directly into the vertical cliff face, dodging mischievous resident macaques every step of the way.
 
@@ -87,9 +83,7 @@ According to ancient legends, this dramatic plug was born from a cataclysmic ear
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sumela Monastery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Sumela Monastery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic establishing shot of Sumela Monastery embedded in a massive vertical cliff face in Turkey, lush green valley below, misty atmosphere, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked seamlessly into the sheer, dark limestone cliffs of the Pontic Mountains, the Sumela Monastery resembles an eagle's nest carved directly out of the mountain's weeping face. Founded in the 4th century by two Athenian monks who allegedly followed a miraculous vision of the Virgin Mary, this Greek Orthodox complex clings desperately to a vertical wall 1,200 meters above sea level. Its balconies overlook a plunging, mist-choked river valley filled with the roar of hidden waterfalls.
 
@@ -118,9 +112,7 @@ For centuries, reaching this isolated bastion required ascending a perilous flig
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kiyomizu-dera</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Kiyomizu-dera" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vibrant autumn photograph of Kiyomizu-dera in Kyoto, Japan, massive wooden stage extending over a valley of fiery red maple trees, golden hour light, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched dramatically on the slopes of Mount Otowa in eastern Kyoto, Kiyomizu-dera commands the horizon with its iconic, colossal wooden stage. Built entirely without the use of a single nail, this architectural marvel relies on an intricate, interlocking web of giant zelkova pillars and beams that cradle the temple over a steep ravine. Standing on the veranda feels like floating among the cherry blossoms in spring or the blazing maples in autumn.
 
@@ -149,9 +141,7 @@ Below the platform, the sacred Otowa Waterfall splits into three distinct stream
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Suryatal Sanctuary / Phugtal Monastery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Suryatal Sanctuary / Phugtal Monastery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic drone photograph of Phugtal Monastery clinging to a massive cliff cave in the rugged Zanskar Himalayas, snow-dusted peaks, dramatic shadows, hyper-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the remote, frozen folds of the Zanskar Himalayas lies Phugtal Monastery, a sanctuary so isolated it can only be reached by foot across a treacherous mountain gorge. Built deep into the mouth of a sheer, honeycombed cliffside cave, the monastery's whitewashed mud-brick and timber structures look like giant swallow nests plastered onto a giant vertical honeycomb of conglomerate rock. Below it, a glacial stream roars through a deep, freezing canyon.
 
@@ -180,9 +170,7 @@ Founded in the early 12th century, Phugtal has served as a sanctuary for meditat
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Rocamadour Sanctuary</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Rocamadour Sanctuary" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Twilight long-exposure photograph of Rocamadour village and sanctuary stacked vertically on a sheer French limestone cliff, illuminated amber lights, starry sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging impossibly to a sheer limestone cliff rising 150 meters above the Alzou canyon, Rocamadour is a vertical village of faith that has stopped travelers in their tracks for nearly a millennium. Houses, chapels, and sanctuaries stack on top of one another like geological strata, culminating in the miraculous Black Madonna statue housed within the Chapelle Notre-Dame. Medieval pilgrims climbed the Grand Staircase on their knees, seeking healing at this sacred cliffside nexus.
 
@@ -211,9 +199,7 @@ According to legend, the body of Saint Amator was discovered incorrupt in a clef
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">San Babilo / San Colombano Hermitage</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="San Babilo / San Colombano Hermitage" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of the Hermitage of San Colombano tucked halfway up a massive vertical Italian cliff face, rushing river below, lush green canyon, misty daylight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Suspended halfway up a sheer, water-sculpted 120-meter limestone precipice, the Hermitage of San Colombano is a hauntingly beautiful medieval sanctuary. A covered stone staircase of 102 steps, carved directly into the vertical cliff face, leads brave visitors up to the arched entrance. Below the stone overhang, the turbulent Leno torrent cuts a deep, echoing canyon through the Italian Alps.
 
@@ -242,9 +228,7 @@ Local legend holds that Saint Colombano slew a dragon whose terror plagued the v
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Takin' Lakha / Taktsang Palphug (Tiger's Nest)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Takin' Lakha / Taktsang Palphug (Tiger's Nest)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking wide-angle photograph of the Tiger's Nest monastery perched on a sheer vertical cliff in Bhutan, fluttering prayer flags, pine forest, bright cinematic daylight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging to a sheer granite cliff 900 meters above the emerald-green floor of the Paro Valley, Taktsang Palphug—better known as the Tiger's Nest—is perhaps the most iconic cliffside monastery on Earth. Legend dictates that Guru Rinpoche flew to this dizzying precipice on the back of a flaming tigress in the 8th century to subdue local demons, meditating in a cave for three months. The resulting monastic complex defies logic, with golden roofs gleaming against dark stone and fluttering prayer flags snapping in the Himalayan wind.
 
@@ -273,9 +257,7 @@ The journey to the monastery is a grueling, soul-cleansing trek through pine for
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cueva de los Tayos / Santuario de Las Lajas</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Cueva de los Tayos / Santuario de Las Lajas" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic twilight shot of Las Lajas Sanctuary in Colombia, neo-Gothic cathedral bridging a deep river canyon, dramatic floodlights, lush jungle foliage, hyper-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising majestically from the bottom of a deep, emerald-green Andean river canyon, the Las Lajas Sanctuary looks like a Gothic cathedral teleported straight out of medieval Europe and dropped into a South American jungle. Built entirely across a roaring mountain gorge, the church spans the Guáitara River on a massive stone bridge that connects two vertical cliffs 100 meters above the rushing water.
 
@@ -304,9 +286,7 @@ According to 18th-century folklore, a deaf-mute indigenous girl named Rosa and h
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Xuankong Si (Hanging Temple of Mount Heng)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Xuankong Si (Hanging Temple of Mount Heng)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning architectural photograph of the Hanging Temple of Mount Heng in Shanxi, China, wooden pavilions built directly into a massive vertical cliff face, misty gorge, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging impossibly to a sheer, vertical canyon wall 75 meters above the ground, the Hanging Temple of Mount Heng is a 1,500-year-old architectural miracle that defies the laws of physics. Built entirely into a natural rock overhang, this wooden labyrinth of halls and pavilions appears to float mid-air without visible support. The secret lies in a series of custom-carved horizontal oak beams driven deep into holes chiseled directly into the solid cliff face.
 

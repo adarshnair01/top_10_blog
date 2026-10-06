@@ -25,9 +25,7 @@ Today, a quiet revolution in micro-engineering is shattering those ancient limit
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Solar-Still Nomad Sheet</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="The Solar-Still Nomad Sheet" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro shot of a transparent solar still sheet stretched over desert sand, glistening water droplets sliding down into a central collection cup, warm golden hour sunlight, hyper-detailed texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine being marooned on a sun-scorched barrier island, the relentless glare bouncing off white sands while your canteen echoes hollowly against your pack. In moments of pure desperation, you unroll the Solar-Still Nomad Sheet—a featherlight polygon of advanced polymer science. You dig a shallow basin in the damp sand, fill the edges with briny ocean water, drape the transparent canopy overhead, and weight the center with a clean collection stone.
 
@@ -56,9 +54,7 @@ As the savage midday sun beats down, a silent, miraculous alchemy begins. Solar 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hydro-Vortex Hand-Crank Press</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Hydro-Vortex Hand-Crank Press" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up action shot of a rugged explorer's hands operating a sleek titanium hand-crank water desalinator on a rocky ocean shoreline, splashing surf in the background, dramatic cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The storm hit fast, tearing your catamaran apart and washing you ashore on a jagged, remote volcanic reef. With no fresh streams in sight and your solar still moving too slowly for your spiking body temperature, survival depends on mechanical muscle. You reach for the Hydro-Vortex Hand-Crank Press, an anodized aluminum cylinder designed to withstand the harshest marine environments imaginable.
 
@@ -87,9 +83,7 @@ You drop the weighted intake hose directly into the churning surf, lock your boo
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">SeaSip Gravity Bag Filter</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="SeaSip Gravity Bag Filter" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A rugged tactical water reservoir hanging from a gnarled tree branch in a coastal mangrove swamp, water dripping slowly into a titanium canteen, moody overcast atmosphere, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">You do not always have the energy to pump or the patience to wait for sluggish solar evaporation when exploring salt flats or brackish coastal marshes. That is where the SeaSip Gravity Bag Filter enters your kit like a silent guardian. You scoop three liters of murky, salty estuary water into the heavy-duty TPU reservoir, hang it securely from a twisted mangrove branch, and walk away to set up camp.
 
@@ -118,9 +112,7 @@ Utilizing an ingenious forward-osmosis draw solution paired with a microscopic b
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aero-Pulse Electro-Desal Pod</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Aero-Pulse Electro-Desal Pod" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic electronic water purifier glowing with a soft blue LED light while partially submerged in a clear tidal pool, sharp focus, cinematic cyberpunk wilderness aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Step into the future of wilderness hydration with the Aero-Pulse Electro-Desal Pod, a device that looks as though it was pulled straight from an interstellar spacecraft. Dropping the pocket-sized cylinder into a tidal pool, you press the tactile titanium power button. A soft, futuristic indigo LED pulses to life as an internal micro-array begins generating precise electrical fields.
 
@@ -149,9 +141,7 @@ Instead of forcing water through physical filters that inevitably clog, capaciti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bio-Membrane Root Straw</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Bio-Membrane Root Straw" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of an ultra-lightweight filtration straw touching a shimmering salt flat puddle, crystalline water droplets, shallow depth of field, dramatic desert lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When traversing desolate salt pans where every ounce in your pack feels like a lead anchor, conventional filtration gear is simply too heavy. You pull the Bio-Membrane Root Straw from your pocket—a featherlight, biomimetic tube modeled after the cellular transport systems of salt-tolerant halophyte mangroves. Bending down on hands and knees beside a hypersaline puddle, you submerge the tip and draw your first breath.
 
@@ -180,9 +170,7 @@ An intricate maze of biomimetic aquaporin protein channels embedded within the m
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Thermo-Steam Alpine Condenser</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Thermo-Steam Alpine Condenser" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A rugged metallic distillation canister hissing softly on a camp stove amidst snow-capped peaks at sunrise, curling steam, dramatic cinematic atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High altitude introduces a treacherous paradox: freezing temperatures lock up your water sources as ice, while glacial runoff is often silt-laden and brackish from ancient mineral deposits. When standard filters fail in sub-zero alpine conditions, the Thermo-Steam Alpine Condenser becomes your ultimate lifeline. You mount the compact boiler unit directly onto your camp stove, fill the lower crucible with snow mixed with salty coastal ice, and ignite the burner.
 
@@ -211,9 +199,7 @@ Within minutes, steam begins to rise into the upper distillation chamber, leavin
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Eco-Osmosis Foot-Pump Station</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Eco-Osmosis Foot-Pump Station" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An expedition member operating a rugged foot-pump water maker on a tropical beach, palm trees swaying in the background, golden hour lighting, cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When a small expedition team is stranded together on a remote atoll, water rationing turns friends into rivals. To keep morale high and hydration quotas met without exhaustion, the Eco-Osmosis Foot-Pump Station provides industrial-grade output in a remarkably compact package. You anchor the heavy-duty foot pedal to the coral sand, attach the intake hose to the rolling surf, and begin stepping rhythmically while tending to camp chores.
 
@@ -242,9 +228,7 @@ Utilizing a dual-chamber hydraulic pump driven by leg muscles—which are far st
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pocket-Gills Hollow-Fiber Diver Rig</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Pocket-Gills Hollow-Fiber Diver Rig" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: First-person underwater view of a diver wearing a high-tech forearm water purification rig in crystal clear blue ocean water, sun rays piercing the surface, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">You are free-diving along a rugged, cliff-lined coast when your shore party's freshwater stash is swept away by a rogue wave. Instead of cutting your expedition short, you dive back into the shallows wearing the Pocket-Gills Hollow-Fiber Diver Rig strapped securely to your forearm. As you swim through the saline shallows, ambient water pressure forces seawater across millions of microscopic hollow-fiber capillary tubes.
 
@@ -273,9 +257,7 @@ Salt and impurities are continuously shunted away through exhaust micro-pores wh
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Solar-Sail Kinetic Desalination Drone</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Solar-Sail Kinetic Desalination Drone" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic solar-sail water purification drone anchored in crashing ocean waves on a dramatic rocky coast, sunset lighting, high-end product photography style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Picture setting up camp on an unforgiving desert coastline where the ocean stretches infinitely to the horizon and not a soul is in sight. You launch the Solar-Sail Kinetic Desalination Drone—a folding, gull-winged autonomous buoy that you tether securely to the surf line. As ocean waves roll in and trade winds howl against its aerodynamic chassis, the device deploys its thin-film solar sails and kinetic wave-action turbines.
 
@@ -304,9 +286,7 @@ While you rest in the shade of your tent, the drone works tirelessly. Wave motio
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Apex-Survivor Quantum RO Pack</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="The Apex-Survivor Quantum RO Pack" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An elite military-grade tactical water desalinator resting on a rugged cliff overlooking a vast stormy ocean, dramatic epic cinematic lighting, highly detailed tactical gear.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute pinnacle of wilderness water technology sits the Apex-Survivor Quantum RO Pack—a masterpiece of aerospace engineering originally commissioned for elite special reconnaissance units operating behind enemy lines in arid coastal theaters. Encased in a crushproof, olive-drab composite housing, this device represents the absolute gold standard of survival gear.
 

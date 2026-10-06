@@ -25,9 +25,7 @@ From the wind-swept plains of Europe to the dizzying heights of the Andes, we've
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Enigmatic Carnac Stones: A Neolithic Symphony of Stone</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Enigmatic Carnac Stones: A Neolithic Symphony of Stone" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot, drone perspective, thousands of ancient megalithic standing stones in perfectly aligned rows stretching into a misty horizon at sunrise, atmospheric and mysterious, Brittany, France.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the mist rolls in from the Atlantic, shrouding the ancient fields of Carnac, thousands of towering stone sentinels emerge from the swirling fog. These aren't scattered rocks; they are meticulously aligned rows stretching for miles, a silent, petrified army standing guard over secrets lost to the ages. Who were the people who dedicated lifetimes to erect this colossal, open-air temple? What celestial knowledge did they possess to align these stones with such precision, or was it a ceremonial path, a sacred calendar written in the very landscape?
 
@@ -56,9 +54,7 @@ The air here hums with an almost palpable energy, a sensation that transcends me
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Moai of Easter Island: Silent Guardians of a Vanished World</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Moai of Easter Island: Silent Guardians of a Vanished World" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic sunset over Easter Island, casting long shadows from several colossal Moai statues, their faces stoic and mysterious, volcanic landscape, cinematic and ancient feel.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched on the desolate, windswept volcanic plains of Rapa Nui, the Moai stand like a stoic legion, their hollow eyes gazing out across the vast Pacific. Each colossal head, carved from volcanic tuff, carries an expression of profound mystery, a silent testament to the ingenuity and eventual collapse of the Rapa Nui civilization. How did a culture with no metal tools, no beasts of burden, and eventually, no trees, manage to quarry, transport, and erect nearly a thousand of these giants, some miles from their quarry?
 
@@ -87,9 +83,7 @@ The island itself is a living museum, scarred by the efforts of its ancient inha
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Enigma of Göbekli Tepe: Humanity's First Temple</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Enigma of Göbekli Tepe: Humanity's First Temple" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric view inside one of the circular enclosures of Göbekli Tepe, dramatic lighting highlighting the T-shaped megalithic pillars with intricate animal carvings, ancient, mysterious, and sacred atmosphere, Turkey.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Buried beneath a grassy mound in southeastern Turkey lies Göbekli Tepe, a site that has rewritten the timeline of human civilization. Long before pottery, before agriculture, before even the concept of settled villages, hunter-gatherers constructed an elaborate complex of circular enclosures, adorned with towering T-shaped pillars carved with intricate animal reliefs. This isn't just old; it's the oldest known monumental architecture on Earth, pushing back the origins of complex societies by thousands of years.
 
@@ -118,9 +112,7 @@ To stand among these ancient stones is to feel the weight of deep time, a profou
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Precise Puzzles of Sacsayhuaman: An Incan Citadel's Impossible Walls</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Precise Puzzles of Sacsayhuaman: An Incan Citadel's Impossible Walls" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic low-angle view of the massive polygonal walls of Sacsayhuaman, highlighting the impossibly tight fit of the huge stones, ancient Inca architecture, sun-drenched, Cusco, Peru.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High above the ancient Incan capital of Cusco, the fortress of Sacsayhuaman sprawls across the hillside, its zigzagging walls a testament to an architectural genius that defies explanation. Here, stones of colossal size, some reaching the height of a small house, are cut with such meticulous precision that not even a blade of grass can pass between their joints. This isn't crude masonry; it's a monumental jigsaw puzzle, each multi-faceted block fitting perfectly into its neighbors, forming earthquake-resistant walls that have endured for centuries.
 
@@ -149,9 +141,7 @@ Imagine the sheer force, the mathematical understanding, and the intricate plann
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Submerged Secrets of Yonaguni Monument: Japan's Atlantis?</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Submerged Secrets of Yonaguni Monument: Japan's Atlantis?" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater photography, diver exploring the massive, geometrically precise stone terraces and steps of the Yonaguni Monument, schools of fish, clear blue water, sun rays penetrating from above, mysterious and ancient feel, Japan.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the swirling currents off the coast of Japan lies a submerged enigma: the Yonaguni Monument. Discovered by a dive tour operator, this colossal sandstone formation features perfectly straight edges, right angles, terraces, and even what appear to be carved steps and a pyramid-like structure. Is it a natural geological phenomenon, sculpted by millennia of ocean currents, or the breathtaking ruins of a lost civilization, drowned by rising sea levels at the end of the last Ice Age?
 
@@ -180,9 +170,7 @@ The debate rages, but to swim through its silent, coral-encrusted corridors is t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Impossibly Carved Stones of Ollantaytambo: An Andean Quarry's Riddle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Impossibly Carved Stones of Ollantaytambo: An Andean Quarry's Riddle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Panoramic view of the ancient Inca fortress of Ollantaytambo at sunrise, highlighting the massive, perfectly fitted red porphyry blocks on the terraces, dramatic mountain backdrop, Sacred Valley, Peru.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Nestled high in the Sacred Valley of Peru, the Incan stronghold of Ollantaytambo presents a riddle etched in stone, one that begins not at the site itself, but miles away, across treacherous terrain and a rushing river. Here, enormous blocks of red porphyry, weighing tens of tons, lie scattered, some seemingly abandoned mid-journey, others forming the foundations of an unfinished temple complex. How did the Incas, without modern machinery, quarry these incredibly hard stones, transport them across such formidable obstacles, and then hoist them up steep terraces to their final positions?
 
@@ -211,9 +199,7 @@ Walk among the 'Temple of the Sun's' colossal megaliths, and you'll find not onl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Hypnotic Stone Circles of Stonehenge: A Megalithic Observatory</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Hypnotic Stone Circles of Stonehenge: A Megalithic Observatory" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic wide shot of Stonehenge at dawn on the Summer Solstice, sun perfectly aligned with the Heel Stone, dramatic golden light, misty fields, ancient and spiritual atmosphere, Wiltshire, England.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing on the windswept Salisbury Plain, the iconic silhouette of Stonehenge emerges against the vast English sky, a monument that has captivated humanity for millennia. This isn't merely a circle of rocks; it's a precisely engineered astronomical observatory, a temple, and a burial ground, all rolled into one colossal riddle. How did Neolithic people, without the wheel, manage to quarry sarsen stones weighing up to 30 tons, transport them 25 kilometers, and then painstakingly lift and cap them with lintels, some 7 meters (23 feet) in the air?
 
@@ -242,9 +228,7 @@ The greater mystery lies not just in the sarsens, but in the smaller bluestones,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Grand Illusion of the Giza Pyramids: Tombs of Titans</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Grand Illusion of the Giza Pyramids: Tombs of Titans" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Majestic wide shot of the Great Pyramid of Giza and the Sphinx at sunrise, golden light illuminating the ancient structures against a clear desert sky, cinematic and awe-inspiring, Egypt.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">From the shifting sands of the Sahara, the Giza Pyramids rise with an almost alien grandeur, piercing the sky as they have for over 4,500 years. These aren't just enormous tombs; they are mathematical marvels, astronomical compasses, and engineering wonders forged by a civilization often underestimated. How did the ancient Egyptians, with only copper tools and immense manpower, quarry, transport, and perfectly place over 2.3 million blocks, some weighing as much as an elephant, to create structures of such unparalleled scale and precision?
 
@@ -273,9 +257,7 @@ The Great Pyramid of Khufu alone contained enough stone to build a 3-meter-high,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Megalithic Foundation of Baalbek: The Stones of the Pregnant Woman</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Megalithic Foundation of Baalbek: The Stones of the Pregnant Woman" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic close-up, low-angle shot of the 'Trilithon' stones at the base of the Jupiter Temple in Baalbek, highlighting their immense size and precise fit, ancient Roman ruins in the background, golden hour, cinematic and mysterious, Lebanon.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the awe-inspiring Roman temples of Jupiter, Bacchus, and Venus at Baalbek lies a secret far older, far more massive, and infinitely more mysterious. Here, in the platform's foundation, rest three colossal blocks known as the Trilithon, each weighing an estimated 800 to 1,000 tons. Nearby, still partially embedded in the ancient quarry, lies the 'Stone of the Pregnant Woman,' a single, monolithic block weighing an astonishing 1,000 to 1,200 tons. These are among the largest cut stones on Earth, and their presence at Baalbek utterly defies conventional engineering.
 
@@ -304,9 +286,7 @@ How were these leviathan stones quarried with such precision? How were they tran
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Puma Punku: A Blueprint for the Impossible</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Puma Punku: A Blueprint for the Impossible" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up, low-angle shot of the intricately cut andesite H-blocks at Puma Punku, highlighting the razor-sharp angles, precise grooves, and perfect interlocking design, mysterious and ancient, high altitude, Bolivia, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At an altitude of nearly 13,000 feet in the Bolivian Andes, amidst the ruins of Tiwanaku, lies Puma Punku – a site so baffling, so utterly impossible, it seems less like an ancient ruin and more like a deconstructed blueprint for an advanced alien machine. Here, blocks of incredibly hard andesite and diorite, some weighing over 100 tons, are not merely stacked but carved with a precision that mimics modern machine tooling. We're talking perfectly flat surfaces, razor-sharp internal and external angles, uniform drill holes, and intricate interlocking H-blocks that defy all known ancient cutting methods.
 

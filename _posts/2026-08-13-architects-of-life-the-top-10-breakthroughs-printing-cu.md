@@ -25,9 +25,7 @@ This is not science fiction—it is the modern reality of custom DNA printing, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Silicon Cradle: Semiconductor-Based Oligonucleotide Synthesis</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Silicon Cradle: Semiconductor-Based Oligonucleotide Synthesis" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro cinematic shot of a glowing silicon microchip glowing with blue laser light, microscopic DNA strands hovering as digital overlays, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine shrinking a massive chemical factory down to the surface of a postage-stamp-sized silicon chip. For decades, DNA synthesis was bound by cumbersome glass columns and sluggish liquid handling systems that choked scientific ambition. Then came the silicon revolution, mirroring the exact trajectory that transformed computing from room-sized mainframes into pocket-sized smartphones.
 
@@ -56,9 +54,7 @@ On these microscopic silicon wafers, electrical currents direct microscopic drop
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Enzymatic DNA Synthesis: Nature's Copy Machine Unleashed</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Enzymatic DNA Synthesis: Nature's Copy Machine Unleashed" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of glowing blue enzyme molecules binding DNA bases in an aqueous crystal solution, dramatic side lighting, macro photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For half a century, chemical DNA synthesis relied on harsh organic solvents—phosphoramidite chemistry—that battered fragile molecules and limited the length of strands that could be reliably printed. Nature, however, had spent billions of years perfecting a far gentler, infinitely more efficient mechanism using specialized enzymes.
 
@@ -87,9 +83,7 @@ Scientists finally harnessed Terminal Deoxynucleotidyl Transferase (TdT), an enz
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cell-Free Protein Synthesis: Manufacturing Without Living Hosts</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Cell-Free Protein Synthesis: Manufacturing Without Living Hosts" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a gleaming industrial bioreactor glowing with bioluminescent blue light, synthetic proteins floating in suspension, futuristic lab setting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Traditional biotechnology relied on cellular slave labor—forcing E. coli or yeast cells to swallow foreign DNA and brew desired proteins inside their microscopic bellies. But cells are notoriously finicky, prone to dying, mutating, or refusing to express toxic proteins that disrupt their own internal machinery.
 
@@ -118,9 +112,7 @@ Enter cell-free protein synthesis: taking the raw, pulsing molecular machinery o
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The 1 Million Base Milestone: Synthetic Yeast Chromosomes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The 1 Million Base Milestone: Synthetic Yeast Chromosomes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Microscopic visualization of a glowing yeast cell illuminated with fluorescent tags showing synthetic chromosomes, highly detailed, scientific art style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In laboratories across three continents, an international coalition of geneticists embarked on a quest that borders on the Promethean: rewriting the entire genome of a eukaryote from scratch. Saccharomyces cerevisiae, common baker's yeast, shares fundamental cellular architecture with human cells, making it the perfect canvas for synthetic biology's grandest ambitions.
 
@@ -149,9 +141,7 @@ Researchers systematically deleted 'junk DNA,' introduced randomized recombinati
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Living Foundries: Automated Robotic DNA Assembly Lines</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Living Foundries: Automated Robotic DNA Assembly Lines" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide cinematic shot of an ultra-modern automated biofoundry with robotic arms moving test tubes under green and blue laser scanners, sci-fi aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Gone are the days of graduate students hunched over pipettes in dimly lit rooms, painstakingly mixing reagents by hand. Today's cutting-edge biofoundries resemble automotive assembly floors crossed with cleanrooms from NASA. Robotic arms glide effortlessly along overhead tracks, transferring multi-well plates between liquid handlers, thermocyclers, and mass spectrometers.
 
@@ -180,9 +170,7 @@ At the heart of these automated hubs is the Design-Build-Test-Learn (DBTL) cycle
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">De-Extinction Genomes: Stitching Together the Woolly Mammoth</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="De-Extinction Genomes: Stitching Together the Woolly Mammoth" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic epic shot of a woolly mammoth walking across a misty, snow-dusted tundra at sunrise, photorealistic CGI, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Buried beneath Siberian permafrost for millennia, frozen mammoth bones hold fragments of ancient history coded in fragile, degraded strands of DNA. For decades, these genetic whispers seemed destined to fade into oblivion. Then came modern high-throughput sequencing paired with custom DNA synthesis, breathing theoretical life back into the Pleistocene.
 
@@ -211,9 +199,7 @@ Scientists are not cloning mammoths from whole cells; rather, they are reading p
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Recoding Life: Artificial Amino Acids and Expanded Genetic Alphabets</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Recoding Life: Artificial Amino Acids and Expanded Genetic Alphabets" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro conceptual art of a double helix DNA strand featuring glowing unnatural base pairs glowing in neon violet and gold, dark moody background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For nearly four billion years, all known life on Earth has relied on a rigid four-letter genetic alphabet: Adenine, Thymine, Cytosine, and Guanine (A, T, C, G). These four letters combine into triplets that code for twenty standard amino acids, forming the entire tapestry of terrestrial biodiversity. But why should nature hold a monopoly on the alphabet of life?
 
@@ -242,9 +228,7 @@ Chemists and synthetic biologists synthesized completely unnatural base pairs—
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Minimal Genomes: Stripping Life Down to Its Absolute Essentials</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Minimal Genomes: Stripping Life Down to Its Absolute Essentials" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Minimalist microscopic render of a single synthetic bacterial cell glowing under confocal fluorescence microscopy, sleek scientific aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">What is the absolute minimum requirement for life? To answer this profound philosophical question, Dr. J. Craig Venter and his team set out to construct a living cell from the ground up, stripping away every single non-essential gene until only the bare, beating heart of biology remained.
 
@@ -273,9 +257,7 @@ Starting with the already tiny genome of Mycoplasma mycoides, researchers system
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">DNA Data Storage: Archiving Terabytes in Synthetic Double Helices</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="DNA Data Storage: Archiving Terabytes in Synthetic Double Helices" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic futuristic vault with glowing glass vials containing synthetic DNA glowing with binary code light trails, high-tech archival facility.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The digital universe is expanding at a breakneck pace, and humanity is rapidly running out of physical space to store its memories. Hard drives degrade after a decade, magnetic tapes rot, and massive server farms consume staggering amounts of electricity. Yet, nature solved the data storage crisis four billion years ago using a medium that outlasts empires: DNA.
 
@@ -304,9 +286,7 @@ Scientists can now take digital files—movies, songs, entire libraries—transl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Xenobiology and Synthetic Life: Organisms Built to Order</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Xenobiology and Synthetic Life: Organisms Built to Order" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking cinematic macro view of a chiral mirror-image DNA double helix reflecting glowing neon light in a high-tech cleanroom, surreal and awe-inspiring.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing at the absolute summit of synthetic biology is xenobiology—the creation of life forms fundamentally alien to Earth's evolutionary tree. While previous breakthroughs rewrote natural genomes, xenobiologists are building biological systems that use completely foreign biochemistry, such as mirror-image DNA (L-DNA) and mirror-image enzymes.
 

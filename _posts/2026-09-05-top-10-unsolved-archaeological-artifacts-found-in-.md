@@ -25,9 +25,7 @@ From remote Himalayan crags to the dripping limestone chambers of Western Europe
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Dicle Magnetite Compass Shards</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Dicle Magnetite Compass Shards" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro photography of jagged magnetic iron shards glowing faintly under blue UV light inside a wet limestone cave, dramatic shadows, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within a claustrophobic fissure in the Taurus Mountains, spelunkers stumbled upon a cache of heavily weathered, magnetic iron shards that defied local geology. When pieced together, they formed a rudimentary, highly sophisticated directional plate that pointed consistently toward true magnetic north with an error margin of less than one degree. The metallurgical composition revealed a deliberate, high-temperature quenching process that should not have existed in the region during the estimated era of deposition.
 
@@ -56,9 +54,7 @@ Local folklore speaks of 'stone-seers' who could navigate the pitch-black tunnel
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Luminescent Stalactite Glyphs</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Luminescent Stalactite Glyphs" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Eerie green glowing geometric glyphs carved into wet cave walls, deep subterranean cavern, hyper-detailed textures, moody atmospheric lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine crawling through a suffocating, dust-choked tunnel only to break into a cathedral-sized cavern where the walls pulse with a pale, ghostly green bioluminescence. Upon closer inspection, the light is not organic, but emanates from microscopic crystalline glyphs etched intricately into the living rock. These symbols do not match any known Iberian script, Phoenician trade marker, or Upper Paleolithic cave painting.
 
@@ -87,9 +83,7 @@ When exposed to modern incandescent light, the glyphs permanently fade within se
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Obsidian Gear Mechanism</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Obsidian Gear Mechanism" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up of a flawless black obsidian gear resting on ancient cave dust, dramatic side lighting, cinematic depth of field, archaeological discovery aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched high on a volcanic ridge, this remote rock shelter yielded a single, perfectly cut gear carved entirely from volcanic obsidian. The precision of the teeth is so microscopically exact that it requires a jeweler’s loupe to appreciate fully. Obsidian is notoriously brittle; attempting to carve fine, interlocking gear teeth out of raw volcanic glass using primitive stone tools should result in catastrophic fracture every single time.
 
@@ -118,9 +112,7 @@ Yet, this artifact shows no tool-slip marks, even under electron microscope magn
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Vocal Resonance Pipes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Vocal Resonance Pipes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Ancient hollowed stone pipes resting on a damp rock ledge inside a misty Chinese cave, dramatic volumetric sunbeams piercing through a distant opening.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the staggering karst mountain ranges of southern China, explorers discovered a set of seven hollowed stalactite tubes laid out in a precise numerical sequence across a natural stone shelf. When air is blown across them at exact harmonic frequencies, they do not merely whistle—they generate a sustained, bone-rattling infrasonic wave that causes surrounding dust particles to suspend in mid-air and induces profound psychological disorientation in listeners.
 
@@ -149,9 +141,7 @@ Local villagers historically refused to approach the ridge, whispering tales of 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Golden Spiral Micro-Spool</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Golden Spiral Micro-Spool" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro shot of a microscopic gold and tungsten spiral resting on a rough stone surface, cinematic golden hour light reflection, scientific discovery vibe.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unearthed alongside Pleistocene mammal bones in the frozen Urals, these microscopic spirals made of pure tungsten, molybdenum, and gold left Russian geologists utterly speechless. Ranging in size down to a fraction of a millimeter, their helical structures mirror the golden ratio with mathematical perfection. Tungsten melts at over 3,400 degrees Celsius—a temperature utterly impossible for any known Bronze or Iron Age culture to achieve without advanced industrial smelting.
 
@@ -180,9 +170,7 @@ Initially dismissed as modern drill debris or contamination, further stratigraph
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Map of the Subterranean Oceans</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Map of the Subterranean Oceans" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ancient stone tablet with glowing carved river maps resting on a dark cave floor, cinematic lighting, moody exploration atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden behind a collapsed rockfall in an unmapped sector of Tennessee's cave country, a massive limestone slab bears deep, deliberate incisions that map out river networks, underground lakes, and abyssal chasms that do not exist on the surface above. Initial mapping attempts led search parties to believe it was a decorative doodle by early frontier settlers, until hydrological surveys confirmed that the map accurately depicts a massive, uncharted aquifer system located miles beneath the Appalachian bedrock.
 
@@ -211,9 +199,7 @@ How did ancient inhabitants—or whoever carved the slab—map subterranean aqua
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Basalt Mirror of Tezcatlipoca</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Basalt Mirror of Tezcatlipoca" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dark, perfectly polished basalt mirror reflecting a dim cave torch, mystical atmosphere, cinematic lighting, ultra-detailed textures.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Discovered in a shallow alcove high above a desert canyon, this heavy circular mirror is ground from solid basalt and polished to a mirror-like finish using an unknown abrasive paste. Unlike European glass mirrors that reflect light from a coated back surface, this artifact reflects light directly from its crystalline matrix. When gazing into its dark, metallic surface for more than a few minutes, visitors report a profound chilling sensation and vivid peripheral hallucinations.
 
@@ -242,9 +228,7 @@ Aztec codices speak of 'smoking mirrors' used by priests to peer into alternate 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Petrified Papyrus Codex</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Petrified Papyrus Codex" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing, mineralized stone scroll resting on dark desert sand inside a cave, dramatic cinematic lighting, highly detailed fossilized texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While scavenging for undiscovered Dead Sea Scrolls in a remote desert cliffside cave, Bedouin shepherds pulled out a rigid, stone-like cylinder that appeared to be a rolled scroll transformed entirely to solid mineral. X-ray tomography revealed that the inner layers of papyrus fibers had been replaced molecule-by-molecule with silica and calcium carbonate, preserving microscopic ink strokes written in an extinct, pre-Aramaic Semitic dialect.
 
@@ -273,9 +257,7 @@ Decoding efforts have been agonizingly slow because unfurling the stone scroll w
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cryo-Sealed Alabaster Flasks</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Cryo-Sealed Alabaster Flasks" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Translucent alabaster jars glowing faintly with silvery liquid mercury inside a dark stone cave, cinematic atmosphere, hyper-detailed photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away behind a false wall in a sealed Zagros Mountain tomb-cave, two pristine alabaster flasks were discovered intact, sealed hermetically with a natural bitumen plug. When shaken, a heavy, silvery liquid sloshed inside—pure, unadulterated elemental mercury, sealed within containers crafted thousands of years before mercury mining was thought to have been industrialized in the Middle East.
 
@@ -304,9 +286,7 @@ Alabaster is porous, yet the bitumen seal had maintained a vacuum-tight environm
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Chronos-Cylinder of the Abyssal Vault</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Chronos-Cylinder of the Abyssal Vault" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An enigmatic metallic cylinder covered in shifting glowing geometric engravings, resting on wet stone at the bottom of a pitch-black abyssal cave, cinematic masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the bottom of the deepest known cave on Earth, enduring crushing pressure, perpetual freezing darkness, and roaring subterranean rivers, divers recovered a titanium-alloy-like cylinder engraved with a calendar system that aligns with no known terrestrial solar, lunar, or stellar cycle. The alloy resists scratching from diamond-tipped tools and shows an isotopic composition that does not match any known terrestrial ore vein.
 

@@ -25,9 +25,7 @@ From engineered bacteria that drink carbon pollution to synthetic yeast that bre
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Silicon DNA Printing Chips of California</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Silicon DNA Printing Chips of California" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of a glowing silicon microchip glowing with blue and violet laser light, representing DNA synthesis, hyper-detailed, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the bustling biotech corridor of South San Francisco, a quiet revolution is taking place on chips no larger than a postage stamp. Traditional DNA synthesis was a slow, expensive bottleneck, akin to writing a novel one letter per day using a manual typewriter. Today, semiconductor-based DNA printing uses photolithography—the very same technology used to manufacture microprocessors—to flash ultraviolet light through digital masks onto silicon surfaces.
 
@@ -56,9 +54,7 @@ As the light strikes specific microscopic wells, chemical reactions snap custom 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Enzymatic DNA Synthesis: Nature’s Copy Machine</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Enzymatic DNA Synthesis: Nature’s Copy Machine" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of glowing enzymatic liquid swirling in a glass bio-reactor, illuminated by neon green and teal bioluminescence.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For decades, chemical DNA synthesis relied on harsh organic solvents like acetonitrile, which placed strict physical limits on how long and complex a synthetic strand could grow before degrading. Enter bio-inspiration: scientists began harnessing terminal deoxynucleotidyl transferase, a specialized mammalian immune system enzyme designed by evolution to rapidly stitch DNA nucleotides together.
 
@@ -87,9 +83,7 @@ Operating in gentle, water-based buffers at room temperature, these enzymatic pr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Molecular Time Capsules: Archival Data Storage in DNA</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Molecular Time Capsules: Archival Data Storage in DNA" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing double helix floating above an ancient futuristic stone pedestal, filled with sparkling digital binary streams, cinematic mood.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hard drives rust, magnetic tapes degrade, and silicon server farms consume staggering amounts of electricity while becoming obsolete every decade. But nature invented the ultimate storage medium four billion years ago: DNA. Scientists in Cambridge have successfully encoded entire feature films, high-resolution photographs, and operating systems into synthetic DNA strands, locking digital civilization into stasis.
 
@@ -118,9 +112,7 @@ Because DNA is chemically stable for tens of thousands of years under cold, dry 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cell-Free Protein Synthesis Factories</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Cell-Free Protein Synthesis Factories" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Futuristic laboratory glassware filled with glowing amber liquid, intricate molecular structures floating in the air, cinematic depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Why bother keeping a living cell alive when you can harvest its inner machinery and put it to work directly? In high-tech laboratories across Switzerland, researchers crack open engineered bacteria to extract their ribosomes, enzymes, and energy molecules—creating a nutrient-rich, living broth without any living cells.
 
@@ -149,9 +141,7 @@ When custom-printed DNA is injected into this cell-free soup, translation begins
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Synthetic Yeast Genome (Sc2.0 Project)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Synthetic Yeast Genome (Sc2.0 Project)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Microscopic view of glowing yeast cells glowing with neon purple and electric green fluorescence, highly detailed cinematic render.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For the first time in human history, scientists have completely rewritten and synthesized the complex eukaryotic genome of an organism larger than a virus or bacterium. The international Sc2.0 consortium took Baker's yeast—an organism with cells surprisingly similar to our own—and systematically replaced its natural DNA with a completely human-designed, custom-printed synthetic blueprint.
 
@@ -180,9 +170,7 @@ Along the way, they didn't just copy nature; they improved it. They added 'desig
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Phage Factories: Custom Viruses as Precision Antibiotics</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Phage Factories: Custom Viruses as Precision Antibiotics" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro shot of intricate geometric bacteriophage viruses attacking a glowing bacterial cell wall, dark moody background with neon highlights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As traditional antibiotics lose their grip against mutating superbugs, medical science is turning to nature’s original bacterial predators: bacteriophages. But wild phages can be unpredictable and carry unwanted genes. The new frontier involves printing entire custom bacteriophage genomes from scratch on bio-foundry printers.
 
@@ -211,9 +199,7 @@ Doctors can now swab a patient's resistant infection, identify the exact bacteri
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Deep-Sea Extremophile DNA Libraries</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Deep-Sea Extremophile DNA Libraries" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An underwater geothermal hydrothermal vent glowing in the abyss, surrounded by strange bioluminescent organisms, cinematic and awe-inspiring.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep beneath the crushing pressures and boiling mineral waters of Iceland's hydrothermal vents live extremophiles—organisms that thrive in conditions that would instantly destroy normal life. Scientists have begun sequencing these exotic extremophiles and reverse-engineering their genetic code into custom DNA synthesis platforms.
 
@@ -242,9 +228,7 @@ By printing DNA polymerases and enzymes optimized for extreme heat, salinity, an
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Artificial Genetic Alphabets: Expanding Beyond A, T, C, and G</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Artificial Genetic Alphabets: Expanding Beyond A, T, C, and G" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Abstract 3D render of an eight-stranded DNA double helix glowing with rainbow-colored neon light particles, futuristic laboratory setting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For billions of years, life on Earth has sung its symphony using a four-letter alphabet: A, T, C, and G. That monopoly has just been shattered. At laboratories in La Jolla, chemists have successfully synthesized a functional 'Hachimoji' DNA system (from the Japanese words for 'eight letters'), adding four entirely synthetic nucleotide bases—labeled P, Z, S, and B—to the genetic lexicon.
 
@@ -273,9 +257,7 @@ This expanded genetic alphabet doesn't just store more data; it creates syntheti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">De-Extinction Genomes: Resurrecting the Woolly Mammoth</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="De-Extinction Genomes: Resurrecting the Woolly Mammoth" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A majestic woolly mammoth standing in a snowy Siberian pine forest at twilight, misty breath, cinematic golden hour lighting, hyper-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Out of the frozen permafrost of Siberia, fragments of ancient, desiccated woolly mammoth DNA have been extracted, sequenced, and digitally repaired. Rather than cloning from intact cells—which do not exist—geneticists are using cutting-edge DNA printers to synthesize entire mammoth-specific gene clusters from scratch.
 
@@ -304,9 +286,7 @@ These custom genes are then integrated into the living genome of the Asian eleph
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Minimal Cell Syn 3.0: The Factory of Artificial Life</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Minimal Cell Syn 3.0: The Factory of Artificial Life" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing microscopic artificial cell floating in a dark cosmic void, surrounded by floating strands of glowing synthetic DNA code, cinematic masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute apex of custom DNA printing sits a quiet, monumental achievement: the creation of life from a digital file. Scientists at the J. Craig Venter Institute designed a synthetic bacterial genome on a computer screen, ordered the custom chemical strands from DNA printers, stitched them together in yeast, and booted the resulting chromosome inside a hollowed-out bacterial cell.
 

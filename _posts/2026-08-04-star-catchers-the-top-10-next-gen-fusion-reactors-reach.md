@@ -25,9 +25,7 @@ This is not merely a tale of cold engineering; it is an epic narrative of human 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Helion Energy's 'Trenta': The Magnet-Compression Pioneer</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Helion Energy's 'Trenta': The Magnet-Compression Pioneer" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a high-tech pulsed fusion chamber inside an Everett, Washington laboratory, dramatic blue plasma arcs, moody industrial lighting, hyper-realistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In an unassuming industrial park north of Seattle, a team of unorthodox physicists is rewriting the rulebook on how to squeeze a star. Eschewing the gigantic, multi-billion-dollar tokamak rings favored by government labs, Helion Energy builds lean, aggressive machines designed to shoot rings of plasma at supersonic speeds and crush them with crushing magnetic force.
 
@@ -56,9 +54,7 @@ Their prototype, Trenta, operates with a relentless pulse, firing high-density p
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">TAE Technologies' 'C-2W (Norman)': The Advanced Beam-Driven Field</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="TAE Technologies' 'C-2W (Norman)': The Advanced Beam-Driven Field" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ethereal glowing ring of hydrogen-boron plasma spinning inside a stainless steel vacuum vessel at TAE Technologies, cinematic laboratory lighting, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Bathed in the warm California sun, a sprawling facility houses 'Norman,' named in honor of the late physicist Norman Rostoker. Inside this cylindrical vacuum vessel, ghostly tendrils of hydrogen-boron plasma dance in a self-organized magnetic vortex, swirling like a microscopic galaxy caught in a glass trap.
 
@@ -87,9 +83,7 @@ TAE Technologies approaches fusion through the lens of advanced particle physics
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tokamak Energy's 'ST40': The Spherical Superconductor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Tokamak Energy's 'ST40': The Spherical Superconductor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing spherical plasma core inside the ST40 tokamak at Milton Park, dramatic reflections on polished steel walls, cinematic depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the English countryside where aviation history was once made, a compact, apple-shaped machine is proving that bigger isn't always better. Tokamak Energy recognized that traditional donut-shaped reactors wasted valuable magnetic real estate, so they pinched the center of the ring into a tight, spherical core resembling a glowing core.
 
@@ -118,9 +112,7 @@ The ST40 glows with an intense, fiery heartbeat during experimental runs. By uti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The DIII-D National Fusion Facility: America's Plasma Laboratory</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The DIII-D National Fusion Facility: America's Plasma Laboratory" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: The massive control room of the DIII-D facility in San Diego during a plasma shot, glowing monitor screens reflecting on engineers' faces, cinematic atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising like a futuristic cathedral of science in San Diego, the DIII-D facility has been the silent workhorse of American magnetic confinement for decades. Yet, far from being a relic, this machine has undergone radical retrofits, turning it into one of the most agile plasma-testing testbeds on planet Earth.
 
@@ -149,9 +141,7 @@ Researchers here command an army of diagnostic lasers and heating gyroscopes to 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">EAST (Experimental Advanced Superconducting Tokamak): The Artificial Sun</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="EAST (Experimental Advanced Superconducting Tokamak): The Artificial Sun" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: The glowing interior vacuum vessel of the EAST tokamak in Hefei, deep violet and amber plasma light, intricate engineering, cinematic sci-fi realness.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On the shores of a serene lake in eastern China, the Experimental Advanced Superconducting Tokamak—affectionately dubbed the 'Chinese Artificial Sun'—continuously pushes the boundaries of endurance. While many reactors focus purely on peak temperatures, EAST is built for the marathon.
 
@@ -180,9 +170,7 @@ Inside its cavernous vacuum chamber, liquid-helium-cooled superconducting coils 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">KSTAR (Korea Superconducting Tokamak Advanced Research): The Plasma King</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="KSTAR (Korea Superconducting Tokamak Advanced Research): The Plasma King" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Intricate exterior wiring and cryogenic cooling lines of the KSTAR reactor in Daejeon, cinematic blue hour lighting, hyper-detailed mechanical aesthetics.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the science hub of Daejeon, South Korea, the KSTAR reactor has earned a legendary reputation for pushing plasma physics into uncharted territory. Often referred to as the 'Korean Superconductor,' this machine is a marvel of precision engineering and national ambition.
 
@@ -211,9 +199,7 @@ When KSTAR initiates a campaign, invisible waves of radio frequency energy rippl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Commonwealth Fusion Systems' 'SPARC': The Compact Magnet Marvel</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Commonwealth Fusion Systems' 'SPARC': The Compact Magnet Marvel" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An engineer inspecting the sleek, futuristic assembly of the SPARC high-field magnet coils in Devens, Massachusetts, cinematic industrial lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a converted former military base in Devens, Massachusetts, a spin-out from MIT is building what many consider the most commercially viable fusion machine on the planet. Named SPARC, this reactor relies on a simple yet revolutionary thesis: make the magnetic field drastically stronger, and you can make the machine drastically smaller.
 
@@ -242,9 +228,7 @@ The secret weapon inside SPARC is Rare-Earth Barium Copper Oxide (REBCO) superco
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">JET (Joint European Torus): The Titan That Paved the Way</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="JET (Joint European Torus): The Titan That Paved the Way" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: The iconic, massive hall of the Joint European Torus (JET) in Culham, the steel tokamak housing glowing faintly under dramatic red and white maintenance lights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over four decades, the Joint European Torus stood as the undisputed heavyweight champion of the fusion world. Housed in a massive, windowless hall in Oxfordshire, JET was a multinational collaboration of brilliant minds who dedicated their lives to taming the ultimate atomic reaction.
 
@@ -273,9 +257,7 @@ Though its operational life has recently concluded, JET's legacy is etched into 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">National Ignition Facility (NIF): The Laser-Driven Powerhouse</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="National Ignition Facility (NIF): The Laser-Driven Powerhouse" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A breathtaking cinematic shot of the massive laser target bay inside the National Ignition Facility, blue laser beams converging in the center, futuristic laboratory ambiance.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within a windowless, ten-story-tall fortress at the Lawrence Livermore National Laboratory lies a machine that looks straight out of science fiction. The National Ignition Facility does not use magnetic cages; instead, it harnesses the brute force of light.
 
@@ -304,9 +286,7 @@ Though its operational life has recently concluded, JET's legacy is etched into 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">ITER: The Global Super-Tokamak</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="ITER: The Global Super-Tokamak" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive, awe-inspiring view of the under-construction ITER tokamak pit in France, dwarfing human workers in hard hats, cinematic scale, high-end architectural photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising from the sun-drenched Provençal countryside like a monument to human unity, ITER is quite simply the most complex engineering endeavor in human history. Backed by 35 nations—representing over half the world's population and 80% of its GDP—this colossal machine dwarfs every other fusion experiment ever conceived.
 

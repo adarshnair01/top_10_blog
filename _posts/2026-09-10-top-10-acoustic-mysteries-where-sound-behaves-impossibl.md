@@ -25,9 +25,7 @@ For centuries, these acoustic anomalies were dismissed as folklore, ghost storie
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Singing Sands of Wahiba</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Singing Sands of Wahiba" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle shot of vast desert sand dunes in Oman at sunset, golden hour lighting, fine sand texture, mysterious glowing atmospheric haze, high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the desert wind sweeps across the towering crescent dunes of Oman, a strange, low-frequency hum begins to rise from the earth. It is not the howling gale one expects, but a deep, mesmerizing drone that sounds hauntingly like a distant propeller engine or a cathedral pipe organ playing a single, unending chord. Travelers who traverse these arid wastes often describe an eerie sensation of being stalked by an invisible machine, their footsteps triggering sudden, resonant vibrations beneath their boots.
 
@@ -56,9 +54,7 @@ The phenomenon occurs when specific weather conditions cause millions of quartz-
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Mysterious Taos Hum</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Mysterious Taos Hum" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody twilight over the New Mexico high desert mesa, a solitary glowing house with distant mountain silhouettes, eerie atmospheric resonance visual effect, cinematic photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the high desert plateau of northern New Mexico, a small percentage of the population lives with an uninvited, invisible guest: a persistent, low-pitched drone known simply as the Taos Hum. Described by sufferers as the sound of a heavy diesel truck idling just outside their bedroom window—even when they live miles from the nearest road—this acoustic phantom has plagued locals for decades. It refuses to be recorded by standard microphones, leading many to fear it was all in their heads.
 
@@ -87,9 +83,7 @@ Medical evaluations, however, proved that the people hearing the Hum had normal 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">St. Paul’s Cathedral Whispering Gallery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="St. Paul’s Cathedral Whispering Gallery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Interior view looking up into the magnificent dome of St. Paul's Cathedral in London, dramatic sunbeams piercing through stained glass, intricate classical architecture, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High above the bustling marble floor of St. Paul’s Cathedral, tucked along the inner curve of Sir Christopher Wren’s magnificent dome, lies a marvel of accidental acoustic engineering. If you press your ear against the curved stone wall of the Whispering Gallery and a friend whispers a secret from 112 feet away across the vast circular void, you will hear them as clearly as if they were standing right beside you. The air in the room seems to bend the sound waves, shepherding them securely along the smooth masonry.
 
@@ -118,9 +112,7 @@ What makes this architectural quirk so mesmerizing is the asymmetry of the exper
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Golconda Echo Citadel</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Golconda Echo Citadel" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Ancient stone ramparts of Golconda Fort in India under a dramatic stormy sky, epic scale, moss-covered stone steps, cinematic historical documentary aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Built as an impenetrable medieval stronghold, Golconda Fort features a security system engineered out of pure, breathtaking acoustics. At the grand entrance gate, known as the Fateh Darwaza, if a visitor stands at a specific spot and claps their hands sharply, the sound travels with astonishing clarity all the way to the summit pavilion located nearly a kilometer away on top of the hill. In the days of the Kakatiya and Qutb Shahi dynasties, this served as an ingenious early warning system against stealthy invaders.
 
@@ -149,9 +141,7 @@ Yet, the fort’s acoustic trickery goes both ways. Whispers uttered in the lowe
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ringing Rocks of Parris Mill</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Ringing Rocks of Parris Mill" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A mossy, boulder-strewn forest floor in Pennsylvania, golden autumn sunlight filtering through dense tree canopy, mystical atmosphere, hyper-detailed photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;"></div>
   <div class="fact-grid">
@@ -178,9 +168,7 @@ Yet, the fort’s acoustic trickery goes both ways. Whispers uttered in the lowe
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Redondo Beach Sonic Boom Mystery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Redondo Beach Sonic Boom Mystery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody Pacific coastline at dusk in Redondo Beach, dramatic ocean waves crashing against rocky shore, distant fog rolling in, cinematic mystery mood.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Residents of the picturesque coastal city of Redondo Beach have long grown accustomed to a terrifying, unexplainable disruption that rattles windows and shakes foundations. Without warning, a deafening sonic boom echoes across the coastline, powerful enough to rattle dishes in kitchen cabinets and trigger car alarms. For years, authorities blamed military jets breaking the sound barrier off the Pacific coast, but sonic boom logs often came up empty, leaving residents bewildered by the phantom concussions.
 
@@ -209,9 +197,7 @@ Seismologists and oceanographers have since proposed even stranger culprits, ran
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Kamilaroi Echoing Canyons of the Warrumbungles</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Kamilaroi Echoing Canyons of the Warrumbungles" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Rugged volcanic rock spires of the Warrumbungle Mountains in Australia under a starry night sky, dramatic silhouettes, cinematic outback landscape photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising out of the Australian outback like jagged teeth of ancient volcanic giants, the Warrumbungle Mountains harbor deep, sandstone gorges that play bizarre tricks with human speech. Indigenous Kamilaroi oral traditions speak of these canyons as living entities that talk back, repeating words spoken in sacred valleys with uncanny distortion and multiple overlapping delays. Modern hikers often report shouting a simple greeting, only to hear it bounced back across the gorge in reverse or echoed in a completely different register.
 
@@ -240,9 +226,7 @@ The volcanic topography of the region created curved amphitheaters of rock that 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Silent Zone of Mapimí</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Silent Zone of Mapimí" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Desolate Mexican desert landscape under a harsh midday sun, cracked earth, distant scrub brush, eerie heat haze shimmer, cinematic desert documentary style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the unforgiving expanse of the Mexican Chihuahuan Desert lies a desolate region dubbed 'Zona del Silencio'—the Zone of Silence. Legend states that radio waves, compass needles, and satellite transmissions inexplicably die the moment they cross into this forbidden basin. Beyond electromagnetic anomalies, travelers have reported eerie acoustic distortions where voices traveling across the flats vanish into thin air just feet away from the speaker, while distant sounds echo with crystal clarity as if amplified through an invisible megaphone.
 
@@ -271,9 +255,7 @@ While scientists attribute some of the magnetic myths to high concentrations of 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Acoustic Mirror Network of Dungeness</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Acoustic Mirror Network of Dungeness" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Brutalist concrete acoustic mirror structure on a moody, foggy English shingle beach, overcast sky, cinematic historical documentary photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;"></div>
   <div class="fact-grid">
@@ -300,9 +282,7 @@ While scientists attribute some of the magnetic myths to high concentrations of 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Plaza of Navahos & The Chichen Itza Serpent Echo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Plaza of Navahos & The Chichen Itza Serpent Echo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Majestic Mayan pyramid of Chichen Itza under dramatic golden hour sunlight, lush green jungle surroundings, hyper-detailed ancient stone carvings, cinematic travel photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of El Castillo, the majestic Mayan pyramid in Yucatan, Mexico, lies one of the most astonishing acoustic masterpieces in human history. When a tourist stands at the base of the monumental staircase and claps their hands sharply, the sound travels up the steep stone steps and returns not as a standard echo, but as a high-pitched chirp that uncannily mimics the sacred call of the resplendent quetzal bird. The Mayan architects engineered the step angles and riser heights to precisely transform a human percussion into a sacred jungle spirit.
 

@@ -25,9 +25,7 @@ Today, robotic exoskeletons are no longer confined to the realms of dystopian sc
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Guardian XO Industrial PowerSuit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="The Guardian XO Industrial PowerSuit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of an industrial worker wearing a full-body robotic exoskeleton suit inside a brightly lit futuristic automated warehouse, dramatic rim lighting, highly detailed mechanical joints.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine hoisting a massive steel crate weighing as much as an adult human, yet feeling nothing more strenuous than the weight of a feather resting on your palm. In the cavernous testing facilities of Sarcos Technology, this illusion becomes a breathtaking reality. The Guardian XO wraps around its human operator like a second skin of gleaming aerospace-grade aluminum and complex hydraulic actuators.
 
@@ -56,9 +54,7 @@ As the pilot moves, the machine anticipates every twitch of intent through intri
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">HULC (Human Universal Load Carrier)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="HULC (Human Universal Load Carrier)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of robotic mechanical legs attached to military combat boots, glowing blue sensor lines, rugged desert training ground background, dramatic golden hour lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The battlefield is an unforgiving arena where survival often depends on how much gear a soldier can haul across treacherous terrain. Enter the HULC, a beast of tactical engineering designed by Lockheed Martin to turn infantrymen into pack mules capable of scaling mountains with ease. The metallic legs flex and extend in silent synchronization with the human stride, absorbing every shock and transferring the load straight down into the uncomplaining earth.
 
@@ -87,9 +83,7 @@ Watch as a test operator jogs effortlessly up a steep incline while strapped dow
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Ekso Bionics EksoNR</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Ekso Bionics EksoNR" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A patient smiling while walking upright in a bright modern physical therapy clinic wearing a sleek robotic exoskeleton, physical therapist monitoring a touchscreen tablet nearby, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beyond the realms of superhuman lifting and combat endurance lies a far more profound mission: restoring the lost rhythm of human walking. Inside sleek rehabilitation clinics, the EksoNR stands as a beacon of hope for individuals recovering from strokes, spinal cord injuries, or severe neurological trauma. Its carbon-fiber frame cradles the legs, while intelligent software constantly monitors the patient's subtle movements.
 
@@ -118,9 +112,7 @@ When a patient tries to step forward, the suit senses the faint electrical whisp
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cyberdyne HAL (Hybrid Assistive Limb)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Cyberdyne HAL (Hybrid Assistive Limb)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A technician in a high-tech Japanese laboratory wearing the HAL exoskeleton, glowing bio-sensors attached to skin, futuristic glowing interface screens in the background, cinematic cyberpunk aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the neon-lit innovation hub of Tsukuba, Japan, science fiction melted into history with the creation of HAL. Unlike mechanical exoskeletons that react to motion *after* it begins, HAL intercepts intention at the speed of thought. When your brain decides to move your leg, microscopic electrical impulses ripple across your skin. HAL's sensors catch these signals instantly, driving the internal motors before your foot even leaves the ground.
 
@@ -149,9 +141,7 @@ It is a symbiotic fusion of man and machine operating on a neurological waveleng
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">German Bionic Cray X</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="German Bionic Cray X" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A logistics worker wearing a sleek carbon-fiber smart exoskeleton in a sunlit modern fulfillment center, lifting a package with perfect ergonomic posture, cinematic editorial photography style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On the roaring, high-speed assembly lines of modern logistics hubs, the Cray X stands out as a marvel of lightweight ergonomics. Crafted entirely from high-strength carbon fiber, it weighs barely more than a standard hiking backpack, yet packs a colossal mechanical punch. Powered by cutting-edge artificial intelligence, the Cray X learns the unique habits and posture of its warehouse operator.
 
@@ -180,9 +170,7 @@ Whenever the worker bends down to lift a heavy parcel, the intelligent AI kicks 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">ReWalk Personal Exoskeleton</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="ReWalk Personal Exoskeleton" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An inspiring shot of a person in a ReWalk exoskeleton standing tall outdoors in a city park, holding hands with a family member, emotional cinematic golden hour lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For millions confined to wheelchairs, the simple act of standing eye-to-eye with a loved one remains an elusive dream. ReWalk changes that narrative with breathtaking emotional resonance. Developed by a quadriplegic inventor, this rigid motorized brace system empowers individuals with spinal cord injuries to stand tall, navigate city streets, and even conquer stairs.
 
@@ -211,9 +199,7 @@ With a wireless wrist controller strapped to their arm, the user commands the ex
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">SuitX MAX (Modular Agile Exoskeleton)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="SuitX MAX (Modular Agile Exoskeleton)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An automotive assembly worker wearing the lightweight modular SuitX MAX system in an airplane hangar, cinematic framing, sharp focus on mechanical joints.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born out of the brilliant engineering minds at UC Berkeley, the SuitX MAX system shatters the notion that exoskeletons must be heavy, clunky, and restrictive. Instead of a monolithic suit of armor, MAX takes a modular approach. Workers can snap on the BackX for spinal support, the ShoulderX for overhead assembly tasks, or the LegX for knee and squat relief—or combine them all into a unified mechanical shield.
 
@@ -242,9 +228,7 @@ The genius of SuitX lies in its passive design. It requires zero batteries or mo
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sarcos Guardian GT</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Sarcos Guardian GT" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive dual-armed robotic exoskeleton lifting heavy steel beams in a construction yard, dramatic cinematic industrial fog, sparks flying, epic wide angle.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Behold the behemoth. If the Guardian XO is a tailored business suit, the Guardian GT is an unstoppable mechanical titan. Standing towering and formidable, this dual-arm teleoperated exoskeleton gives a single human operator the crushing strength of a forklift combined with the delicate touch of a master pianist.
 
@@ -273,9 +257,7 @@ Strapped into the master control harness miles away or safely seated in the cabi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Honda Walking Assist Device</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Honda Walking Assist Device" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An elderly person smiling while walking briskly through a green Japanese botanical garden wearing a discreet hip-mounted Honda walking assistant device, cinematic natural lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Automotive giant Honda didn't just stop at building cars and humanoid robots; they turned their legendary robotics research inward to enhance human locomotion. The Honda Walking Assist Device is a marvel of minimalist engineering. Clamped neatly around the waist and thighs like an intelligent belt, it looks unassuming, yet it packs an astonishing biomechanical punch.
 
@@ -304,9 +286,7 @@ Sensors embedded in the hip joints monitor the wearer's walking symmetry in real
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">DARPA Warrior Web / Sarcos Alpha System</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="DARPA Warrior Web / Sarcos Alpha System" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of glowing artificial muscle fibers woven into a high-tech tactical compression suit, pulsing with energy, dramatic moody lighting, futuristic aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Crowning our countdown is the holy grail of human endurance technology: the legendary DARPA-backed soft exoskeleton projects, culminating in next-generation alpha field systems. Abandoning heavy metal skeletons altogether, this breakthrough technology utilizes smart-textile 'soft actuators'—woven artificial muscles that contract and expand in harmony with human tendons.
 

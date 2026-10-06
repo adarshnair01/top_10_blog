@@ -25,9 +25,7 @@ As deep-sea exploration accelerates and submersibles pierce the obsidian darknes
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghostly Zoarcid Eelpout</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ghostly Zoarcid Eelpout" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic deep-sea macro photography of a translucent pink Zoarcid eelpout swimming near a glowing black smoker hydrothermal vent, bioluminescent particles drifting in the water, dark obsidian background, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;"> gliding silently through the shimmering, superheated haze of a hydrothermal vent field, the Zoarcid Eelpout looks like a specter from another dimension. Its translucent, pale pink skin seems almost woven from the very water it inhabits, allowing the faint shadow of its backbone to peek through under the harsh lights of a research submersible. Unlike many of its frantic neighbors, this serpentine predator drifts with an eerie, hypnotic grace, waiting for disoriented crustaceans to venture too close to the thermal plumes.
 
@@ -56,9 +54,7 @@ Life at the vent is a high-stakes gamble with death, and the eelpout plays the l
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Vent-Dwelling Ecdyonurus-Style Amphipod</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Vent-Dwelling Ecdyonurus-Style Amphipod" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up macro shot of thousands of tiny translucent amphipods swarming over a mineral-crusted hydrothermal chimney, shimmering water currents, deep-sea blue ambient light, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clustering in writhing, hyperactive carpets across the metallic crusts of underwater chimneys, swarms of amphipods navigate a chaotic landscape of chemical snow and boiling water. These tiny, shrimplike arthropods move in synchronized waves, their translucent carapaces catching the glare of robotic arms like scattered diamonds. They are the scavengers of the underworld, racing against time and searing heat to claim organic debris before it vaporizes.
 
@@ -87,9 +83,7 @@ To watch them is to witness frantic survival at its most visceral. They constant
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Phantom Octopus (Grimpoteuthis)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Phantom Octopus (Grimpoteuthis)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle shot of a pale white Dumbo octopus floating gracefully near the edge of a volcanic hydrothermal vent field, soft glowing vent plumes in the background, deep ocean blue.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Affectionately known as 'Dumbo' octopuses due to the ear-like fins protruding from their mantles, these ethereal cephalopods occasionally drift near the fringes of hydrothermal vent fields. Unlike their aggressive shallow-water cousins, the Dumbo moves with a slow, balletic dignity, pulsing its webbed arms and flapping its fins like an underwater angel. Encountering one near a towering black smoker feels less like a biological discovery and more like a paranormal sighting.
 
@@ -118,9 +112,7 @@ While they do not live directly inside the boiling chimneys, they patrol the coo
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Scaly-Foot Snail (Chrysomallon squamiferum)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Scaly-Foot Snail (Chrysomallon squamiferum)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photo of a Chrysomallon squamiferum scaly-foot snail on a dark, mineral-stained hydrothermal vent wall, iridescent metallic iron plates glowing under sub lights, dramatic contrast.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine an animal wearing literal medieval armor forged from molten Earth. The scaly-foot snail is arguably the most metal creature on the planet, featuring a shell and foot plates armored with iron sulfides—pyrite and greigite. As it creeps across the sheer, mineral-rich walls of hydrothermal chimneys, its metallic scales glint under submersible lights like polished bronze and obsidian, defying the very concept of soft-bodied mollusks.
 
@@ -149,9 +141,7 @@ This living tank does not need to flee from predators; its tri-layered shell is 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Vent-Dwelling Pycnogonid (Sea Spider)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Vent-Dwelling Pycnogonid (Sea Spider)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of a giant deep-sea sea spider clinging to a hydrothermal chimney, long spindly legs silhouetted against a plume of white smoker mineral discharge.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">With an impossibly slender body and long, spindly legs that span over a foot across, the deep-sea sea spider looks like an arachnid phantom dropped straight out of a nightmare and into the deep blue. These bizarre creatures stalk the mineral pillars of hydrothermal vents with an alien stillness. Their internal organs are so cramped within their micro-bodies that parts of their digestive system and reproductive organs actually extend outward into their legs.
 
@@ -180,9 +170,7 @@ They use their elongated, straw-like proboscis to pierce the flesh of soft-bodie
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Blind Vent Shrimp (Rimicaris exoculata)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Blind Vent Shrimp (Rimicaris exoculata)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of dense swarms of golden-red blind vent shrimp clinging to a towering black smoker chimney, dark abyss background, dramatic thermal shimmer effects.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Swarms numbering in the tens of thousands carpet the towering black smoker chimneys, writhing in a dense, pulsing blanket of translucent rust-colored bodies. These are the blind vent shrimp, individuals that navigate an absolute pitch-black abyss without eyes. Instead of standard visual organs, they possess a unique, highly specialized dorsal eye on their backs—a mirrored, light-sensitive patch covered by a transparent membrane that detects the faint, infrared glow of water heated to 350 degrees Celsius.
 
@@ -211,9 +199,7 @@ They feed on the thick carpets of filamentous bacteria that coat their chitinous
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Swarming Zoarcid and Vent Zoanthid Community</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Swarming Zoarcid and Vent Zoanthid Community" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic underwater shot of glowing golden zoanthid anemones carpeting a dark volcanic sediment floor near a hydrothermal vent, soft ethereal lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Nestled in sedimented hydrothermal basins where organic matter from the surface rains down to mix with volcanic heat, vibrant mats of golden zoanthids bloom like underwater sunflowers. These colonial anemone-like polyps anchor themselves directly into petroleum-saturated sediments heated by subterranean magmatic chambers. They sway gently in toxic hydrothermal currents that would melt human skin in seconds, creating a startling splash of golden life amidst the charcoal-black seafloor.
 
@@ -242,9 +228,7 @@ Surrounding these floral colonies are intricate webs of symbiotic crabs and pred
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Yeti Crab (Kiwa hirsuta)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Yeti Crab (Kiwa hirsuta)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning macro photography of a white Yeti crab with hairy, bacteria-covered arms standing on a black volcanic rock near a hydrothermal vent plume, deep ocean blue.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Ghostly white, eerily solitary, and draped in a thick fleece of golden, hair-like bristles, the Yeti Crab is one of the most iconic discoveries of modern deep-sea oceanography. First spotted near Easter Island, this crustacean looks like a cross between a traditional crab and a yeti myth. Its claw-like arms and chest are densely packed with filamentous bacteria, which the crab actively farms by waving its limbs back and forth through toxic sulfur plumes.
 
@@ -273,9 +257,7 @@ The 'hair' is actually a dense forest of setae colonized by millions of micro-or
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Pompeii Worm (Alvinella pompejana)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Pompeii Worm (Alvinella pompejana)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme macro photography of multiple Pompeii worms protruding from their organic tubes on a glowing black smoker vent, shimmering thermal distortion, vibrant red plumes.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Meet the absolute heavyweight champion of thermal endurance: the Pompeii worm. Living in paper-thin parchment tubes plastered directly against the blistering sides of active black smoker chimneys, this hairy polychaete worm endures water temperatures that reach a scorching 80 degrees Celsius (176 degrees Fahrenheit) at its tail, while its head remains in a cooler 22-degree current. It is literally boiling alive on one end while breathing comfortably on the other.
 
@@ -304,9 +286,7 @@ Its back is covered in a thick fleece of bacteria that feeds on heavy metals and
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Giant Tube Worm (Riftia pachyptila)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Giant Tube Worm (Riftia pachyptila)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking cinematic shot of a massive forest of Giant Tube Worms with bright red plumes swaying near a towering hydrothermal vent chimney, illuminated by deep-sea submersible spotlights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing like statues of an alien civilization against the pitch-black abyss, Giant Tube Worms can reach staggering lengths of up to 8 feet, swaying majestically within shock-white chitinous tubes tipped with brilliant crimson plumes. When oceanographers first discovered them in 1977, they shattered every established rule of biology: these colossal animals have no mouth, no stomach, and no gut. They possess zero digestive organs whatsoever.
 

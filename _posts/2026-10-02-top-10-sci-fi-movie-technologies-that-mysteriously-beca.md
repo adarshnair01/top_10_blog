@@ -25,9 +25,7 @@ Yet, reality possesses a strange, uncanny habit of catching up to art. The bound
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Communicator Flip Phone</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Communicator Flip Phone" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro photograph of a retro silver flip phone opening against a dark moody studio background, neon rim lighting, 8k resolution, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In 1966, deep space exploration looked remarkably sleek. When Captain Kirk flipped open a small, pocket-sized plastic device to summon the USS Enterprise, audiences gasped at the sheer convenience. It was pure fantasy—a wireless telephone untethered from heavy switchboards or wall sockets, capable of instantly connecting voices across light-years.
 
@@ -56,9 +54,7 @@ Decades later, engineers at Motorola looked directly at that iconic prop for ins
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Autonomous Drones</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Autonomous Drones" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek autonomous quadcopter drone hovering mid-air during golden hour sunset over a modern cityscape, cinematic lighting, shallow depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before buzzing quadcopters filled our skies to deliver packages or film sweeping cinematic landscapes, the silver screen imagined humming mechanical guardians and surveillance insects patrolling dystopian horizons. Directors envisioned skies populated by autonomous metal eyes tracking human movement with chilling precision.
 
@@ -87,9 +83,7 @@ Today, that mechanical swarm is an everyday reality. From localized agricultural
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Gesture-Based Computer Interfaces</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Gesture-Based Computer Interfaces" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up of a human hand gesturing gracefully in front of glowing holographic data streams in a dark room, cyberpunk aesthetic, crisp details.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine standing in a sterile, glass-walled control room, waving your hands through mid-air like an orchestral conductor to manipulate cascading walls of high-resolution data. In 2002's neo-noir masterpiece 'Minority Report', Tom Cruise's character did just that, interacting with transparent holographic screens using specialized gloved hands.
 
@@ -118,9 +112,7 @@ Today, computer vision and infrared depth sensors have stripped away the gloves 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">AI Assistants and Voice Computing</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="AI Assistants and Voice Computing" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A minimalist smart home interior illuminated by the soft blue glow of an AI assistant device on a wooden table, cozy and futuristic atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In 1968, audiences watched a glowing red camera lens calmly converse with the crew of the Discovery One. 'Open the pod bay doors, HAL,' pleaded astronaut Dave. The machine's cool, polite refusal sent a shiver down the collective spine of humanity, introducing the world to conversational artificial intelligence.
 
@@ -149,9 +141,7 @@ While our modern domestic assistants are thankfully less inclined toward mutiny,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Self-Driving Autonomous Vehicles</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Self-Driving Autonomous Vehicles" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A modern autonomous electric vehicle driving down a neon-lit city street at night with a spinning LiDAR sensor on its roof, cinematic long exposure.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For generations, science fiction promised a future where the steering wheel was nothing more than an optional relic. Classic dystopian thrillers and futuristic comedies alike featured passengers kicking back to read newspapers while their automobiles navigated chaotic urban traffic entirely on autopilot.
 
@@ -180,9 +170,7 @@ That once-impossible dream now cruises silently down public streets every single
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Targeted Augmented Reality (AR) HUDs</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Targeted Augmented Reality (AR) HUDs" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: First-person driver perspective through a car windshield showing transparent digital navigation arrows and speed metrics glowing in neon blue, realistic night drive.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Jet fighter pilots and futuristic bounty hunters have long surveyed their environments through glowing digital overlays. Vital tactical readouts, navigational vectors, and targeting reticles projected directly onto a transparent visor or glass canopy allowed them to maintain situational awareness without looking down at instrument panels.
 
@@ -211,9 +199,7 @@ Today, that exact heads-up display technology is standard equipment in modern lu
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Biometric Facial Recognition Security</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Biometric Facial Recognition Security" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Abstract cinematic portrait of a person's face illuminated by glowing biometric identification grid lines and facial mesh data, high-tech cybersecurity theme.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In dystopian sci-fi thrillers, pacing down neon-lit alleyways meant dodging automated surveillance scanners that mapped the unique geometry of your face to instantly reveal your identity, criminal record, and social standing. It was portrayed as the ultimate invasion of personal privacy.
 
@@ -242,9 +228,7 @@ Fast forward to the present: millions of people unlock their personal smartphone
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Virtual Reality Immersion Headsets</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Virtual Reality Immersion Headsets" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A person wearing a sleek modern virtual reality headset in a softly lit minimalist apartment, hands outstretched interacting with invisible digital elements, cinematic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For decades, filmmakers imagined ultimate digital escapism—bulky, tethered rigs that transported users into fully synthesized artificial worlds where they could walk, fight, and interact with computer-generated characters as if they were standing in the physical realm. 
 
@@ -273,9 +257,7 @@ Today, wireless standalone virtual reality headsets sit on coffee tables across 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Video Telephony & Holographic Conferencing</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Video Telephony & Holographic Conferencing" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a person sitting in front of a glowing computer monitor displaying a multi-person high-definition video conference grid at night, moody interior.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Who can forget the iconic scene from 1968's cinematic milestone where a space traveler sits in a public booth and casually video-calls his family back home on Earth? Or the glowing blue holographic transmissions beamed between starship commanders across the galaxy?
 
@@ -304,9 +286,7 @@ For most of the 20th century, real-time two-way moving picture communication rem
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Omnipresent Pocket Slate (Smartphone)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Omnipresent Pocket Slate (Smartphone)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An extreme close-up cinematic shot of a sleek glass smartphone resting in a person's hand, reflecting a vibrant modern city skyline at dusk, photorealistic 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over half a century, science fiction screenwriters wrestled with a recurring narrative problem: how do characters access the sum total of human knowledge, navigate unknown cities, translate alien languages, and communicate instantly while on the move? Their answer was always the same: a sleek, ultra-thin, glass-faced tablet computer carried effortlessly in the palm of the hand.
 

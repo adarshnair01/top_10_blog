@@ -25,9 +25,7 @@ For curiosity seekers and adventurers alike, these newborn islands represent the
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghost Shoals of Nishinoshima's Expansion</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ghost Shoals of Nishinoshima's Expansion" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic aerial drone shot of a rugged, jet-black volcanic island with smoking craters rising from deep turquoise blue Pacific waters, dramatic lighting, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Far south of Tokyo's neon glow, the Pacific floor shuddered violently, unleashing plumes of pumice and dark ash that choked the horizon. What began as a tiny, ephemeral volcanic wart in late 2013 refused to succumb to the crushing power of ocean waves. Instead, wave after wave of viscous, highly fluid lava spilled outward, swallowing an older, adjacent volcanic remnant and fusing into a jagged, surreal moonscape of black stone.
 
@@ -56,9 +54,7 @@ Today, the island stands as a stark testament to nature's relentless constructio
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ash-Ringed Ghost of Hunga Tonga-Hunga Ha'apai</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ash-Ringed Ghost of Hunga Tonga-Hunga Ha'apai" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic wide-angle shot of a massive umbrella-shaped volcanic ash plume exploding through the stratosphere over a churning blue ocean at twilight, highly detailed, cinematic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For a brief, brilliant moment, the dramatic land bridge connecting the twin volcanic islets of Hunga Tonga and Hunga Ha'apai seemed destined to become a permanent paradise. Lush vegetation had already begun to colonize the rich volcanic ash slopes. Then came the cataclysm of January 15, 2022—one of the most powerful atmospheric explosions ever recorded by modern scientific instruments, which violently blasted the newly formed island back into the ether.
 
@@ -87,9 +83,7 @@ While the main sub-surface eruption obliterated the visible land bridge and sent
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kona’s Fiery Coastal Additions (Fissure 8 flows)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Kona’s Fiery Coastal Additions (Fissure 8 flows)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vivid golden hour photography of glowing red molten lava pouring over a dramatic black cliffside into deep blue ocean water, thick white steam clouds, National Geographic style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When Kīlauea’s lower East Rift Zone tore open in 2018, it did not merely ooze; it raged. Fissure 8 acted as a towering, roaring fire fountain, shooting incandescent molten rock hundreds of feet into the Hawaiian night sky. This blinding river of liquid fire raced across subdivisions and forests alike, finally plunging over the coastal cliffs to battle the Pacific Ocean in a deafening hiss of boiling steam and swirling glass-shard fog.
 
@@ -118,9 +112,7 @@ Where the ocean once lapped against ancient black sea cliffs, an entirely new re
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Red Sea's Shabaan Shuraywayt Upheaval</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Red Sea's Shabaan Shuraywayt Upheaval" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Satellite false-color imagery of a stark brown volcanic island rising from turquoise Red Sea coral waters, wisps of white steam drifting in the wind, sharp contrast.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Amidst the deep blue shipping lanes of the treacherous Red Sea, fishermen woke to a terrifying spectacle: a pillar of fire erupting directly from the ocean's surface. Underwater vents along the unstable Zubair tectonic rift spewed out millions of tons of incandescent tephra and basalt, rapidly building a jagged, steaming dome above the waves that boldly challenged the open sea.
 
@@ -149,9 +141,7 @@ Christened unofficially by local mariners, the newborn island of Shabaan Shurayw
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Anak Krakatau’s Spectacular Post-Collapse Rebirth</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Anak Krakatau’s Spectacular Post-Collapse Rebirth" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic long-exposure photograph of a steep volcanic cone glowing with red lava bombs against a starry night sky, dark ocean in the foreground, breathtaking composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The legendary child of the infamous 1883 Krakatoa cataclysm suffered its own devastating tragedy in late 2018, when a massive sector collapse triggered a deadly tsunami and sheared off more than two-thirds of the island's cone in a single, catastrophic landslide. For a time, Anak Krakatau ('Child of Krakatoa') was little more than a smoking stump submerged in the turbulent Sunda Strait.
 
@@ -180,9 +170,7 @@ Yet, true to its indomitable moniker, the child refused to die. In the years fol
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Phantom Isle of Fonualei’s Submarine Neighbour</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Phantom Isle of Fonualei’s Submarine Neighbour" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sailing yacht navigating through a vast, endless sea of floating grey volcanic pumice stone under a dramatic tropical sky, cinematic travel photography style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The Tongan archipelago is a restless forge where the Pacific Plate dives ruthlessly beneath the Indo-Australian Plate, melting rock into high-pressure magma chambers. In late 2019, this subterranean pressure cooker found a weak spot north of Fonualei, painting the ocean surface with vast, sprawling rafts of lightweight pumice stone that drifted for hundreds of miles across the Pacific.
 
@@ -211,9 +199,7 @@ Beneath those floating mineral carpets, a steep-sided underwater cone breached t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bogoslof’s Shape-Shifting Summit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Bogoslof’s Shape-Shifting Summit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A jagged, snow-dusted volcanic island emerging from freezing, dark grey Arctic seas with a dramatic plume of grey ash rising into a stormy sky, moody realism.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the freezing, storm-tossed waters of the Bering Sea, the Bogoslof volcano launched a frantic, months-long campaign of underwater violence. Punching through the icy northern waves with explosive phreatomagmatic roars, the volcano hurled dark, ash-laden cauliflower clouds miles into the jet stream, terrifying commercial aviation crews flying the Great Circle routes.
 
@@ -242,9 +228,7 @@ With every pulse of magma, the island completely reinvented its shape, fusing ol
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tajogaite’s Golden Mountain of La Palma</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Tajogaite’s Golden Mountain of La Palma" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning sunset drone shot of a massive, glowing orange volcanic cone with fresh black lava flows cutting through green pine forests down to the Atlantic ocean, 4k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For eighty-five long days, the island of La Palma held its breath as the Cumbre Vieja ridge fractured, opening up multiple roaring vents of incandescent fury. Named officially as Tajogaite, this newborn volcanic cone didn't rise from the ocean floor, but rather burst through the heart of a beloved, pine-forested mountain ridge, cascading rivers of glowing black-and-gold lava down toward Atlantic banana plantations and seaside villages.
 
@@ -273,9 +257,7 @@ As the thick, viscous rivers of basalt cooled, they extended the western coastli
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Smoking Monster of Kavachi's Abyss</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Smoking Monster of Kavachi's Abyss" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater cinematic shot of a curious hammerhead shark swimming through glowing turquoise water near a bubbling underwater volcanic hydrothermal vent, highly detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Affectionately known to local islanders as 'Sharkcano,' Kavachi is one of the most active submarine volcanoes in the southwest Pacific, lurking deep beneath the warm, turquoise waters of the Solomon Islands. When it erupts, it doesn't just vent steam; it throws blinding incandescent blocks of lava and sulfurous water straight up from the dark abyss, boiling the surrounding sea into a milky-green broth of acid and ash.
 
@@ -304,9 +286,7 @@ Yet, what truly captures the world's imagination is the bizarre ecosystem that t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fagradalsfjall’s Neon-River Nursery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Fagradalsfjall’s Neon-River Nursery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking cinematic landscape of glowing bright orange lava rivers snaking through dark black fresh basalt valleys in Iceland under a dramatic northern lights sky, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">After nearly 800 years of profound slumber, the Reykjanes Peninsula in Iceland tore open with a slow-motion, mesmerizing ballet of fire. Eschewing the catastrophic, ash-choking explosions of its famous sibling Eyjafjallajökull, Fagradalsfjall offered the world a rare gift: a gentle, effusive tourist eruption. Pulsing fountains of neon-orange magma rhythmically shot into the Icelandic night, feeding broad, slow-moving rivers of glowing crimson rock that filled tranquil mossy valleys with liquid stone.
 

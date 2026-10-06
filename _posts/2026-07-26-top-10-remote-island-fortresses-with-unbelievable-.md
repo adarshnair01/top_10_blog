@@ -25,9 +25,7 @@ Today, these forgotten titans of stone and iron stand as haunting monuments to o
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fort Alexander (Chum Fort)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Fort Alexander (Chum Fort)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a circular granite fortress rising from dark, icy Baltic waters under an overcast, dramatic sky, high detail, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising ominously from the freezing, grey waters of the Gulf of Finland like a brooding stone crown, Fort Alexander was engineered in the 19th century to guard the imperial sea approaches to St. Petersburg. Its three tiers of tiered casemates could house up to a thousand troops and bristled with more than a hundred heavy cannons. Yet, despite its formidable military design, its most chilling chapter unfolded far away from the smoke of battle.
 
@@ -56,9 +54,7 @@ In the late 1890s, when the terrifying specter of the bubonic plague swept acros
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hurst Castle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Hurst Castle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic sunset over a low-slung stone Tudor castle perched at the end of a narrow gravel spit jutting into a rough, stormy ocean.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the jagged tip of a narrow, windswept shingle spit stretching deep into the turbulent Solent strait, Hurst Castle feels less like a building and more like an extension of the churning sea itself. Built by Henry VIII as part of his chain of coastal defenses against potential French and Holy Roman Empire invasions, its low, thick stone bulwarks were specifically designed to absorb and deflect cannon fire while presenting a minimal profile to enemy warships.
 
@@ -87,9 +83,7 @@ Over the centuries, Hurst evolved from a Tudor stronghold into a grim Victorian 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Elizabeth Castle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Elizabeth Castle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ancient stone castle on a jagged island connected to the mainland by a wet causeway partially covered by the sea, cinematic lighting, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched on a rugged tidal island rising dramatically from the glittering blue expanse of St. Aubin's Bay, Elizabeth Castle commands the horizon with an air of defiant royalty. Twice a day, the rising Atlantic tide completely swallows the causeway connecting the fortress to the mainland, turning the historic stone complex into an unreachable world unto itself. Here, ancient monastic foundations blend seamlessly with sprawling Tudor ramparts and German concrete bunkers from World War II.
 
@@ -118,9 +112,7 @@ Named after Queen Elizabeth I by Sir Walter Raleigh—who served as the island's
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Spitbank Fort</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Spitbank Fort" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive, circular Victorian stone and iron fort sitting alone in the middle of a calm sea, viewed from a drone perspective, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Emerging straight out of the open sea like an artificial volcanic crater made of iron and granite, Spitbank Fort is one of the legendary 'Palmerston Forts' built in the 1860s to protect Portsmouth from a feared French invasion. Commissioned by Lord Palmerston when Napoleon III was rattling sabers across the Channel, this circular maritime fortress cost a staggering sum of Victorian capital and took decades to anchor securely into the shifting seabed.
 
@@ -149,9 +141,7 @@ Though it never fired a shot in anger during a major war, Spitbank served as a c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fort Boyard</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Fort Boyard" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An oval stone maritime fortress standing defiantly in turquoise ocean waters with crashing waves at its base, cinematic composition, golden hour light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Forged in the Atlantic surf off the western coast of France, Fort Boyard looks like a stone battleship frozen mid-ocean. The concept was first proposed in the 17th century by military engineers under Louis XIV, but the project was summarily dismissed as an engineering impossibility because artillery technology of the era could not bridge the distance between the surrounding islands.
 
@@ -180,9 +170,7 @@ It wasn't until the 19th century, under Napoleon Bonaparte, that construction fi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Suomenlinna Sea Fortress</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Suomenlinna Sea Fortress" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A historic Nordic stone fortress wall covered in green moss, facing a calm bay with colorful wooden houses in the background, cinematic photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Spread across a sprawling archipelago of emerald-green islands just a short ferry ride from downtown Helsinki, Suomenlinna is a masterclass in Scandinavian military engineering. Begun in the mid-18th century when Finland was still part of the Swedish Empire, this massive defensive complex was designed as the 'Gibraltar of the North,' intended to check the rising naval ambitions of the Russian Empire in the Baltic basin.
 
@@ -211,9 +199,7 @@ Its labyrinthine dry-stone walls, deep subterranean tunnels, and weathered grani
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Castell de San Felip</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Castell de San Felip" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic subterranean limestone tunnel lit by a single warm lantern, ancient stone walls, mysterious and atmospheric, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Carved deep into the dramatic white limestone cliffs guarding the strategic harbor of Port Mahón in Menorca, Castell de San Felip is a fortress designed to fight not just on the surface, but deep within the bowels of the earth. Originally built in the 16th century by Charles V to protect the island from pirate raids and Ottoman fleets, it was continually expanded by the British, French, and Spanish empires during generations of intense Mediterranean naval warfare.
 
@@ -242,9 +228,7 @@ What makes San Felip truly unbelievable is its vast, dizzying labyrinth of under
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bourtange (Vlagtwedde)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Bourtange (Vlagtwedde)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning high-altitude drone shot of a perfectly symmetrical star-shaped fortress surrounded by a water-filled moat and green fields, cinematic daylight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising from the once-impassable bogs of northeastern Netherlands, Vesting Bourtange is a breathtaking geometric marvel that looks like a mystical mandala etched into the European landscape. Built in 1593 by order of William of Orange during the Dutch Revolt against the Spanish Empire, this star-shaped fortress was strategically positioned on the only sandy ridge traversing the surrounding treacherous swamps, effectively cutting off the sole supply route used by Spanish troops.
 
@@ -273,9 +257,7 @@ Designed according to the absolute cutting-edge principles of Renaissance milita
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bass Rock</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Bass Rock" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive, sheer volcanic island rising out of a stormy Scottish sea, covered in thousands of white seabirds, dramatic cinematic lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">A sheer, monolithic plug of ancient volcanic basalt plunging dramatically into the grey swells of Scotland's Firth of Forth, Bass Rock has long been described as one of the most terrifying natural prisons in the British Isles. Its sheer, vertical white cliffs—whitened by the droppings of over 150,000 gannets—make scaling the island an act of sheer desperation. Yet, humanity found a way to tame this forbidding rock, constructing a medieval castle and chapel near its summit that later served as a dreaded state prison for religious dissidents and political rebels.
 
@@ -304,9 +286,7 @@ During the turbulent 17th-century Covenanting persecutions, religious prisoners 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fort Jefferson (Dry Tortugas)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Fort Jefferson (Dry Tortugas)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive hexagonal red-brick fortress rising from crystal-clear turquoise ocean waters and white coral sand beaches, aerial drone view, sunny day, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Floating like a sprawling brick labyrinth upon the dazzling turquoise shallows of the Gulf of Mexico, seventy miles west of Key West, lies Fort Jefferson—the undisputed king of remote island strongholds. Commissioned in 1846 to control the strategic Florida Straits, this colossal hexagonal fortress is the largest brick masonry structure in the Western Hemisphere, constructed from an astonishing sixteen million handcrafted red bricks.
 

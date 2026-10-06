@@ -25,9 +25,7 @@ These are the extremophiles—organisms that shrug off lethal doses of radiation
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Radioactive Sludge Eaters of Chernobyl</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Radioactive Sludge Eaters of Chernobyl" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of dark, velvety black mold glowing faintly under eerie laboratory ultraviolet light, set against a crumbling concrete backdrop.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside the ruined sarcophagus of Chernobyl's infamous Reactor No. 4, where invisible waves of ionizing radiation hum through the stagnant air, life refuses to surrender. Here, clinging to concrete walls and feeding on the decaying core, dark-hued fungi thrive. They do not merely survive the lethal fallout; they weaponize it, turning poison into fuel.
 
@@ -56,9 +54,7 @@ These radiotrophic fungi use a pigment called melanin to absorb gamma radiation 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Henia vespertina: The Deep Soil Centipede</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Henia vespertina: The Deep Soil Centipede" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro shot of a translucent, pale centipede writhing through dark, moist underground soil illuminated by a sharp beam of light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Far beneath the topsoil, in pitch-black subterranean chambers where oxygen levels plummet to near zero and toxic heavy metals choke the earth, a slender, ghostly predator prowls. Henia vespertina navigates an underground labyrinth that would cause rapid anoxic death in almost any other complex animal.
 
@@ -87,9 +83,7 @@ Moving like a ripple of liquid silver through suffocating crevices, this centipe
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Halobacterium salinarum: The Salt-Crusted Survivors</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Halobacterium salinarum: The Salt-Crusted Survivors" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An aerial drone view of a vibrant blood-red hypersaline lake surrounded by blinding white crystal salt flats under a scorching desert sun.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">To walk across the blinding white expanse of the Dead Sea is to witness a landscape seemingly devoid of breath. Yet, blistering red patches bloom across the brine. These are colonies of Halobacterium salinarum, single-celled archaea that laugh at osmotic pressure, zero oxygen, and high solar ultraviolet radiation.
 
@@ -118,9 +112,7 @@ Encased in crystal armor of sodium chloride, these organisms pump potassium ions
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Spinoloricus cinzia: The Anaerobic Loriciferans</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Spinoloricus cinzia: The Anaerobic Loriciferans" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Deep-sea underwater shot of a bizarre, microscopic armored animal floating in pitch-black brine water illuminated by submersible spotlights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the bottom of the Mediterranean Sea lies an underwater lake of pure brine—the L'Atalante Basin—so dense and salty that it forms a distinct underwater shoreline. This pitch-black, high-pressure abyss is entirely devoid of dissolved oxygen, a toxic wasteland poisoned with high concentrations of hydrogen sulfide. Yet, swimming right through this chemical nightmare are microscopic animals.
 
@@ -149,9 +141,7 @@ Spinoloricus cinzia defy the textbook definition of animal biology. They possess
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Thermococcus gammatolerans: The Boiling Radiation Shield</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Thermococcus gammatolerans: The Boiling Radiation Shield" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic underwater photography of glowing black smoker hydrothermal vents spewing mineral smoke into the freezing, pitch-black deep ocean.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Venture down to the scalding hydrothermal vents where mineral-rich water blasts from the Earth's crust at temperatures exceeding 300°C. Here, swimming in absolute darkness and crushing barometric pressure, lives a hyperthermophilic archaeon named Thermococcus gammatolerans. As its name implies, it possesses an almost mythological tolerance to ionizing radiation.
 
@@ -180,9 +170,7 @@ While most organisms die from radiation because their shattered DNA cannot be st
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pyrococcus furiosus: The Raging Fireball Microbe</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Pyrococcus furiosus: The Raging Fireball Microbe" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro microscopic visualization of spherical microbial cells with trailing flagella, set against a swirling background of golden thermal water and volcanic gas bubbles.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Translating literally to 'raging fireball,' Pyrococcus furiosus is a hyperthermophilic archaeon that thrives at an optimal temperature of 100°C—the exact boiling point of water. Discovered in shallow marine volcanic vents, this organism exists in an eternal sauna of sulfur, heavy metals, and zero oxygen.
 
@@ -211,9 +199,7 @@ Feeding on complex carbohydrates and peptides, it utilizes tungsten-containing e
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Milnesium tardigradum: The Giant Water Bear</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Milnesium tardigradum: The Giant Water Bear" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic high-magnification microscope photography of a chubby, eight-legged tardigrade slowly crawling over green moss fibers.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">No list of extreme survivors is complete without the tardigrade, affectionately known as the water bear. Among all species, Milnesium tardigradum reigns as an apex titan of toughness. When conditions turn sour, these microscopic eight-legged champions enter a state of suspended animation called cryptobiosis, expelling nearly all water from their bodies and halting their metabolism entirely.
 
@@ -242,9 +228,7 @@ In this tun state, they have been subjected to the vacuum of open space, tempera
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bdelloid Rotifers: The Desiccation Masters</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Bdelloid Rotifers: The Desiccation Masters" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Detailed microscopic imagery of a translucent rotifer with its iconic spinning ciliated corona wheel filtering water particles.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over 80 million years, bdelloid rotifers have pulled off an evolutionary magic trick that defies textbook genetics: they have reproduced entirely without males, relying strictly on parthenogenesis. But their resilience goes far beyond asexual cloning; these microscopic freshwater animals can completely dry out into dust and withstand staggering levels of radiation and anoxia.
 
@@ -273,9 +257,7 @@ When dried into a tun, their cellular membranes are preserved by unique sugars, 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cryomona and Antarctic Permafrost Bacteria</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Cryomona and Antarctic Permafrost Bacteria" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning visual of deep blue Antarctic glacial ice cave interior, with scientific drilling equipment piercing down into dark, ancient subglacial water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Buried beneath four kilometers of solid Antarctic ice sheet lies Lake Vostok, a liquid body of water sealed off from the atmosphere for millions of years. In this pitch-black, freezing, high-pressure, oxygen-starved aquatic vault, ancient bacteria lie dormant or crawl at an agonizingly slow metabolic crawl.
 
@@ -304,9 +286,7 @@ These psychrophilic organisms have evolved cell membranes enriched with unsatura
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Deinococcus radiodurans: The Ultimate 'Conan the Bacterium'</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Deinococcus radiodurans: The Ultimate 'Conan the Bacterium'" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vibrant electron microscope false-color image of tetrad-shaped pink bacterial cells clustered tightly together, glowing with resilient biological energy.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Crowning our list is the undisputed king of biological resilience: Deinococcus radiodurans, famously dubbed 'Conan the Bacterium.' Originally discovered when canned meat spoiled despite being sterilized with massive doses of radiation, this organism holds the official Guinness World Record for the world's most radiation-resistant life form.
 

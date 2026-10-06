@@ -25,9 +25,7 @@ We are standing on the precipice of a translucent revolution. Transparent OLED (
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The LucidCook Kitchen Island</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="The LucidCook Kitchen Island" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a modern minimalist kitchen island featuring a transparent OLED display hovering over quartz countertops, glowing recipe graphics floating in mid-air, moody ambient lighting, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The morning light filters through the sleek quartz countertops, catching the edge of an island that looks entirely ordinary until the chef taps the marble surface. Instantly, a glowing, full-color recipe hovers directly above the cutting board, floating like a holographic manuscript in mid-air while steam rises from a boiling kettle below. You can watch your julienned carrots sizzle while simultaneously monitoring your home's security feed in the corner of the glass.
 
@@ -56,9 +54,7 @@ Crafted for culinary purists who despise clutter, this installation eliminates t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">AuraGlass Bedroom Partition</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="AuraGlass Bedroom Partition" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An opulent master bedroom with a massive transparent OLED glass partition glowing softly with abstract art, moonlight streaming through floor-to-ceiling windows, cinematic composition, moody tones, architectural digest style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the quiet sanctum of a master bedroom, the boundary between the sleeping quarters and the en-suite dressing room is demarcated by a towering sheet of seamless glass. By day, it acts as a crystal-clear room divider that floods the space with refracted morning sun. By night, with a subtle vocal command, it shifts from completely transparent to a rich, cinematic display playing ambient fireplace visuals or soothing art installations.
 
@@ -87,9 +83,7 @@ This isn't just a screen; it's a mood architect. It creates the illusion of infi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Orion Skylight Portal</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="The Orion Skylight Portal" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A luxury modern attic living room looking up at a sloped glass ceiling embedded with a glowing transparent OLED showing stars and galaxies, cozy interior, cinematic lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On nights when the urban smog or relentless rain conceals the constellations, the Orion Skylight Portal transforms the ceiling of your penthouse into a live, interactive planetarium. Installed flush against the architectural glass of your angled ceiling, the transparent display superimposes real-time astronomical charts, satellite trajectories, and cinematic nebula simulations directly over the real sky—or in place of it when the weather turns foul.
 
@@ -118,9 +112,7 @@ Lying back on velvet loungers, homeowners can trace the Orion constellation with
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">EchoFrame Smart Vanity Mirror</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="EchoFrame Smart Vanity Mirror" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up of a high-end luxury bathroom vanity mirror made of transparent OLED showing digital widgets floating around a crisp reflection, warm golden hour lighting, cinematic macro photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The morning routine will never feel mundane again. Standing before the EchoFrame, you see your reflection crisply mirrored in the glass, yet hovering effortlessly beside your shoulder is your daily schedule, stock market fluctuations, and a virtual clothing stylist recommending today's wardrobe based on real-time weather forecasts. The glass is both a mirror and a window into your digital life.
 
@@ -149,9 +141,7 @@ As you brush your teeth, the display gently shifts to show a guided meditation t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Mirage Home Office Desk</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="The Mirage Home Office Desk" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A moody, sophisticated home office at night featuring a clear glass desk glowing with floating data visualizations and charts, cyberpunk corporate aesthetic, cinematic depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Your desk is no longer a graveyard of plastic monitors and tangled cables. The Mirage is a sleek slab of crystal-clear tempered glass resting on minimalist brushed titanium legs. When inactive, it is an immaculate, empty table that mirrors the room around it. Power it on, and multiple virtual desktop screens spring to life floating directly on the glass surface, allowing you to manipulate spreadsheets, video conference with global teams, and sketch architectural designs with a stylus directly on the transparent plane.
 
@@ -180,9 +170,7 @@ Clients visiting your home office are invariably stunned as you effortlessly dra
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Horizon Glass Home Theater</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Horizon Glass Home Theater" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A breathtaking luxury penthouse living room at dusk with a massive transparent OLED screen displaying a movie, city skyline visible through the glass, cinematic lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Forget bulky black monoliths dominating your living room wall. The Horizon Glass Home Theater is a colossal expanse of crystal glass that hangs like an art piece over a minimalist stone fireplace. When movie night arrives, the glass deepens its black levels using advanced micro-pixel dimming, projecting hyper-vivid cinematic blockbusters while allowing the ambient brickwork and architectural lighting behind it to subtly bleed through, creating a surreal, holographic viewing experience.
 
@@ -211,9 +199,7 @@ When the credits roll, the screen rolls down smoothly into a concealed floor tro
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Apothecary Smart Herbarium</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="The Apothecary Smart Herbarium" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek indoor hydroponic garden enclosed in transparent OLED glass, glowing digital plant metrics floating around fresh green basil and mint, moody cinematic lighting, macro details.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Inside your designer kitchen, a vertical glass enclosure houses rare culinary herbs and medicinal plants bathed in gentle pink and white horticultural LEDs. Encasing the greenery is a transparent OLED wrap that acts as an interactive encyclopedia for your indoor garden. As you examine a sprig of rosemary, the glass displays its growth rate, soil moisture levels, optimal harvesting windows, and recipes specifically utilizing that herb.
 
@@ -242,9 +228,7 @@ It transforms indoor gardening from a passive hobby into an interactive, high-te
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Nexus Glass Wine Cellar</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Nexus Glass Wine Cellar" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A luxurious subterranean wine cellar featuring a transparent OLED glass door displaying glowing wine catalog data and maps, moody atmospheric lighting, cinematic, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Descending the spiral staircase into your subterranean wine cellar, you are met with a wall of temperature-controlled glass cradling hundreds of rare vintages. Embedded directly into the center panel is a transparent OLED interactive map. Without opening the cellar doors and risking temperature fluctuations, you can glide your fingers across the glass to locate a 1982 Bordeaux, view its tasting notes, check optimal serving temperatures, and watch a video history of the vineyard where it was bottled.
 
@@ -273,9 +257,7 @@ The glass acts as a digital sommelier on permanent standby. As you select a bott
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sanctuary Meditation Dome</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="The Sanctuary Meditation Dome" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A serene wellness room featuring a curved transparent OLED meditation cylinder glowing with tranquil bamboo graphics, soft cinematic ambient lighting, zen atmosphere, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Step inside a freestanding glass cylinder situated in the quietest corner of your wellness pavilion. As the door seals shut, the curved transparent walls awaken, enveloping you in a panoramic simulation of a tranquil bamboo forest swaying in a breeze, or a serene Japanese zen garden at twilight. Your real surroundings remain faintly visible through the foliage graphics, grounding you in reality while shielding your mind from domestic distractions.
 
@@ -304,9 +286,7 @@ Wearables on your wrists transmit your heart rate variability to the dome in rea
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Panorama Infinity Smart Window</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Panorama Infinity Smart Window" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An awe-inspiring luxury penthouse living room at sunset with an entire floor-to-ceiling glass wall displaying floating smart home widgets and city views, cinematic masterwork, photorealistic, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The undisputed pinnacle of transparent OLED technology: the entire exterior glass wall of your living room transforms into the master command center of your estate. By day, it is a crystal-clear window framing your ocean view, blocking harsh UV rays while automatically adjusting its tint based on the sun's trajectory. By evening, it becomes an interactive smart home hub where weather maps, security camera feeds, home lighting controls, and streaming entertainment float effortlessly over the glowing horizon.
 

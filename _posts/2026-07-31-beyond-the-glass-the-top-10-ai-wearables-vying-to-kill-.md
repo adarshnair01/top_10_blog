@@ -25,9 +25,7 @@ Imagine a world where your lapel pin reads your emails, your ring controls your 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Intelligent Lanyard</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Intelligent Lanyard" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of a sleek, minimalist fabric lanyard with a subtle glowing metallic lens resting on a dark wool jacket, moody studio lighting, 8k resolution, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Dangling innocently from the neck like an executive badge, this understated woven strap looks like corporate decor. Yet beneath its minimalist fabric lies an unsparing digital witness. As you navigate crowded city streets, its micro-lenses quietly capture your visual field, translating spoken conversations in real-time and cataloging every moment of your day into a searchable memory vault.
 
@@ -56,9 +54,7 @@ There is a haunting poetry to wearing your own surveillance. You walk into a dim
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Neural Tap Ring</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Neural Tap Ring" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of a brushed titanium smart ring on a man's finger, subtle blue LED pulse tracing the metal band, dark cyberpunk background, cinematic depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">It slips onto your index finger with the cold, heavy dignity of a wedding band, concealing an astonishing web of electromyographic sensors. Instead of forcing you to stare at a screen, this ring listens to the micro-twitches of your tendons. When you tap your thumb against your forefinger in your pocket, microscopic electrical impulses are translated into complex digital commands.
 
@@ -87,9 +83,7 @@ Suddenly, the entire physical world becomes your touchscreen. You can flick your
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Holographic Wristband</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The Holographic Wristband" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic shot of a futuristic wristband projecting a glowing holographic user interface directly onto a user's forearm, neon lighting, sci-fi aesthetic, 4k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When darkness falls, the sleek band strapped to your forearm wakes up. With a soft hum, a full-color interactive interface beams directly onto the back of your skin. Your forearm transforms into a glowing, responsive touch screen where you can check maps, read messages, and manage your schedule directly on your own flesh.
 
@@ -118,9 +112,7 @@ This is the ultimate rejection of external hardware. You are no longer carrying 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aura AI Brooch</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Aura AI Brooch" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An elegant gold and obsidian AI brooch pinned to a cashmere coat, cinematic lighting, shallow depth of field, high-end luxury tech photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Pinned to the lapel of a vintage trench coat, the Aura AI Brooch merges haute couture with aggressive artificial intelligence. It doesn't just listen; it feels the room. Using thermal imaging and voice cadence analysis, it evaluates the emotional climate of your conversations and whispers strategic social advice directly into your hidden wireless earbud.
 
@@ -149,9 +141,7 @@ It is the digital confidant you never knew you needed. Standing in a high-stakes
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bio-Sonic Ear Pods</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Bio-Sonic Ear Pods" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek biometric earbuds resting on a dark velvet surface with soft LED status lights glowing, moody cinematic lighting, macro detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">They nestle deep within the ear canal, practically invisible to the casual observer. But these are not ordinary earbuds; they are neural translators and cognitive enhancers. As you walk through the bustling streets of Tokyo or Paris, foreign languages are instantly stripped of their mystery, translated in your ear with zero perceptible lag before the speaker finishes their sentence.
 
@@ -180,9 +170,7 @@ Simultaneously, embedded EEG sensors monitor your cognitive fatigue throughout t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Omni-Vision Pendant</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Omni-Vision Pendant" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A metallic titanium pendant necklace resting on a traveler's chest against a backdrop of a misty mountain range at sunrise, cinematic wide shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Suspended from a titanium chain, the Omni-Vision Pendant watches the world with an unblinking digital eye. Designed for the adventurous and the hyper-aware, it records your entire life's journey in immersive spatial video, preserving memories with a fidelity that human recall could never match.
 
@@ -211,9 +199,7 @@ More than a camera, it is an autonomous guardian. If you stumble on a remote mou
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Chameleon Smart Glasses</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Chameleon Smart Glasses" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stylish person wearing minimalist black-rimmed smart glasses reflecting subtle green digital data streams in a bustling neon-lit city at night, cinematic portrait.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">They look like classic, timeless horn-rimmed spectacles from a 1950s cinematic masterpiece. Yet with a subtle blink, the lenses shift from crystal clear to dark sunglasses while simultaneously overlaying navigation arrows, real-time translation subtitles, and calendar notifications directly onto the lenses of your vision.
 
@@ -242,9 +228,7 @@ Gone are the bulky, geeky headsets of the past. These glasses blend seamlessly i
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Subdermal Neural Patch</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Subdermal Neural Patch" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro shot of a futuristic biomedical skin patch on a forearm with tiny glowing biometric indicators, clean clinical lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Applied directly to the skin like a temporary tattoo, the Subdermal Neural Patch represents the absolute frontier where biology meets artificial intelligence. Using microscopic hydrogel needles, it interfaces directly with interstitial fluid, tracking your body's chemistry and feeding real-time health metrics to your neural network.
 
@@ -273,9 +257,7 @@ When your cortisol spikes or your hydration drops dangerously low, the patch com
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Neural Collar</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Neural Collar" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic portrait of a person wearing a sleek, matte black graphene collar around their neck, subtle ambient lighting, futuristic fashion.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Worn discreetly around the base of the neck like a modern choker, this flexible graphene band rests directly over the vagus nerve. By delivering precise, imperceptible micro-currents guided by an on-board AI, it actively regulates your nervous system, banishing stress, sharpening cognitive focus, and even inducing deep restorative sleep on command.
 
@@ -304,9 +286,7 @@ This device does not merely show you information; it changes how you *feel*. In 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Aether Neural Circlet</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Aether Neural Circlet" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic high-detail portrait of a person wearing an ultra-sleek carbon-titanium neural circlet across their forehead, glowing faint starlight effect, profound futuristic atmosphere, masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of the post-smartphone revolution sits the Aether Neural Circlet. Resting like a crown of modern philosophy just above the temples, this featherlight band achieves the ultimate holy grail of technology: thought-controlled computing. There are no screens, no buttons, no gestures, and no voice commands. You simply think of an action, and it happens.
 

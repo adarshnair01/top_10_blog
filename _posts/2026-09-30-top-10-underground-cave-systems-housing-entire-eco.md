@@ -25,9 +25,7 @@ From subterranean rivers rushing through pitch-black gorges to chambers choked w
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kazumur Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Kazumur Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle shot of a massive, dark basalt lava tube cave in Hawaii, illuminated by a single headlamp beam revealing intricate rock textures, ultra-detailed, moody atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Flowing like a river of liquid fire through the bowels of an active Hawaiian volcano, molten basalt once carved this labyrinth before draining away into the sea. Today, Kazumura Cave is a chillingly sterile cathedral of dark basalt tubes, yet it harbors specialized microbial mats and subterranean insects that feed on organic matter drifting down from tree roots above. 
 
@@ -56,9 +54,7 @@ Walking through these chilled volcanic galleries feels like stepping onto a Mart
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Grâce-Bouton Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Grâce-Bouton Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photography of translucent cave amphipods swimming in a crystal-clear subterranean limestone pool in Belgium, dramatic side lighting, dark wet rock background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away beneath the rolling, wooded hills of the Belgian Ardennes, Grâce-Bouton Cave protects fragile subterranean aquatic ecosystems. Water filtering down through centuries of limestone strata feeds crystal-clear pools that host rare, translucent amphipods and pale flatworms perfectly adapted to life without light.
 
@@ -87,9 +83,7 @@ Time feels suspended in these damp chambers, where the only sound is the rhythmi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cueva de los Cristales (Cave of the Crystals)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Cueva de los Cristales (Cave of the Crystals)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A researcher in a specialized silver cooling suit standing inside a massive cave filled with glowing giant translucent selenite crystals, dramatic lighting, cinematic scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep beneath the arid landscape of Chihuahua lies a subterranean furnace that feels straight out of a fantasy epic. Giant beams of translucent selenite, some stretching up to 12 meters long and weighing 55 tons, pierce the damp air like frozen swords of a sleeping titan.
 
@@ -118,9 +112,7 @@ To enter this chamber is to risk your life. Temperatures hover around 58°C (136
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Postojna Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Postojna Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up shot of a pale, pinkish olm (cave salamander) resting on wet limestone rocks in a dark subterranean river, soft mysterious lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Carved over millions of years by the Pivka River, Postojna Cave is a sprawling subterranean wonderland of colossal stalagmites, echoing concert halls, and mystical subterranean life. Tourists have marveled at its glowing white corridors for centuries, riding an underground electric train deep into the limestone mountain.
 
@@ -149,9 +141,7 @@ Yet the true magic of Postojna lurks in its darkest, untouched pools: the 'human
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Waitomo Glowworm Caves</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Waitomo Glowworm Caves" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A small wooden boat gliding on a mirror-like underground river beneath a ceiling glowing with thousands of blue-green bioluminescent glowworms, magical atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Stepping onto a silent boat inside the Waitomo caves feels like drifting through an underground galaxy. Above you, thousands of tiny biological lanterns—the larvae of the fungus gnat *Arachnocampa luminosa*—illuminate the limestone ceiling with a mesmerizing, eerie turquoise glow.
 
@@ -180,9 +170,7 @@ These glowing threads are predatory traps. The larvae spin silky webs laced with
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cenote Angelita</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Cenote Angelita" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A scuba diver swimming above an eerie underwater river of white hydrogen sulfide fog with submerged tree branches in a Mexican cenote, mystical blue lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Dive down through the sunlit turquoise waters of this jungle sinkhole, and you will cross a surreal boundary into a twilight zone that defies logic. At 30 meters deep, divers encounter a ghostly, flowing river of pale fog complete with fallen branches and submerged tree trunks.
 
@@ -211,9 +199,7 @@ This is not water, but a dense layer of hydrogen sulfide—a halocline and chemo
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lecuyer Cave (Cenote Systems of Riviera Maya)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Lecuyer Cave (Cenote Systems of Riviera Maya)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide-angle underwater photo of a massive flooded limestone cave with giant stalactites, clear blue water, and a diver with a glowing flashlight beam cutting through the gloom.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the dense Mayan jungle lies the world's most intricate labyrinth of flooded caves, acting as a colossal subterranean aquifer. These flooded chambers preserve fossils of Ice Age megafauna alongside modern blind cave species that have evolved completely isolated from surface ecosystems.
 
@@ -242,9 +228,7 @@ As you glide through water so clear it feels like floating in mid-air, calcified
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mammoth Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Mammoth Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric shot of a massive underground cavern in Mammoth Cave, Kentucky, with wooden pathways, dramatic cavern lighting, and towering stalagmites.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The undisputed titan of the subterranean world, Mammoth Cave is a staggering labyrinth of multi-leveled chambers, bottomless pits, and winding subterranean rivers. Within its eternal night roam ghost-white, eyeless cave fish, translucent crayfish, and beetles that navigate entirely by touch and vibration.
 
@@ -273,9 +257,7 @@ Walking its historic stone trails is a journey through deep time. From Civil War
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Son Doong Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Son Doong Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking cinematic shot of a colossal cavern in Son Doong Cave, Vietnam, with a massive beam of sunlight streaming down through a jungle sinkhole onto lush green plants.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Son Doong is so unimaginably vast that it possesses its own weather system, complete with jungle-shrouded dolines (collapse sinkholes) where shafts of sunlight pierce the gloom to feed towering trees. Clouds form inside its colossal main chamber, swirling around stalagmites taller than skyscrapers.
 
@@ -304,9 +286,7 @@ Descending into Son Doong feels like stepping onto a lost primordial planet. Ins
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Movile Cave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Movile Cave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro shot of a rare, pale blind cave spider clinging to a sulfur-encrusted rock wall inside Movile Cave, dramatic dramatic scientific lighting, pitch black background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sealed off from the outside world by thick layers of clay for over five million years, Movile Cave is the closest thing on Earth to an alien biosphere. The air here is a toxic cocktail: oxygen levels are a meager third of normal air, carbon dioxide is a hundred times higher, and the atmosphere is saturated with lethal hydrogen sulfide and methane.
 

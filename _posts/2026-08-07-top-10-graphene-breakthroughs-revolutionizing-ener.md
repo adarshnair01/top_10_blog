@@ -25,9 +25,7 @@ As the global race for clean, limitless power hits a frantic crescendo, research
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Graphene-Enhanced Micro-Supercapacitor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Graphene-Enhanced Micro-Supercapacitor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro cinematic photography of a microscopic glowing graphene mesh illuminated by neon blue laser light, highly detailed, futuristic electronics background, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a dimly lit laboratory humming with the quiet frequency of mass spectrometers, materials scientists stared in disbelief at a sliver of carbon no thicker than a ghost's whisper. Traditional batteries store energy through sluggish chemical reactions, but this micro-device operates on electrostatic attraction, trapping ions on a vast, microscopic sponge of perforated graphene. 
 
@@ -56,9 +54,7 @@ When connected to a testing circuit, it didn't just discharge power; it hurled i
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lightning-Fast Graphene-Aluminum-Ion Hybrid Cells</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Lightning-Fast Graphene-Aluminum-Ion Hybrid Cells" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a glowing futuristic electric vehicle battery pack glowing with internal blue energy, high-end laboratory environment, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over a century, the ritual of charging has been an exercise in patience—plug in the smartphone, walk away, and wait hours for the chemical soup inside to stabilize. But down under in the sun-drenched innovation hubs of Brisbane, that narrative was violently upended. By weaving high-purity graphene sheets with abundant aluminum ions, engineers birthed a hybrid cell that scoffs at traditional charging curves.
 
@@ -87,9 +83,7 @@ Picture plugging an electric sedan into a terminal and watching the battery gaug
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Thermal-Regulating Graphene Phase-Change Composites</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Thermal-Regulating Graphene Phase-Change Composites" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up macro shot of thermal heat dissipation across a geometric graphene honeycomb matrix, glowing amber and cool cyan thermal imaging style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Heat is the silent assassin of modern energy storage. Every time a battery pushes electrons hard, microscopic thermal wars erupt inside, degrading cathodes and threatening fiery destruction. Enter Manchester’s National Graphene Institute, where scientists looked at this thermal nightmare and introduced a miraculous cooling scaffold.
 
@@ -118,9 +112,7 @@ By embedding pristine graphene flakes into phase-change materials, they created 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Self-Healing Graphene Anodes for Lithium-Sulfur Batteries</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Self-Healing Graphene Anodes for Lithium-Sulfur Batteries" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic high-magnification view of a glowing golden sulfur nanoparticle encapsulated in a dark, shimmering web of graphene, microscopic art style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sulfur has long been the holy grail of battery chemistry—cheap, virtually inexhaustible, and packing an astronomical energy punch. Yet, it carried a fatal flaw: sulfur anodes expand and crack like dry desert earth during cycling, rapidly destroying themselves from the inside out. 
 
@@ -149,9 +141,7 @@ At Stanford, brilliant minds countered this mechanical chaos by encasing sulfur 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Graphene Aerogel Sponges for Ultra-Light Grid Storage</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Graphene Aerogel Sponges for Ultra-Light Grid Storage" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A delicate, dark block of graphene aerogel resting precariously on a vibrant red rose petal, studio lighting, macro photography, surreal and ethereal.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a solid material so light that it can balance effortlessly on the delicate petals of a blooming flower, yet when placed in an electrical circuit, it acts as an immovable fortress of stored energy. This is the paradoxical wonder of graphene aerogel, often dubbed 'frozen smoke.'
 
@@ -180,9 +170,7 @@ Crafted by removing the liquid from a hydrogel without collapsing its delicate c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Biocompatible Graphene Oxide Super-Bio-Batteries</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Biocompatible Graphene Oxide Super-Bio-Batteries" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of a glowing microscopic graphene bio-battery embedded within shimmering human neural tissue, blue and gold bioluminescence.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside the human body, pacemakers and neural stimulators march to the relentless tick of a battery clock. When those internal power cells die, patients must endure risky surgical replacements. But in Stuttgart, roboticists and chemists have rewritten the biological contract.
 
@@ -211,9 +199,7 @@ By leveraging biocompatible graphene oxide sheets, they engineered micro-batteri
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Roll-to-Roll Laser-Printed Graphene Energy Sheets</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Roll-to-Roll Laser-Printed Graphene Energy Sheets" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An industrial manufacturing floor showing a high-powered red laser flash-converting polymer tape into gleaming black graphene sheets, cinematic motion blur.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, the Achilles' heel of graphene wasn't its performance—it was manufacturing. Creating pristine atomic sheets was painstakingly slow, limited to microscopic flakes scraped off graphite with sticky tape. The dream of mass commercialization seemed perpetually locked behind laboratory doors.
 
@@ -242,9 +228,7 @@ Then came the industrial laser alchemists of Texas. By passing cheap polyimide f
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Quantum-Dot Graphene Quantum Supercapacitors</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Quantum-Dot Graphene Quantum Supercapacitors" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Futuristic abstract representation of quantum dots embedded in a glowing graphene lattice, iridescent neon light particles, scientific visualization style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the bleeding edge of quantum mechanics, scientists at MIT peered past the normal boundaries of surface-area physics and manipulated graphene at the quantum dot scale. By cutting graphene sheets into uniform nanoscale quantum dots and fusing them with metal-oxide nanoparticles, they unlocked storage properties that defy classical intuition.
 
@@ -273,9 +257,7 @@ These quantum supercapacitors exploit quantum tunneling effects, allowing electr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Graphene-Reinforced Solid-State Electrolyte Matrices</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Graphene-Reinforced Solid-State Electrolyte Matrices" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic studio lighting of a sleek solid-state battery cross-section showing glowing lithium ions flowing through a shimmering graphene-reinforced crystalline matrix.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The greatest ghost haunting the electric vehicle revolution is the volatile liquid electrolyte inside lithium batteries—a flammable cocktail prone to catastrophic dendrite punctures and fiery explosions. For years, solid-state batteries were heralded as the ultimate shield, yet solid electrolytes proved too brittle and sluggish.
 
@@ -304,9 +286,7 @@ In Seoul, Samsung's master chemists solved the riddle by reinforcing solid silve
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Graphene-Hydrogen Molecular Cage Storage Grid</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Graphene-Hydrogen Molecular Cage Storage Grid" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic masterpiece of glowing hydrogen molecules gently settling into a vast, intricate, cathedral-like lattice of golden graphene, 8k hyperdetailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute summit of human ingenuity sits the holy grail of clean energy storage: hydrogen. Pound for pound, hydrogen holds nearly three times the energy of gasoline, leaving behind nothing but pure water vapor when consumed. Yet, storing it has been an engineering nightmare—requiring cryogenic refrigeration at minus 253 degrees Celsius or hyper-baric steel tanks pressurized to terrifying extremes.
 

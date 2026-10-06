@@ -25,9 +25,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Maverick of Oxfordshire: Tokamak Energy ST40</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Maverick of Oxfordshire: Tokamak Energy ST40" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of the Tokamak Energy ST40, glowing faintly blue within a modern, clean laboratory, with engineers in lab coats observing data screens. Focus on the compact, spherical design, with intricate wiring visible. Atmospheric lighting, slight lens flare.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the historic scientific landscape of Oxfordshire, a sleek, compact machine hums with ambition. The ST40, a spherical tokamak, defies the colossal scale often associated with fusion. It’s a testament to innovation, proving that smaller can indeed be mighty. Imagine a device that could fit into a large room, yet holds the promise of power equivalent to a small power plant. This is the vision driving the engineers at Tokamak Energy, who are quietly but relentlessly pushing the limits of magnetic confinement in an incredibly efficient footprint. Their approach is not just about raw power, but about practicality and rapid deployment, a future where fusion might not require acres of land.</div>
   <div class="fact-grid">
@@ -54,9 +52,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Lightning Whisperer: Zap Energy's Z-Pinch Breakthrough</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Lightning Whisperer: Zap Energy's Z-Pinch Breakthrough" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dynamic, high-speed photography shot of a Z-pinch plasma column inside a clear vacuum chamber, intensely bright and purple-white, surrounded by advanced diagnostic equipment. Dark, moody lab environment, streaks of light, sharp focus on the plasma.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the bustling tech hub of Seattle, far from the traditional colossal fusion facilities, a different kind of spark is igniting. Zap Energy pursues the elegant, yet notoriously tricky, Z-pinch concept. Forget massive magnets; this approach relies on the plasma's own magnetic field to confine itself, creating a 'pinch' so powerful it can reach fusion conditions. It's a dance of raw electromagnetic force, a lightning strike tamed and controlled. The sheer simplicity of their design, a direct path to fusion, has always been its tantalizing promise – and its greatest challenge. Now, their innovative 'sheared-flow stabilization' technique is proving that the Z-pinch might just be ready for its close-up.</div>
   <div class="fact-grid">
@@ -83,9 +79,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Hammer of the Stars: General Fusion's Magnetized Target</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The Hammer of the Stars: General Fusion's Magnetized Target" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide-angle, dramatic shot of General Fusion's MTF prototype, a large metallic sphere encased in complex machinery, with visible hydraulic pistons. Industrial, powerful aesthetic, sparks of simulated energy, engineers in hard hats observing from a safe distance.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Nestled amidst the rugged beauty of British Columbia, an ambitious project is attempting to bring fusion to heel with sheer mechanical might. General Fusion’s approach is a symphony of engineering: a sphere of swirling liquid metal, acting as both a neutron absorber and a structural liner, is rhythmically compressed by an array of synchronized pistons. The goal? To crush a pre-heated, magnetized plasma to fusion conditions in a spectacular micro-implosion. It’s a bold, industrial-scale reimagining of fusion, a powerful, rhythmic beat designed to unlock the atomic furnace. The sheer drama of this mechanical ballet, designed to produce a controlled explosion every second, is nothing short of cinematic.</div>
   <div class="fact-grid">
@@ -112,9 +106,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The German Knot: Wendelstein 7-X Stellarator's Endurance</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The German Knot: Wendelstein 7-X Stellarator's Endurance" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Artistic, high-resolution shot of the interior of the Wendelstein 7-X stellarator, focusing on the intricate, twisted superconducting magnetic coils glowing with internal light, giving a futuristic, almost alien machine aesthetic. Clean lab background, deep shadows and highlights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a pristine facility on Germany's Baltic coast, a marvel of engineering stands, its twisted, intricate coils resembling a cosmic knot. This is Wendelstein 7-X, the world's largest stellarator, a fusion device designed for continuous, steady-state operation – a crucial step towards a reliable power plant. Unlike the pulsed nature of tokamaks, stellarators inherently possess greater stability, a magnetic cage that holds plasma without violent disruptions. The sheer complexity of its magnetic field, meticulously crafted from 50 unique, superconducting coils, is a testament to human ingenuity. Its mission: to prove that fusion can burn not just in flashes, but for as long as we need it.</div>
   <div class="fact-grid">
@@ -141,9 +133,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Silent Burn: TAE Technologies' FRC Odyssey</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The Silent Burn: TAE Technologies' FRC Odyssey" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Futuristic laboratory scene with the TAE Technologies' FRC device (Norman/Copernicus), a sleek, cylindrical machine, emitting a soft, ethereal glow. Scientists in modern lab attire are intently analyzing data on holographic interfaces. High-tech, clean, sophisticated aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the Californian sun, a team at TAE Technologies is pursuing a path less traveled, one that promises not just energy, but a cleaner, safer form of fusion. Their Field-Reversed Configuration (FRC) device creates a compact, self-contained 'smoke ring' of plasma, which they then sustain and heat with high-energy particle beams. The true marvel? Their focus on aneutronic fuels like hydrogen-boron (p-B11), which produces fewer radioactive byproducts, moving closer to the 'holy grail' of fusion. It’s a bold vision, aiming for a fusion reaction that is not only powerful but also environmentally benign, a 'silent burn' that could revolutionize energy production with minimal waste.</div>
   <div class="fact-grid">
@@ -170,9 +160,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Projectile's Kiss: First Light Fusion's Shockwave</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The Projectile's Kiss: First Light Fusion's Shockwave" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, slow-motion capture of a hypervelocity projectile impacting a target within a vacuum chamber, creating a brilliant, superheated plasma shockwave. Focus on the intense light and symmetrical expansion, with a dark, scientific backdrop.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Another British contender, First Light Fusion, is taking a radically different, almost poetic, approach to igniting the stars. Instead of magnetic cages, they use a hypervelocity projectile, launched at incredible speeds, to create a shockwave that implodes a fuel pellet. It's a ballet of extreme physics, where mechanical force is precisely converted into the intense pressure needed for fusion. Picture a tiny, perfectly timed cosmic hammer strike, delivering immense energy in microseconds. This 'projectile fusion' method is designed to be elegant, simple, and potentially scalable, bypassing many of the complexities of traditional magnetic confinement. It's a testament to thinking outside the conventional fusion box.</div>
   <div class="fact-grid">
@@ -199,9 +187,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Dragon's Furnace: HL-2M Tokamak's Roar</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="The Dragon's Furnace: HL-2M Tokamak's Roar" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Panoramic, awe-inspiring shot of the HL-2M Tokamak, a massive, gleaming metallic ring structure within a high-ceilinged, brightly lit industrial facility. Engineers are working around it, conveying scale and complexity. Dramatic lighting, blue and white hues.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the heart of China’s scientific ambition, the HL-2M Tokamak stands as a powerful testament to a nation's drive for energy independence. This colossal machine, an upgraded and more potent successor, pushes the boundaries of plasma current and temperature. It's a fiery crucible where scientists are honing the skills of managing incredibly hot, dense plasma for extended durations. The HL-2M represents a significant step forward in understanding the complexities of high-performance tokamak operation, pushing towards conditions that mimic the core of the sun. Each successful pulse is a step closer to understanding the fundamental physics required for a future fusion power plant, a dragon breathing controlled fire.</div>
   <div class="fact-grid">
@@ -228,9 +214,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Quantum Leap: Commonwealth Fusion Systems' SPARC</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="The Quantum Leap: Commonwealth Fusion Systems' SPARC" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic, wide-angle shot of the SPARC tokamak in its construction phase, with the massive, gleaming REBCO superconducting magnets clearly visible as a central feature. Engineers in hard hats working meticulously around it. Industrial, high-tech, aspirational, with a sense of immense power contained.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On a sprawling campus in Massachusetts, a new breed of fusion reactor is rising, built on a revolutionary foundation. Commonwealth Fusion Systems (CFS), spun out of MIT, is leveraging a game-changing technology: High-Temperature Superconducting (HTS) magnets made from REBCO (Rare-Earth Barium Copper Oxide). These magnets allow for significantly stronger magnetic fields in a much smaller footprint, enabling a compact tokamak called SPARC to achieve net energy gain. It’s a quantum leap, transforming the scale and economics of fusion. The promise is profound: a faster, cheaper path to fusion power, proving that the future might arrive sooner and be more manageable than we ever dared to imagine.</div>
   <div class="fact-grid">
@@ -257,9 +241,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The European Giant's Roar: JET's Deuterium-Tritium Triumph</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="The European Giant's Roar: JET's Deuterium-Tritium Triumph" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Powerful, dramatic shot of the JET tokamak, a colossal, weathered but still imposing metallic ring, bathed in the soft, ambient glow of diagnostic lights within a vast, high-ceilinged experimental hall. A sense of history and monumental achievement, with a few engineers in the background for scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Before the next generation can fully ignite, a titan of the past has delivered a thunderous roar, setting new benchmarks and confirming decades of theoretical work. The Joint European Torus, or JET, though an elder statesman in the fusion world, remains the largest and most powerful operational tokamak. Its recent, record-breaking experiments with deuterium-tritium fuel – the very mix that will power future reactors – are not just milestones; they are affirmations. They are a profound 'yes, we can' to the global fusion community, proving that sustained, high-power fusion is achievable. JET isn't just a machine; it's a bridge, carrying the torch of discovery from the past into the blazing future.</div>
   <div class="fact-grid">
@@ -286,9 +268,7 @@ From subterranean labs in snowy Canada to sun-drenched campuses in California, a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The World's Star: ITER's Unprecedented Assembly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="The World's Star: ITER's Unprecedented Assembly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking, wide-angle aerial shot of the ITER construction site at sunset, with the massive tokamak complex illuminated by golden light. Giant cranes are visible, meticulously placing a colossal, gleaming metallic component. A sense of immense scale, human ambition, and a future dawning.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the sun-drenched landscape of southern France, an engineering marvel of unprecedented scale is slowly, meticulously, rising from the earth. ITER isn't just a reactor; it's a testament to global cooperation, a scientific cathedral built by 35 nations. This colossus, designed to produce 10 times more power than it consumes (Q=10), is the ultimate experimental step before commercial fusion power. Every component, from its colossal magnets to its intricate vacuum vessel, is a piece of bespoke engineering, pushed to the absolute limits of human capability. Its assembly is a symphony of precision and patience, promising to be the first device to achieve 'burning plasma' – where the fusion reaction primarily sustains itself. This isn't just a milestone; it's the future taking shape, piece by extraordinary piece.</div>
   <div class="fact-grid">

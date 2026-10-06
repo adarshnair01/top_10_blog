@@ -25,9 +25,7 @@ Yet, human imagination possesses a stubborn habit of dragging the impossible int
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Communicator Flip Phone</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Communicator Flip Phone" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro photography of a retro silver flip phone resting on a rustic wooden desk, dramatic warm lighting, shallow depth of field, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the summer of 1966, television audiences watched Captain James T. Kirk flip open a sleek metallic grid on the bridge of the USS Enterprise to hail the orbiting starship. It felt impossibly futuristic—a handheld wireless transceiver capable of instant communication across vast distances. For years, bulky car phones and heavy bricks were the best humanity could manage.
 
@@ -56,9 +54,7 @@ Then, a visionary engineer named Martin Cooper watched that exact show and refus
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Minority Report Gesture Interfaces</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Minority Report Gesture Interfaces" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up shot of a person's hands glowing in mid-air surrounded by translucent digital data streams and holographic UI elements, dark moody cyberpunk lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tom Cruise stood in a dimly lit glass room, hands encased in sleek black gloves, frantically slicing the air to manipulate crystal-clear holographic data files. Steven Spielberg's 2002 neo-noir masterpiece 'Minority Report' introduced audiences to spatial computing—a world where mice and keyboards were obsolete relics replaced by fluid, balletic hand movements.
 
@@ -87,9 +83,7 @@ At the time, computer scientists laughed it off as Hollywood wizardry. Yet, moti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Smart Home Domestic AI Assistants</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Smart Home Domestic AI Assistants" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Warm, cozy living room at dusk with glowing smart lights, a sleek voice-assistant speaker on a minimalist wooden coffee table, soft cinematic focus.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Way back in 1999, Disney's 'Smart House' gave families a terrifyingly prescient glimpse into automated domestic life. Pat, an artificial intelligence housed within a sleek suburban home, controlled the lights, monitored pantry supplies, cooked meals, and banally anticipated every human whim. It felt like an entertaining cautionary tale about giving machines too much control over the thermostat.
 
@@ -118,9 +112,7 @@ Fast-forward two decades, and millions of homes across the globe feature cylindr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Autonomous Self-Driving Cars</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Autonomous Self-Driving Cars" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic autonomous electric vehicle driving down a gleaming wet city street at night, neon reflections, cinematic motion blur, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Schwarzenegger's futuristic cab ride in 'Total Recall' featured a terrifying robotic driver named 'Johnny Cab' calmly navigating chaotic Martian streets while the passenger sat back in horror. For generations, the act of driving demanded vigilant human reflexes, sweaty palms, and constant mirror-checking. The idea of a vehicle steering, braking, and dodging traffic entirely on its own was strictly the domain of Saturday morning cartoons.
 
@@ -149,9 +141,7 @@ Yet, the relentless march of computer vision, ultrasonic sensors, and deep learn
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bionic Prosthetic Limbs</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Bionic Prosthetic Limbs" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of a high-tech carbon fiber bionic hand delicately catching a falling glass marble, dramatic dramatic studio lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When Luke Skywalker lost his right hand in a fateful duel atop Cloud City in 'The Empire Strikes Back', he was fitted with a miraculous bionic replacement. It possessed fully articulated mechanical fingers, natural skin-like texturing, and most importantly, neural feedback that allowed him to grip objects with delicate, lifelike precision. It was pure space opera magic.
 
@@ -180,9 +170,7 @@ In our world, amputees once faced rigid, non-functional wooden or metal hooks. T
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Real-Time Universal Language Translation</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Real-Time Universal Language Translation" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A traveler wearing sleek futuristic wireless earbuds smiling while looking at a smartphone displaying glowing real-time foreign language text translations.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Star Trek's 'Universal Translator' was the ultimate diplomatic cheat code. Whether greeting a hostile Klingon warrior or negotiating with a strange alien race on a distant moon, Starfleet officers simply clipped a tiny badge to their tunics and spoke their native tongue, hearing fluent translations instantly.
 
@@ -211,9 +199,7 @@ For centuries, human culture was fractured by thousands of distinct languages, t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tablet Computers & Flat Slates</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Tablet Computers & Flat Slates" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic overhead shot of a sleek thin glass tablet resting on a marble kitchen counter displaying vibrant digital stock charts, dramatic moody lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Stanley Kubrick's visionary masterpiece '2001: A Space Odyssey' featured astronauts dining in deep space while casually reading the morning news on thin, lightweight, glowing glass tablets. They tapped the screens to flip through digital pages and watch streaming video feeds, an unimaginable concept in an era dominated by bulky cathode-ray television tubes and heavy paper newspapers.
 
@@ -242,9 +228,7 @@ Decades later, engineers at major tech firms looked back at that iconic cinemati
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Augmented Reality HUD Visors</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Augmented Reality HUD Visors" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: First-person POV shot through smart AR glasses showing translucent blue navigational data grids and digital UI markers overlaid on a busy Tokyo street at night.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Arnold Schwarzenegger's cybernetic assassin in 'The Terminator' scanned his dystopian surroundings through a vivid red heads-up display. As he walked through 1984 Los Angeles, biometric data, weapon diagnostics, and real-time facial recognition overlays flooded his digital field of view. It was terrifying, cold, and undeniably cool.
 
@@ -273,9 +257,7 @@ Today, military fighter pilots, warehouse logistics workers, and everyday consum
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Synthetic Cultured Meat Labs</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="Synthetic Cultured Meat Labs" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic laboratory interior with glowing stainless steel bioreactor vats, sterile blue lighting, a scientist in cleanroom gear examining a Petri dish.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the cult classic dystopian film 'Soylent Green', humanity survived on mysterious pre-packaged wafers produced by massive industrial food conglomerates. While the movie's dark twist remains thankfully fictional, the core premise of growing dense, high-protein sustenance inside sterile stainless-steel laboratory vats without raising livestock captured the imagination of food scientists.
 
@@ -304,9 +286,7 @@ Facing ecological strain and ethical dilemmas, modern agricultural bio-engineers
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Generative Artificial Intelligence & Deepfakes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Generative Artificial Intelligence & Deepfakes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic portrait of a human face merging with glowing neural network nodes and binary data streams, dark background, ethereal blue and gold lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before computers could write poetry, compose symphonies, or generate photorealistic human faces from thin air, science fiction cinema wrestled with the concept of synthetic consciousness. From HAL 9000 calculating chess moves to Skynet orchestrating global defense networks, storytellers warned us about machines that could think, create, and mimic humanity with chilling accuracy.
 

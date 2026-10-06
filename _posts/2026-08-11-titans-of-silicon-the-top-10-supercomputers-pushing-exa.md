@@ -25,9 +25,7 @@ From mapping the intricate folding of human proteins to predicting turbulent cli
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">LUMI: The Northern Lights Engine</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="LUMI: The Northern Lights Engine" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a massive supercomputer server room with sleek white and blue chassis, illuminated by soft blue ambient floor lighting, frost-like cooling pipes overhead, highly detailed, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Nestled inside a converted paper mill in the crisp, pine-scented air of northern Finland, LUMI hums with the serene power of an arctic aurora. Powered entirely by hydroelectricity and utilizing its massive waste heat to warm nearby homes, this HPE Cray EX system is a masterclass in green computing. Yet beneath its cool exterior lies a computational furnace capable of crunching vast atmospheric models and complex artificial intelligence algorithms with effortless grace.
 
@@ -56,9 +54,7 @@ Walking the floors of the Kajaani data center feels akin to standing at the edge
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Leonardo: The Renaissance Processor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Leonardo: The Renaissance Processor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic interior photo of a glowing supercomputer facility inside a converted historic industrial brick building, long rows of server racks, cinematic lighting, reflections on polished concrete floors.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The air in Bologna's Technopole smells faintly of old brick and cutting-edge thermal paste. Leonardo bridges centuries of Italian innovation, standing just miles from where history's greatest thinkers once sketched flying machines and anatomical wonders. Today, its thousands of compute nodes map the invisible architecture of molecules, seeking cures for diseases that have baffled generations.
 
@@ -87,9 +83,7 @@ As data cascades through its high-speed interconnects, Leonardo simulates comple
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">MareNostrum 5: The Mediterranean Oracle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="MareNostrum 5: The Mediterranean Oracle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A breathtaking architectural photograph of a futuristic supercomputer server rack installed inside a historic gothic chapel with vaulted stone ceilings and stained glass windows, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside a deconsecrated chapel in Barcelona—surrounded by stained glass and vaulted stone ceilings—rests MareNostrum 5. This surreal juxtaposition of sacred architecture and hyper-modern silicon creates an almost cathedral-like atmosphere. The machine pulses with energy, dedicated not to theology, but to decoding the grand mysteries of weather, earth sciences, and quantum chemistry.
 
@@ -118,9 +112,7 @@ Engineers work quietly beneath the ancient arches, monitoring dashboards that tr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tianhe-3: The Sky River</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Tianhe-3: The Sky River" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek, futuristic rows of black and red supercomputer server cabinets in a massive Chinese national laboratory, dramatic low-angle perspective, neon accent lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Stretching across cavernous halls in southern China, Tianhe-3—meaning 'Milky Way 3'—represents a monumental leap in homegrown processor architecture. Built entirely using domestic Chinese microchips and interconnect technologies, this exascale-class titan defies international supply chain constraints to chart its own technological destiny.
 
@@ -149,9 +141,7 @@ The scale is breathtaking: endless aisles of dark, humming monoliths cooled by c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Perlmutter: The Cosmic Cartographer</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Perlmutter: The Cosmic Cartographer" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A high-tech supercomputer server room with glowing green and white status indicators, engineers in lab coats examining diagnostic screens, cinematic depth of field, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perlmutter doesn't just calculate data; it maps the history of the universe. Named after Nobel laureate Saul Perlmutter, this system at the Lawrence Berkeley National Laboratory acts as the computational engine for the Dark Energy Spectroscopic Instrument (DESI). Every night, raw light captured by telescopes in the Arizona desert is beamed directly into Perlmutter's memory banks.
 
@@ -180,9 +170,7 @@ Within minutes, the supercomputer reconstructs three-dimensional maps of million
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Summit: The Molecular Alchemist</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Summit: The Molecular Alchemist" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of the IBM Summit supercomputer at Oak Ridge National Laboratory, glowing blue server racks stretching into the distance, professional architectural photography style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the rolling hills of Tennessee, Summit was once the undisputed king of global computing. Even as newer titans eclipse its raw rank, Summit remains legendary for its brute-force prowess in deep learning and biomolecular simulation. When the world faced an unprecedented global health crisis, Summit was the first machine drafted into battle, analyzing millions of chemical compounds in days instead of decades.
 
@@ -211,9 +199,7 @@ Walking past its rows of blue-lit cabinets feels like stepping into the bridge o
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">JUPITER: Europe's First Exascale Sovereign</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="JUPITER: Europe's First Exascale Sovereign" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Futuristic modular supercomputer facility with glowing amber and cyan LED strips, industrial cleanroom environment, dramatic side-angle lighting, hyper-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the lush forests of western Germany, the future of European computing is taking shape inside a modular, energy-efficient datacenter cube. JUPITER (Joint Undertaking Pioneer for Innovative and Transformative Exascale Research) is Europe’s inaugural true exascale system, designed to break the mythical barrier of one quintillion calculations per second while running on remarkably green power.
 
@@ -242,9 +228,7 @@ JUPITER is modular by design, housed in specialized shipping-container-style dat
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fugaku: The Precision Symphony</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Fugaku: The Precision Symphony" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Clean, minimalist Japanese supercomputer facility in Kobe, soft natural light reflecting off sleek grey server cabinets, ultra-modern cleanroom aesthetic, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Overlooking the sparkling waters of Osaka Bay in Kobe, Japan, Fugaku stands as a monument to aesthetic elegance and terrifyingly fast arithmetic. Named after an alternate name for Mount Fuji, Fugaku utilizes ARM-based processors rather than traditional x86 architecture, proving that extreme efficiency can match raw brute force.
 
@@ -273,9 +257,7 @@ Fugaku’s cabinet doors are painted a subtle, calming shade of Japanese minimal
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Eagle: The Cloud Titan</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Eagle: The Cloud Titan" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A hyper-modern corporate cloud datacenter with endless rows of high-density server racks glowing with pulsing white and blue fiber-optic lights, cinematic perspective.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unlike its academic and government-funded brethren residing in university basements and national labs, Eagle is a creature of the commercial cloud. Built by Microsoft to power the bleeding edge of artificial intelligence, Eagle operates silently behind corporate firewalls, serving as the hidden engine behind massive foundational models and generative AI breakthroughs.
 
@@ -304,9 +286,7 @@ Eagle represents a paradigm shift: supercomputing is no longer restricted to eli
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Frontier: The Exascale King</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Frontier: The Exascale King" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic, epic wide-angle photograph of the HPE Cray EX Frontier supercomputer at Oak Ridge National Laboratory, massive banks of servers with glowing amber and blue lights, cinematic atmosphere, award-winning photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the absolute summit of human computational achievement stands Frontier. Housed in a sprawling, high-security facility in Tennessee, Frontier is the undisputed monarch of the silicon realm—the world’s first officially verified exascale supercomputer. To stand before its cabinets is to stand at the threshold of a new epoch in human history.
 

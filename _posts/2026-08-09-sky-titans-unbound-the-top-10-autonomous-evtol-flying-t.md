@@ -25,9 +25,7 @@ As regulatory walls crumble and algorithmic flight control systems reach breatht
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pipistrel / Textron Nurol</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Pipistrel / Textron Nurol" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a sleek white 4-seater eVTOL flying taxi ascending vertically above an alpine Slovenian valley at sunrise, dramatic rim lighting, 8k resolution, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Nestled in the rugged, wind-scoured valleys of Slovenia, engineering history is being quietly etched into the Alpine air. The Pipistrel team, now backed by aviation giant Textron, approaches electric flight not with flashy Silicon Valley bluster, but with the meticulous, time-honored soul of European glider craftsmanship. Their sleek prototype looks less like a menacing drone and more like a high-fashion avian predator, slicing through the alpine crosswinds with uncanny poise.
 
@@ -56,9 +54,7 @@ During recent envelope-expansion flights, test pilots on the ground watched in b
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Overair Butterfly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Overair Butterfly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic 5-passenger eVTOL with large slow-spinning rotors hovering silently above a sun-baked Southern California test track, golden hour haze, cinematic wide angle.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the scorching heat of the Southern California desert, the Overair Butterfly is bred for one ultimate battle: subduing the legendary nightmare of Los Angeles traffic. Developed from military-grade propulsion heritage originating at DARPA, the Butterfly utilizes massive, slow-turning rotors that mimic the silent beating wings of an insect. As it hovers above the scorched tarmac of its test range, the ambient noise level drops to a gentle hum that can barely be heard over a suburban lawnmower.
 
@@ -87,9 +83,7 @@ The secret to the Butterfly lies in its acoustic camouflage. While traditional h
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Vertical Aerospace VX4</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Vertical Aerospace VX4" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An aggressive, sleek silver eVTOL aircraft with a glass cockpit soaring over misty British countryside hills, cinematic lighting, photorealistic aviation photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep in the rolling, emerald-green hills of the British Cotswolds, a British aerospace challenger is preparing to reclaim the skies. The Vertical Aerospace VX4 is a stunning manifestation of industrial design, boasting a panoramic glass canopy that offers occupants a terrifyingly gorgeous, unobstructed view of the earth falling away beneath them. As it roars off the pad under autonomous command, it cuts through the damp British air like a silver javelin.
 
@@ -118,9 +112,7 @@ Flight testing has been a masterclass in resilience. Following a tethered propul
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Wisk Aero Generation 6</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Wisk Aero Generation 6" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Interior view of an autonomous eVTOL passenger cabin showing a completely empty front cockpit with glowing digital glass displays, looking out panoramic windows over San Francisco.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine stepping into a flying taxi where the front seat is entirely empty—no steering yoke, no emergency pedals, no human pilot staring anxiously at an iPad. That is the uncompromising reality of the Wisk Aero Generation 6. Backed by aerospace titan Boeing, Wisk took the radical gamble to bypass piloted eVTOLs altogether, building a machine designed from day one to be flown exclusively by advanced artificial intelligence and monitored by human supervisors on the ground.
 
@@ -149,9 +141,7 @@ In secretive airspace over Northern California, Generation 6 prototypes have bee
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lilium Jet</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Lilium Jet" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic 7-seater Lilium Jet with embedded wing fans lifting off vertically from a modern concrete pad in Germany, dramatic lighting, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At an airfield outside Munich, the Lilium Jet looks less like an aircraft and more like a minimalist sculpture dropped from the cosmos. Eschewing traditional open rotors, Lilium pioneered a radical propulsion architecture: 30 tiny, ducted electric fans embedded directly into the trailing edges of its forward and rear canard wings. This EDF (electric ducted fan) design creates a visually mesmerizing symphony of high-pitched turbine hums as the aircraft prepares for flight.
 
@@ -180,9 +170,7 @@ The engineering ambition behind Lilium is staggering. By vectoring thrust throug
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">EHang EH216-S</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="EHang EH216-S" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A compact red-and-white EHang EH216-S flying autonomously past futuristic skyscrapers in Guangzhou, dusk city lights reflecting on the glass pod, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the sprawling high-tech megalopolises of China, the future has already landed and it looks like the EHang EH216-S. Unlike many Western startups still trapped in prototype purgatory, EHang has shattered industry precedent by securing the world's first official Type Certificate, Production Certificate, and Standard Airworthiness Certificate for an uncrewed passenger-carrying eVTOL. Their egg-shaped, twin-seat craft buzzes through city skylines with the casual frequency of a city bus.
 
@@ -211,9 +199,7 @@ Witnessing an EHang test flight in urban environments is surreal. Passengers sim
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Archer Midnight</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Archer Midnight" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek matte-black Archer Midnight eVTOL banking over San Francisco Bay at sunset, golden hour reflections, cinematic composition, ultra-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Backed by heavy-hitting airline investments and strategically partnered with United Airlines, Archer Aviation is playing for keeps. Their flagship production aircraft, Midnight, is a gleaming apex predator of the skies, painted in militant matte black and electric silver. Designed for rapid, back-to-back 20-to-50-mile urban hops, Midnight is built to turn a grueling 90-minute highway commute into a breathless 10-minute flight.
 
@@ -242,9 +228,7 @@ At their California flight test facility, Midnight has been running grueling end
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Beta Technologies Alia (CX300 & AVA)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Beta Technologies Alia (CX300 & AVA)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An elegant, long-winged electric aircraft resembling a bird gliding gracefully over snow-covered Vermont pine trees under a slate-gray sky, cinematic photo.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Far away from the hyper-capitalized glare of Silicon Valley, deep in the snowy, unforgiving winters of Vermont, Beta Technologies is building an eVTOL that looks like it belongs in a nature documentary. Inspired by the migratory flight path of the Arctic Tern, the Alia aircraft features a majestic, long-spanned carbon-fiber wing that glides with effortless predatory grace. While most eVTOLs are optimized purely for short city hops, Beta built Alia to conquer entire regional ecosystems.
 
@@ -273,9 +257,7 @@ Alia’s flight testing program is legendary for its extreme weather endurance. 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Joby Aviation S4</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Joby Aviation S4" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A pristine white Joby S4 eVTOL with tilting propellers spinning dynamically against a backdrop of dramatic ocean cliffs in Marina, California, hyper-detailed 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, the Joby Aviation S4 has been the undisputed heavyweight champion of the Western eVTOL world. Operating from a secretive coastal test base in Marina, California, the S4 has quietly amassed thousands of flight hours, pushing the absolute boundaries of what battery-powered aviation can achieve. With six massive tilting propellers mounted across its sleek V-tail airframe, the S4 transitions from vertical helicopter-style lift to high-speed airplane cruise with balletic fluidity.
 
@@ -304,9 +286,7 @@ The sound of the Joby S4 in flight is famous among aerospace engineers: a low, r
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Volocopter VoloCity</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Volocopter VoloCity" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An iconic 18-rotor Volocopter VoloCity hovering majestically against a glowing Parisian skyline at dusk, cinematic masterpiece photography, ultra-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing beneath the spinning halo of 18 independent electric rotors on the Volocopter VoloCity is nothing short of a religious experience for aviation aficionados. As the undisputed pioneer of modern urban eVTOL flight, this German engineering marvel traded complex tilt-rotor mechanisms for radical simplicity: a massive, circular crown of rotors that provides absolute mechanical redundancy and feather-light lift. If one motor falters, seventeen others instantly compensate with algorithmic grace.
 

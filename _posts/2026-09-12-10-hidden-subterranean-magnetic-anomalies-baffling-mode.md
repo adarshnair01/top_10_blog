@@ -25,9 +25,7 @@ From the icy expanses of the polar caps to the sun-baked deserts of the American
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Kursk Magnetic Anomaly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Kursk Magnetic Anomaly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic aerial view of the Kursk open-pit iron ore mine at dusk, with digital radar scanning lines glowing over the dark, magnetic earth.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Discovered in the late 18th century by astronomer P.B. St. 실패, this titanic subterranean iron-ore leviathan exerts a magnetic pull so vicious it routinely causes compass needles to spin wildly out of control. Pilots flying at cruising altitude over the Russian steppe find their cockpit avionics drifting off course, while ground-penetrating radar arrays return distorted, ghosted profiles of the bedrock below.
 
@@ -56,9 +54,7 @@ The anomaly is caused by colossal reserves of precambrian ferruginous quartzite 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Bangui Magnetic Anomaly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Bangui Magnetic Anomaly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dense African rainforest canopy at twilight, illuminated by ghostly neon-blue magnetic contour lines sweeping across the dense jungle floor.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Centered directly beneath the capital city of the Central African Republic lies one of the most intense continental magnetic scars on Earth. The Bangui Anomaly is a profound electromagnetic enigma, visible from space via satellite magnetic field measurements. When airborne radar surveys attempt to map the region's dense tropical rainforests, the return signals encounter fierce, localized fluctuations that completely wash out high-resolution topography.
 
@@ -87,9 +83,7 @@ Geologists debate whether this subterranean disturbance is the footprint of an a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Temagami Magnetic Anomaly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Temagami Magnetic Anomaly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Misty Canadian pine forest reflecting on a glassy lake, with subtle geometric magnetic wave patterns shimmering across the water's surface.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the ancient rock of the Canadian Shield, the Temagami Anomaly whispers secrets of the planet's violent youth. Bush pilots and wilderness surveyors traversing the pristine lakes of northern Ontario know the legend well: areas where onboard GPS units freeze and radar altimeters drop dozens of feet in a heartbeat. 
 
@@ -118,9 +112,7 @@ This subterranean giant is anchored by a massive Paleoproterozoic intrusive comp
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Kiruna Iron Ore Megastructure</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Kiruna Iron Ore Megastructure" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An illuminated underground mining tunnel deep in Kiruna, Sweden, with glowing blue holographic radar grids mapping the solid magnetite walls.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Far above the Arctic Circle, inside the belly of the world's largest underground iron ore mine in Kiruna, the earth itself seems alive. The colossal slab of magnetite ore is so pure and massive that it warps the regional magnetic field, causing synthetic aperture radar systems mounted on surveillance aircraft to register severe geometric distortion.
 
@@ -149,9 +141,7 @@ As mining operations carve deeper into the subterranean vault, the shift in mass
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Vredefort Sub-Crustal Magnetic Root</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Vredefort Sub-Crustal Magnetic Root" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic sunset over the South African savanna, with a faint, iridescent dome of electromagnetic energy pulsing from the underground crater roots.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Two billion years ago, a colossal asteroid slammed into South Africa, vaporizing the landscape and leaving behind the largest verified impact structure on Earth. Today, the visible crater has eroded away, but its ghost lingers deep in the mantle. The Vredefort Anomaly is a subterranean magnetic monster driven by shocked quartz and melted mantle material that flooded the impact fracture zones.
 
@@ -180,9 +170,7 @@ When modern military radar sweeps cross the Free State, they encounter bizarre s
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Lake Superior Iron Range Anomaly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Lake Superior Iron Range Anomaly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive cargo freighter plowing through foggy Lake Superior waters, with green digital radar vectors bouncing off an invisible magnetic force field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Along the shores of Lake Superior, the ground holds a ferrous secret that has disrupted navigation since the days of the iron-bark schooners. The Mesabi Iron Range is a continuous belt of ancient sedimentary rock rich in iron oxides. Commercial cargo ships navigating the Great Lakes in heavy fog routinely watch their gyrocompasses wander off true north as they pass over specific offshore magnetic shoals.
 
@@ -211,9 +199,7 @@ Airborne radar mapping of the region often encounters 'blind spots' where ground
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Siberian Traps Volcanic Conduit Anomaly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Siberian Traps Volcanic Conduit Anomaly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Frozen, desolate Siberian tundra under the Northern Lights, with deep underground magma channels glowing through the cracked permafrost.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Buried deep beneath the frozen Siberian tundra are the remnants of the greatest volcanic event in Earth's history—an eruption that sparked the End-Permian extinction. The subterranean plumbing system consists of thousands of miles of dense basaltic dikes and sills loaded with iron-rich magma.
 
@@ -242,9 +228,7 @@ These buried volcanic roots create a sprawling magnetic labyrinth. High-altitude
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Bushveld Igneous Complex</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Bushveld Igneous Complex" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A golden South African savanna landscape with a floating, transparent 3D geological model of the layered igneous intrusion glowing underground.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the rolling hills of South Africa rests the Bushveld Complex, the world's largest layered intrusion and a treasure trove of platinum-group metals. This subterranean geological wonder is a colossal saucer of magma that cooled slowly beneath the Earth's surface, creating distinct bands of metal-rich rock.
 
@@ -273,9 +257,7 @@ The sheer concentration of chromium, platinum, and magnetite generates a ferocio
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Pilbara Craton Sub-Surface Magnetite Slabs</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Pilbara Craton Sub-Surface Magnetite Slabs" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Red Australian outback desert landscape under a blazing sun, with shimmering heat waves and digital magnetic grid lines rising from the crimson earth.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the scorching, sun-scorched expanse of Western Australia's Pilbara region lies some of the oldest exposed crust on the planet. Deep beneath the iron-red dirt are Archaean cratons containing colossal bands of iron formation that have remained stable for over 3.5 billion years.
 
@@ -304,9 +286,7 @@ This ancient geological architecture creates a chaotic radar environment. Airbor
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Bermuda Triangle Sub-Seafloor Basaltic Anomaly</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Bermuda Triangle Sub-Seafloor Basaltic Anomaly" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody, stormy dark ocean waters of the Bermuda Triangle at night, with a beam of blue radar light piercing down into the dark, magnetic seafloor trenches.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising to the top of our countdown is the legendary enigma of the Western Atlantic. While pop culture points to ghosts and extraterrestrials, marine geophysicists point much deeper: straight down into the ancient, highly magnetized basaltic crust underlying the Bermuda Rise. This region features anomalous magnetic lineations and hidden tectonic fault zones that generate intense local electromagnetic variance.
 

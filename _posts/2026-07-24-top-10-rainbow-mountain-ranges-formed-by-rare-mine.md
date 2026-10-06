@@ -25,9 +25,7 @@ From the high-altitude oxygen-thin passes of the Andes to the wind-scoured deser
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Painted Hills of Wheeler</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Painted Hills of Wheeler" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide-angle landscape photography of the Painted Hills in Oregon at golden hour, highlighting rolling clay hills with distinct stripes of red, gold, and black earth, dramatic shadows, 8k resolution, National Geographic style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the afternoon sun dips low over the high desert of Central Oregon, the Painted Hills ignite in a smoldering chorus of deep blacks, fiery reds, and soft golds. Walking along the wooden boardwalks feels remarkably like stepping onto an alien planet, where time has been compressed into undulating bands of color. Each distinct layer tells a silent story of ancient ecosystems, preserved forever in the cooling ash of prehistoric volcanic eruptions.
 
@@ -56,9 +54,7 @@ Millions of years ago, this arid expanse was a lush, flood-plain basin teeming w
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kyzyl-Chaka Canyon (The Red Mountain)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Kyzyl-Chaka Canyon (The Red Mountain)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic drone shot of Kyzyl-Chaka Canyon in Kazakhstan, showing deep rust-red and white striped clay cliffs rising from a stark desert floor, overcast dramatic lighting, high contrast.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising starkly from the windswept depressions of the Mangystau peninsula, Kyzyl-Chaka is a fortress of geological time. Here, the desert wind has carved deep canyons through multicolored sedimentary deposits, exposing a dramatic labyrinth of chalk, sandstone, and iron-rich clay. The landscape is intensely silent, broken only by the whistling gale sweeping across the ancient Tethys Sea basin.
 
@@ -87,9 +83,7 @@ Long before humans walked the earth, this desert depression was the floor of a v
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bolas de Sedimento of Alcaparrosa</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Bolas de Sedimento of Alcaparrosa" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up macro landscape of the Atacama Desert mountains showing vibrant streaks of turquoise copper minerals cutting through pink and purple volcanic rock, harsh sun, hyper-detailed texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden within the hyper-arid folds of the world's driest desert, the Alcaparrosa range presents a striking tapestry of pastel greens, shocking pinks, and bruised purples. This is a landscape stripped bare of vegetation, where the raw bone of the earth is exposed to the harsh, ultraviolet-drenched skies of northern Chile. The color gradients shift hour by hour as the sun sweeps across the salt-encrusted flats.
 
@@ -118,9 +112,7 @@ The extraordinary coloration stems from complex hydrothermal activity intersecti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Burdur's Crimson Escarpments</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Burdur's Crimson Escarpments" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic drone photography of Turkish foothills with vibrant red laterite soil ridges contrasting against green olive groves and blue distant lakes, cinematic lighting, 4k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Where the rugged Taurus Mountains tumble down toward the turquoise lakes of southwestern Turkey, the earth itself begins to bleed color. These limestone and peridotite foothills feature cascading waves of deep crimson, burnt sienna, and stark chalk-white. Local shepherds have grazed flocks across these mineral slopes for millennia, weaving ancient folklore around the strange, blood-red dust that clings to their sandals.
 
@@ -149,9 +141,7 @@ The region's dramatic hues are born from ophiolite obduction—a rare geological
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Seven Colored Earths of Chamarel</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Seven Colored Earths of Chamarel" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro-to-wide shot of the Seven Colored Earths in Mauritius, showing distinct rolling dunes of violet, red, ochre, and brown volcanic sand surrounded by lush green jungle foliage, bright daylight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the lush, tropical interior of a volcanic island paradise lies a geological anomaly that feels entirely out of place. The Seven Colored Earths of Chamarel form rolling dunes of sand where distinct shades of red, brown, violet, blue, purple, green, and yellow spontaneously settle into separate layers. Even when mixed together by hand in a glass tube, the granules will naturally separate back into their respective color bands.
 
@@ -180,9 +170,7 @@ This surreal phenomenon is the result of the decomposition of basaltic lava unde
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Landmannalaugar Rhyolite Mountains</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Landmannalaugar Rhyolite Mountains" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic drone shot of Landmannalaugar in Iceland, showcasing jagged mountains striped in yellow sulfur, green moss, and red rhyolite stone, winding black rivers, dramatic Icelandic skies.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the untamed interior of Iceland's highlands, where volcanic steam vents hiss into the crisp Arctic air, the Landmannalaugar mountains rise like frozen waves of stained glass. Streaked in vibrant shades of sulfur yellow, olive green, deep mahogany, and powdery blue, these rhyolite peaks look as though a painter spilled an entire palette across the glacial valleys. Walking across the obsidian lava fields feels like traversing a living, breathing canvas.
 
@@ -211,9 +199,7 @@ The secret behind Iceland's psychedelic mountains lies in the complex cooling of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Túrtùr Mountain (The Crimson Ridge)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Túrtùr Mountain (The Crimson Ridge)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic high-angle photography of the striped red and purple sandstone mountains in Xinjiang, China, dramatic shadows, geometric ridges carved by wind erosion, hyper-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the remote, wind-scoured expanses of northwestern China, the Túrtùr ridges erupt from the desert floor in a breathtaking display of geological geometry. Wind and flash floods have carved the soft, multicolored sandstone layers into sharp fins and sweeping amphitheaters. The mountains ripple with bands of magenta, crimson, stark white, and slate grey, glowing intensely under the desert dusk.
 
@@ -242,9 +228,7 @@ Formed over 70 million years ago during the Cretaceous and Tertiary periods, thi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Zhangye Danxia National Geological Park</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Zhangye Danxia National Geological Park" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning sunset aerial photograph of Zhangye Danxia Landform Geological Park in China, rippling mountains with vivid stripes of red, yellow, and blue mineral rock, vivid colors, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Often hailed as the 'Eye of God,' the Zhangye Danxia landform is a sprawling masterpiece of undulating red beds sliced by ribbons of emerald green, golden yellow, and slate blue. Standing atop the viewing platforms at sunset, visitors watch in absolute silence as the mountain ridges shift from burnt orange to glowing violet. It is an impossible landscape, appearing far too vivid to exist in the natural world.
 
@@ -273,9 +257,7 @@ For 24 million years, red sandstone and conglomerate deposits accumulated in a t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hornocal Mountain Range (Serranía de Hornocal)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Hornocal Mountain Range (Serranía de Hornocal)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking wide-angle photography of the Serranía de Hornocal in Argentina, majestic V-shaped mountain range with 14 distinct colored limestone strata, bright blue sky, crisp details.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched high in the freezing, thin air of the Argentine Andes, the Serranía de Hornocal presents a jaw-dropping limestone chevron formation known locally as the 'Mountain of 14 Colors.' Unlike rolling hills, Hornocal cuts a razor-sharp, V-shaped triangle of rhythmic, jagged peaks. The colors—ranging from lime green and ochre yellow to deep lavender and rust red—converge in a symmetrical masterpiece that feels almost architectural.
 
@@ -304,9 +286,7 @@ This high-altitude miracle is part of the Cretaceous-aged Yacoraite formation. T
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Vinicunca (The Mountain of Seven Colors)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Vinicunca (The Mountain of Seven Colors)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic photography of Vinicunca (Rainbow Mountain) in Peru at sunrise, snow-capped Ausangate glacier in the background, vibrant turquoise and red striped mineral slopes, tourist hikers silhouetted on ridge, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising majestically near the sacred Ausangate glacier, Vinicunca reigns supreme as the undisputed king of rainbow mountains. As you crest the final ridge after a grueling, breathless climb through the Peruvian Andes, the earth unfurls into a breathtaking expanse of turquoise, gold, lavender, and crimson stripes. For the indigenous Quechua people, this peak has long been an *Apu*—a powerful, living mountain spirit commanding deep reverence and awe.
 

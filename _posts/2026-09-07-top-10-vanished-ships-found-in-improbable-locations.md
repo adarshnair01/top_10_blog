@@ -25,9 +25,7 @@ These are not mere maritime accidents; they are geographical anomalies that baff
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Desert Galleon of the Colorado</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Desert Galleon of the Colorado" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of an ancient 16th-century Spanish wooden galleon half-buried in the sun-bleached sand dunes of a vast California desert, golden hour lighting, dramatic shadows, hyper-realistic, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For generations, desert nomads, Spanish conquistadors, and modern treasure hunters whispered tales of a massive wooden galleon rotting away amidst the searing sand dunes of the Colorado Desert. Legend held that a Spanish exploration vessel laden with pearls became trapped when the ancient Lake Cahuilla evaporated centuries ago. While skeptics dismissed it as folklore, countless explorers reported glimpsing its bleached ribs poking through the shifting sands.
 
@@ -56,9 +54,7 @@ The mystery took a tangible turn when expeditions in the 19th and early 20th cen
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subterranean Ghost of the SS <i>Mauna Loa</i></h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Subterranean Ghost of the SS <i>Mauna Loa</i>" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An eerie cross-section view showing the rusted steel hull of a 1940s steamship completely entombed beneath layers of dark earth and clay beneath a modern city, dramatic lighting, photographic realism.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When the steamer SS *Mauna Loa* sank during a violent storm in 1947, it slipped beneath the churning waves of the Pacific, mourned briefly before fading into the cold ledgers of maritime loss. For decades, the world assumed her metal bones were dissolving into the abyssal muck. But ships, it seems, can have a second life underground.
 
@@ -87,9 +83,7 @@ Decades after her disappearance, construction crews unearthing earth for new dev
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sub-Glacial Time Capsule: The HMS *Investigator*</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Sub-Glacial Time Capsule: The HMS *Investigator*" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater cinematic shot of an eerie 19th-century British Royal Navy exploration sailing ship resting upright on the Arctic seabed, icy blue waters, beams of sunlight piercing the surface, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Trapped in the suffocating embrace of Arctic pack ice in 1853, the crew of the HMS *Investigator* abandoned ship after enduring years of scurvy, bitter cold, and despair in a desperate search for the Northwest Passage. The ship drifted slowly into the freezing gloom, seemingly destined to be crushed and ground into powder by the relentless crushing power of polar ice.
 
@@ -118,9 +112,7 @@ Miraculously, Canadian underwater archaeologists discovered the ship sitting upr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cornfield Galleon of New South Wales</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Cornfield Galleon of New South Wales" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot of a lush green agricultural cornfield in Australia, showing the distinct ghostly soil outline of a large historical wooden ship buried underneath, cinematic afternoon lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Farmers plowing their fertile fields along the floodplains of southeastern Australia usually expect to unearth rocks, roots, or perhaps an occasional indigenous artifact. They certainly do not expect to hit solid oak keel timbers belonging to a deep-water ocean vessel. Yet, deep in the middle of a working agricultural cornfield sits the unmistakable skeleton of a nineteenth-century ship.
 
@@ -149,9 +141,7 @@ Flash floods and radical shifts in the Moruya River's course over a century ago 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subway Steamship: The *Raddison* Discovery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Subway Steamship: The *Raddison* Discovery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Gritty, cinematic photo of an 18th-century wooden ship skeleton exposed deep in an urban excavation pit surrounded by modern New York City skyscrapers and construction equipment, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When construction workers broke ground for a parking garage just blocks away from the World Trade Center site, they didn't just find construction debris—they struck the wooden skeleton of an 18th-century merchant ship. Buried deep beneath the concrete jungle of lower Manhattan, the vessel was a shocking reminder of how drastically human hands have reshaped the geography of the world's most famous city.
 
@@ -180,9 +170,7 @@ Two centuries ago, this location was not solid ground, but rather a bustling, tr
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Jungle Ghost of the *Panagiotis*</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Jungle Ghost of the *Panagiotis*" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning cinematic drone photo of a rusted vintage steel shipwreck resting on a brilliant white sand beach enclosed by massive, vertical turquoise-water limestone cliffs in Greece, bright sunny day.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While technically perched on a beach rather than submerged, the *Panagiotis* occupies one of the most stunningly impossible natural settings on planet Earth. Trapped inside a dramatic, sheer-cliff limestone amphitheater accessible only by the crashing turquoise sea, this rusted skeleton looks like a prop from an epic post-apocalyptic film.
 
@@ -211,9 +199,7 @@ In 1980, the ship—allegedly operating as a contraband smuggler carrying illici
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The High-Altitude Wreck of Lake Titicaca</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The High-Altitude Wreck of Lake Titicaca" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of an antique 19th-century steamship resting on the crystal-clear, deep blue bottom of a high-altitude alpine lake surrounded by majestic snow-capped Andean peaks, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High in the freezing, thin air of the Andes Mountains, where snow-capped peaks pierce the clouds and oxygen is painfully scarce, sits Lake Titicaca—the highest navigable body of water in the world. For years, local fishermen whispered of anomalous metal structures resting in the murky, freezing depths far below the surface.
 
@@ -242,9 +228,7 @@ Marine archaeologists utilizing advanced side-scan sonar and deep-diving submers
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sahara Mirage: The *SS Macomb County*</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Sahara Mirage: The *SS Macomb County*" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Hyper-realistic cinematic photo of a rusted World War II-era military landing craft sitting upright in the middle of vast, rolling orange Sahara sand dunes under a blazing sun, intense heat haze.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the scorched, baking expanse of the Sahara Desert, thousands of miles away from any navigable coastline or major river system, stands the rusting hull of a mid-20th-century vessel. For decades, trans-Saharan traders treated the bizarre metallic silhouette as a navigational landmark, a surreal ghost ship presiding over an ocean of sand dunes.
 
@@ -273,9 +257,7 @@ How did a marine vessel end up baking in the driest desert on earth? During regi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sub-Arctic Time Machine: The *Baychimo*</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Sub-Arctic Time Machine: The *Baychimo*" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody cinematic painting of a dark, rusted cargo steamer drifting alone through a vast, icy Arctic sea surrounded by massive glaciers under a brooding, overcast twilight sky, eerie atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Some ships are found in improbable locations because they refuse to stay dead. In 1931, the cargo steamer *Baychimo* became hopelessly trapped in impenetrable pack ice off the coast of Alaska. The crew abandoned her, expecting the crushing ice to splinter her hull and send her to the bottom. Instead, the *Baychimo* slipped free of the ice pack and began an astonishing, decades-long ghost voyage across the Arctic.
 
@@ -304,9 +286,7 @@ For nearly forty years, the driverless ship was spotted drifting alone through t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subterranean Titanic of Dawson City</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Subterranean Titanic of Dawson City" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic underground cross-section shot revealing an intact 19th-century wooden river paddlewheeler steamboat buried deep beneath a snowy Canadian town parking lot, dramatic spotlighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a multi-decked, luxurious 19th-century river paddlewheeler quietly resting underneath the asphalt parking lot of a modern Canadian town. This is the astonishing reality of the *SS Evelyn*, a majestic commercial steamship that vanished from public memory during the height of the Klondike Gold Rush.
 

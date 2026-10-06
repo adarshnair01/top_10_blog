@@ -25,9 +25,7 @@ Step into the bleeding edge of cybersecurity, where laws of physics replace math
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aegis-Q Vault Series 1</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Aegis-Q Vault Series 1" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic close-up of a sleek 3.5-inch enterprise hard drive with glowing blue optical laser fibers running into its chassis, cleanroom laboratory background, macro photography, dramatic rim lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the manufacturing cleanrooms of Zurich, the Aegis-Q Vault Series 1 takes shape under amber lights. Designed for financial institutions that handle trillions in daily atomic-speed transactions, this drive relies on continuous-variable quantum key distribution. It constantly negotiates encryption states using microscopic laser pulses fired through fiber channels.
 
@@ -56,9 +54,7 @@ Imagine a courier carrying a glass vase that shatters instantly if anyone other 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Chronos Quantum-Pulse Drive</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Chronos Quantum-Pulse Drive" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro shot of a high-tech U.2 NVMe SSD glowing with ethereal purple light, intricate microscopic optical circuits visible on the PCB, dark moody atmosphere, cyberpunk aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The Chronos drive does not merely store information; it binds it across space. Utilizing photon entanglement pairs generated onboard via a miniature nonlinear crystal, the drive verifies every read and write operation by checking the quantum correlation of light particles. If an unauthorized probe attempts to intercept the data bus, the entangled state decoheres instantly.
 
@@ -87,9 +83,7 @@ For intelligence agencies tracking state-sponsored cyber syndicates, the Chronos
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Helix Q-Store Enterprise</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Helix Q-Store Enterprise" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic product photography of a metallic 2.5-inch enterprise drive floating in a dark void, surrounded by subtle glowing particles representing quantum noise, professional studio lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Entropy is the enemy of predictability, and the Helix Q-Store leans directly into chaos. Instead of relying on algorithmic pseudo-random number generators—which clever hackers can sometimes reverse-engineer—the Helix harvests raw quantum noise from a vacuum fluctuation sensor embedded directly on the controller chip.
 
@@ -118,9 +112,7 @@ Every cryptographic key forged by the Helix is born from the chaotic, unpredicta
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Titanium Lattice Q-Drive</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Titanium Lattice Q-Drive" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ruggedized titanium hard drive resting on a dark slate rock, water droplets beading on its armored surface, dramatic moody lighting, cinematic thriller vibe.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Built like a military bunker, the Titanium Lattice Q-Drive is designed to survive not just cyber attacks, but physical ones too. Encased in a solid block of aerospace-grade titanium, its interior houses a lattice of quantum sensors that monitor mechanical stress, thermal gradients, and electromagnetic signatures simultaneously.
 
@@ -149,9 +141,7 @@ If a rogue government or corporate spy attempts an invasive electron-microscope 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hyperion Photon-Lock Array</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Hyperion Photon-Lock Array" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A gleaming 2U rackmount server unit installed in a high-tech datacenter aisle, neon blue LED status lights reflecting off polished metal chassis, cinematic depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When massive healthcare conglomerates and genomic research labs need to protect millions of DNA sequences from quantum-armed bio-hackers, they turn to the Hyperion Photon-Lock Array. This 2U rackmount beast replaces traditional copper traces on its backplane with integrated silicon-photonics channels.
 
@@ -180,9 +170,7 @@ Light travels where electricity once did, guarded by inline polarizers that veri
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aether-Core Solid State Vault</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Aether-Core Solid State Vault" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up macro photography of an M.2 NVMe SSD installed on a dark motherboard, intricate gold traces and a glowing green quantum crypto chip, cyberpunk aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Designed to slip silently into standard laptop motherboards or ultra-secure workstations, the Aether-Core proves that quantum-grade security does not require a refrigerator-sized server rack. Its secret weapon is a proprietary lattice-based cryptography ASIC that hardens standard AES protocols against Shor's algorithm attacks.
 
@@ -211,9 +199,7 @@ When a user boots their system, the Aether-Core performs a quantum handshake wit
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Quantum-Diamond NVMe X1</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Quantum-Diamond NVMe X1" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing synthetic diamond crystal embedded inside a futuristic circuit board, emitting a brilliant pink and blue laser glow, macro photography, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the heart of the Quantum-Diamond NVMe X1 lies a microscopic synthetic diamond crystal engineered with precision nitrogen-vacancy centers. These atomic defects in the carbon lattice serve as quantum sensors and memory registers that operate at room temperature without requiring cryogenic cooling.
 
@@ -242,9 +228,7 @@ When data is written to the X1, it is mapped onto the electron spin states of th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Spectre-Q Nanophotonic Drive</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Spectre-Q Nanophotonic Drive" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic all-optical storage drive glowing with intricate teal laser veins, set against a dark obsidian background, cinematic lighting, high-end tech commercial look.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the realm of high-frequency trading and national defense command networks, nanoseconds matter. The Spectre-Q Nanophotonic Drive eliminates electronic bottlenecks entirely by processing data as pure photons from input to output, wrapped in a suffocating shroud of quantum key distribution.
 
@@ -273,9 +257,7 @@ There are no electrical pins to tap, no magnetic fields to read, and no electron
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">OmniGuard Quantum-Memristor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="OmniGuard Quantum-Memristor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro shot of a microscopic memristor crossbar grid glowing with golden electrical currents, futuristic dark background, abstract scientific photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The OmniGuard Quantum-Memristor blurs the line between memory and processing. Using titanium dioxide crossbar arrays that remember their electrical history, the drive integrates quantum phase-shift keying directly into the storage medium. Data is not just saved; it is woven into the very resistance states of nanoscale atomic switches.
 
@@ -304,9 +286,7 @@ If an unauthorized probe attempts to read the memristor array without the correc
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Genesis Q-Singularity Vault</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="The Genesis Q-Singularity Vault" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A majestic, monolithic futuristic vault door made of dark brushed metal and pulsing with bright blue quantum energy rings, cinematic wide shot, dramatic scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing at the absolute pinnacle of human engineering, The Genesis Q-Singularity Vault is the undisputed king of unbreakable storage. Operating on principles bordering on science fiction, this enterprise monolith utilizes macroscopic quantum entanglement networks tethered between two physically isolated subterranean vaults separated by hundreds of miles.
 

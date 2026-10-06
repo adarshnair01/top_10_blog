@@ -25,9 +25,7 @@ Yet, curiosity has always triumphed over caution. Today, advanced vulcanology, s
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Yasur</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Mount Yasur" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of tourists silhouetted against Mount Yasur erupting at dusk, glowing red lava flying into a dark sky, ash plumes, highly detailed, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The ground beneath your boots does not merely tremble; it pulses like the aorta of a slumbering dragon. As twilight blankets Tanna Island, the sky above Mount Yasur ignites into a violent ballet of neon-orange and bruised violet. Ash plumes billow upward with the roar of a jet engine, accompanied by the concussive thump of subterranean explosions that vibrate straight through your chest.
 
@@ -56,9 +54,7 @@ Led by local custom guides who read the mountain's volatile moods like an ancien
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Whakaari / White Island</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Whakaari / White Island" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A vibrant yellow sulfur vent smoking intensely on White Island, New Zealand, with turquoise ocean in the background, bright daylight, hyper-detailed photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising like a steampunk fortress from the deep turquoise expanse of the Bay of Plenty, White Island is New Zealand’s only active marine volcano. Stepping ashore feels akin to landing on an alien planet, where canary-yellow sulfur deposits crust the black rock and acidic streams cut paths through the desolate landscape. The atmosphere is thick with steam and the sharp, unmistakable scent of geothermal breath.
 
@@ -87,9 +83,7 @@ Navigating this otherworldly terrain requires strict safety protocols, including
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Etna</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Mount Etna" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic drone shot of Mount Etna in Sicily erupting with a gentle plume of smoke against a blue sky, snow-capped upper slopes meeting dark lava fields.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Dominating the sun-drenched Sicilian horizon, Mount Etna is Europe’s tallest and most active volcano, weaving a spell of myth and majesty over the Mediterranean. According to ancient Greek lore, the giant Typhon was trapped beneath its weight, and his fiery breath still escapes through the summit craters. Today, modern cable cars and 4x4 mountain vehicles ferry intrepid explorers up its flanks, transitioning quickly from lush vineyards and pistachio groves to stark, lunar expanses of black slag.
 
@@ -118,9 +112,7 @@ Accompanied by certified alpine vulcanologists, hikers traverse fields of harden
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pacaya Volcano</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Pacaya Volcano" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Tourists roasting marshmallows over glowing red hot lava on the slopes of Pacaya volcano in Guatemala at dusk, adventurous atmosphere, vivid colors.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The climb up Pacaya is a masterclass in shifting environments. You begin your ascent through dense, emerald-green pine forests that slowly thin out into surreal, barren landscapes of jagged black basalt and fine volcanic grit. As you crest the ridge, the wind carries a fierce heat, and the true character of the mountain reveals itself: glowing fissures of fresh lava creeping lazily across the earth like veins of liquid fire.
 
@@ -149,9 +141,7 @@ Local guides lead visitors right up to cooling lava flows where you can literall
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kīlauea</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Kīlauea" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning night photography shot of Kilauea volcano's glowing red lava lake inside the massive dark caldera, starry Hawaiian sky above, highly detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In Hawaiian tradition, Kīlauea is the sacred home of Pele, the fiery goddess of volcanoes and fire. Standing at the rim of Halemaʻumaʻu crater within Hawaiʻi Volcanoes National Park, you feel an immediate, profound reverence. At night, the vast caldera glows with an unearthly crimson light as a churning lava lake boils furiously within the deep pit, painting the billowing steam clouds overhead in shades of blood orange and gold.
 
@@ -180,9 +170,7 @@ Park rangers and cultural guides share both the deep geological science and the 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Bromo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Mount Bromo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Panoramic landscape of Mount Bromo erupting with smoke in East Java Indonesia at sunrise, sea of clouds below, golden morning light hitting the volcanic peaks.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">To witness the sunrise over the Tengger Caldera is to experience a landscape of pure, cinematic majesty. Standing atop Mount Penanjakan in the predawn chill, you watch as the first golden rays of sunlight pierce through a sea of swirling mist, slowly revealing the colossal, smoking cone of Mount Bromo rising dramatically from a vast, ash-gray plain known as the 'Sea of Sand.'
 
@@ -211,9 +199,7 @@ Accompanied by local Tenggerese guides on horseback or by foot, travelers descen
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Stromboli</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Mount Stromboli" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Mount Stromboli erupting at night off the coast of Italy, glowing molten lava arcs shooting into the star-filled sky, dark sea in the foreground, epic long exposure.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising precipitously from the deep blue waters of the Tyrrhenian Sea, Stromboli has earned the legendary moniker 'Lighthouse of the Mediterranean.' For at least two millennia, its rhythmic, incandescent explosions have served as a natural beacon for sailors navigating night waters. Climbing this steep cone is a test of endurance, but reaching the authorized vantage points just below the active summit rewards you with one of nature’s greatest spectacles.
 
@@ -242,9 +228,7 @@ As darkness falls, expert alpine guides position groups along the safe perimeter
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Vesuvius</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Mount Vesuvius" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A wide-angle shot of the massive crater of Mount Vesuvius in Italy, steam rising from sulfur vents, with the Bay of Naples and Naples city visible in the distance.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">No volcano on Earth carries a more haunting, dramatic historical legacy than Mount Vesuvius. Towering directly over the sprawling Bay of Naples, this infamous peak is etched into human memory as the destroyer of Pompeii and Herculaneum in 79 AD. Today, walking up the well-maintained switchback trails toward the summit feels like treading upon hallowed, tragic ground.
 
@@ -273,9 +257,7 @@ Licensed mountain guides lead visitors along the rim of the massive crater, wher
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Arenal Volcano</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Arenal Volcano" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: The perfectly conical peak of Arenal Volcano in Costa Rica towering over lush green rainforest canopy, dramatic clouds, vibrant tropical colors.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For decades, Arenal was celebrated as one of the most active and visually spectacular volcanoes in the world, constantly hurling rivers of glowing red lava down its symmetrical cone. Though it entered a resting, quiet phase in recent years, this lush Costa Rican titan remains an absolute paradise for nature lovers and adventure seekers alike. Wrapped in dense emerald rainforests teeming with exotic wildlife, Arenal's perfect silhouette pierces the tropical clouds with breathtaking elegance.
 
@@ -304,9 +286,7 @@ Expert naturalist guides lead travelers across ancient lava flows embedded withi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Eyjafjallajökull</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Eyjafjallajökull" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive modified Super Jeep driving across the black volcanic ash and white glacier ice of Eyjafjallajökull in Iceland under dramatic stormy skies.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The very name of this Icelandic ice-capped stratovolcano once brought global aviation to a grinding halt, echoing across international news desks in 2010. Beneath a pristine, glistening mantle of ancient glacial ice lies a volatile chamber of molten fury. Guided Super Jeep and glacier-hiking expeditions take modern explorers deep into the rugged southern highlands where fire and ice wage a perpetual, epic war.
 

@@ -25,9 +25,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghostly Galatheid: Squat Lobsters of the Deep</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ghostly Galatheid: Squat Lobsters of the Deep" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a translucent, pale orange Galatheid squat lobster with long antennae, scuttling across a dark, mineral-rich hydrothermal vent field. Soft, eerie blue-green light illuminates its delicate exoskeleton against a backdrop of black smokers. High detail, deep focus.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a world bathed in perpetual twilight, where shadows dance on mineral spires. Here, skittering across the vent fields like spectral spiders, are the Galatheid Crabs, often misidentified as squat lobsters. Their delicate, almost translucent bodies move with an eerie grace, navigating landscapes of superheated chimneys and toxic plumes. They are the scavengers and opportunists of this extreme environment, a crucial link in the vent food web, feeding on bacteria and detritus, ever-alert to the subtle shifts in the tumultuous currents. Their presence reminds us that even in the harshest conditions, a complex, interconnected ecosystem flourishes.</div>
   <div class="fact-grid">
@@ -54,9 +52,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Blind Architects: Vent Limpets</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Blind Architects: Vent Limpets" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up, macro photography style, of several small, dark-shelled vent limpets clinging to a rough, mineralized rock surface. Subtle shimmering bacterial mats are visible. Background blurred, focus on the limpet's shell texture. Deep-sea lighting, slightly greenish tint.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging with unyielding tenacity to the very rocks that form the vents, these small, unassuming creatures are the silent architects of their micro-world. Vent limpets, with their cone-shaped shells, are perfectly adapted to graze on the bacterial films that carpet the vent surfaces. They move slowly, methodically, their radula – a specialized tongue-like structure – scraping sustenance from the extremophilic microbes. Though blind, their chemosensory organs are acutely tuned to the subtle chemical gradients, guiding them through the hazardous maze of hot and cold water, a testament to life's ability to find a niche in the most unlikely places.</div>
   <div class="fact-grid">
@@ -83,9 +79,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Armored Survivor: Scaly-Foot Snail</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Armored Survivor: Scaly-Foot Snail" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, low-angle shot of a Scaly-Foot Snail, its dark, iridescent shell gleaming with metallic hues, adorned with iron-sulfide scales on its foot. It's clinging to a black smoker chimney, with shimmering vent fluids in the background. Cinematic, mysterious lighting. Ultra-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">From the heart of the Indian Ocean's abyssal plains emerges a mollusk unlike any other – the Scaly-Foot Snail, a living tank in the deep. Its shell isn't just calcium carbonate; it's reinforced with iron sulfides, giving it a metallic sheen and an almost impenetrable defense against predators and extreme conditions. But the true marvel lies in its foot, adorned with hundreds of mineralized sclerites, resembling scales, also made of iron sulfides. This creature literally wears its environment, absorbing the very minerals that spew from the vents to craft its extraordinary armor. It’s a testament to biomimicry at its most extreme, a biological marvel forged in the crucible of Earth's interior.</div>
   <div class="fact-grid">
@@ -112,9 +106,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Eyeless Sentinel: Blind Vent Crab</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Eyeless Sentinel: Blind Vent Crab" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dynamic shot of several pale, ghostly white Blind Vent Crabs scurrying over a rocky vent landscape. One crab is in sharp focus, its rudimentary eyes barely visible, antennae twitching. Background shows faint plumes of superheated water. Moody, atmospheric deep-sea lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the perpetual night of the vent ecosystem, sight is a luxury, not a necessity. The Blind Vent Crab, a hardy crustacean, navigates its world not by vision, but by an acute sense of touch and chemoreception. With its pale, often eyeless or rudimentary-eyed body, it scuttles across the vent openings, deftly avoiding the scalding plumes. These crabs are often found in bustling aggregations, feeding on bacterial mats, detritus, and even small invertebrates. They are the bustling citizens of the vent cities, their existence a powerful reminder that life finds a way to perceive and thrive even when conventional senses are rendered useless.</div>
   <div class="fact-grid">
@@ -141,9 +133,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Living Furnace: Pompeii Worm</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Living Furnace: Pompeii Worm" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up, high-definition shot of a Pompeii Worm, its reddish feathery plumes visible at the head, and a fuzzy, grayish bacterial mat covering its body. It’s partially retracted into a tube, clinging to a black smoker chimney. Shimmering, hot vent water distorts the background. Extreme environment feel.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine living inches from a jet of superheated, toxic water – that's the daily reality for the Pompeii Worm, arguably the most heat-tolerant animal on Earth. Its feathery red plumes, often seen swaying in the turbulent currents, house gill-like structures. But its true secret lies in the fuzzy 'fleece' that covers its back – a dense mat of symbiotic bacteria. These bacteria not only insulate the worm from the searing temperatures (up to 80°C on its tail!) but also detoxify the vent chemicals, providing nutrients to the worm in return. It’s a living symbiosis, a tiny, vibrant ecosystem thriving at the very edge of biological possibility, a marvel of co-evolution in Earth's fiery crucible.</div>
   <div class="fact-grid">
@@ -170,9 +160,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Oceanic Shepherd: Vent Fish</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Oceanic Shepherd: Vent Fish" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dynamic shot of a sleek, dark deep-sea vent fish (e.g., eelpout) swimming gracefully near the shimmering edge of a hydrothermal vent field. Its form is adapted for deep pressure. Subtle light filters from a research submersible in the far background. Focus on motion and mystery.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While many vent creatures are sessile or slow-moving, certain fish species defy the odds, becoming active predators and scavengers in this extreme realm. These 'vent fish,' often eel-like or stout-bodied, are adapted to the crushing pressures and fluctuating temperatures. They possess specialized hemoglobin to cope with low oxygen and toxic sulfides, and some even have rudimentary eyes despite the eternal darkness, perhaps sensing faint bioluminescence or the glow of hydrothermal activity. They are the elusive shepherds of the vent plains, patrolling the edges of the active zones, a constant reminder that no corner of Earth is truly devoid of complex, mobile life.</div>
   <div class="fact-grid">
@@ -199,9 +187,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Yeti of the Deep: Yeti Crab</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Yeti of the Deep: Yeti Crab" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic, dramatic close-up of a Yeti Crab, its entire body covered in soft, white, filamentous setae. It's positioned on a dark rock, with one hairy claw raised, seemingly 'farming' bacteria. Eerie, almost bioluminescent glow from unseen vent fluids. High detail, slightly otherworldly.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Emerging from the frigid, crushing abyss, the Yeti Crab is a creature of legend brought to life. Covered in long, silky, blond 'fur' – actually setae – that gives it an almost mythical appearance, this crab is a true marvel. But this fur isn't just for show; it's a living garden. The Yeti Crab waves its hairy arms through the vent water, cultivating dense mats of chemosynthetic bacteria on its setae. It then 'combs' these bacteria off, consuming them as its primary food source. This extraordinary 'farming' behavior, performed in pitch blackness and immense pressure, paints a vivid picture of life's relentless ingenuity.</div>
   <div class="fact-grid">
@@ -228,9 +214,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Black Smoker's Gardener: Vent Shrimp</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Black Smoker's Gardener: Vent Shrimp" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide-angle, immersive shot of thousands of Vent Shrimp swarming around a towering black smoker chimney, their pale bodies with reddish dorsal spots creating a shimmering cloud. Hot, dark vent fluids plume upwards. Moody, deep-sea blue and yellow lighting. Epic scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a dense, swirling cloud of living organisms, their red-rimmed backs reflecting the ghostly glow of a submersible's lights. These are the Vent Shrimp, swarming in staggering numbers around the scalding black smokers, the very chimneys that spew superheated, mineral-rich water. Unlike their shallow-water cousins, these shrimp are blind, relying on specialized photoreceptors on their backs to detect the faint infrared radiation emitted by the hot vents, guiding them to their microbial food source. They are the primary grazers of the vent environment, their sheer numbers a testament to the boundless energy available from Earth's geothermal furnace, creating bustling underwater cities that defy every expectation of life.</div>
   <div class="fact-grid">
@@ -257,9 +241,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Living Battery: Giant Vent Mussel</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Living Battery: Giant Vent Mussel" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking shot of a dense, sprawling bed of Giant Vent Mussels, their dark, oblong shells open slightly, revealing pale flesh. They are clustered around a shimmering vent opening, with faint plumes rising. Deep-sea blue and green lighting, highlighting the sheer scale of the mussel bed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine vast fields of living bivalves, forming dense carpets across the vent plains, each mussel a miniature powerhouse of symbiotic life. These are the Giant Vent Mussels, sessile titans of the deep, who have forged an incredible pact with chemosynthetic bacteria. Instead of filtering food from the water, they host billions of these bacteria within their gills. The mussels provide a safe, oxygenated environment, while the bacteria oxidize hydrogen sulfide from the vents, producing organic compounds that nourish their host. It's a perfect partnership, creating living reefs in the darkness, a testament to the intricate dance of life and chemistry at the very bedrock of our planet.</div>
   <div class="fact-grid">
@@ -286,9 +268,7 @@ Prepare for an immersive expedition into the crushing depths, where creatures of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Primeval Pioneer: Giant Tube Worms</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Primeval Pioneer: Giant Tube Worms" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Awe-inspiring, cinematic wide shot of a field of towering Giant Tube Worms, their bright red plumes extended from their white chitinous tubes, swaying gently in the turbulent vent currents. Hot, shimmering vent fluids rise from cracks in the dark seafloor. Dramatic, ethereal deep-sea lighting. Focus on the contrast of red and dark.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing like ancient, crimson totems against the blackness, the Giant Tube Worms are the undisputed icons of hydrothermal vents, a living monument to life's extraordinary resilience. Reaching incredible lengths, these majestic creatures have no mouth, no gut, no anus – they are a biological paradox. Instead, they host trillions of chemosynthetic bacteria within a specialized organ called the trophosome. Their vibrant red plumes, extended into the toxic vent fluids, absorb hydrogen sulfide and oxygen, delivering these chemicals to their internal bacterial partners. In return, the bacteria convert these raw materials into organic nutrients, sustaining the worm. They are the silent, towering giants of a world without sunlight, a primal echo of how life might have first blossomed on Earth, forever altering our understanding of what is possible.</div>
   <div class="fact-grid">

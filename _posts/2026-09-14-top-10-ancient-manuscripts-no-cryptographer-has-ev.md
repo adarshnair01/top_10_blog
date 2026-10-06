@@ -25,9 +25,7 @@ From bizarre botanical diagrams drawn by phantom hands to astronomical charts ma
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Rohonc Codex</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Rohonc Codex" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up cinematic shot of an open ancient leather-bound codex with mysterious runic script and faded medieval illustrations under soft, warm museum spotlight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Discovered in western Hungary during the early 19th century, the Rohonc Codex is a thick, leather-bound volume written in an alphabet nearly ten times longer than any known script in human history. Its pages are densely packed with jagged characters resembling a hybrid of Old Hungarian runes, Greek, and invented glyphs, interspersed with nearly 200 crude illustrations of battles, religious iconography, and bizarre landscapes.
 
@@ -56,9 +54,7 @@ For generations, brilliant minds from amateur codebreakers to Hungarian historia
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Copiale Cipher</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Copiale Cipher" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ornate 18th-century German manuscript displaying intricate abstract symbols and golden brocade binding on a dark mahogany table.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Radiating an aura of shadowy 18th-century conspiracy, the Copiale Cipher is a meticulously handwritten book penned entirely in abstract symbols, engraved letters, and sporadic roman characters. Bound in luxurious gold and green brocade paper, it looks less like a journal and more like an initiation rite into a forbidden society operating in the twilight of Enlightenment Europe.
 
@@ -87,9 +83,7 @@ It wasn't until computer algorithms developed by linguists in 2011 finally crack
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Voynich Manuscript</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Voynich Manuscript" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An eerie, atmospheric photograph of the open Voynich Manuscript showing bizarre botanical drawings and flowing cursive script under archival green light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Often crowned the 'Mount Everest' of historical cryptology, the Voynich Manuscript has tormented scholars, codebreakers, and World War II intelligence cryptanalysts alike. Illustrated with glowing botanical anomalies, swimming naked nymphs, and astrological charts of alien constellations, the manuscript is written in a fluid, elegant, yet utterly unknown script that flows effortlessly across the page like a living language.
 
@@ -118,9 +112,7 @@ Every conceivable theory has been hurled at the Voynich: that it's a medieval ho
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Codex Seraphinianus</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Codex Seraphinianus" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A surreal artistic photograph of the Codex Seraphinianus open to a page showing bizarre, whimsical machinery and colorful alien plants.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unlike ancient manuscripts born from lost civilizations, the Codex Seraphinianus was created in the late 20th century by Italian artist and architect Luigi Serafini. Yet, despite its modern provenance, it remains as impenetrable as any artifact from antiquity. The book is an exhaustive visual encyclopedia of an alternate, surreal Earth, featuring bizarre flora, physics-defying machinery, and anatomical drawings of humans morphing into fish and fountain pens.
 
@@ -149,9 +141,7 @@ The text is written in a handwritten script that loops and dances across the pag
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Rongorongo Script of Easter Island</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Rongorongo Script of Easter Island" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ancient wooden Easter Island Rongorongo tablet with carved glyphs resting on volcanic rock against a dramatic, moody Pacific Ocean sunset.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Scattered across the remote windswept shores of Rapa Nui, the Rongorongo script represents the only known writing system developed in Oceania prior to the 19th century. Inscribed onto weathered pieces of driftwood using shark teeth and obsidian flakes, these glyphs depict stylized humans, birds, fish, and celestial bodies arranged in an alternating reverse-reading style known as *boustrophedon*.
 
@@ -180,9 +170,7 @@ When European missionaries first documented the tablets in the 1860s, native eld
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Beale Ciphers</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Beale Ciphers" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An old brass lockbox sitting on a rustic wooden desk next to yellowed parchment filled with endless columns of numbers in dim candlelight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In 1820, a mysterious frontiersman named Thomas J. Beale checked into a Virginia hotel and left behind a locked brass box with a local innkeeper before vanishing into the Appalachian wilderness forever. Decades later, the box was opened to reveal three pages of endless numbers paired with a letter detailing the location of a multi-ton fortune of buried gold and silver.
 
@@ -211,9 +199,7 @@ Only the second cipher was ever successfully cracked—using the Declaration of 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Indus Valley Script</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Indus Valley Script" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ancient carved stone seal from the Indus Valley civilization showing a unicorn motif and cryptic pictographic script resting on dark soil.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Spanning the ruins of ancient metropolises like Harappa and Mohenjo-Daro, the Indus Valley Civilization rivaled ancient Egypt and Mesopotamia in scale and sophistication. Yet, their civilization left behind an infuriatingly brief legacy: thousands of small steatite seals, copper tablets, and pottery sherds stamped with mysterious pictographic animal symbols and geometric characters.
 
@@ -242,9 +228,7 @@ The longest known inscription contains only 26 characters, and most are limited 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Phaistos Disc</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Phaistos Disc" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sharp, high-contrast overhead studio photo of the ancient terracotta Phaistos Disc showing its intricate spiral pattern of stamped glyphs.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unearthed in the basement of the Minoan palace of Phaistos in 1908, this small, unassuming disc of fired clay is a masterpiece of prehistoric printing. Stamped into both sides in a spiral pattern are 245 distinct tokens representing 45 unique symbols—including walking men, plumed heads, fish, shields, and catamarans—pressed into the wet clay using punch-stamps long before movable type was supposedly invented in Asia or Europe.
 
@@ -273,9 +257,7 @@ For over a century, the disc has driven epigraphers to distraction. Claims of de
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Voynich-Like Codex (The Book of Soyga)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Voynich-Like Codex (The Book of Soyga)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An eerie Renaissance scholar's desk featuring an open grimoire with complex astrological letter tables, a glowing crystal ball, and flickering candlelight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the late 16th century, the legendary English occultist and mathematician Dr. John Dee possessed a mysterious Latin manuscript titled *Codex Soyga*. Filled with invocations of angels, demons, and astrological charts, the book culminates in 36 massive tables packed with seemingly random letters arranged in complex grids that Dee called 'tables of good and evil angels.'
 
@@ -304,9 +286,7 @@ Desperate to understand its powers, Dee famously used a scrying mirror to ask th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Iberrian Lead Plaques of Alcoy</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Iberrian Lead Plaques of Alcoy" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A weathered, oxidized lead sheet inscribed with sharp pre-Roman Iberian symbols resting on a dark slate display board in a museum gallery.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Ranking at the absolute peak of undeciphered antiquity are the enigmatic lead sheets and plaques of the Paleohispanic world, most notably those recovered from the ancient site of La Serreta near Alcoy, Spain. These heavy, oxidized sheets of lead were inscribed by the pre-Roman Iberian populations using a semi-syllabic script that borrows elements from both alphabets and logographic systems.
 

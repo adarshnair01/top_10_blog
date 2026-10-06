@@ -25,9 +25,7 @@ Today, advanced sonar mapping, autonomous submersibles, and daring technical div
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Roman Luxury Resort of Baiae</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Roman Luxury Resort of Baiae" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Crystal clear turquoise water revealing intricately patterned ancient Roman mosaic floors and fallen marble columns on the sea floor, cinematic underwater photography, natural sunlight filtering through.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before Hollywood stars retreated to Malibu or the French Riviera, the ultra-wealthy elite of the Roman Empire flocked to Baiae. Here, emperors like Nero and Julius Caesar built opulent seaside villas featuring thermal sulphur springs, marble-inlaid banquet halls, and panoramic terraces overlooking the Tyrrhenian Sea. It was a playground of hedonism, political intrigue, and decadent feasts.
 
@@ -56,9 +54,7 @@ However, the very geological forces that made the region desirable ultimately sp
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Geometric Mystery of the Yonaguni Monument</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Geometric Mystery of the Yonaguni Monument" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive, sharp-angled stone ziggurat submerged in deep blue ocean water, with a scuba diver scaling giant geometric steps, dramatic cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising sharply from the pitch-black depths of the Pacific Ocean like a colossal Aztec pyramid built by giants, the Yonaguni Monument continues to ignite fierce academic debate. Discovered by a local dive tour operator in 1986, this massive subterranean formation features razor-sharp 90-degree angles, gigantic step-like terraces, colossal flat walls, and intricate staircases carved directly into the bedrock.
 
@@ -87,9 +83,7 @@ Is it an astonishingly sophisticated example of human architecture dating back t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Royal Quarters of Sunken Alexandria</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Royal Quarters of Sunken Alexandria" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive stone sphinx covered in light marine growth resting peacefully on the sandy sea floor of Alexandria, with a diver swimming nearby, cinematic moody lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the bustling, modern harbor of Alexandria lies the legendary royal quarter of the Ptolemaic dynasty—the very ground walked by Queen Cleopatra VII and Mark Antony. Following a series of catastrophic earthquakes, tidal waves, and rising sea levels in the 4th and 8th centuries AD, the palaces, temples, and docks of this once-glorious Mediterranean metropolis slid silently into the silt.
 
@@ -118,9 +112,7 @@ Today, marine archaeologists working alongside the European Institute for Underw
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Neolithic Highway of Atlit Yam</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Neolithic Highway of Atlit Yam" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Ancient stone foundations and a prehistoric stone water well resting on the shallow sandy ocean floor, moody cinematic underwater shot with sun rays piercing through.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before the rise of written language or bronze tools, a thriving agricultural and fishing community flourished along the Mediterranean coast of modern-day Israel. Atlit Yam is a prehistoric ghost village frozen in time, boasting semi-subterranean stone houses, hearths, water wells, and even a mysterious stone circle resembling a mini-Stonehenge.
 
@@ -149,9 +141,7 @@ Walking—or rather, diving—through the ruins reveals a poignant snapshot of a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Pirate Capital of Port Royal</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Pirate Capital of Port Royal" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sunken 17th-century wooden ship anchor and cobblestone street foundations resting in the murky blue Caribbean sea, cinematic and eerie atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Known in the 17th century as 'the wickedest city on Earth,' Port Royal was a notorious Caribbean haven where privateers, pirates, and cutthroats spent their plundered gold on endless rum and debauchery. On June 7, 1692, divine retribution—or geological catastrophe—struck with terrifying swiftness. A massive earthquake shook the sandy spit of land, causing a catastrophic liquefaction event that swallowed two-thirds of the city whole in a matter of minutes.
 
@@ -180,9 +170,7 @@ Today, Port Royal is the Pompeii of the New World. Sealed beneath thick layers o
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Prehistoric Megaliths of Lake Cuitzeo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Prehistoric Megaliths of Lake Cuitzeo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial view of ancient stone alignments and megaliths partially visible through shallow, crystal-clear turquoise lake water, cinematic documentary style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the high-altitude basin of central Mexico lies Lake Cuitzeo, a sprawling body of water hiding an astonishing archaeological secret beneath its shallow, mineral-rich surface. Divers and researchers mapping the lakebed have uncovered a vast network of megalithic stone alignments, ritual platforms, and ancient agricultural terraces constructed by hunter-gatherer cultures thousands of years ago.
 
@@ -211,9 +199,7 @@ These submerged monuments reveal how ancient peoples adapted to fluctuating wate
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Canyons of the Sunken Pyramids of Pavlopetri</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Canyons of the Sunken Pyramids of Pavlopetri" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Shallow turquoise Greek coastal waters revealing the stone foundations and street layout of an ancient Bronze Age city, cinematic underwater photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Just a stone's throw from the sun-baked beaches of southern Greece lies Pavlopetri, universally recognized as the oldest known submerged town in the world. Dating back well into the Bronze Age, this meticulously planned urban center features multi-room two-story stone houses, sophisticated street grids, public courtyards, an advanced water drainage system, and massive central plazas.
 
@@ -242,9 +228,7 @@ Swimming over Pavlopetri is akin to flying over a ghostly metropolis in miniatur
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Marble Ghost City of Heracleion (Thonis)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Marble Ghost City of Heracleion (Thonis)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A colossal 16-foot red granite Egyptian statue standing upright on the murky ocean floor, surrounded by awestruck scuba divers with flashlights, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For centuries, Thonis-Heracleion existed only as a mythical whisper in ancient Greek texts—a legendary port city where Helen of Troy and her lover Paris sought refuge, and where Hercules himself was said to have first set foot in Egypt. Historians debated whether it was real until marine archaeologist Franck Goddio stumbled upon its breathtaking remains resting peacefully beneath the murky silt of Abukir Bay.
 
@@ -273,9 +257,7 @@ Descending into Heracleion is like stepping into an alternate dimension of awe. 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Architectural Wonder of Dwarka</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Architectural Wonder of Dwarka" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Submerged ancient stone pillars and carved architectural blocks covered in barnacles on the floor of the Arabian Sea, golden sunbeams cutting through deep blue water, cinematic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">According to ancient Hindu epic texts like the Mahabharata, Dwarka was a magnificent, divinely planned golden city built by Lord Krishna, featuring 70,000 palaces made of gold, silver, and precious gemstones. When Krishna departed Earth, the epic records, the sea rose and swallowed the glorious city whole, reducing it to a sacred maritime myth.
 
@@ -304,9 +286,7 @@ In 2000, marine archaeologists operating off the coast of Gujarat made a startli
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Crystal-Clear Palaces of Sunken Port Royal's Twin, The Lost Pyramids of Bimini</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Crystal-Clear Palaces of Sunken Port Royal's Twin, The Lost Pyramids of Bimini" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Massive, perfectly rectangular limestone blocks forming a mysterious ancient road beneath crystal-clear turquoise Caribbean water, cinematic aerial drone and underwater composite shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the very pinnacle of our countdown lies one of the most controversial, mesmerizing, and hotly debated underwater mysteries on the planet: the Bimini Road. Stretching for nearly a half-mile across the blindingly white sandy shallows of the Bahamas, this formation consists of massive, perfectly rectangular limestone blocks laid out in an unmistakable double-J curve, resembling a submerged paved highway or breakwater.
 

@@ -25,9 +25,7 @@ From the neon-glowing lava fields of the Pacific Ring of Fire to the mist-shroud
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Yasur</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Mount Yasur" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of tourists silhouetted on a dark volcanic ridge watching glowing orange lava explode from a crater at dusk, dramatic lighting, 8k resolution, National Geographic style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before European sails ever touched the shores of Tanna Island, the indigenous people revered Mount Yasur as the sacred dwelling place of a powerful spirit. Today, it holds the legendary title of 'the world's most accessible active volcano' for a very visceral reason: you can drive almost all the way to the summit ridge. As dusk settles over the South Pacific, the sky transforms into a bruised canvas of violet and indigo, punctuated violently by artillery-like booms from deep within the earth.
 
@@ -56,9 +54,7 @@ Stepping out onto the ash-caked viewing rim, the ground beneath your sneakers vi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Whakaari / White Island</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Whakaari / White Island" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic shot of a steaming green acid lake inside a volcanic crater, with yellow sulfur deposits and tourists wearing hard hats in the foreground, moody lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising like a steampunk fortress from the azure depths of the Bay of Plenty, Whakaari is New Zealand’s only active marine volcano, appearing less like a traditional mountain and more like an alien industrial complex. To set foot upon its shores is to cross the threshold into a desolate, sulfurous wasteland where the atmosphere hums with chemical energy. The air tastes distinctly of metal and vinegar, and every breath reminds you that you are walking across the crust of a living, breathing hydrothermal monster.
 
@@ -87,9 +83,7 @@ Guided tours here require hard hats and gas masks, adding a surreal, post-apocal
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Etna</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Mount Etna" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An aerial drone shot of Mount Etna's snowy summit venting black ash against a bright blue Sicilian sky, with winding mountain trails visible below.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Dominated by myth and immortalized by ancient poets, Mount Etna looms over the sun-drenched island of Sicily like an unpredictable giant guarding the Mediterranean. As Europe’s tallest and most active volcano, Etna is a chameleon of terrain, shifting seamlessly from lush citrus groves and verdant vineyards on its lower slopes to a stark, charcoal-black lunar desert of ash near its towering summit peaks. Climbing Etna is not merely a hike; it is an expedition through centuries of human history and relentless geological renewal.
 有人
@@ -118,9 +112,7 @@ Accompanied by certified alpine vulcanological guides, travelers ascend via cabl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pacaya Volcano</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Pacaya Volcano" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up action shot of a smiling hiker roasting a marshmallow on a stick poked into a glowing red volcanic crack on Pacaya, warm ambient glow.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Just a short drive from Guatemala's colorful colonial hub of Antigua lies Pacaya, a towering complex stratovolcano that offers one of the most interactive and gratifying hiking experiences in Central America. The trek begins amidst dense pine forests draped in Spanish moss, gradually giving way to steeper, wind-swept slopes covered in loose black scoria. As you climb higher, the crisp mountain air begins to warm, radiating a deep, cozy heat that emanates directly from the ground beneath your boots.
 
@@ -149,9 +141,7 @@ Reaching the plateau near the active Mackenney Cone, visitors are treated to an 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Bromo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Mount Bromo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking cinematic sunrise over Mount Bromo in Java, Indonesia, with a sea of fog below, smoking crater, and Silhouetted Hindu temple in the foreground.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing on the razor-thin rim of Mount Bromo at dawn is akin to peering directly onto the surface of another planet. Located within the vast, surreal expanse of the Tengger Caldera—a massive ancient crater floor known as the 'Sea of Sand'—Bromo rises as a smoking, defiant cone surrounded by an ocean of fine volcanic dust and neighboring jagged peaks. The journey begins in the dead of night, with Jeep engines roaring as travelers navigate a ghostly, mist-shrouded desert to reach the panoramic viewpoints.
 
@@ -180,9 +170,7 @@ As the first rays of golden sunlight pierce the morning fog, they illuminate the
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kīlauea (Hawaiian Volcanoes National Park)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Kīlauea (Hawaiian Volcanoes National Park)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning night photography of Kilauea's Halemaumau crater glowing with vibrant orange and red molten lava underneath a starry Hawaiian sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Kīlauea is not merely a volcano; it is the spiritual and geological heartbeat of the Hawaiian archipelago, revered by Native Hawaiians as the sacred home of Pele, the fiery goddess of fire, lightning, and volcanoes. Walking along the edges of the massive Halemaʻumaʻu Crater within Kīlauea Caldera feels like trespassing into a divine workshop where the very foundation of the earth is continually being forged, destroyed, and reborn before your eyes.
 
@@ -211,9 +199,7 @@ By day, massive plumes of steam billow skyward from deep fractures in the calder
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Vesuvius</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Mount Vesuvius" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A panoramic wide shot of Mount Vesuvius's massive crater with hikers walking along the rim trail, overlooking the sprawling blue Bay of Naples in the distance.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Few names in human history strike the imagination with quite the same chilling resonance as Mount Vesuvius. Responsible for the cataclysmic destruction of Pompeii and Herculaneum in 79 AD, this deceptively peaceful-looking giant looms directly over the densely populated metropolitan bay of Naples. Hiking up its well-maintained zig-zagging trails today offers a spine-tingling juxtaposition: you are walking on the roof of a sleeping beast that buried an entire civilization in ash, while looking out over one of the most vibrant, bustling coastal views in Europe.
 
@@ -242,9 +228,7 @@ The path leads right up to the ragged, 600-meter-wide rim of the great crater. P
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount St. Helens</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Mount St. Helens" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An impressive landscape photograph of Mount St. Helens showing its massive blown-out crater and interior lava dome, with blooming wildflowers in the foreground.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On May 18, 1980, the northern flank of Mount St. Helens collapsed in the largest landslide in recorded history, instantly transforming a majestic, snow-capped cone into a jagged, horseshoe-shaped amphitheater. Today, standing on the crater rim via the Monitor Ridge Route is a masterclass in witnessing the earth's unstoppable capacity for ecological and geological recovery. The climb is a grueling, rewarding scramble across massive piles of pumice, ash, and steep boulder fields that test your stamina and resolve.
 
@@ -273,9 +257,7 @@ Reaching the rim at 8,363 feet reveals a jaw-dropping view straight down into th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Eyjafjallajökull</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Eyjafjallajökull" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A striking glacial landscape in Iceland showing bright blue ice mixed with dark layers of volcanic ash on the slopes of Eyjafjallajökull, dramatic overcast lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Famous for bringing European airspace to a grinding halt in 2010 with unpronounceable authority, Eyjafjallajökull is an ice-capped titan that marries the sub-zero majesty of Icelandic glaciers with the fiery fury of subterranean magma. Guided super-jeep and glacier-hiking expeditions take adventurous travelers up onto the pristine, glistening ice cap that blankets the volcano's massive caldera, creating a surreal landscape where glacial blue ice directly abuts dark, ash-streaked volcanic ridges.
 
@@ -304,9 +286,7 @@ Traversing the glacier with crampons and ice axes under the watchful eye of an e
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mount Villarrica</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Mount Villarrica" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A heroic mountaineer standing on the snowy rim of Mount Villarrica looking down into a glowing orange molten lava lake, with snow-capped Andes mountains in the background at sunrise.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Crowning the picturesque Lake District of southern Chile, Mount Villarrica is widely considered the holy grail of guided volcano climbing. Its perfectly symmetrical, snow-draped stratone cone towers gracefully over pristine alpine lakes and dense temperate rainforests, luring mountaineers from across the globe. Yet beneath its sparkling white winter coat beats one of the most violently active and mesmerizing lava lakes on planet Earth.
 

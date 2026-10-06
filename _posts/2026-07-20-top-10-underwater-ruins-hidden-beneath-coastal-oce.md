@@ -25,9 +25,7 @@ Today, modern marine archaeology and deep-sea sonar are peeling back the murky v
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghost Piers of Port Royal</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Ghost Piers of Port Royal" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic underwater photography of sunlit coral-encrusted colonial brick ruins lying on the Caribbean seafloor, schools of tropical fish swimming through broken arches, dramatic god rays piercing the turquoise water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On June 7, 1692, the wickedest city on earth was struck down in less than three minutes. Port Royal, the notorious Jamaican haven for privateers, cutthroats, and merchants, suffered a colossal cataclysm when a massive earthquake liquefied the sand spit it was built upon. Two-thirds of the city slid silently into the Caribbean Sea, taking thousands of souls with it in a terrifying watery grave.
 
@@ -56,9 +54,7 @@ Today, diving into the sunken ruins of Port Royal feels like stepping onto a fro
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Streets of Baiae</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Streets of Baiae" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater wide-angle shot of a pristine ancient Roman marble statue standing upright on a sandy seafloor amidst broken column fragments, crystal clear blue Mediterranean water, soft natural lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before Las Vegas earned a reputation for decadent indulgence, there was Baiae—the ancient Roman resort town where emperors like Nero, Julius Caesar, and Hadrian built sprawling pleasure villas. Famous for its natural thermal springs and hedonistic atmosphere, Baiae was the ultimate playground for Rome’s ultra-wealthy elite. However, centuries of bradyseismic activity—the gradual rising and sinking of the Earth's crust due to underground volcanic magma—slowly dragged this luxurious paradise beneath the Tyrrhenian Sea.
 
@@ -87,9 +83,7 @@ Today, the Underwater Archaeological Park of Baiae is a diver's dream, offering 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Megalithic Maze of Pavlopetri</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Megalithic Maze of Pavlopetri" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot looking straight down into clear shallow Greek coastal waters, revealing the unmistakable geometric stone foundations of an ancient Bronze Age city grid layout.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the azure shallows off the coast of southern Greece lies Pavlopetri, widely considered the oldest submerged town in the world. Dating back well over 5,000 years, to the Bronze Age, this meticulously planned community features two-story houses, courtyards, streets, a sophisticated water management system, and massive central plazas. It predates the rise of classical Greece by millennia, offering an unprecedented look at how our ancient ancestors organized urban life.
 
@@ -118,9 +112,7 @@ Swimming over Pavlopetri feels like hovering above an architectural blueprint et
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Enigmatic Monoliths of Yonaguni</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Enigmatic Monoliths of Yonaguni" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of a scuba diver swimming past massive, geometric stepped stone terraces and megalithic blocks resembling an ancient underwater pyramid in deep blue Pacific waters.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising abruptly from the murky depths of the Ryukyu Archipelago, the Yonaguni Monument is one of the most fiercely debated geological mysteries on Earth. Discovered by a local dive tour operator in 1986, this massive sandstone formation features razor-sharp 90-degree angles, colossal stepped terraces, triangular pillars, and a structure resembling a massive ziggurat. To some, it is the undeniable handiwork of a lost Pacific civilization akin to Atlantis; to others, it is a breathtaking masterclass in natural tectonic fracturing.
 
@@ -149,9 +141,7 @@ Swimming along the face of the Yonaguni Monument induces profound vertigo. The c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Temples of Mahabalipuram</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Temples of Mahabalipuram" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody underwater photograph of carved granite temple ruins and weathered stone pillars covered in barnacles on the floor of the Bay of Bengal, murky atmospheric lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">According to ancient Tamil legends, the magnificent stone structures of Mahabalipuram were once so breathtakingly beautiful that the gods grew jealous and sent a series of ferocious floods known as the 'Seven Pagodas' to swallow them into the Bay of Bengal. For centuries, locals whispered tales of temple spires briefly visible breaking the surface during violent monsoons. Mainstream historians remained skeptical until the catastrophic 2004 Indian Ocean tsunami violently stripped away layers of sediment, suddenly exposing long-hidden stone walls, carved lion heads, and scattered pillars to the stunned coastline.
 
@@ -180,9 +170,7 @@ Underwater archaeologists diving into these murky waters have since mapped exten
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Drowned City of Atlit Yam</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Drowned City of Atlit Yam" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An atmospheric underwater shot of prehistoric stone circle megaliths resting on a sandy Mediterranean seabed, with fine sand particles suspended in clear green-blue water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before the pharaohs built the pyramids, a thriving Neolithic farming and fishing village flourished along the Mediterranean coast of modern-day Israel. Atlit Yam was a masterclass in ancient survival, featuring semi-subterranean stone houses, freshwater wells, and mysterious stone circles reminiscent of a miniature Stonehenge. But around 8,000 years ago, a catastrophic megatsunami—likely triggered by the collapse of a flank of Mount Etna in Sicily—rushed across the Mediterranean, obliterating the settlement in minutes and forcing its inhabitants to flee forever.
 
@@ -211,9 +199,7 @@ Today, Atlit Yam rests silently beneath the waves as an extraordinarily preserve
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Lion City of Qiandao Lake</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Lion City of Qiandao Lake" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic dark-water photography of an ornate ancient Chinese stone archway and carved stone lion guardian resting intact on a deep lake bed, illuminated by dramatic scuba dive lights.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unlike other ancient ruins swallowed by natural geological shifts, the breathtaking Lion City of Shi Cheng was deliberately drowned by human hands in 1959 to make way for the massive Xinfengjiang hydroelectric power station. Founded over 1,300 years ago during the Tang Dynasty, this imperial Chinese city was an architectural masterpiece of intricate stone archways, defensive city walls, and ornate wooden beams, all tucked away at the foot of the Five Lion Mountain.
 
@@ -242,9 +228,7 @@ Now shrouded in total darkness deep beneath the artificial emerald waters of Qia
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Royal Quarters of Cleopatra's Palace</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Royal Quarters of Cleopatra's Palace" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater photography of a colossal ancient Egyptian red granite sphinx statue lying half-buried in the sandy seabed of Alexandria's harbor, surrounded by fallen stone columns.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the bustling, modern harbor of Alexandria lies the legendary royal quarter of the Ptolemaic dynasty, where Queen Cleopatra VII once ruled Egypt and charmed Roman conquerors like Julius Caesar and Mark Antony. Following a series of devastating earthquakes and tsunamis in the 4th and 8th centuries CE, the opulent palaces, grand temples, and sprawling docks of the royal court slid gracefully into the Mediterranean Sea, transforming the epicenter of ancient Mediterranean power into a sunken underwater kingdom.
 
@@ -273,9 +257,7 @@ Exploring this underwater archaeological museum is like walking through the page
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sunken Roman Metropolis of Heracleion</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Sunken Roman Metropolis of Heracleion" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning cinematic underwater photo of a towering 16-foot-tall ancient Egyptian god statue rising majestically out of the sandy seafloor, illuminated by dramatic shafts of blue ocean light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For millennia, the legendary port city of Heracleion (also known by its Egyptian name, Thonis) was dismissed by mainstream historians as a mere myth—a fantastical city mentioned only in Greek tragedies and ancient hymns where Helen of Troy and Paris sought refuge. That all changed in 2000, when marine archaeologists scanning the floor of Aboukir Bay stumbled upon the colossal ruins of a metropolis that had vanished without a trace over a thousand years ago due to soil liquefaction and rising sea levels.
 
@@ -304,9 +286,7 @@ Today, Heracleion is hailed as one of the greatest archaeological discoveries of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cosmic Geometry of The Yonaguni Submarine Ruins</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Cosmic Geometry of The Yonaguni Submarine Ruins" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic, breathtaking cinematic wide shot of a deep-sea diver hovering above a vast, complex network of ancient submerged stone terraces stretching out into the fathomless blue abyss.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While many underwater ruins possess written records or clear architectural blueprints left behind by known empires, the ultimate crown of coastal mysteries belongs to the profound, anomalous structures that defy standard historical categorization. Whether you view them as the ultimate crowning achievement of a hyper-advanced, pre-Ice Age maritime civilization or as Mother Nature's most astonishing display of geometric sculpture, these structures represent the absolute pinnacle of human wonder and the humbling power of the sea.
 

@@ -25,9 +25,7 @@ Why did ancient cultures spend generations moving millions of tons of earth to c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Blithe Figures of the Jordanian Black Desert</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Blithe Figures of the Jordanian Black Desert" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial photograph of ancient basalt stone circles and 'desert kites' in Jordan's black desert, captured during golden hour with dramatic long shadows.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before anyone mapped the stars from a cockpit, mysterious stone circles and enigmatic wheel-like structures lay scattered across the desolate volcanic barrens of Jordan. From the ground, these formations look like chaotic piles of basalt rocks, but high-altitude aerial reconnaissance reveals a stunning geometric uniformity. Wheels, kites, and long stone walls stretch across ancient drainage basins, forming intricate networks that have baffled archaeologists for over a century.
 
@@ -56,9 +54,7 @@ Local Bedouin tribes have long whispered of the 'Works of the Old Men,' attribut
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Blythe Intaglios</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Blythe Intaglios" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: High-angle drone shot of a giant human geoglyph etched into the pale desert floor of California, surrounded by dark volcanic pebbles, sharp afternoon sunlight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Cruising over the scorching expanse of the Colorado River valley, the desert suddenly breaks into startling, giant silhouettes. Etched directly into the desert pavement by scraping away dark surface pebbles to reveal the pale silt beneath, the Blythe Intaglios feature towering human figures, leaping animals, and spiraling geometric shapes. They are so massive that pilots flying between Phoenix and Los Angeles famously spotted them by chance in the 1930s, realizing an entire gallery of giants lived beneath their wings.
 
@@ -87,9 +83,7 @@ For the indigenous Mojave and Quechan peoples, these earthworks are deeply sacre
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ural Mountains Elk of Zeryat</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Ural Mountains Elk of Zeryat" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Satellite-style overhead view of a massive stone elk geoglyph nestled inside a dense Russian mountain forest, moss-covered stones glowing faintly through the trees.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden deep within the dense pine forests and mountain ridges of the southern Urals lies an enormous effigy of a prehistoric elk or moose. Constructed from millions of small stones, clay, and earth, this colossal creature was meticulously laid out with its head held high and legs splayed in mid-stride. From the ground, it is entirely imperceptible—swallowed by thick vegetation and the undulating topography of the mountain range.</div>
   <div class="fact-grid">
@@ -116,9 +110,7 @@ For the indigenous Mojave and Quechan peoples, these earthworks are deeply sacre
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Giant of Atacama</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Giant of Atacama" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A majestic high-altitude drone shot of the Giant of Atacama carved into a barren Chilean mountain slope, with a tiny human for scale at the base, dramatic desert lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising out of the driest desert on Earth like an interstellar visitor, the Giant of Atacama is the largest prehistoric anthropomorphic geoglyph in the world. Carved into the dusty slope of Cerro Unitas, this towering figure wears a crown of mysterious geometric rays and holds tools or weapons that have sparked endless debate. Surrounding it are dozens of other abstract shapes, animals, and arrow-like markers that turn the entire mountainside into an open-air celestial calendar.
 
@@ -147,9 +139,7 @@ Ancient caravan traders passing through the unforgiving Atacama would stop to pa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Wandering Man of Marree</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Wandering Man of Marree" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning aerial photograph of the Marree Man carved into the red dust of the Australian outback, emphasizing its impossibly vast proportions under a brilliant blue sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the middle of nowhere—specifically, the searing red dust of the South Australian outback—lies an earthwork so immense that its true nature was only realized when a charter pilot flew directly over it in 1998. The Marree Man depicts an Indigenous Australian hunter holding a woomera (spearing stick), etched into the plateau with mind-boggling precision. Yet, despite its colossal scale and national fame, nobody knows who made it or why.</div>
   <div class="fact-grid">
@@ -176,9 +166,7 @@ Ancient caravan traders passing through the unforgiving Atacama would stop to pa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Uffington White Horse</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Uffington White Horse" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot of the Uffington White Horse gleaming stark white against lush green Oxfordshire hills on a crisp, overcast morning.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched dramatically upon the chalk downs of Oxfordshire, the Uffington White Horse is a masterpiece of prehistoric minimalism. Composed of deep trenches filled with crushed white chalk that contrasts brilliantly against the emerald-green turf of the hillside, this stylized, leaping beast has dominated the English landscape for nearly three millennia. It defies conventional animal anatomy with its sleek, abstract body and beak-like head, looking more like a celestial dragon or a Celtic coin emblem than a living horse.
 
@@ -207,9 +195,7 @@ Generations of local villagers historically engaged in a custom called 'scouring
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The mysterious Serpent Mound of Ohio</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The mysterious Serpent Mound of Ohio" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: High-angle aerial photograph of the Great Serpent Mound winding through a dense autumn forest in Ohio, vivid orange and red trees framing the ancient earthwork.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Coiling gracefully along a steep plateau above Ohio's Brush Creek, the Great Serpent Mound is the largest serpent effigy in the world. From the ground, visitors walk along a low, winding ridge of earth that weaves through the forest like an undulating spine. But viewed from the canopy or the sky, the true magic unlocks: an enormous snake with seven coiling loops, its open jaws swallowing an egg-like oval shape.</div>
   <div class="fact-grid">
@@ -236,9 +222,7 @@ Generations of local villagers historically engaged in a custom called 'scouring
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Steppe Geoglyphs of Turgai</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Steppe Geoglyphs of Turgai" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Satellite-style high-altitude view of colossal geometric square and cross geoglyphs stamped into the endless green and brown steppes of Kazakhstan.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Out in the sweeping, windswept steppes of northern Kazakhstan, mysterious earthworks lay completely hidden from human eyes until a curious economist named Dmitriy Dey stumbled upon them while browsing Google Earth in 2007. Known as the Turgai Steppe Geoglyphs, these massive structures form colossal squares, crosses, rings, and swastikas stretching hundreds of meters across the empty grasslands. Built from thousands of earthen mounds, their purpose remains a profound enigma to the international scientific community.</div>
   <div class="fact-grid">
@@ -265,9 +249,7 @@ Generations of local villagers historically engaged in a custom called 'scouring
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Nazca Spider and Condor</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Nazca Spider and Condor" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sharp, crystal-clear aerial photograph of the famous Nazca Spider geoglyph etched into the pale Peruvian desert floor, crisp shadows defining every stone.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">No list of aerial geoglyphs is complete without the legendary Nazca Lines, an otherworldly gallery etched into the arid pampas of southern Peru. Among hundreds of geometric lines, trapezoids, and mazes, the biological figures—such as the colossal Spider, the soaring Condor, and the intricate Hummingbird—stand out as absolute masterpieces of ancient geometry. Created by removing dark iron-oxide coated pebbles to expose the pale gray clay underneath, these lines have survived for millennia due to the region's near-zero rainfall and windless microclimate.</div>
   <div class="fact-grid">
@@ -294,9 +276,7 @@ Generations of local villagers historically engaged in a custom called 'scouring
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Amazonian Earthworks (Geoglyphs of Acre)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Amazonian Earthworks (Geoglyphs of Acre)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking LiDAR-style aerial visualization of massive geometric circle and square earthworks hidden beneath the dense emerald canopy of the Brazilian Amazon rainforest.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the emerald labyrinth of the Brazilian Amazon, where pristine rainforest once stood unchallenged for millennia, industrial deforestation unexpectedly unlocked history's greatest archaeological plot twist. As loggers cleared sections of the canopy, massive geometric ditches—circles, squares, octagons, and rectangles—emerged from the red clay soil. These monumental earthworks, known as the Geoglyphs of Acre, proved that the pre-Columbian Amazon was not a pristine wilderness inhabited solely by nomadic hunter-gatherers, but the home of a vast, sophisticated civilization that sculpted the jungle itself.</div>
   <div class="fact-grid">

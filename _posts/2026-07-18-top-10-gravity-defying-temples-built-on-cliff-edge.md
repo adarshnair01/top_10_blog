@@ -25,9 +25,7 @@ Today, these cliff-clinging sanctuaries stand not only as monuments of profound 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sumela Monastery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Sumela Monastery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of Sumela Monastery clinging to a sheer, dark cliff in Turkey, surrounded by misty green mountains, dramatic lighting, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the mist clears over the lush, cascading green valleys of Turkey's Black Ridge, the Sumela Monastery appears like a phantom fortress hewn directly into the dark, weeping rock face. Founded in the 4th century by two Athenian monks following a miraculous vision of the Virgin Mary, this sprawling monastic complex seems suspended in mid-air, a dark silhouette against a massive canvas of sheer grey limestone.
 
@@ -56,9 +54,7 @@ Walking the narrow, winding stone pathways toward its heavy wooden gates, visito
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Popa Taungkalat Shrine</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Popa Taungkalat Shrine" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Golden Buddhist temple perched on top of a sheer volcanic plug in Myanmar, sunny day, lush green plains surrounding, dramatic scale, professional travel photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising abruptly from the flat, sun-baked plains of central Myanmar, Mount Popa's volcanic plug looks like an enormous finger pointing accusingly at the heavens. Perched precariously on its knife-edge summit is the Taungkalat Shrine, a shimmering complex of golden stupas and red-tiled roofs that glints blindingly under the tropical sun. To reach the sacred sanctuary, pilgrims and the brave-hearted must ascend a staggering 777 steps carved directly into the vertical stone.
 
@@ -87,9 +83,7 @@ Every step is an endurance test shared with troupes of mischievous wild macaques
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Phugtal Monastery</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Phugtal Monastery" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Ancient Tibetan monastery built into a massive cave on a sheer cliff in Ladakh, snowy Himalayan background, suspension bridge in foreground, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the high-altitude desert of Ladakh, the Phugtal Monastery looks remarkably like a cascade of honeycombs spilling out of a giant, yawning natural cave in a sheer cliff face. Connected to the outside world only by a fragile suspension bridge swinging wildly over a roaring glacial river, this 12th-century Tibetan Buddhist sanctuary is a masterpiece of isolation and survival.
 
@@ -118,9 +112,7 @@ Inside, the air is thick with the scent of burning yak butter and ancient junipe
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Meteora Monasteries (Holy Trinity)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Meteora Monasteries (Holy Trinity)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A Greek Orthodox monastery perched on top of a giant sheer sandstone pillar in Meteora, dramatic golden hour lighting, cinematic aerial perspective.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising like massive stone fingers out of the flat Thessalian plain, the colossal sandstone pillars of Meteora ('suspended in the air') defy geological explanation. Atop these dizzying, vertical monoliths sit ancient Eastern Orthodox monasteries, built by monks who originally hauled themselves and all their building materials up using woven rope baskets and massive wooden windlasses.
 
@@ -149,9 +141,7 @@ The Holy Trinity Monastery, famously featured in cinema, sits isolated on its ow
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sichuan's Cliffside Pavilions of Mount Emei</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Sichuan's Cliffside Pavilions of Mount Emei" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Ancient Chinese Buddhist temple cantilevered on a vertical granite cliff in Sichuan, sea of clouds below, traditional architecture, foggy mountain peaks.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Mount Emei is one of the four sacred Buddhist mountains of China, a mystical realm where ancient temples cling so seamlessly to vertical granite precipices that they appear to have grown organically out of the rock itself. Built using traditional cantilevered wooden brackets anchored into drill holes in the sheer cliff, these pavilions hang directly over bottomless gorges and swirling seas of mist.
 
@@ -180,9 +170,7 @@ Walking the wooden plank paths bolted into the vertical rock face, pilgrims ring
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Takintsung Temple (Paro Taktsang / Tiger's Nest)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Takintsung Temple (Paro Taktsang / Tiger's Nest)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Paro Taktsang Tiger's Nest temple clinging to a sheer cliff in Bhutan, dramatic waterfall, fluttering prayer flags, vibrant colors, cinematic landscape.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging impossibly to the face of a sheer granite cliff nearly a kilometer above the valley floor, Paro Taktsang—the Tiger's Nest—is Bhutan's most iconic spiritual landmark. Legend dictates that Guru Rinpoche flew to this remote ledge on the back of a tigress in the 8th century to subdue local demons, sanctifying the dizzying precipice forever.
 
@@ -211,9 +199,7 @@ The complex consists of stark white buildings with golden roofs, linked by narro
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">St. Michaels Mount (Mont-Saint-Michel style cliff shrines)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="St. Michaels Mount (Mont-Saint-Michel style cliff shrines)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: St. Michael's Mount castle and church on a steep Cornish rock island, dramatic stormy ocean, dramatic lighting, high detail, landscape photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising dramatically from the churning tidal waters of Mount's Bay, St. Michael’s Mount is a Cornish twin to France's famous Mont-Saint-Michel, featuring a medieval castle and church perched on a formidable rocky crag. At high tide, it is an isolated island fortress cut off from the mainland; at low tide, a cobblestone causeway emerges from the waves like a path to another world.
 
@@ -242,9 +228,7 @@ Climbing the steep, granite-paved path to the summit, visitors pass through subt
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">San Colombano Hermitage</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="San Colombano Hermitage" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Italian stone hermitage built into the middle of a sheer vertical limestone cliff, rushing river below, cinematic moody lighting, hyper-realistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked deep inside a vertical limestone cleft in Northern Italy's Trentino region, the Hermitage of San Colombano looks like something straight out of a gothic fairy tale. A flight of 102 steps has been carved directly into the sheer rock face, leading brave visitors up to a modest stone sanctuary that seems wedged into the mountain by magic alone.
 
@@ -273,9 +257,7 @@ Built around the legend of a local hermit who slew a dragon terrorizing the vall
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Santuario della Madonna della Corona</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Santuario della Madonna della Corona" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot of Santuario della Madonna della Corona clinging to a sheer cliff in Italy, dramatic canyon, lush mountains, golden hour light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging desperately to a nearly vertical rock face in Monte Baldo, the Sanctuary of Madonna della Corona appears to defy the laws of physics completely. The church is wedged into a shallow shelf of sheer rock, looking as though it was dropped from the heavens and miraculously caught by the cliff edge.
 
@@ -304,9 +286,7 @@ To reach it, pilgrims descend a steep mountainside path lined with life-sized br
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Xuankong Si (The Hanging Temple)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Xuankong Si (The Hanging Temple)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: The Hanging Temple of Shanxi clinging to a sheer vertical cliff in China, wooden architecture suspended in mid-air, dramatic scale, professional photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing at the absolute pinnacle of architectural audacity, the Hanging Temple of Shanxi is a mind-bending marvel that has left engineers and historians baffled for over 1,500 years. Instead of being anchored securely to the ground, this multi-story complex of halls and pavilions is suspended entirely in mid-air, clamped against a sheer, vertical cliff face beneath a massive natural rock overhang.
 

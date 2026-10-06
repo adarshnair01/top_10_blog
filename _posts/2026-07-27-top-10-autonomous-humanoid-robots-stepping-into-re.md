@@ -25,9 +25,7 @@ Across the globe, from the wind-swept plains of Bavaria to the neon-drenched ind
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fourier Intelligence GR-1</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Fourier Intelligence GR-1" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle shot of a sleek humanoid robot walking across a brightly lit modern factory floor in Shanghai, motion blur on background workers, photorealistic, 8k resolution, dramatic amber and blue lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Under the fluorescent hum of a sprawling high-tech incubator in Shanghai, the Fourier Intelligence GR-1 stands like a sprinter caught forever at the starting blocks. Its chassis is engineered with a biomimetic muscular skeleton designed to replicate human agility down to the twitch of a calf muscle. As it strides across the testing tarmac, its gait is unnervingly fluid, mimicking the rhythmic pendulum swing of human locomotion.
 
@@ -56,9 +54,7 @@ In early industrial trials, the GR-1 has been deployed to shoulder heavy crates 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Agility Robotics Digit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Agility Robotics Digit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A bipedal robot with backward-bending avian legs lifting a plastic tote bin in a heavy automotive factory, dramatic side lighting, metallic reflections, cinematic realism, shallow depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">With legs that bend backward like those of an ostrich or a fantastical beast from mythology, Digit cuts a striking, otherworldly silhouette against the dull gray backdrop of automotive stamping plants. It does not try to look human; instead, it looks optimized. Its avian-inspired lower limbs allow it to absorb shocks with incredible efficiency, bounding over dropped wires and uneven wooden pallets with the grace of a forest predator.
 
@@ -87,9 +83,7 @@ Inside Gestamp’s sprawling stamping facilities, Digit has been tasked with the
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Xiaomi CyberOne</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Xiaomi CyberOne" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up portrait of a humanoid robot with an OLED face display assembling delicate microchips in a high-tech cleanroom, glowing blue circuit paths, ultra-detailed textures, cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The cleanrooms of consumer electronics manufacturing demand an impossible standard of cleanliness and dexterity. Into this sterile arena steps the Xiaomi CyberOne, draped in a stark, futuristic white-and-black cowl that evokes the aesthetics of classic science fiction. Its face is dominated by a curved OLED panel capable of displaying real-time emotional expressions and diagnostic status indicators to the human engineers working alongside it.
 
@@ -118,9 +112,7 @@ CyberOne’s superpower lies in its hands. Equipped with 21 degrees of freedom f
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Sanctuary AI Phoenix</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Sanctuary AI Phoenix" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A humanoid robot hand with hyper-detailed pneumatic tendons gently sorting colorful electrical cables on a workbench, cinematic studio lighting, shallow depth of field, high-end commercial photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Step into a Canadian retail warehouse or automotive parts depot, and you might catch a glimpse of Phoenix, a general-purpose humanoid robot whose hands are arguably the most complex mechanical marvels of our decade. Sanctuary AI spent years analyzing human muscle contractions, tendon tension, and tactile sensitivity to forge robotic hands that mirror our own down to the opposition of the thumb.
 
@@ -149,9 +141,7 @@ Phoenix does not just pick up objects; it feels them. Through pneumatic-driven f
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pal Robotics REEM-C</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Pal Robotics REEM-C" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sturdy white-and-red humanoid robot interacting with an industrial control panel in a European automotive assembly plant, cinematic lighting, realistic reflections on metal surfaces, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Against the sun-drenched coast of Catalonia, engineers at Pal Robotics have quietly built the academic and industrial backbone of European bipedalism. The REEM-C stands resolute inside research and manufacturing testing bays, serving as the trusted platform where doctoral candidates and factory systems architects test the absolute limits of autonomous balance and bipedal navigation.
 
@@ -180,9 +170,7 @@ While other robots are flashy sprinters, REEM-C is the steady marathon runner. I
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Apptronik Apollo</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Apptronik Apollo" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A friendly humanoid robot unloading boxes inside the dark trailer of a semi-truck, illuminated by a bright conveyor belt light, cinematic industrial photography, gritty realism.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born in the blazing heat of Texas, Apptronik’s Apollo was forged with a singular philosophy: safety through design and utility through simplicity. Unlike terrifying skeletal androids of sci-fi dystopias, Apollo wears a friendly, approachable facade with rounded white cowlings, animated LED status strips, and a stature designed to match the average human worker. It is built to work *alongside* people, not replace them in an isolated cage.
 
@@ -211,9 +199,7 @@ Inside high-volume distribution centers, Apollo tackles the grueling art of trai
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Unitree H1 Evolution V3.0</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Unitree H1 Evolution V3.0" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A high-speed action shot of a tall bipedal humanoid robot sprinting down a long industrial warehouse aisle, motion blur on the concrete floor, dramatic neon rim lighting, cinematic 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">If you blink, you might miss it. The Unitree H1 is not just walking through the factory; it is galloping. Known globally for their agile quadruped robotic dogs, Unitree unleashed the H1 to rewrite the laws of bipedal speed and acrobatic agility. Standing tall at 1.80 meters, its exposed carbon-fiber joints and whirring brushless motors look like something pulled straight from a cyberpunk armory.
 
@@ -242,9 +228,7 @@ On the factory floor, speed is currency. The H1 can sprint down long warehouse c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tesla Optimus (Gen 2)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Tesla Optimus (Gen 2)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek white humanoid robot sorting battery cells on an advanced Tesla Gigafactory assembly line, cinematic lighting, hyper-realistic reflections on polymer armor, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The floor of Tesla’s Fremont Gigafactory trembles with anticipation as the slender, white-armored form of Optimus Gen 2 glides past rows of roaring stamping presses. Once mocked as a person in a morphsuit dancing on a stage, Optimus has rapidly evolved into a terrifyingly competent industrial worker. Its sleek, automotive-grade polymer shell conceals custom-designed actuators and neural network processors trained on the exact same vision architecture that powers Tesla's autonomous vehicles.
 
@@ -273,9 +257,7 @@ Watch closely as Optimus approaches a battery cell sorting station. Its newly up
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Figure 01 & Figure 02</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Figure 01 & Figure 02" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A state-of-the-art humanoid robot collaborating with a human worker in a BMW car manufacturing plant, warm cinematic lighting reflecting off car chassis, photorealistic masterpiece, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside BMW’s sprawling Spartanburg manufacturing plant, history is being written by a machine named Figure 02. Surrounded by roaring robotic arms and the sharp aroma of welding sparks, this bipedal marvel stands shoulder-to-shoulder with veteran automotive assemblers, executing complex sheet-metal insertion tasks with calm, unblinking focus.
 
@@ -304,9 +286,7 @@ What makes Figure truly revolutionary is not just its mechanics, but its mind. T
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Boston Dynamics Atlas (All-Electric)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Boston Dynamics Atlas (All-Electric)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic all-electric humanoid robot with a glowing ring sensor head twisting its torso 180 degrees while lifting a heavy metal beam in a high-tech automated factory, cinematic masterwork, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over a decade, the hydraulic Atlas terrified and mesmerized the world with its terrifyingly athletic parkour, backflips, and rugged endurance. But hydraulics are loud, oily, and impractical for clean factory floors. In a masterstroke of engineering evolution, Boston Dynamics retired the screaming hydraulic beast and birthed an all-electric Atlas—a machine so radically redesigned it looks less like an industrial tool and more like an alien visitor stepping out of a monolith.
 

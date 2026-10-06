@@ -25,9 +25,7 @@ Imagine standing beneath a clear blue sky as a sleek, multi-rotor vessel hovers 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pipistrel / Textron Nuance</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Pipistrel / Textron Nuance" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a sleek electric VTOL aircraft hovering silently over a misty Italian vineyard at dawn, dramatic lighting, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the quiet hills of Northern Europe, legendary light-aircraft maker Pipistrel is quietly engineering a revolution that marries Italian aeronautical elegance with American industrial muscle. The prototype sits on the tarmac like a sleeping dragonfly, its composite skin catching the morning mist. When the flight controller initiates the sequence, there is no stuttering cough of internal combustion—only a rising, hypnotic pulse of pure electricity as the vertical lift fans spin into a high-pitched blur.
 
@@ -56,9 +54,7 @@ As it ascends vertically into the damp air, the transition from vertical lift to
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Wisk Aero Generation 6</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Wisk Aero Generation 6" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An interior shot looking out the panoramic window of an autonomous eVTOL cabin flying over the San Francisco skyline at sunset, cinematic lighting, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">There is something inherently eerie—and deeply exhilarating—about watching an aircraft fly with an entirely empty cockpit. Wisk Aero’s Generation 6 features no pilot seat, no control stick, and no backup manual overrides. It is a pure flying robot guided by redundant computing brains that process terabytes of environmental data in real-time. When it lifts off from the Silicon Valley test facility, it does so with absolute algorithmic calm.
 
@@ -87,9 +83,7 @@ Inside the cabin, plush passenger seating faces panoramic windows designed to tu
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Ascendance Flight Technologies Aera</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Ascendance Flight Technologies Aera" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic matte-black hybrid eVTOL banking sharply against a cloudy sky over Toulouse France, motion blur on rotors, dramatic cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born in the aerospace capital of Europe, Ascendance Flight Technologies refuses to play by the battery-only rules. Their flagship craft, Aera, utilizes an innovative hybrid-electric architecture that looks like something out of a hard-sci-fi graphic novel. Painted in stark matte black and tactical gray, the craft looks ready to intercept satellites rather than carry urban commuters to their morning meetings.
 
@@ -118,9 +112,7 @@ During flight tests across the French countryside, Aera demonstrates a staggerin
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Eve Air Mobility eVTOL</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Eve Air Mobility eVTOL" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An industrial-chic eVTOL with dual pusher propellers hovering over a tropical testing runway, bright sunny day, crisp shadows, high-end commercial photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the sprawling, gridlocked megalopolis of São Paulo—where corporate executives routinely commute by helicopter to dodge legendary traffic jams—Eve Air Mobility is building the ultimate democratized sky-cab. Spun out of aerospace titan Embraer, Eve’s aircraft is designed with the rugged durability of commercial airliners coupled with the agile grace of a dragonfly.
 
@@ -149,9 +141,7 @@ Wind tunnel testing and relentless outdoor flight trials have refined its distin
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Supernal S-A2</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="Supernal S-A2" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic V-tail eVTOL with tilting rotors parked on a glossy modern helipad overlooking a glowing metropolis at twilight, neon accents, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Backed by the industrial might of automotive giant Hyundai, Supernal’s S-A2 concept is an exercise in sublime industrial design. Walking up to the prototype feels like stepping onto the set of a futuristic film set. The cabin is wrapped in lightweight carbon fiber composites, styled with automotive-grade ergonomic seating that cradles test pilots as they prep the flight systems.
 
@@ -180,9 +170,7 @@ Tested rigorously in top-secret aeronautical proving grounds, the S-A2 utilizes 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Beta Technologies Alia-250</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Beta Technologies Alia-250" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An elegant, long-winged electric aircraft resembling an Arctic Tern flying over a snowy Vermont pine forest, crisp winter sunlight, cinematic and serene.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the crisp, snow-dusted air of Vermont, former Navy pilot Kyle Clark and his team at Beta Technologies took an unconventional inspiration for their flying machine: the Arctic Tern, a migratory bird known for its incredible endurance. Unlike quad-copter designs that burn massive amounts of energy just staying aloft, Alia-250 features a magnificent, sweeping 50-foot carbon-fiber wing that allows it to glide with avian efficiency.
 
@@ -211,9 +199,7 @@ Alia has quietly completed hundreds of miles of cross-country test flights, ofte
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lilium Jet</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Lilium Jet" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek, canary-yellow accented Lilium Jet showing its 30 ducted fans while climbing steeply over a sunlit German alpine lake, ultra-high detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Germany has long been a crucible of precision mechanical engineering, and the Lilium Jet stands as its crown jewel in the electric aviation space. Instead of sprawling open rotors, the Lilium relies on a mesmerizing matrix of 30 tiny, individually controlled ducted electric fans embedded directly into the trailing edges of its canard and main wings. It looks less like an aircraft and more like a piece of abstract kinetic art.
 
@@ -242,9 +228,7 @@ During high-speed flight tests over European test ranges, the Lilium Jet unleash
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Joby Aviation S4</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Joby Aviation S4" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning action shot of the Joby S4 eVTOL tilting its six rotors forward over the dramatic cliffs of Big Sur, California, at golden hour, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On the rugged cliffs of the California coast, where the Pacific Ocean crashes into the Santa Cruz mountains, Joby Aviation’s S4 aircraft is rewriting the record books. With six massive, multi-bladed propellers mounted on tilting nacelles along its wings and V-tail, the S4 cuts an imposing, futuristic silhouette against the coastal fog. When the test pilot pushes the throttles forward, the roar of instant electric torque is both terrifying and sublime.
 
@@ -273,9 +257,7 @@ The S4 has become the gold standard of the industry, logging thousands of autono
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">EHang EH216-S</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80" alt="EHang EH216-S" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An autonomous two-seater EHang drone hovering amidst futuristic skyscrapers in a vibrant Chinese metropolis at night, neon lights reflecting off its glossy hull, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While Western competitors wrestle with multi-year certification marathons, EHang has quietly pulled off the unimaginable: commercial reality. In the neon-lit skies of urban China, the egg-shaped EH216-S pod has already flown thousands of routine test and commercial sightseeing flights with everyday passengers sitting calmly inside an entirely autonomous cabin with zero flight controls.
 
@@ -304,9 +286,7 @@ The aircraft looks like a mechanical glowing lotus flower resting on its landing
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Archer Aviation Midnight</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Archer Aviation Midnight" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An ultra-detailed cinematic hero shot of the Archer Midnight eVTOL launching vertically from a futuristic downtown Manhattan heliport at twilight, iconic skyline background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the pinnacle of our countdown sits Archer Aviation’s 'Midnight'—an aircraft engineered not just to fly, but to completely rewire how humanity experiences metropolitan geography. Sitting on the runway in Northern California, Midnight commands attention. Its striking V-tail and twelve dual-bladed tilting rotors gleam under studio-quality hangar lights. It is designed with a singular, ruthless philosophy: repeatable, safe, high-frequency urban air taxi service operating like a subway line in the sky.
 

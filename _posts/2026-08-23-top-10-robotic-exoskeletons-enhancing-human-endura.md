@@ -25,9 +25,7 @@ Strap in as we journey deep into the mechanics of superhuman endurance, counting
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Keenon Industrial Assist Suit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Keenon Industrial Assist Suit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a logistics worker wearing a sleek industrial exoskeleton in a modern automated warehouse, dramatic neon backlighting, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the labyrinthine fulfillment centers where millions of packages change hands daily, the human spine bears an invisible, agonizing tax. Enter the Keenon Industrial Assist Suit, a sleek silhouette of aerospace-grade aluminum that hugs the operator's torso like a second, unyielding skeleton. When a warehouse worker bends to lift a sixty-pound crate, the suit’s intelligent torsion springs quietly lock, storing kinetic potential before smoothly returning it during the ascent.
 
@@ -56,9 +54,7 @@ There is an eerie, balletic grace to the way operators move while wearing it. Go
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">GeroFit Lower Body Frame</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="GeroFit Lower Body Frame" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An elderly Japanese man smiling while walking through a sunlit Tokyo park wearing a discreet, modern lower-body exoskeleton, warm cinematic lighting, shallow depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the serene parks of Tokyo, aging populations are discovering a defiant fountain of youth forged in lithium-ion and micro-gears. The GeroFit frame is specifically engineered to counteract the cruel arithmetic of sarcopenia—the age-related loss of muscle mass. It wraps discreetly around the hips and thighs, looking more like high-fashion athletic gear than medical hardware.
 
@@ -87,9 +83,7 @@ When worn, the device reads microscopic electrical impulses from the skin, antic
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cleg-X Mountain Climber</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Cleg-X Mountain Climber" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up and wide cinematic angle of a mountaineer scaling a snowy alpine cliffside wearing a rugged robotic exoskeleton, dramatic winter lighting, hyper-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The thin, unforgiving air of the Swiss Alps demands everything from the human constitution. For mountaineers tackling vertical rock faces, the Cleg-X acts as an external muscular engine. Designed by alpine rescue specialists and robotics engineers, this rugged exoskeleton locks onto the hips and legs, translating every upward step into a mechanically amplified thrust.
 
@@ -118,9 +112,7 @@ Imagine dragging yourself up an ice-chilled cliffside when your thighs burn with
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">H-Woven Soft Exosuit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="H-Woven Soft Exosuit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A modern farm worker wearing a sleek, woven textile exoskeleton suit in a sunlit greenhouse, cinematic composition, photorealistic documentary style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Not all armor is made of rigid steel; some of the most profound breakthroughs are woven from ordinary threads. Developed in elite bio-robotics laboratories, the H-Woven Soft Exosuit dispenses with metal struts and heavy motors entirely. Instead, it relies on a sophisticated matrix of artificial muscles made from high-tensile smart textiles that contract when triggered by micro-pumps.
 
@@ -149,9 +141,7 @@ Slip it on like a pair of high-tech overalls, and you barely notice it's there�
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Guardian XO Industrial Titan</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Guardian XO Industrial Titan" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A powerful full-body industrial exoskeleton suit operating in a massive shipyard, sparks flying, cinematic lighting, gritty high-tech atmosphere, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Behold the behemoth. The Guardian XO is not a subtle garment meant to blend under clothing; it is a towering exoskeleton that transforms its operator into a genuine industrial powerhouse. Standing nearly seven feet tall, the pilot steps inside a protective cockpit, straps in their arms and legs, and suddenly wields the strength to lift 200 pounds as if it were a feather.
 
@@ -180,9 +170,7 @@ The magic lies in its zero-latency zero-gravity architecture. The machine bears 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Phoenix-M Rehabilitation Exoskeleton</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Phoenix-M Rehabilitation Exoskeleton" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A person in a wheelchair standing up independently using a sleek medical exoskeleton in a modern bright hospital clinic, emotional cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beyond heavy industry and mountain peaks lies the most noble frontier of bionic endurance: the restoration of human dignity. The Phoenix-M is a miracle of medical engineering designed to give paraplegic individuals the ability to stand, walk, and conquer everyday architectural barriers. Slender carbon fiber braces cradle the legs, powered by silent electric motors mapped to intuitive neural interfaces.
 
@@ -211,9 +199,7 @@ When a patient takes their first steps in a rehabilitation clinic, the room inva
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Fortis Leg-Mount Endurance Rig</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Fortis Leg-Mount Endurance Rig" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A tactical soldier wearing a rugged leg-transfer exoskeleton rig in a dusty desert training ground, cinematic dust particles, dramatic low-angle shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the grueling realm of military reconnaissance, foot soldiers often march dozens of miles carrying combat loads that test the absolute limits of human endurance. The Fortis rig bypasses the torso entirely, anchoring itself directly from a heavy tactical belt down into articulated mechanical legs that transfer heavy weight straight into the ground.
 
@@ -242,9 +228,7 @@ When a soldier halts to aim a weapon or establish a perimeter, the Fortis locks 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Atalante Pediatric Bionic Suit</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Atalante Pediatric Bionic Suit" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A joyful young child wearing a colorful, advanced pediatric exoskeleton walking across a sunlit hospital playroom, cinematic and heartwarming.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Children are meant to run, jump, and explore without boundaries. For children with neuromuscular disorders or cerebral palsy, the Atalante suit is a portal to childhood joy. Unlike adult exoskeletons that require crutches for balance, Atalante is the world's first self-balancing pediatric bionic suit, utilizing advanced gyroscopic sensors to keep the child completely upright and stable.
 
@@ -273,9 +257,7 @@ Watching a young child take their very first unassisted steps toward their paren
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Onyx Tactical Mobility System</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Onyx Tactical Mobility System" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic tactical operator wearing a high-tech AI-powered exoskeleton in a high-tech command center, neon blue UI overlays, cinematic masterpiece.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The Onyx system represents the absolute apex of defense robotics, combining artificial intelligence with ultra-responsive mechanical actuators. Worn beneath standard military uniforms, this adaptive exoskeleton constantly learns the wearer's unique gait, stride length, and muscle contraction patterns through an array of neural sensors.
 
@@ -304,9 +286,7 @@ Whether a soldier is sprinting up a steep embankment, crawling through mud, or e
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">HAL-5 (Hybrid Assistive Limb)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="HAL-5 (Hybrid Assistive Limb)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A scientist standing proudly inside a glowing, advanced HAL-5 full-body cybernetic exoskeleton in a high-tech Japanese laboratory, cinematic lighting, ultra-detailed 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of our countdown stands the undisputed king of bionic endurance: the HAL-5. Developed by Cyberdyne in Japan, HAL is the world's first cyborg-type exoskeleton. When a human decides to move, tiny bio-electric signals—known as action potentials—leak from the skin's surface. The HAL-5's ultra-sensitive sensors capture these faint whispers of intent before the muscle even contracts, engaging its powerful electric motors in a fraction of a second.
 

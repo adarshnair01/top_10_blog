@@ -25,9 +25,7 @@ Mainstream timelines whisper of simple bronze tools and sheer human muscle, but 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Gilded Foundations of Sacsayhuamán</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Gilded Foundations of Sacsayhuamán" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of the massive stone walls of Sacsayhuamán in Cusco, Peru, under dramatic twilight lighting, highly detailed polygonal masonry with no mortar.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched like a jagged crown above the ancient Incan capital of Cusco, the fortress of Sacsayhuamán is a masterclass in architectural madness. As you trace your fingers along its gargantuan limestone walls, you realize there is no uniform brickwork here; instead, massive, multi-sided boulders weighing up to 128 tons fit together like a three-dimensional jigsaw puzzle. There is no mortar, yet the seams are so violently tight that not even a sheet of paper can slide between them.
 
@@ -56,9 +54,7 @@ Chroniclers of the Spanish conquest watched in awe as the Conquistadors struggle
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Unsung Giant: The Stone of the Pregnant Woman</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Unsung Giant: The Stone of the Pregnant Woman" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, low-angle photograph of the massive 'Stone of the Pregnant Woman' megalith in Baalbek, Lebanon, with a lone archaeologist for scale, dusty golden hour sunlight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in a dusty quarry in Lebanon lies a sleeping leviathan known locally as the *Hajjar al-Hibla*. Still attached to the bedrock at its base, this colossal monolith is carved with such flat, sweeping angles that it looks like it was sliced from the mountain using a hot wire. If freed, it would dwarf almost every single stone block ever moved by human hands in recorded history.
 
@@ -87,9 +83,7 @@ Standing next to it, human beings look like fragile ants crawling over the spine
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Underground Labyrinth of the Hypogeum of Ħal-Saflieni</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Underground Labyrinth of the Hypogeum of Ħal-Saflieni" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric interior shot of the underground Hypogeum of Ħal-Saflieni in Malta, glowing warm torchlight illuminating carved stone walls and spiral patterns.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the sun-scorched streets of Malta lies a subterranean world carved entirely out of solid rock with flint, stone, and bone tools—or so we are told. The Hypogeum is a multi-layered honeycomb of sacred chambers, burial halls, and acoustic niches that spiral down into the damp earth. Walking through its eerie, shadowy corridors feels like descending into the ribs of a sleeping leviathan.
 
@@ -118,9 +112,7 @@ Its most famous chamber, the 'Oracle Room,' features a wall niche that produces 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Precision Cuts of the Longyou Caves</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Precision Cuts of the Longyou Caves" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide cinematic shot of the vast underground chambers of the Longyou Caves in China, showing massive stone pillars and precise parallel chisel marks under cool blue illumination.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For centuries, the villagers of Shiyan Beicun believed their local ponds were bottomless. When they finally pumped the water out in 1992, they didn't find a natural sinkhole—they uncovered a sprawling, man-made subterranean metropolis carved completely out of solid siltstone. The Longyou Caves are an engineering impossibility: 24 massive caverns supported by slender pillars, all covered from floor to ceiling with uniform, parallel chisel marks.
 
@@ -149,9 +141,7 @@ There are no historical records documenting the excavation of these caves, despi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Megalithic Maze of the Carnac Stones</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Megalithic Maze of the Carnac Stones" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Misty morning drone shot over the thousands of standing stones at Carnac, France, stretching in long parallel lines through green fields and autumn fog.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the morning fog rolls off the coast of Brittany, thousands of granite monoliths rise from the heather like an army of petrified giants. The Carnac alignments are the largest collection of megalithic standing stones in the world, stretching in parallel lines across kilometers of French countryside. Some stones stand barely waist-high, while others tower over four meters into the overcast sky.
 
@@ -180,9 +170,7 @@ Local folklore whispers that these stones are Roman soldiers turned to stone by 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Impossible Geometry of the Osireion</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Impossible Geometry of the Osireion" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody, cinematic interior shot of the subterranean Osireion in Abydos, Egypt, featuring massive granite pillars reflecting in still dark water pools under dramatic side lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Buried deep beneath the desert sands of Abydos, sunken far below the level of the surrounding temples, sits the Osireion—a stark, granite monument that looks entirely out of place in ancient Egypt. Constructed from colossal monolithic granite piers and massive lintels, it resembles a subterranean fortress more than a traditional dynastic tomb. Water continuously pools around its central island, creating a mirror-like expanse that swallows the shadows.
 
@@ -211,9 +199,7 @@ Unlike the smooth, painted limestone relief carvings found in typical Egyptian s
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Acoustic Masterpiece of Newgrange</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Acoustic Masterpiece of Newgrange" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic sunset photograph of the prehistoric Newgrange mound in Ireland, showing its white quartz facade and the stone entrance glowing under golden hour light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Older than the Great Pyramids of Giza and predating Stonehenge by centuries, Newgrange is a monumental passage tomb designed with a terrifyingly precise understanding of celestial mechanics. From the outside, it appears as a massive green mound ringed by massive kerbstones carved with intricate spiral megalithic art. But step inside the narrow stone corridor, and you enter a temple built to capture the light of a single sunrise.
 
@@ -242,9 +228,7 @@ For just a few minutes during the winter solstice, a narrow beam of sunlight pie
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cyclopean Walls of Tiryns</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Cyclopean Walls of Tiryns" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic, wide-angle cinematic shot of the massive cyclopean stone walls of Tiryns in Greece, under a dramatic stormy sky with high-contrast shadows.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When ancient Greek travelers stumbled upon the ruins of Tiryns, they refused to believe it was built by human hands. They claimed the walls were raised by the legendary Cyclopes, monstrous one-eyed giants who alone possessed the strength to stack boulders the size of delivery trucks. Standing before the citadel's remains today, it is easy to understand their awe.
 
@@ -273,9 +257,7 @@ The fortification walls are over 40 feet thick in places, constructed from unwor
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Astronomical Clockwork of Stonehenge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Astronomical Clockwork of Stonehenge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning astrophotography shot of Stonehenge under the Milky Way galaxy, long exposure capturing the ancient stone circle glowing under moonlight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">No list of megalithic defiance would be complete without the wind-swept silhouettes of Stonehenge. Rising from the green plains of Salisbury, these iconic sarsen stones and bluestones represent a triumph of prehistoric logistics and celestial geometry. The largest stones, weighing up to 25 tons, were dragged across undulating hills and rivers from quarries 25 miles away, before being dressed with tongue-and-groove joints and mortise-and-tenon caps.
 
@@ -304,9 +286,7 @@ What truly elevates Stonehenge into the realm of the impossible is its architect
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Granite Precision of the Great Pyramid of Giza</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Granite Precision of the Great Pyramid of Giza" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking aerial drone shot of the Great Pyramid of Giza at golden hour, sharp sunlight casting dramatic shadows across the limestone blocks and desert sand.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Topping our countdown is the undisputed monarch of megalithic engineering: the Great Pyramid of Giza. Built from an estimated 2.3 million stone blocks, ranging from limestone to immense 80-ton granite beams, this mountain of stone defies the limits of ancient capability on every measurable axis. Its base is level to within a fraction of an inch, its sides align with true magnetic north with an accuracy superior to the Paris Observatory, and its internal chambers are vented with microscopic precision.
 

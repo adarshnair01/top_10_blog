@@ -7,32 +7,6 @@ from typing import Dict, Any, List
 from llm_client import LLMClient
 from fact_checker import FactChecker
 
-THEME_IMAGES = {
-    "places": [
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "tech": [
-        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "gadgets": [
-        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "mysteries": [
-        "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "default": [
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80"
-    ]
-}
-
 class Top10GeneratorEngine:
     def __init__(self, llm_client: LLMClient):
         self.llm_client = llm_client
@@ -48,13 +22,13 @@ class Top10GeneratorEngine:
         """
         Executes full workflow:
         1. Fact Checking & Web Source Dossier
-        2. Storytelling Top 10 Countdown Generation
+        2. Clean Text-Only Storytelling Top 10 Countdown Generation (No images)
         """
         print(f"🔍 Step 1: Fact checking topic '{topic}'...")
         dossier = self.fact_checker.verify_topic_facts(topic)
         facts_text = "\n".join(dossier.get("evidence_snippets", []))
 
-        print(f"✍️ Step 2: Generating Jekyll-compatible storytelling blog via Gemini LLM...")
+        print(f"✍️ Step 2: Generating text-only storytelling blog via Gemini LLM...")
         
         prompt = f"""
 You are an award-winning investigative storyteller and viral magazine chief editor.
@@ -77,8 +51,8 @@ CRITICAL REQUIREMENTS:
    - Verified Fact: An exact verified statistic, date, metric, or scientific observation from real records.
    - Why Trending: The exact surge reason why people are searching/talking about this right now.
    - Pro Tip or Mind-Blowing Secret: A fascinating insider tip or secret trivia.
-   - Image Prompt: A high-detail visual photography prompt suitable for visual AI or photo search.
-3. The blog MUST include:
+3. DO NOT INCLUDE ANY IMAGE PROMPTS OR IMAGE URLS.
+4. The blog MUST include:
    - Viral Title (clickable, dramatic, SEO optimized)
    - Catchy Subtitle
    - Category
@@ -104,8 +78,7 @@ Stricly follow this JSON structure:
       "narrative_story": "...",
       "verified_fact": "...",
       "why_trending": "...",
-      "pro_tip_or_secret": "...",
-      "image_prompt": "..."
+      "pro_tip_or_secret": "..."
     }},
     ... (continue through rank 1)
   ],
@@ -132,10 +105,6 @@ Stricly follow this JSON structure:
         post_id = str(uuid.uuid4())[:8]
         current_time = datetime.now().strftime("%Y-%m-%d")
 
-        images_pool = THEME_IMAGES.get(category.lower(), THEME_IMAGES["default"])
-        for idx, item in enumerate(blog_data.get("items", [])):
-            item["image_url"] = images_pool[idx % len(images_pool)]
-
         return {
             "id": post_id,
             "created_at": current_time,
@@ -147,7 +116,7 @@ Stricly follow this JSON structure:
         }
 
     def format_as_jekyll_markdown(self, post: Dict[str, Any]) -> str:
-        """Converts structured Top 10 post to clean, elegant, SEO-friendly Light Theme Markdown."""
+        """Converts structured Top 10 post to clean, text-only Light Theme Markdown."""
         blog = post.get("blog", {})
         title = blog.get("title", "Top 10 Trends")
         subtitle = blog.get("subtitle", "")
@@ -178,7 +147,7 @@ Stricly follow this JSON structure:
             ""
         ]
 
-        # Countdown items from 10 down to 1
+        # Countdown items from 10 down to 1 (No images)
         for item in items:
             rank = item.get("rank")
             item_title = item.get("title", "")
@@ -187,7 +156,6 @@ Stricly follow this JSON structure:
             fact = item.get("verified_fact", "")
             trending = item.get("why_trending", "")
             secret = item.get("pro_tip_or_secret", "")
-            img_url = item.get("image_url", "")
             is_top1 = rank == 1
             
             card_class = "glass-card glass-card-top1" if is_top1 else "glass-card"
@@ -202,12 +170,6 @@ Stricly follow this JSON structure:
             md_lines.append(f'      <h3 style="font-family: var(--font-serif); font-size: 1.5rem; font-weight: 700; color: #0f172a; line-height: 1.3;">{item_title}</h3>')
             md_lines.append('    </div>')
             md_lines.append('  </div>')
-            
-            if img_url:
-                md_lines.append('  <div class="post-img-box">')
-                md_lines.append(f'    <img src="{img_url}" alt="{item_title}" loading="lazy" />')
-                md_lines.append(f'    <div class="post-img-caption">📸 Concept Visual: {item.get("image_prompt", item_title)}</div>')
-                md_lines.append('  </div>')
             
             md_lines.append(f'  <div style="font-size: 1.05rem; line-height: 1.75; color: #334155; margin-bottom: 20px;">{story}</div>')
             

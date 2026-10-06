@@ -25,9 +25,7 @@ From the wind-scoured plateaus of South America to the hidden alpine folds of Ce
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Cerro de los Siete Colores</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Cerro de los Siete Colores" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle drone photograph of the Cerro de los Siete Colores in Argentina at sunrise, vibrant strata of red, purple, green, and ochre, dramatic lighting, crisp mountain air, 8k resolution, National Geographic style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">As the first rays of Andean sunlight slice through the crisp, thin air of the Quebrada de Humahuaca, a sleeping giant awakens in a riot of ochre, pink, and mauve. The Cerro de los Siete Colores—the Hill of Seven Colors—stands as a majestic sentinel guarding an ancient trading route that has buzzed with human footsteps for millennia. Its sharp, dramatic strata rise steeply toward the azure sky, each layer telling a silent, colorful story of ancient marine beds, lake sediments, and river movements that occurred long before human history began.
 
@@ -56,9 +54,7 @@ Walking along the dusty valley floor, the shift in light transforms the mountain
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bogda Mountains Painted Valleys</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Bogda Mountains Painted Valleys" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Awe-inspiring wide landscape shot of the Bogda Mountains painted valleys in Xinjiang, dramatic red and green badland ridges, snow-capped peaks in the background, golden hour lighting, cinematic composition.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the remote, windswept expanse of western China, the Bogda Mountains conceal a secret so vivid it feels entirely alien. Here, erosion has carved the ancient sedimentary basins into a labyrinth of jagged badlands where the hills ripple in breathtaking waves of vermilion, emerald, and slate blue. Standing amidst these sweeping color fields, the silence is absolute, broken only by the whistling gale sweeping down from snow-capped peaks that tower menacingly overhead.
 
@@ -87,9 +83,7 @@ This is a landscape born of extreme extremes—scorching summer heat that bakes 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Landmannalaugar Rhyolite Mountains</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Landmannalaugar Rhyolite Mountains" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking landscape photograph of Landmannalaugar rhyolite mountains in Iceland, vibrant green and orange slopes, rising steam vents, black obsidian lava fields, dramatic moody skies, high-end travel photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Where fire meets ice, the Highlands of Iceland erupt into an otherworldly gallery of pastel majesty. Landmannalaugar is a geothermal wonderland where the rhyolite mountains gleam in shades of burnt orange, apple green, sulfur yellow, and deep chocolate brown. Steam vents hiss from the black obsidian fields below, casting ethereal plumes of white vapor across slopes that look as though they were brushed by a giant's watercolor palette.
 
@@ -118,9 +112,7 @@ Hiking through the Brennisteinsalda ridge is like traversing another planet enti
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Kerman Painted Hills</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Kerman Painted Hills" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning aerial photograph of the Kerman painted hills bordering the Lut Desert in Iran, dramatic turquoise and copper mineral stripes, wind-sculpted badlands, harsh desert light, vivid detail.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising from the searing, hyper-arid expanse of the Lut Desert, the Kerman painted hills are a masterclass in geological resilience. Sculpted by relentless wind erosion and flash floods over millions of years, these rolling mounds display striking bands of turquoise, copper, ivory, and rust. It is one of the most hostile environments on Earth, yet it houses an artistic masterpiece carved by the harshest elements imaginable.
 
@@ -149,9 +141,7 @@ As the intense desert sun arcs across the sky, the hills seem to breathe, their 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Painted Desert of Arizona</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Painted Desert of Arizona" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic landscape photo of the Painted Desert in Arizona at sunset, rolling pastel-colored mesas in lavender and red, scattered glittering petrified wood logs in the foreground, golden hour illumination.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sprawling across the high plateau of northeastern Arizona, the Painted Desert is a mesmerizing badland of stratified mesas, steep buttes, and rolling hills that stretch endlessly toward the horizon. Here, bands of lavender, soft grey, deep red, and ochre layer the landscape with the precision of a master painter. Scattered across this kaleidoscopic valley lie glistening, gemstone-quality logs of ancient petrified wood, silent witnesses to a prehistoric era when this desert was a lush, swampy tropical forest.
 
@@ -180,9 +170,7 @@ Walking among the silent mesas at dusk is an almost spiritual experience. The lo
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Almayuq Painted Slopes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Almayuq Painted Slopes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning wide shot of the Almayuq painted slopes in Peru, vibrant mineral bands of turquoise, red, and mustard, grazing alpacas in the foreground, snow-capped Ausangate peak in the distance, crystal clear blue sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While its famous neighbor Vinicunca often steals the spotlight, the hidden slopes of Almayuq offer an equally astonishing, crowd-free encounter with Andean pastel perfection. Nestled within a rugged valley where alpacas graze on sparse ichu grass, Almayuq reveals a staggering chevron pattern of crimson, mustard, turquoise, and cream. These mountains rise like jagged waves of hardened pigment frozen in time against the dramatic backdrop of the snowy Ausangate glacier.
 
@@ -211,9 +199,7 @@ The air here is thin and biting, carrying the quiet majesty of the high cordille
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Bentonite Hills</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Bentonite Hills" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: High-detail drone photography of the Bentonite Hills in Utah, smooth rolling mounds of turquoise and lavender clay with intricate cracking patterns, dramatic side lighting, vibrant and surreal colors.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Stepping into the Bentonite Hills of southern Utah is akin to landing on a distant, pastel-colored exoplanet. The rolling hills are sculpted from ancient volcanic ash and clay deposits that swell and crack when wet, creating a mesmerizing, ridged texture. Painted in breathtaking shades of electric turquoise, pale lavender, butter yellow, and steel grey, the hills gleam under the desert sun like giant mounds of velvety sherbet.
 
@@ -242,9 +228,7 @@ Following a rare desert rainstorm, the clay surface transforms into a slick, gli
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Zhangye Danxia Geological Park</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Zhangye Danxia Geological Park" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking panoramic photograph of Zhangye Danxia Landform Geological Park in China, surreal rainbow-colored sandstone ridges, dramatic geometric folds, golden hour sunlight, hyper-detailed texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">If nature possessed an art academy, Zhangye Danxia would be its grand masterpiece. Here, enormous cliffs and rolling hills erupt in sweeping, symmetrical waves of crimson, yellow, green, and blue, creating a surreal landscape that defies belief. Unlike ranges formed purely by vertical sedimentation, Zhangye's dramatic ridges were forged by tectonic plates folding flat sandstone and mudstone layers, which were subsequently carved by wind and rain into towering pillars and rippling troughs.
 
@@ -273,9 +257,7 @@ Standing on the viewing platforms at sunset, the optical illusion is complete: t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Vinicunca (Rainbow Mountain)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Vinicunca (Rainbow Mountain)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic photograph of Vinicunca (Rainbow Mountain) in Peru, striking bands of pink, turquoise, gold, and green, dramatic snowy peaks in the background, hikers on the winding trail, crisp morning light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Piercing the thin, freezing clouds of the Peruvian Andes, Vinicunca—popularly known as the Mountain of Seven Colors—stands as the undisputed monarch of polychromatic peaks. For centuries, this sacred apu (mountain spirit) remained hidden beneath a thick shroud of glacial ice. As global temperatures caused the Quelccaya ice cap to recede, it unleashed a breathtaking geological secret: a vertical wall of mineral strata blazing in turquoise, lavender, gold, and ruby.
 
@@ -304,9 +286,7 @@ The trek to Vinicunca is an epic pilgrimage across high-altitude alpine tundras 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Hornocal Mountain Range (Serranía de Hornocal)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Hornocal Mountain Range (Serranía de Hornocal)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking masterwork photograph of the Hornocal Mountain Range in Argentina, massive V-shaped limestone chevron ridges in striking green, ochre, and white, dramatic Andean sky, ultra-high resolution, National Geographic cover shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the pinnacle of earth's painted wonders lies Hornocal, a colossal limestone ridge that dwarfs every other rainbow mountain in both scale and geometric perfection. Unlike the rounded slopes of its peers, Hornocal unfurls as a staggering, V-shaped chevron of jagged, triangular peaks that march across the horizon in rhythmic, repeating waves of emerald green, ochre, mustard, and striking bone white. It is nature acting as an architect, sculptor, and master painter all at once.
 

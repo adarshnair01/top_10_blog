@@ -25,9 +25,7 @@ Today, modern archaeologists armed with ground-penetrating radar and relentless 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Hidden Basements of Naushahro Feroze</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Hidden Basements of Naushahro Feroze" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle photo of an ancient excavated brick tunnel in Sindh, Pakistan, shafts of dusty golden sunlight piercing through overhead gaps, hyper-detailed texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long overshadowed by the famed ruins of Mohenjo-daro, the ancient mounds of Sindh continue to bleed architectural anomalies when heavy monsoon rains erode the topsoil. Beneath the sun-baked surface lie layers of forgotten brickwork, forming low-ceilinged crawlspaces and narrow drainage tunnels that hint at an advanced, highly centralized urban planning system from the Bronze Age. 
 
@@ -56,9 +54,7 @@ Local folklore speaks of sealed horizontal shafts leading all the way to the ban
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Catacombs of Kom el Shoqafa</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Catacombs of Kom el Shoqafa" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Atmospheric, dimly lit interior of an ancient underground catacomb in Alexandria, eerie statues blending Greco-Roman and Egyptian styles, long shadows, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Descending the spiral staircase of Kom el Shoqafa is like stepping into a cinematic dream where ancient Egyptian religion violently collides with Greco-Roman theatricality. Carved out of the solid bedrock in the 2nd century AD, this multi-level necropolis was accidentally discovered in 1900 when a donkey miraculously fell through a pit in the ground. 
 
@@ -87,9 +83,7 @@ Beyond the grand burial chambers and the eerie Hall of Caracalla lie dark, unexc
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Catacombs of Paris</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Catacombs of Paris" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Creepy, cinematic shot of long limestone tunnels lined with neatly stacked human skulls and femurs, flickering torchlight, mysterious mist clinging to the stone floor.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the romantic cafes, fashion boutiques, and bustling streets of Paris lies an empire of bones and stone. Originally carved as Roman-era limestone quarries to build the city above, this subterranean labyrinth exploded in the late 18th century when overflowing cemeteries forced the transfer of over six million human skeletons into the damp, echoing galleries.
 
@@ -118,9 +112,7 @@ While the official ossuary is a popular tourist site, hundreds of kilometers of 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Underground City of Nushabad (Nooshabad)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Underground City of Nushabad (Nooshabad)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic low-angle shot of a dusty Iranian subterranean corridor carved from hard clay and stone, arched ceilings, faint blue light guiding the eye forward.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden beneath the arid, sun-scorched plains of central Iran lies Ouyi, a marvel of Sasanian engineering designed to house an entire town underground during times of invasion. Constructed over 1,500 years ago, this subterranean city is a complex maze of interconnected rooms, ventilation shafts, and defensive corridors spread across three distinct levels connected by cleverly engineered vertical drop-shafts.
 
@@ -149,9 +141,7 @@ Invaders who managed to breach the town above would descend into Ouyi only to fi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Secret Tunnels of Naica</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Secret Tunnels of Naica" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking cinematic image of massive glowing translucent crystal pillars inside a steaming, subterranean cavern, otherworldly blue and amber lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While famous primarily for its breathtaking Cave of the Crystals—where giant selenite pillars grow like frozen superman crystal shards—Naica is laced with a spiderweb of ancient and industrial exploratory tunnels carved into boiling hydrothermal fault lines. The air inside these deep subterranean arteries is notoriously hostile, reaching blistering temperatures of 50°C (122°F) paired with near 100% humidity.
 
@@ -180,9 +170,7 @@ Long before modern miners struck rich silver and lead deposits, indigenous group
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subterranean Labyrinth of Pilsen</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Subterranean Labyrinth of Pilsen" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Moody cinematic shot of an arched medieval stone cellar in Pilsen, wooden barrels resting in dark alcoves, dramatic shadows, mysterious atmosphere.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Beneath the picturesque medieval streets of Pilsen lies a dark, multi-layered underworld carved painstakingly out of solid rock over the course of seven centuries. Originally built by burghers in the 14th century for food preservation, beer fermentation, and strategic defense, this subterranean network forms a dizzying maze spanning multiple levels beneath the city center.
 
@@ -211,9 +199,7 @@ During times of war or plague, citizens retreated into these damp vaults, sealin
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Underground Passages of Orvieto</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Underground Passages of Orvieto" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic vertical shot of an ancient Italian subterranean well with a double-helix stone staircase plunging into dark water, dramatic shafts of light.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched precariously atop a sheer cliff of volcanic tuff, the medieval Italian city of Orvieto hides a breathtaking mirror image of itself directly beneath its cobblestone streets. For nearly three millennia, locals have carved into the soft rock, creating a staggering labyrinth of over 1,200 interconnected caves, cellars, and secret pigeon-breeding towers.
 
@@ -242,9 +228,7 @@ During the Middle Ages, rival aristocratic families carved clandestine tunnel ne
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Secret Tunnels of Beijing (The Underground City)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Secret Tunnels of Beijing (The Underground City)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic, slightly eerie underground bunker hallway in Beijing, peeling vintage propaganda posters on concrete walls, dim fluorescent lighting, mist on the floor.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Conceived during the height of Cold War paranoia in the late 1960s under the direct orders of Chairman Mao Zedong, a massive subterranean city was dug beneath Beijing by hundreds of thousands of ordinary citizens, school children, and soldiers using hand tools. Known locally as *Di Fang Cheng*, this sprawling civil defense network was designed to shelter half of Beijing's population in the event of a nuclear strike or foreign invasion.
 
@@ -273,9 +257,7 @@ The complex included over 1,000 bomb shelters equipped with schools, hospitals, 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subterranean City of Mardin</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Subterranean City of Mardin" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic photo of an arched stone tunnel in Mardin, Turkey, looking out toward a sunlit ancient street, warm golden hour light, rich architectural texture.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Carved into the sun-bleached limestone ridge of southeastern Turkey, the ancient city of Mardin is a masterclass in vertical architecture—both above and below ground. While its honey-colored stone houses cascade down the hillside in breathtaking harmony, the real mystery lies hidden in the pitch-black bedrock beneath the foundations. 
 
@@ -304,9 +286,7 @@ Ancient vaulted corridors, known locally as *Abbaras*, form covered tunnels that
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Derinkuyu Underground City</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Derinkuyu Underground City" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic wide shot of the massive multi-level underground city of Derinkuyu in Cappadocia, glowing torches illuminating carved stone archways, stairs, and massive circular stone doors.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Topping our list is the undisputed king of subterranean architecture: Derinkuyu, the deepest multi-level underground city in Cappadocia. Discovered accidentally in 1963 when a local resident knocked down a wall in his basement, this colossal subterranean marvel plunges an astonishing 85 meters into the volcanic earth, capable of sheltering up to 20,000 people alongside their livestock, food supplies, and wine presses.
 

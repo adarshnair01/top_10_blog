@@ -25,9 +25,7 @@ As astrobiologists scan the cosmos for signs of life on dead moons and methane-s
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Glass-Eating Anoxic Specialist: Loricifera</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Glass-Eating Anoxic Specialist: Loricifera" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Microscopic macro photography of a translucent Loricifera deep-sea animal glowing faintly in a pitch-black brine pool, cinematic lighting, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine plunging into a pitch-black underwater lake of pure brine at the bottom of the Mediterranean, where the water is hypersinister, hyper-dense, and entirely devoid of oxygen. It is a graveyard for almost every known marine creature—except for the microscopic Loricifera. These bizarre, armored animals look like translucent, interstellar spaceships dropped into a nightmare landscape.
 
@@ -56,9 +54,7 @@ Instead of mitochondria, which rely on oxygen to generate cellular energy, these
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Nuclear Reactor Grazer: Deinococcus radiodurans</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Nuclear Reactor Grazer: Deinococcus radiodurans" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up microscopic false-color scanning electron micrograph of Deinococcus radiodurans pink tetrad clusters, dramatic science fiction aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Dubbed 'Conan the Bacterium' by the Guinness Book of World Records, this pink-hued microscopic powerhouse is virtually indestructible. If you were to blast Deinococcus radiodurans with 5,000 grays of gamma radiation—enough to shatter its genome into hundreds of shattered fragments—it would simply shrug, stitch its DNA back together in hours, and continue multiplying as if nothing happened.
 
@@ -87,9 +83,7 @@ Its secret weapon is not just a high tolerance for radiation, but an extraordina
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Deep-Earth Survivor: Desulforudis audaxviator</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Deep-Earth Survivor: Desulforudis audaxviator" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic deep underground view of a glowing golden fissure in a South African mine shaft, digital art highlighting subterranean microbial ecosystems.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep beneath the sun-drenched plains of South Africa, trapped in fracture fluids isolated from the surface for millions of years, lives a solitary lonely bacterium named Desulforudis audaxviator. Named after Jules Verne's Journey to the Center of the Earth, this organism lives a completely self-contained existence in total darkness, zero oxygen, and bathed in natural radiation from surrounding uranium rocks.
 
@@ -118,9 +112,7 @@ With no access to photosynthetic energy, D. audaxviator feeds directly on the ra
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ultimate Survivor: Milnesium tardigradum (Tardigrades)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ultimate Survivor: Milnesium tardigradum (Tardigrades)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A cute macro photography shot of an iridescent tardigrade walking across green moss, cinematic lighting, ultra-detailed textures.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">No list of extremophiles is complete without the venerable water bear. These chubby, eight-legged micro-animals look like slow-motion plush toys, yet they are the undisputed champions of resilience. When faced with the loss of oxygen, extreme radiation, or freezing temperatures, tardigrades enter a state called cryptobiosis, expelling nearly all the water from their bodies and replacing it with a unique sugar glass.
 
@@ -149,9 +141,7 @@ In this cryptobiotic slumber, their metabolism drops to less than 0.01% of norma
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Frozen Time-Capsule: Panagrolaimus detritophagus</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Frozen Time-Capsule: Panagrolaimus detritophagus" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro image of a microscopic ancient roundworm emerging from cracked Siberian glacial ice crystals under glowing laboratory microscopes.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Picture a world locked in permafrost since the late Pleistocene—a time when woolly mammoths still roamed the earth. Deep within this frozen Siberian vault, a tiny roundworm lay completely desiccated and frozen in absolute stasis, enduring extreme sub-zero cold and background radiation for nearly 46,000 years.
 
@@ -180,9 +170,7 @@ When researchers thawed the permafrost sample in a laboratory nutrient solution,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Hydrothermal Vent Alchemist: Methanocaldococcus jannaschii</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Hydrothermal Vent Alchemist: Methanocaldococcus jannaschii" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater cinematic shot of a glowing black smoker hydrothermal vent in the dark ocean abyss, surrounded by alien microbial shimmering plumes.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Thrusting out of the oceanic crust, black smoker vents spew mineral-rich water at temperatures exceeding 400°C under immense crushing pressure, in an environment completely devoid of sunlight and oxygen. Clinging to the scalding edges of these mineral chimneys is Methanocaldococcus jannaschii, an archaeon that breathes hydrogen and exhales methane.
 
@@ -211,9 +199,7 @@ This primitive hyperthermophile operates at the absolute thermodynamic limits of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Acidic Reactor Core: Ferroplasma acidarmanus</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Acidic Reactor Core: Ferroplasma acidarmanus" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vivid glowing orange and yellow acidic mine runoff water bubbling with mineral deposits, abstract extreme macro photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep inside an abandoned California copper mine flows a toxic stream of liquid waste so acidic it can dissolve a metal wrench in hours, with a pH level often dropping below zero. Within this chemical cauldron of boiling sulfuric acid and heavy metal ions, Ferroplasma acidarmanus thrives without hesitation.
 
@@ -242,9 +228,7 @@ This archaeon has evolved a cell membrane composed entirely of specialized monol
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cosmic Spore Champion: Bacillus safensis (Strain FO-36b)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Cosmic Spore Champion: Bacillus safensis (Strain FO-36b)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic sci-fi shot of the International Space Station against the black curve of Earth, with glowing microscopic bacterial spores floating in orbit.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When NASA and space agencies assemble interplanetary probes, they scrub cleanrooms with sterilizing agents and ultraviolet light to avoid contaminating other worlds. Yet, Bacillus safensis was discovered stubbornly clinging to spacecraft surfaces, having evolved an astonishing resistance to harsh chemical sterilization, zero-oxygen vacuums, and intense UV radiation.
 
@@ -273,9 +257,7 @@ When sent outside the International Space Station on exposure panels, these bact
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Hypersaline Phantom: Halobacterium salinarum</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Hypersaline Phantom: Halobacterium salinarum" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot of vivid pink and blood-red hypersaline salt evaporation ponds contrasted against blinding white salt crystals.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Glance across the blood-red waters of the Dead Sea or industrial salt pans, and you are witnessing the domain of Halobacterium salinarum. Despite its name, it is not a bacterium at all, but an ancient haloarchaeon that requires salt concentrations ten times higher than normal seawater to survive.
 
@@ -304,9 +286,7 @@ When oxygen levels plummet in dense evaporating brine, H. salinarum doesn't pani
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Radioactive Cryptid: Chernobyl's Black Fungi (Cryptococcus neoformans)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Radioactive Cryptid: Chernobyl's Black Fungi (Cryptococcus neoformans)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Eerie cinematic interior shot of Chernobyl's abandoned Reactor No. 4 control hall, glowing with supernatural green and black fungal growth climbing the concrete walls.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the hauntingly silent concrete sarcophagus of the destroyed Chernobyl nuclear reactor, where lethal gamma radiation continues to crackle through the air, a thick, velvety black crust covers the reactor walls. This is not mold running from the disaster; it is a thriving colony of radiotrophic fungi, led by species like Cryptococcus neoformans.
 

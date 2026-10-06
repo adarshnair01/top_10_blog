@@ -25,9 +25,7 @@ These are not random anomalies of stellar decay. They are cryptic transmissions,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Galactic Center Radio Transient (ASKAP J173608.2-321635)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Galactic Center Radio Transient (ASKAP J173608.2-321635)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of the ASKAP radio telescope array dishes pointing toward the glowing, dust-veiled core of the Milky Way galaxy at twilight, dramatic lighting, highly detailed astrophotography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the chaotic, star-crowded heart of our galaxy lies a phantom that refuses to play by the rules. In 2020, astronomers using the Australian Square Kilometre Array Pathfinder (ASKAP) detected a signal that defied categorization. It would appear out of nowhere, blazing brightly in the radio spectrum for weeks at a time, only to vanish completely without a trace. Stranger still, the polarization of its light twisted wildly as it traveled, suggesting it was being squeezed through an intense, invisible magnetic labyrinth.
 
@@ -56,9 +54,7 @@ Unlike pulsars, which flash with clockwork regularity, this rogue source turned 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The OMG Particle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The OMG Particle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic long-exposure photograph of cosmic ray detectors glowing under a starry night sky in the Utah desert, purple and teal atmospheric trails of particle interactions, sci-fi realism.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">On the evening of October 15, 1991, the night sky over the Utah desert witnessed an invisible visitor carrying the kinetic punch of a baseball pitched at 99.9999999999999999999999% the speed of light. The Fly's Eye Cosmic Ray Detector intercepted a subatomic particle packing an incomprehensible 320 exa-electronvolts of energy. If you could somehow bundle that much energy into a single macroscopic object, it would possess the kinetic energy of a fast-moving brick, concentrated entirely into a single subatomic proton.
 
@@ -87,9 +83,7 @@ Astrophysicists were utterly stunned. According to the Greisen-Zatsepin-Kuzmin (
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The BLC-1 Breakthrough Listen Candidate</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The BLC-1 Breakthrough Listen Candidate" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up of the iconic Parkes radio telescope dish illuminated by moonlight against a deep blue starry sky, glowing digital frequency wave overlay, cinematic and moody.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the spring of 2019, data captured by the massive 64-meter Parkes radio dish in Australia revealed a narrow-band signal that made veteran SETI researchers hold their collective breath. Dubbed BLC-1 (Breakthrough Listen Candidate 1), the signal appeared to originate from the direction of Proxima Centauri, our nearest stellar neighbor just 4.2 light-years away. More intoxicating than its origin was its frequency: a sharp, isolated tone at 982 megahertz that drifted slightly, mimicking the expected Doppler shift of a planet rotating on its axis.
 
@@ -118,9 +112,7 @@ For weeks, conspiracy theories and scientific excitement brewed behind closed do
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The WOW! Signal</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The WOW! Signal" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vintage 1970s control room aesthetic, warm incandescent desk lamp illuminating a computer printout paper with a red-circled data spike, atmospheric cinematic shadows.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">August 15, 1977. Inside a quiet control room at Ohio State University's Big Ear telescope, astronomer Jerry Ehman stared at a strip of computer paper printer output. Stamped in red ink was a sequence of characters: '6EQUJ5'. It was an intense spike of radio energy that lasted for precisely 72 seconds, broadcasting precisely on the hydrogen line—the universal frequency often cited by scientists as the logical hailing frequency for intelligent civilizations across the cosmos.
 
@@ -149,9 +141,7 @@ Ehman was so stunned by the sheer statistical improbability of the spike that he
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">FRB 180916: The Cosmic Metronome</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="FRB 180916: The Cosmic Metronome" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning cosmic visualization of a hyper-dense magnetar emitting a synchronized cone of brilliant radio waves through swirling interstellar dust clouds, cinematic sci-fi style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For years, Fast Radio Bursts (FRBs)—millisecond-long flashes of blinding radio energy—were viewed as chaotic, one-off catastrophes, like the sudden explosion of a dying star. That illusion was violently shattered when astronomers discovered FRB 180916. Instead of random bursts, this deep-space transmitter operates with the chilling precision of a Swiss watch. It pulses vigorously for four days, goes completely silent for twelve days, and then repeats this exact 16.35-day cycle with immaculate regularity.
 
@@ -180,9 +170,7 @@ How can a natural cataclysmic event repeat on such a flawless schedule? Theories
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Voyager Interstellar Whistle</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Voyager Interstellar Whistle" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic illustration of the golden Voyager probe gliding past glowing cosmic nebulas against the backdrop of an endless starfield, photorealistic rendering with lens flare.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Plunging headfirst into the freezing, uncharted vacuum of interstellar space, NASA's legendary Voyager 1 spacecraft is currently sailing through a plasma ocean beyond the heliosphere. In 2021, as scientists analyzed faint plasma wave data sent back across billions of miles, they stumbled upon a faint, continuous background hum. It was a ghostly, ethereal whistle rising from the dark, composed of the low-frequency vibrations of interstellar gas being compressed and stirred by the probe's passage.
 
@@ -211,9 +199,7 @@ This is not a signal from an alien civilization, but rather the literal voice of
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">FRB 20220314A: The Repeating Morse-Code Pulse</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="FRB 20220314A: The Repeating Morse-Code Pulse" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic holographic control interface displaying glowing soundwaves and radio frequency waterfalls of FRB pulses in a dark, neon-lit observatory room.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">If you listened to the audio translation of FRB 20220314A, your spine would tingle. Unlike the standard whoosh or static hiss of typical space signals, this repeating fast radio burst exhibits a rhythmic, staccato cadence that sounds uncomfortably like cosmic Morse code. Detected by the Deep Synoptic Array, the signal pulses in structured clusters of millisecond bursts that repeat with uncanny mathematical consistency.
 
@@ -242,9 +228,7 @@ Astrophysicists analyzing the data note that while the cadence mimics artificial
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Hanny's Voorwerp Green Ghost</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Hanny's Voorwerp Green Ghost" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Deep space Hubble-style photograph of a surreal, glowing emerald-green gas cloud (Hanny's Voorwerp) floating next to a majestic spiral galaxy, deep velvet black background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In 2007, a Dutch schoolteacher named Hanny van Arkel was participating in the online Galaxy Zoo citizen science project when she spotted a bizarre, glowing emerald green blob floating in deep space next to a spiral galaxy. Further investigation revealed it wasn't a star-forming region or a standard nebula, but a colossal cosmic ghost: a giant cloud of gas illuminated by a blinding flash of radiation that had vanished thousands of years ago.
 
@@ -273,9 +257,7 @@ The light echo told a terrifying story. Long ago, the supermassive black hole at
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Mysterious Pulsar 'Clock' J1939+2134</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="The Mysterious Pulsar 'Clock' J1939+2134" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Hypnotic digital art of a super-dense neutron star spinning at ultra-high speed, casting dual beams of intense blue and violet radiation across a warping space-time grid.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep in the constellation Vulpecula spins a cosmic corpse that puts the finest atomic clocks on Earth to absolute shame. PSR J1939+2134 is a millisecond pulsar—the collapsed core of a massive star crushed down into a sphere barely the size of a city, spinning on its axis an astonishing 642 times every single second. As it whips around, it sweeps a lighthouse beam of intense radio waves across the cosmos, ticking off fractions of a millisecond with unfathomable stability.
 
@@ -304,9 +286,7 @@ For decades, scientists used these ultra-fast pulsars as cosmic metronomes to se
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cosmic Microwave Background 'Axis of Evil'</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Cosmic Microwave Background 'Axis of Evil'" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking panoramic all-sky oval map of the Cosmic Microwave Background showing temperature fluctuations in mottled gold, red, and turquoise, with a glowing geometric axis line cutting through the center.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Standing at the absolute pinnacle of cosmic mystery is an anomaly written into the very fabric of creation itself. When the Planck and WMAP satellites mapped the Cosmic Microwave Background (CMB)—the lingering afterglow of the Big Bang—astronomers expected to find a completely random, chaotic distribution of temperature fluctuations across the sky. Instead, they found something deeply unsettling.
 

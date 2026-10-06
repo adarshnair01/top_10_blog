@@ -25,9 +25,7 @@ Driven by millions of microscopic organisms waking up in the dark, these coastal
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Torrey Pines State Beach</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Torrey Pines State Beach" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic long-exposure photograph of a solitary surfer riding a wave that glows brilliant electric neon-blue at Torrey Pines Beach, dark dramatic cliffs in the background, starry night sky, hyper-detailed, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When night falls over the dramatic sandstone cliffs of Southern California, the Pacific Ocean occasionally sheds its daytime blue for an ominous, electric rust-red that burns electric neon when agitated. Walking along the shore feels like stepping onto a distant planet where the tides pulse with hidden electricity. Every crashing breaker reveals a rolling wall of ghostly turquoise light that lingers long after the wave has broken.
 
@@ -56,9 +54,7 @@ This phenomenon is driven by massive blooms of *Lingulodinium polyedrum*, a spec
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Toyama Bay</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Toyama Bay" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro cinematic shot of glowing blue firefly squid on a dark Japanese gravel beach, mist rising from the water, ethereal blue illumination, highly detailed textures, professional nature photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Unlike the microscopic algae that illuminate most of the world's glowing beaches, the magic of Toyama Bay belongs to a creature with eyes, tentacles, and a striking alien grace. Every spring, millions of sparkling firefly squid—known locally as *Hotaru-ika*—migrate into the deep, frigid submarine canyons just off the coast, occasionally washing up in sparkling heaps along the shore.
 
@@ -87,9 +83,7 @@ Standing on the gravel beach in the pitch black before dawn, fishermen haul in n
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Jervis Bay</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Jervis Bay" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking long-exposure night photo of crystal-white sand beach at Jervis Bay with neon blue glowing bioluminescent waves gently lapping the shore, Milky Way galaxy visible overhead, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Famous for boasting some of the whitest sand in the entire world, Jervis Bay hides a secret that only reveals itself when the sun goes down and the moon is safely hidden behind clouds. The gentle, protected waters of Hyams Beach and Plantation Point occasionally erupt into a mystical blue haze caused by microscopic plankton disturbed by the gentle roll of the tide.
 
@@ -118,9 +112,7 @@ When local dolphins swim through the shallows here on dark nights, they cut thro
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Manasquan Beach</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Manasquan Beach" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic twilight photography of wooden beach jetties in New Jersey with crashing waves bursting into neon blue and green bioluminescent sparks, moody dark sky, highly detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Along the bustling Atlantic coastline of the American Northeast, few expect to find natural wonders that rival the jungles of Pandora. Yet during hot summer nights, the surf pounding against the Manasquan jetties occasionally catches fire with a brilliant, neon-blue luminescence that startles late-night beachgoers.
 
@@ -149,9 +141,7 @@ As each wave curls and crashes against the wooden pilings, it shatters into thou
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Holbox Island</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Holbox Island" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A person standing in knee-deep warm Caribbean water at night on Isla Holbox, water glowing vibrant electric blue around their legs, starry tropical night sky, cinematic travel photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away in the Yum Balam Biosphere Reserve, Isla Holbox is a bohemian paradise free of paved roads and massive resorts. But when the daytime crowds retreat and the Caribbean darkness settles over the shallow lagoons, an entirely different world awakens. Wading into the warm, knee-deep water feels like walking through liquid starlight.
 
@@ -180,9 +170,7 @@ Every step stirs up millions of luminous organisms that swirl around your ankles
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Matagorda Bay</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Matagorda Bay" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: POV shot from inside a kayak on Matagorda Bay at night, clear water glowing neon green, fish darting underneath leaving light trails, starry sky, cinematic wide-angle lens.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Where the expansive prairies of Texas meet the warm waters of the Gulf of Mexico, Matagorda Peninsula guards a secret wilderness of salt marshes and barrier islands. On humid summer nights when the wind drops to a whisper, the Gulf waters off Matagorda ignite in brilliant flashes of bioluminescent fury.
 
@@ -211,9 +199,7 @@ Local shrimpers and night anglers have long whispered tales of glowing wakes tra
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Halong Bay</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Halong Bay" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic night landscape of towering limestone karsts in Halong Bay, calm dark water glowing with vibrant turquoise bioluminescence around a traditional wooden boat, ethereal and magical.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising out of the emerald waters of the Gulf of Tonkin, thousands of towering limestone karst islands create a labyrinth of silent, misty chambers. When night descends upon this UNESCO World Heritage site, the ancient waters transform into a mirror reflecting both the constellations above and a hidden galaxy below.
 
@@ -242,9 +228,7 @@ Drifting in a wooden junk boat through the shadowy arches of the karst caves, di
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Laguna Grande (Fajardo)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="Laguna Grande (Fajardo)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A glowing paddle cutting through the vibrant blue-green waters of Laguna Grande in Puerto Rico at night, mangrove trees lining the shore, magical atmosphere, hyper-detailed photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Tucked away at the end of a winding channel overhung by tangled red mangrove roots, Laguna Grande in Puerto Rico is widely considered one of the most reliable and intense bioluminescent ecosystems on Earth. As your kayak slips silently out of the dark mangrove tunnel and into the open lagoon, the water literally comes alive with every stroke of the paddle.
 
@@ -273,9 +257,7 @@ Millions of single-celled *Pyrodinium bahamense* ('whirling fire') call this pro
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Mosquito Bay (Vieques)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="Mosquito Bay (Vieques)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking wide-angle night photograph of Mosquito Bay in Vieques, Puerto Rico, glass-bottom kayak floating on intensely glowing neon-blue water, starry night sky overhead, pristine nature.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Recognized by Guinness World Records as the brightest bioluminescent bay in existence, Mosquito Bay on the island of Vieques is a place where reality bends into pure fantasy. Because the surrounding land is strictly protected from commercial development and light pollution, the darkness here is absolute—allowing the neon glow of the microscopic inhabitants to blaze with uninhibited ferocity.
 
@@ -304,9 +286,7 @@ When you cup your hands underwater and lift them to the surface, water drips fro
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Vaadhoo Island Sea of Stars</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Vaadhoo Island Sea of Stars" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Masterpiece cinematic photography of Vaadhoo Island beach in the Maldives at night, crashing waves glowing brilliant electric neon blue, powdery white sand with glowing footprints, Milky Way galaxy arching across the night sky, 8k resolution, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the pinnacle of our glowing planetary journey lies a remote tropical paradise where the boundary between ocean and cosmos completely dissolves. On the shores of Vaadhoo Island in the Maldives, the Indian Ocean laps against powdery white sands that sparkle not with reflected moonlight, but with billions of living, breathing stars.
 

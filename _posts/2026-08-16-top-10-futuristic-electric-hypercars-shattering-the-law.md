@@ -25,9 +25,7 @@ We stand on the precipice of a new vehicular epoch, where traditional physics ar
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aspark Owl</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Aspark Owl" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A low-angle cinematic shot of the chrome Aspark Owl hypercar parked under neon lights in a futuristic Tokyo alleyway, ultra-detailed, 8k resolution, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born from an obsessive Japanese engineering dream and crafted in the artisan workshops of Italy, the Aspark Owl cuts through the air like a stealth fighter jet. Its silhouette is impossibly low, barely scraping forty-three inches off the ground, giving the optical illusion of a droplet of liquid chrome sliding across the tarmac.
 
@@ -56,9 +54,7 @@ When the throttle is finally pinned, the world outside the curved glass canopy d
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Pininfarina Battista</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Pininfarina Battista" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An Italian red Pininfarina Battista hypercar speeding past ancient Tuscan vineyards at sunset, motion blur, cinematic lighting, ultra-HD.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Italian coachbuilding royalty met electrical audacity when Pininfarina unveiled the Battista. Walking around its sculpted carbon body is like studying a Renaissance sculpture that has somehow been infused with dark matter. Every intake, curve, and active aerodynamic flap serves a dual purpose of breathtaking aesthetic beauty and brutal wind-cheating science.
 
@@ -87,9 +83,7 @@ Turn the key—or rather, engage the digital ignition—and the car comes alive 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Lotus Evija</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Lotus Evija" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A British racing green Lotus Evija in a foggy test track hangar in Hethel, dramatic spotlighting reflecting off carbon fiber surfaces, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep in the misty fields of Norfolk, England, the legendary home of lightweight track handling underwent a radical electrification transformation. The Lotus Evija looks less like a car and more like a functional wind tunnel, dominated by two massive, gaping venturi tunnels carved directly through its rear haunches.
 
@@ -118,9 +112,7 @@ These colossal tunnels channel rushing air to create literal tons of downforce, 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Rimac Nevera</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Rimac Nevera" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A sleek dark blue Rimac Nevera drifting on a wet Croatian coastal highway at dusk, water spray catching the headlights, cinematic wide shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a converted barn in Croatia, a young visionary named Mate Rimac began building electric drift cars that outpaced supercars. Today, that vision has materialized into the Rimac Nevera—a technological behemoth that serves as the gold standard for modern hypercar engineering.
 
@@ -149,9 +141,7 @@ Equipped with four independent wheel-drive motors controlled by a proprietary su
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Deus Vayanne</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Deus Vayanne" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic silver Deus Vayanne parked in front of a modern glass architectural masterpiece in Vienna at night, cinematic lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Austria is renowned for classical music and alpine grandeur, but Deus Automobiles injected pure adrenaline into Vienna's cultural landscape with the Vayanne. Styled in collaboration with legendary Italian design house Italdesign, the Vayanne blends futuristic sci-fi aesthetics with everyday usability and unprecedented power output.
 
@@ -180,9 +170,7 @@ Its infinity-loop front and rear light signatures symbolize eternal energy and i
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Nio EP9</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Nio EP9" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A vivid electric-blue Nio EP9 cornering aggressively on a rain-slicked Nürburgring track, sparks flying from the undertray, high shutter speed action shot.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before electric hypercars became a crowded playground, the Nio EP9 arrived like a silent specter to shock the established automotive order. Developed by a global team spanning Silicon Valley, Munich, and Shanghai, this track-only weapon proved that battery power could conquer legendary endurance circuits.
 
@@ -211,9 +199,7 @@ Piloting the EP9 requires a cast-iron stomach; its massive aerodynamic profile g
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">McMurtry Spéirling</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="McMurtry Spéirling" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A compact black McMurtry Spéirling blasting up the Goodwood hillclimb driveway surrounded by cheering crowds, motion blur, dramatic daylight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a Batmobile scaled down to the size of a single-seat fighter pod, powered by electric motors and equipped with a literal vacuum cleaner fan bolted to the back. That is the McMurtry Spéirling, a pint-sized British engineering marvel that threw out the traditional rulebook of automotive design.
 
@@ -242,9 +228,7 @@ The secret weapon is its downforce fan system, which sucks air from underneath t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Dodge Charger Daytona SRT Banshee</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80" alt="Dodge Charger Daytona SRT Banshee" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A menacing matte-gray Dodge Charger Daytona SRT Banshee executing a massive tire burnout in a deserted industrial lot at night, glowing red tail lamps, cinematic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">American muscle culture faced an existential crisis when electrification threatened to silence the thunderous roar of the legendary Hemi V8. Dodge answered critics with the Charger Daytona SRT Banshee, a brutal, unapologetic bruiser designed to drag-strip burnouts and highway intimidation into the electric era.
 
@@ -273,9 +257,7 @@ Far from quiet, the Banshee introduces the 'Fratzonic Chambered Exhaust'—a pat
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Tesla Roadster (Next-Gen)</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" alt="Tesla Roadster (Next-Gen)" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic red next-gen Tesla Roadster speeding across the Bonneville Salt Flats under a starlit galaxy, sharp reflection on salt crust, hyper-detailed 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When Elon Musk first pulled the wraps off the next-generation Tesla Roadster prototype, the automotive world collectively gasped. Promised with figures that border on science fiction, this Targa-topped missile aims to obliterate every conventional benchmark of speed, range, and engineering audacity.
 
@@ -304,9 +286,7 @@ The most jaw-dropping feature rumored to be in development is the 'SpaceX option
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">Aspark Owl SP600</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Aspark Owl SP600" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An aerodynamic carbon-fiber Aspark Owl SP600 captured mid-run on a massive high-banked German oval test track at extreme velocity, motion blur background, cinematic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the summit of our electrification journey sits the undisputed king of straight-line velocity: the Aspark Owl SP600. On a crisp autumn morning at the ATP Automotive Testing facility in Papenburg, Germany, this carbon-fiber apex predator etched its name into the history books in letters of fire.
 

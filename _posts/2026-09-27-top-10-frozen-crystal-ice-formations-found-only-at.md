@@ -25,9 +25,7 @@ These high-altitude ice formations are not mere cold weather phenomena; they are
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Singing Spire of Mount Elbrus</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Singing Spire of Mount Elbrus" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle photo of a towering, translucent blue ice spire on a volcanic mountain ridge at twilight, dramatic starry sky and aurora overhead, hyper-detailed frost textures, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched on the jagged shoulder of Europe’s highest volcano, the Singing Spire rises like an obsidian-veined tooth capped in translucent blue glass. When the midnight katabatic winds sweep down from the Siberian plateaus, they pass through the hollow micro-channels of this hollow ice column, generating a haunting, sub-audible drone that early Circassian nomads believed was the voice of mountain spirits.
 
@@ -56,9 +54,7 @@ Crafted entirely from supercooled mist freezing instantaneously upon impact, the
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Chandelier of Khumbu Icefall</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Chandelier of Khumbu Icefall" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Interior view of a deep glacial crevasse featuring intricate, glowing blue ice stalactites and crystal chandeliers, dramatic cavern lighting, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">The Khumbu Icefall is notorious as a treacherous labyrinth of shifting white chaos, yet hidden deep within its cavernous crevasses lies an astonishing anomaly: the Chandelier. Here, dripping meltwater refreezes in a suspended micro-climate, forming thousands of razor-sharp stalactites that interlock like crystal lace.
 
@@ -87,9 +83,7 @@ As the glacier groans and advances a few feet each day, these delicate formation
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Emerald Ribbons of Pastoruri</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Emerald Ribbons of Pastoruri" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up macro photography of emerald-tinted glacial ice ribbons mixed with ancient volcanic ash layers, high altitude Andean sun casting golden light, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High in the Peruvian Andes, where the air burns the lungs and the sun beats down with fierce equatorial intensity, the Pastoruri Glacier yields a rare geological masterpiece. Emerald-tinted ribbons of compressed ice vein the cliffside, formed when ancient layers of mineral-rich meltwater flash-froze during sudden high-altitude blizzards.
 
@@ -118,9 +112,7 @@ These ribbons shimmer with hues ranging from deep jade to electric turquoise. Th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Penitentes of the Atacama Plateau</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Penitentes of the Atacama Plateau" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide drone shot of towering, blade-like snow penitentes stretching across a high-altitude volcanic plateau under a deep violet sky, cinematic lighting, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Marching across the hyper-arid slopes of the world's highest volcano are the Penitentes—tall, blade-like spires of hardened snow and ice that resemble a ghostly congregation of hooded monks standing in silent prayer. Standing up to five meters tall, these bizarre formations are sculpted entirely by sublimation, where intense high-altitude sunlight turns solid ice directly into vapor without melting it first.
 
@@ -149,9 +141,7 @@ Walking among them feels like trespassing in an alien cathedral. The silence is 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Crown of Kilimanjaro’s Northern Ice Field</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Crown of Kilimanjaro’s Northern Ice Field" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Stunning sunrise photography of vertical fluted blue ice walls on an equatorial mountain summit, golden hour lighting contrasting with deep sapphire ice, professional nature photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising abruptly from the scorching savannahs of East Africa, the summit of Kilimanjaro guards a vanishing crown: vertical walls of sheer blue ice known as the Northern Ice Field. Unlike standard alpine glaciers, these vertical verticality features dramatic, fluted ice pillars that are continuously eroded by equatorial solar rays, leaving behind fluted organ-pipe formations.
 
@@ -180,9 +170,7 @@ As the sun rises over the African plains, these ice walls catch the first rays o
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Whispering Ice Caves of Mount Rainier</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Whispering Ice Caves of Mount Rainier" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Interior perspective of a vast, glowing blue ice cave inside a volcanic crater, steam rising from the floor, giant crystal formations on the ceiling, cinematic adventure style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden within the smoldering, sulfur-venting summit crater of an active volcano lies a subterranean labyrinth of steam-carved ice caves. Here, geothermal heat from deep within the earth battles the freezing alpine blizzard above, creating a surreal world of vaulted ceilings dripping with giant, honeycombed ice crystals.
 
@@ -211,9 +199,7 @@ As warm volcanic gases melt intricate tunnels through the glacial cap, the walls
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Crystal Fan of Mont Blanc</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Crystal Fan of Mont Blanc" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro-cinematic shot of intricate, feather-like rime ice crystals forming a radial fan pattern on a sheer vertical cliff face, golden hour light, high altitude backdrop.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Clinging to the sheer granite verticality of the Aiguille du Midi, the Crystal Fan is an immaculate radial explosion of frost feathers and feathery rime ice. When specific humidity levels sweep up from the Chamonix Valley and collide with sub-zero summit temperatures, ice crystals do not form randomly; instead, they grow outward in perfect, symmetrical fan-like geometries resembling giant peacock feathers carved from diamond.
 
@@ -242,9 +228,7 @@ Bathed in the golden alpenrose glow of sunset, these fragile fans catch the ligh
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Salt-Frozen Pillars of Salar de Uyuni's Edge</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Salt-Frozen Pillars of Salar de Uyuni's Edge" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Aerial drone shot of geometric salt-ice crystal pillars on the edge of a massive white salt flat, turquoise water pools reflecting the sky, surreal landscape photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Where the world's largest salt flat meets the towering slopes of the Tunupa Volcano, winter nights unleash a chemical ballet. Saline moisture wicked up from the salt crust combines with high-altitude freezing winds to produce towering, multi-faceted salt-ice pillars. These structures are a hybrid marvel: a crystalline matrix of halite (rock salt) fused with pure alpine ice.
 
@@ -273,9 +257,7 @@ Under the blazing desert sun, the ice portion slowly sublimates away, leaving be
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Glacier-Locked Sun Discs of Mount Logan</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Glacier-Locked Sun Discs of Mount Logan" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic shot of perfectly circular, convex blue ice lenses embedded in a vast snowy plateau, midnight sun casting long dramatic shadows, high Arctic aesthetic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within Canada’s highest peak lies a meteorological fortress where the elements sculpt something truly magical: Glacier-Locked Sun Discs. Formed on wind-scoured plateaus during intense solar storms, these are perfectly circular, convex lenses of ultra-dense blue ice that act as natural burning glasses.
 
@@ -304,9 +286,7 @@ As the midnight sun circles the horizon without setting, these disc-shaped forma
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Diamond Cathedral of the Death Zone</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Diamond Cathedral of the Death Zone" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Breathtaking, hyper-detailed photograph of a colossal, glowing blue ice cathedral vault filled with giant hexagonal crystal daggers at 27,500 feet altitude, extreme cinematic style, 8k.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At 8,400 meters—well within the dreaded 'Death Zone' where human life cannot sustainably exist—lies Earth's most majestic and perilous ice formation: The Diamond Cathedral. Discovered by elite mountaineers navigating the treacherous ridge just below the South Summit, this is a vast, self-supporting vault of hyper-compressed ice crystals that grow inward from the overhanging limestone cliffs.
 

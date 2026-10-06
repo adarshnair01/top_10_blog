@@ -25,9 +25,7 @@ Driven by the imperative of climate adaptation and fueled by limitless solar amb
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Solar Crucible of Ouarzazate Eco-Cluster</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Solar Crucible of Ouarzazate Eco-Cluster" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of massive concentric rings of solar mirrors in the Moroccan desert at golden hour, with a futuristic eco-city glowing in the background, ultra-detailed, photorealistic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the gateway of the Sahara, where the wind howls through ancient gorges, a shimmering crescent of glass mirrors rises like an ancient temple reawakening. The Ouarzazate Eco-Cluster harnesses the ferocious African sun not merely for electricity, but to power an entire closed-loop agricultural city engineered to roll back the encroaching desert sands. Molten salt towers glow like orange beacons in the twilight, storing thermal energy long after the sun dips below the horizon.
 
@@ -56,9 +54,7 @@ Inside the residential ring, buildings are carved into the limestone thermal mas
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sponge Sands of Madinat Al-Irfan</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Sponge Sands of Madinat Al-Irfan" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A futuristic Omani eco-city blending traditional Islamic architecture with sleek carbon-fiber overhangs and lush underground river parks, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When flash floods tear through Oman's arid wadis, they usually bring destruction. Madinat Al-Irfan was designed to embrace this violent meteorological drama, turning potential catastrophe into life-giving abundance. The city's subterranean architecture features a massive network of sponge-like permeable pavements and subterranean cisterns that capture, filter, and store torrential rainfall within minutes of impact.
 
@@ -87,9 +83,7 @@ Walking through its pedestrianized shaded corridors, visitors feel a sudden, ine
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Biodome Canopy of Desert Rose City</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Biodome Canopy of Desert Rose City" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An aerial view of a flower-shaped futuristic city glowing with solar panels amidst golden dunes, hyper-realistic, cinematic drone photography style.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising from the shimmering dunes south of Dubai, Desert Rose City is a testament to human stubbornness meeting infinite capital and computing power. The city is laid out in the geometric shape of its namesake flower, with petals formed by residential neighborhoods wrapped in photovoltaic skin. At its core lies the 'Stem,' a high-speed magnetic transit spine that moves commuters across the city without emitting a single gram of carbon.
 
@@ -118,9 +112,7 @@ What truly sets Desert Rose apart is its revolutionary approach to urban microcl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Lunar-Analog Oasis of Arid-Tech Alpha</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Lunar-Analog Oasis of Arid-Tech Alpha" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek, futuristic white modular dome structures set against the pink salt flats of the Atacama Desert under a starry night sky, cinematic sci-fi.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Perched on the bone-dry plateau of the Atacama—the closest environment on Earth to Mars—Arid-Tech Alpha is both an experimental eco-city and a testing ground for off-world colonization. The buildings are constructed from 3D-printed local regolith and geopolymers, interlocking like puzzle pieces to withstand seismic tremors and radical thermal swings that range from searing days to freezing nights.
 
@@ -149,9 +141,7 @@ In this crystalline silence, scientists and engineers live alongside automated h
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Biosphere Shield of King Salman Park Eco-District</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Biosphere Shield of King Salman Park Eco-District" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A lush, green urban park winding through futuristic futuristic skyscrapers in Riyadh, surrounded by golden desert sands, cinematic golden hour lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine dropping Central Park into the scorching heart of the Najd desert, then wrapping it in an invisible web of advanced climate-control technology. King Salman Park's eco-district is a masterclass in combating the urban heat island effect. Artificial valleys, or *wadis*, have been engineered to channel cool night air from the surrounding plateau into the densely planted urban core.
 
@@ -180,9 +170,7 @@ Autonomous electric ferries glide along man-made canals fed by treated urban was
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Salt-Flat Spire of Kutch Eco-Grid</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="The Salt-Flat Spire of Kutch Eco-Grid" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A massive renewable energy city with silver towers and giant wind turbines reflecting on the white salt flats of Kutch, surreal cinematic photography.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Out in the blinding white salt desert of western India, the Kutch Eco-Grid rises like a jagged crown of silver and glass. Built upon a terrain that transforms from a cracked salt pan in summer to a shallow inland sea during the monsoon, this city utilizes amphibious foundation technology that allows entire residential blocks to float or elevate during seasonal floods.
 
@@ -211,9 +199,7 @@ The energy infrastructure is staggering: a hybrid farm of wind turbines and bifa
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sub-Surface Haven of Coober Pedy Neo-Eco</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Sub-Surface Haven of Coober Pedy Neo-Eco" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning underground futuristic atrium carved into glowing golden sandstone, featuring lush vertical gardens and modern eco-architecture, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over a century, the opal miners of Coober Pedy lived underground to escape the blistering 50-degree Celsius Australian outback heat. Today, that survival strategy has evolved into a high-tech eco-utopia. Coober Pedy Neo-Eco carves deep into the sandstone mesas, creating a subterranean metropolis where air-conditioning is entirely passive, utilizing natural rock insulation and deep geothermal shafts.
 
@@ -242,9 +228,7 @@ Above ground, the surface is a silent expanse of autonomous solar trackers and a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sonoran Biosphere of Biosphere-X Tucson</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80" alt="The Sonoran Biosphere of Biosphere-X Tucson" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Sleek glass geodesic domes gleaming in the Arizona Sonoran desert at sunset, surrounded by giant saguaro cacti, cinematic ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Deep within the cactus-studded expanse of the Sonoran Desert, Biosphere-X takes the lessons of 1990s experimental domes and supercharges them with modern artificial intelligence. This sprawling research city and residential sanctuary functions as a completely closed ecological loop. Every breath of oxygen, every drop of water, and every calorie of food is monitored, optimized, and recycled by a neural network known as 'Gaia-OS.'
 
@@ -273,9 +257,7 @@ Glass pyramids and carbon-nanotube domes house experimental ecosystems ranging f
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Zero-Carbon Mirage of Masdar City Prime</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="The Zero-Carbon Mirage of Masdar City Prime" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A hyper-futuristic Arabian city with white cubic architecture, narrow shaded streets, and a towering modern wind-catcher under a brilliant blue desert sky.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Rising like an ivory-walled citadel from the shimmering Abu Dhabi sabkha, Masdar City is the granddaddy of high-tech desert experiments—and its latest upgrades have turned it into an undisputed marvel of modern engineering. Raised on a 7-meter-high podium to catch the cooling desert breezes, the city's narrow, winding streets are inspired by traditional Arab settlements but engineered with computational fluid dynamics to maximize natural draft cooling.
 
@@ -304,9 +286,7 @@ There are no private combustion vehicles within the city limits. Instead, silent
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Linear Mirror Titan of NEOM's The Line</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="The Linear Mirror Titan of NEOM's The Line" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A breathtaking, massive mirrored rectangular skyscraper stretching endlessly across the vast Saudi Arabian desert, hyper-detailed cinematic masterwork.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Behold the crown jewel of modern architectural audacity: The Line. Stretching across desert, mountain, and coastal valley in northwestern Saudi Arabia, this mirrored linear metropolis represents the ultimate realization of high-tech desert urbanization. Encased in a continuous mirrored facade that reflects the timeless sands and starry skies, The Line eliminates cars, streets, and carbon emissions entirely.
 

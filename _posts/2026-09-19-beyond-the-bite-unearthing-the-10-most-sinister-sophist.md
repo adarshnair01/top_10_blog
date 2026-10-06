@@ -25,9 +25,7 @@ Prepare to journey into the heart of this hidden hunt. We're about to peel back 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Fly Bush's Sticky Embrace: Roridula gorgonias</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Fly Bush's Sticky Embrace: Roridula gorgonias" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up, cinematic shot of a Roridula gorgonias plant in the South African Fynbos, glistening with sticky resin, a large beetle visibly trapped, and a small, sleek Pameridea roridulae assassin bug expertly navigating the tentacles.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Imagine a plant that hunts, yet doesn't digest its prey. In the ancient, windswept Fynbos of South Africa, the Roridula gorgonias stands like a silent sentinel, its stems and leaves adorned with countless glistening, sticky tentacles. This isn't a passive flypaper; it's a living web designed to ensnare a myriad of insects, from tiny gnats to stout beetles. But the Roridula has a secret: it lacks the digestive enzymes to break down its catches.
 
@@ -56,9 +54,7 @@ Instead, it forms a macabre alliance. Specialized 'assassin bugs' (Pameridea ror
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Pineapple's Dark Secret: Brocchinia reducta</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Pineapple's Dark Secret: Brocchinia reducta" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Wide shot of a Brocchinia reducta plant growing on a misty tepui in the Guiana Highlands, its central rosette filled with water, sparkling with UV light, insects visible on its waxy, reflective inner leaves, against a backdrop of dramatic cloud-covered mountains.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">High in the 'Lost World' of Venezuela's remote tepuis, where ancient flat-topped mountains rise like islands in the sky, a member of the pineapple family defies its fruity cousins. Brocchinia reducta isn't just a bromeliad; it's a living death trap, a cunning pitfall designed to lure and drown. Its waxy, upright leaves form a tight, water-filled urn, shimmering with an otherworldly, UV-reflective sheen.
 
@@ -87,9 +83,7 @@ Unsuspecting insects, drawn by the spectral light and a faint, sweet scent, land
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Giant Sundew's Slow Embrace: Drosera regia</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Giant Sundew's Slow Embrace: Drosera regia" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme close-up, high-detail photograph of Drosera regia tentacles in action, glistening crimson mucilage, a struggling fly partially enveloped, the remaining tentacles slowly arching inward, against a softly blurred background of a misty South African mountain pass.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In a secluded valley nestled within South Africa's majestic mountains, lives a sundew of mythical proportions: Drosera regia, the 'King Sundew.' Unlike its smaller, more passive cousins, this plant is a formidable, active hunter. Its long, strap-like leaves are densely packed with thousands of crimson, glistening tentacles, each tipped with a bead of sticky mucilage that sparkles like dewdrops in the sun.
 
@@ -118,9 +112,7 @@ When a fly or even a small lizard dares to touch its surface, the encounter trig
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Albany Pitcher Plant's Toothed Maw: Cephalotus follicularis</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Albany Pitcher Plant's Toothed Maw: Cephalotus follicularis" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Macro photograph of a single Cephalotus follicularis pitcher, showing the intricate, tooth-like peristome glistening with nectar, a tiny ant teetering on the edge, the lid slightly open, revealing the dark, waxy interior.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Along the remote, windswept coastline of Western Australia, hidden amidst damp, peaty soils, dwells a botanical jewel: the Albany Pitcher Plant, or Cephalotus follicularis. This tiny marvel crafts miniature, exquisitely detailed pitchers that resemble ornate, tooth-rimmed vases. Each pitcher is a masterclass in deception, a silent beckoner to unsuspecting insects.
 
@@ -149,9 +141,7 @@ The rim, or 'peristome,' is not just decorative; it's a ring of sharp, downward-
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Corkscrew Plant's Subterranean Labyrinth: Genlisea spp.</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Corkscrew Plant's Subterranean Labyrinth: Genlisea spp." loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Conceptual cross-section view, highly detailed scientific illustration of a Genlisea subterranean corkscrew trap, showing the spiraled tube, inward-pointing hairs, and microscopic protozoa being drawn deep inside, roots visible in the surrounding soil.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Below the shimmering surface of tropical bogs and wetlands, in a realm of perpetual darkness, lies one of the most bizarre and sophisticated traps imaginable. The Corkscrew Plant, Genlisea, is a master of the subterranean hunt. While its small, unassuming leaves photosynthesize above ground, its true genius lies beneath, in a network of specialized, Y-shaped rhizophylls that act as a microscopic, one-way labyrinth.
 
@@ -180,9 +170,7 @@ Each rhizophyll is a hollow, spiraled tube, twisting deep into the substrate. Mi
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Waterwheel Plant's Aquatic Snap: Aldrovanda vesiculosa</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Waterwheel Plant's Aquatic Snap: Aldrovanda vesiculosa" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Underwater macro shot of Aldrovanda vesiculosa, a single trap caught mid-snap, tiny aquatic invertebrate partially visible, water ripples, sunbeams filtering through the surface, creating a dreamy, ethereal yet deadly scene.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the still, sun-dappled waters of ancient wetlands, a silent hunter drifts, a botanical ghost waiting to strike. The Waterwheel Plant, Aldrovanda vesiculosa, is the aquatic counterpart to the Venus Flytrap, but with an even more rapid, almost imperceptible, snap. This rootless, free-floating marvel is composed of whorls of delicate leaves, each bearing a tiny, clam-like trap.
 
@@ -211,9 +199,7 @@ These traps lie open, fringed with trigger hairs, waiting for a minuscule aquati
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Giant Pitcher's Abyss: Nepenthes attenboroughii</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Giant Pitcher's Abyss: Nepenthes attenboroughii" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide shot of a giant Nepenthes attenboroughii pitcher on Mount Victoria, Palawan, Philippines, dwarfing a human hand, glistening with dew, a small rodent silhouette visible near its treacherous peristome, mist clinging to the surrounding jungle foliage.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Scaling the mist-shrouded slopes of Mount Victoria in the Philippines, one might stumble upon a sight that belongs in a lost world: the giant Nepenthes attenboroughii. This isn't just a pitcher plant; it's a botanical behemoth, capable of trapping not only insects but also small rodents and lizards. Its massive, bell-shaped pitchers gape open like ornate chalices, their inner walls shimmering with a deadly allure.
 
@@ -242,9 +228,7 @@ The rim, or peristome, is a ribbed, extremely slippery structure, often adorned 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Cobra Lily's Labyrinth of Light: Darlingtonia californica</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Cobra Lily's Labyrinth of Light: Darlingtonia californica" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Dramatic, low-angle shot of a cluster of Cobra Lily (Darlingtonia californica) pitchers in a misty Northern California bog, showing their distinctive hooded 'heads' with translucent light windows, the 'tongues' swaying, sunlight dappling through.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the chilly, nutrient-poor bogs of the American West, a serpentine marvel rises from the wetlands: the Cobra Lily, Darlingtonia californica. Its striking, hooded leaves resemble a rearing cobra, complete with a forked, tongue-like appendage that dangles enticingly. But this isn't just mimicry; it's an elaborate, multi-stage trap, a botanical house of mirrors.
 
@@ -273,9 +257,7 @@ Insects, lured by nectar on the 'tongue,' crawl into the hooded 'head.' Once ins
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Bladderwort's Lightning Suction: Utricularia spp.</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Bladderwort's Lightning Suction: Utricularia spp." loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: High-speed macro photograph of an Utricularia bladder in action underwater, a tiny water flea caught mid-suction, the trapdoor just closing, creating a visible vortex of water, against a dark, murky background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden beneath the placid surface of ponds, lakes, and even damp soils worldwide, exists a predator of breathtaking speed and stealth: the Bladderwort, Utricularia. Without roots or true leaves, these aquatic or terrestrial plants boast the most complex and explosive active traps in the entire plant kingdom. Each plant is adorned with numerous tiny, hollow 'bladders,' equipped with a hair-triggered trapdoor.
 
@@ -304,9 +286,7 @@ These bladders maintain a negative internal pressure, a vacuum waiting to be unl
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Venus Flytrap's Primal Snap: Dionaea muscipula</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Venus Flytrap's Primal Snap: Dionaea muscipula" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Iconic, dramatic close-up of a Venus Flytrap (Dionaea muscipula) trap, vibrant green and crimson, jaws partially open, glistening dew, a fly struggling within the just-closed 'teeth,' against a blurred, misty Carolina bog backdrop, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">At the undisputed pinnacle of botanical predation stands the legend itself: the Venus Flytrap, Dionaea muscipula. Emerging from the nutrient-poor bogs of the Carolinas, this iconic plant embodies the raw, visceral drama of the hunt. Each of its jaw-like leaves, fringed with stiff 'teeth,' is a perfectly engineered bear trap, green and deceptively delicate.
 

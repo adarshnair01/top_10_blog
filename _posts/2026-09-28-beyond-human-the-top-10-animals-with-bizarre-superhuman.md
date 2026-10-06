@@ -25,9 +25,7 @@ In an age where science constantly pushes the boundaries of what we thought poss
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghost Hunters of the Deep: Elephant Fishes</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ghost Hunters of the Deep: Elephant Fishes" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic macro photography of an elephant fish gliding through dark, murky African river water, with a subtle electric blue glow outlining its tubular snout and body, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In the murky, tannin-stained waters of equatorial African rivers, visibility drops to near zero within inches. For the elephant fish (family Mormyridae), this liquid labyrinth is illuminated not by light, but by electricity. Using specialized electrocytes in their tails, they constantly emit a continuous, high-frequency electric field that envelops their entire bodies like an invisible force field.
 
@@ -56,9 +54,7 @@ When a crustacean or hiding insect larva disturbs this field, microscopic voltag
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Quantum Navigators: European Robins</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Quantum Navigators: European Robins" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up cinematic shot of a European robin perched on a frosty branch at dawn, with a faint, ethereal digital-style magnetic grid overlaid across its eye, highly detailed, dramatic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Every autumn, the unassuming European robin undertakes an epic, perilous journey across continents, navigating with a precision that puts commercial GPS to shame. But these feathered travelers do not look at stars or landmarks alone; they literally see the Earth's invisible magnetic field overlaid upon their visual world as a shimmering pattern of light and shadow.
 
@@ -87,9 +83,7 @@ Inside the robin's right eye lies a specialized protein called cryptochrome-4. W
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Subterranean Thermal Sweeper: Common Vampire Bats</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Subterranean Thermal Sweeper: Common Vampire Bats" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic infrared thermal image style photography of a vampire bat approaching a sleeping animal, glowing red and orange heat signatures highlighting blood vessels, dark moody jungle background.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Sleeping deep within humid limestone caves, the common vampire bat waits for the jungle to quiet before launching into the nocturnal hunt. Flying silently through the dark, they home in on their warm-blooded prey using specialized heat-sensing pits located on their nose-leafs. These infrared receptors allow them to 'see' the thermal topography of a sleeping animal's skin.
 
@@ -118,9 +112,7 @@ They can pinpoint the exact spot where a rush of blood flows closest to the surf
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Foot-Tasting Chemist: Red Admirals and Butterflies</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Foot-Tasting Chemist: Red Admirals and Butterflies" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Extreme macro photography of a colorful butterfly's feet resting on a dewy leaf, with glowing microscopic chemical receptors visible on the tarsus, vibrant colors, shallow depth of field.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">When a delicate Red Admiral butterfly flutters down onto a decaying piece of fruit or damp soil, it is not merely landing to rest—it is taking a deep, immersive gulp of flavor through its feet. Butterflies possess specialized chemoreceptors located on the tarsal segments of their legs, packed with thousands of tiny sensory hairs that instantly analyze chemical composition upon contact.
 
@@ -149,9 +141,7 @@ Before ever unfurling its proboscis to drink, the butterfly can evaluate the sug
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Seismic Echolocators: African Elephants</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Seismic Echolocators: African Elephants" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic wide-angle shot of a majestic African elephant herd walking across a dusty savanna at sunset, visible seismic shockwaves rippling through the cracked earth beneath their feet, golden hour lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Across the vast, sun-baked expanses of the African savanna, elephants communicate across miles of wilderness using voices so deep they are entirely inaudible to human ears. But their mastery of sound goes far beyond vocalization. Elephants 'hear' through the ground itself, utilizing an extraordinary seismosensory network housed in their feet.
 
@@ -180,9 +170,7 @@ Low-frequency rumbles travel through the earth as Rayleigh waves. These seismic 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ultimate Ocean Detectives: Great White Sharks</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ultimate Ocean Detectives: Great White Sharks" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Close-up cinematic underwater photography of a great white shark's snout, highlighting the translucent gel-filled pores of the Ampullae of Lorenzini glowing faintly, deep blue ocean backdrop.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Cruising through the deep blue with terrifying grace, the great white shark is an apex predator equipped with a sensory apparatus that borders on the supernatural. In addition to stellar vision and acute hearing, they possess the Ampullae of Lorenzini—gel-filled pores across their snouts that act as ultra-sensitive electroreceptors capable of detecting half a billionth of a volt.</div>
   <div class="fact-grid">
@@ -209,9 +197,7 @@ Low-frequency rumbles travel through the earth as Rayleigh waves. These seismic 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Underwater Sonar Masters: Bottlenose Dolphins</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Underwater Sonar Masters: Bottlenose Dolphins" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic underwater shot of a bottlenose dolphin emitting sonic waves visualized as shimmering rings of light heading toward a school of silver fish in crystal clear turquoise water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Plunging into the oceanic abyss requires more than sight; it demands echolocation of astonishing fidelity. Bottlenose dolphins emit rapid-fire bursts of high-frequency clicks through their melon—a specialized fatty organ on their forehead. These sound waves bounce off objects, fish, and ocean floors, returning to be absorbed through the fatty cavities of their lower jaw and routed straight to their inner ear.</div>
   <div class="fact-grid">
@@ -238,9 +224,7 @@ Low-frequency rumbles travel through the earth as Rayleigh waves. These seismic 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ultraviolet Night-Vision Specialists: Mantis Shrimps</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ultraviolet Night-Vision Specialists: Mantis Shrimps" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Vibrant, macro underwater photography of a peacock mantis shrimp peering out of its coral burrow, its multicolored stalked eyes shining with iridescent rainbow hues, ultra-detailed.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While human eyes possess three types of color receptors (red, green, and blue), the peacock mantis shrimp boasts an eye-watering sixteen distinct photoreceptor types. Their panoramic compound eyes can perceive ultraviolet, infrared, and polarized light in ways that defy human comprehension. They do not merely see color; they experience an alien sensory dimension.</div>
   <div class="fact-grid">
@@ -267,9 +251,7 @@ Low-frequency rumbles travel through the earth as Rayleigh waves. These seismic 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Infrared Aerial Snipers: Common Vampire-Like Pit Vipers</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Infrared Aerial Snipers: Common Vampire-Like Pit Vipers" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Cinematic dark forest photography of a pit viper poised to strike, its facial heat-pits glowing with intense crimson and gold infrared thermal energy, moody atmospheric lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Suspended motionless from a mossy branch, a pit viper waits in absolute darkness. Between its nostrils and eyes lie two deep facial pits containing a thin, highly vascularized membrane capable of detecting temperature fluctuations as minuscule as 0.003 degrees Celsius. When a warm-blooded rodent scurries past, the snake sees a vivid, glowing thermal video game projection of its prey.</div>
   <div class="fact-grid">
@@ -296,9 +278,7 @@ Low-frequency rumbles travel through the earth as Rayleigh waves. These seismic 
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ultimate Magnetic Titans: Humpback Whales</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ultimate Magnetic Titans: Humpback Whales" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: Epic cinematic drone shot of a massive humpback whale breaching out of deep blue ocean waves, with faint, glowing auroral magnetic lines arcing across the water surface around it, breathtaking scale.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Taking the crown for the most breathtaking superhuman sensory feat on Earth is the humble yet titanic humpback whale. Embarking on annual migrations stretching over 5,000 miles across trackless, featureless oceans, these gentle leviathans never lose their way. They navigate using magnetite crystals embedded in their cranial tissues and dura mater, acting as a living compass locked onto the Earth's geomagnetic field lines.</div>
   <div class="fact-grid">

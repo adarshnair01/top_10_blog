@@ -25,9 +25,7 @@ Step to the edge of the abyss and witness the Earth reinventing itself in real-t
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ghost Island of Nishinoshima's Expansion</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Ghost Island of Nishinoshima's Expansion" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An aerial cinematic shot of a dark volcanic island shaped like a boot, with stark black lava flows meeting deep turquoise blue ocean water, small plumes of white steam rising from the summit, photorealistic, 8k resolution.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Out in the vast, deep blue of the Pacific, the sea began to boil in late 2013, heralding the monstrous rebirth of Nishinoshima. What started as a modest puff of ash quickly escalated into a relentless subterranean artillery barrage, firing glowing blocks of molten rock hundreds of feet into the sky. Day and night, the restless caldera pumped out rivers of viscous lava that aggressively swallowed the surrounding ocean.
 
@@ -56,9 +54,7 @@ Within years, this newborn entity completely swallowed its older predecessor, mu
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ephemeral Dune of Ferdinandea</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ephemeral Dune of Ferdinandea" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A moody, dramatic overhead drone view of the Mediterranean Sea showing a massive swirling patch of turquoise sulfur water and brown pumice rafts over a submerged circular volcanic crater.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Long before digital satellites scanned the globe, the Mediterranean whispered tales of a phantom island that rose and vanished like a ghost. In late 2013, seismic rumblings beneath the Strait of Sicily hinted at the awakening of the infamous Empedocles seamount system. The sea shuddered, stained a brilliant, milky turquoise with sulfur and pumice, as underwater vents gasped for air.
 
@@ -87,9 +83,7 @@ Though a towering pillar of ash and loose tephra failed to permanently anchor it
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Smoking Spire of Kavachi</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Smoking Spire of Kavachi" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A cinematic underwater shot of an active hydrothermal volcanic vent bubbling with golden light, with silhouette sharks swimming in the distance through hazy turquoise water.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Kavachi is not just an underwater volcano; it is a legendary, fire-breathing leviathan lurking just beneath the wave-tops. Locally known as 'Reva shark' (Shark Volcano), Kavachi frequently shatters the surface of the Solomon Islands, hurling incandescent bombs of molten basalt and clouds of dark ash miles into the tropical air. 
 
@@ -118,9 +112,7 @@ When scientists sent autonomous underwater vehicles down to map its crater in th
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Ash Citadel of Hunga Tonga-Hunga Ha'apai</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Ash Citadel of Hunga Tonga-Hunga Ha'apai" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A high-altitude satellite image capturing a colossal umbrella-shaped volcanic ash cloud exploding from the deep blue Pacific Ocean, dramatic and apocalyptic.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">In late 2014 and early 2015, a cataclysmic underwater blast married two pre-existing Tongan islets with a soaring, black-sand bridge of tephra and ash. For years, scientists marveled at this improbable geological marriage, expecting the loose volcanic ash to erode within months. Instead, biological pioneers—plants carried by bird droppings and ocean currents—began weaving a vibrant green carpet over the stark black landscape.
 
@@ -149,9 +141,7 @@ Then, on January 15, 2022, the mountain underwent one of the most violent atmosp
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Basalt Bastion of Tajogaite</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Basalt Bastion of Tajogaite" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A wide-angle cinematic drone shot of a towering black volcanic cinder cone surrounded by vast, smoking fields of fresh dark lava flows reaching the sparkling blue ocean.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For eighty-five harrowing days in late 2021, the Cumbre Vieja ridge on the idyllic island of La Palma tore open, bleeding rivers of liquid fire down toward the Atlantic Ocean. When the earth finally fell silent, a brand-new volcanic cone named Tajogaite dominated the scarred landscape, and massive new promontories of pitch-black land had been welded onto the island's western coastline.
 
@@ -180,9 +170,7 @@ Walking across the newborn basalt fields of Tajogaite is akin to stepping onto a
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Sapphire Basin of Anak Krakatoa's Remnant</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Sapphire Basin of Anak Krakatoa's Remnant" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic long-exposure photograph of an active volcanic cone at night, spewing bright orange glowing lava bombs and arcs of lightning into a smoke-filled sky above a dark ocean.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Born in the shadow of its infamous parent—the 1883 cataclysmic destroyer Krakatoa—Anak Krakatoa ('Child of Krakatoa') spent decades growing rapidly out of the sea. By the late 2010s, it had blossomed into a towering, steep-sided volcanic cone that drew adventurous travelers from across the globe to witness its regular, rhythmic firework displays.
 
@@ -211,9 +199,7 @@ In December 2018, a catastrophic flank collapse triggered a devastating tsunami,
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Submarine Ridge of Metis Shoal</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Submarine Ridge of Metis Shoal" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A close-up shot of porous, grey pumice stones floating on crystal-clear blue ocean water, with a smoking volcanic horizon in the background, cinematic lighting.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Hidden along one of the most violent subduction zones on Earth, Metis Shoal is a geological shape-shifter that has repeatedly popped above the waves only to be beaten down by the ocean. Throughout the 2010s and early 2020s, seismic activity along the Tonga-Kermadec arc injected fresh magma into the shallow shoal, ballooning the underwater edifice toward the surface.
 
@@ -242,9 +228,7 @@ Composed primarily of dacitic and andesitic pumice, the ephemeral island forms p
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Deep-Sea Giant of Hoburgs Bank</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Deep-Sea Giant of Hoburgs Bank" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: An eerie underwater photograph of a deep-sea submersible's spotlight illuminating jagged, dark basalt rock formations covered in strange white bacterial mats on a cold ocean floor.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">While most modern volcanic islands emerge in fiery subduction zones like the Pacific Ring of Fire, unexpected rumbles occasionally shake the quiet, ancient cratons of Europe. In the mid-2010s, anomalous micro-seismic swarms and sudden thermal anomalies rattled the seabed around the Hoburgs Bank in the Baltic Sea, baffling marine geologists.
 Diver-led explorations and high-resolution sonar mapping revealed newly formed cryptodomes and fissure-fed basaltic mounds protruding from the ancient limestone floor. Though they have yet to breach the chilly Baltic surface, these newborn volcanic expressions challenge long-held assumptions about intraplate tectonic stability.</div>
@@ -272,9 +256,7 @@ Diver-led explorations and high-resolution sonar mapping revealed newly formed c
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Red Bastion of Hayli Gubbi</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" alt="The Red Bastion of Hayli Gubbi" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A dramatic drone landscape of a desolate desert salt flat in Africa with bright neon-yellow sulfur springs and a stark black volcanic basalt cone rising under a blazing sun.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">Where the African continent is literally splitting apart at the seams, the Afar Depression serves as one of the most hellish and awe-inspiring landscapes on Earth. In late 2011, the dormant shield volcano of Hayli Gubbi dramatically shattered its silence, splitting the desert crust with a ferocious curtain of fire that birthed fresh basaltic plateaus and towering spatter cones.
 
@@ -303,9 +285,7 @@ The newborn volcanic structures formed in this desolate salt basin are painted i
       <h3 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin-top: 4px;">The Wonder Island of Fagradalsfjall</h3>
     </div>
   </div>
-  <div class="post-img-box">
-    <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="The Wonder Island of Fagradalsfjall" loading="lazy" />
-    <div class="post-img-caption">📸 Concept Visual: A stunning, vibrant photograph of glowing orange lava fountains erupting from a symmetrical dark volcanic crater in Iceland, with tiny human figures watching from a safe ridge nearby at twilight.</div>
+  
   </div>
   <div style="font-size: 1rem; line-height: 1.7; color: var(--text-main); margin-bottom: 18px;">For over six millennia, the rolling green valleys of Fagradalsfjall lay fast asleep, luring hikers with mossy tranquility. Then, in March 2021, the earth tore wide open in a graceful, glowing fissure that signaled the beginning of a modern geological renaissance. Instead of an explosive, apocalyptic ash disaster, Fagradalsfjall gifted the world a gentle, bubbling tourist attraction: a sublime effusive eruption of liquid orange magma that built a magnificent, perfectly sculpted central crater.
 
