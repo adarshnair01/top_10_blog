@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Travel Logistics"
+title: "🚂 Travel Logistics"
 nav_order: 2
-description: "Practical guides and reports on Travel Logistics in India."
+description: "Practical guides and reports on 🚂 Travel Logistics in India."
 ---
 
 # 🚂 Travel Logistics
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **Travel Logistics**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **🚂 Travel Logistics**.
 
 ---
 
@@ -17,7 +17,7 @@ Explore in-depth practical guides, official rules, technical mechanics, and insi
 {% for post in category_posts %}
   {% assign is_match = false %}
   {% for cat in post.categories %}
-    {% if cat == 'Logistics' or cat == 'travel_logistics' or cat == 'Travel' %}
+    {% if cat == 'travel_logistics' or cat == 'Logistics' or cat == 'Travel' %}
       {% assign is_match = true %}
     {% endif %}
   {% endfor %}

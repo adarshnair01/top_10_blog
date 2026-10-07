@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "'What Happens If...?'"
+title: "🔮 "What Happens If...?""
 nav_order: 6
-description: "Practical guides and reports on 'What Happens If...?' in India."
+description: "Practical guides and reports on 🔮 "What Happens If...?" in India."
 ---
 
-# ⚡ 'What Happens If...?'
+# 🔮 "What Happens If...?"
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **'What Happens If...?'**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **🔮 "What Happens If...?"**.
 
 ---
 

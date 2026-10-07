@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Banking Problems"
+title: "🏦 Banking Problems"
 nav_order: 8
-description: "Practical guides and reports on Banking Problems in India."
+description: "Practical guides and reports on 🏦 Banking Problems in India."
 ---
 
 # 🏦 Banking Problems
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **Banking Problems**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **🏦 Banking Problems**.
 
 ---
 

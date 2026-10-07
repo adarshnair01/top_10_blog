@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Error Dictionary"
+title: "⚠️ Error Dictionary"
 nav_order: 11
-description: "Practical guides and reports on Error Dictionary in India."
+description: "Practical guides and reports on ⚠️ Error Dictionary in India."
 ---
 
-# 🔍 Error Dictionary
+# ⚠️ Error Dictionary
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **Error Dictionary**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **⚠️ Error Dictionary**.
 
 ---
 

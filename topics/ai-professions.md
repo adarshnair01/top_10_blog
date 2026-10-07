@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "AI for Professions"
+title: "🤖 AI for Professions"
 nav_order: 4
-description: "Practical guides and reports on AI for Professions in India."
+description: "Practical guides and reports on 🤖 AI for Professions in India."
 ---
 
 # 🤖 AI for Professions
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **AI for Professions**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **🤖 AI for Professions**.
 
 ---
 

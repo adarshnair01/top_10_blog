@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Credit Card Optimization"
+title: "💳 Credit Cards"
 nav_order: 9
-description: "Practical guides and reports on Credit Card Optimization in India."
+description: "Practical guides and reports on 💳 Credit Cards in India."
 ---
 
-# 💳 Credit Card Optimization
+# 💳 Credit Cards
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **Credit Card Optimization**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **💳 Credit Cards**.
 
 ---
 

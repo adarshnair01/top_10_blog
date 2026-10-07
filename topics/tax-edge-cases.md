@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Tax Edge Cases"
+title: "📊 Tax Edge Cases"
 nav_order: 10
-description: "Practical guides and reports on Tax Edge Cases in India."
+description: "Practical guides and reports on 📊 Tax Edge Cases in India."
 ---
 
 # 📊 Tax Edge Cases
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **Tax Edge Cases**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **📊 Tax Edge Cases**.
 
 ---
 

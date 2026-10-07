@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Indian 'Can I...?'"
+title: "❓ "Can I...?" Queries"
 nav_order: 5
-description: "Practical guides and reports on Indian 'Can I...?' in India."
+description: "Practical guides and reports on ❓ "Can I...?" Queries in India."
 ---
 
-# ❓ Indian 'Can I...?'
+# ❓ "Can I...?" Queries
 
-Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **Indian 'Can I...?'**.
+Explore in-depth practical guides, official rules, technical mechanics, and insider tips regarding **❓ "Can I...?" Queries**.
 
 ---
 
