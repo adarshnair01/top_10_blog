@@ -1,24 +1,19 @@
-title: "TOP 10 // Viral Story & Trend Journal"
+title: "Indian Travel Logistics"
 email: "adarshnair01@gmail.com"
-description: "Fact-checked, immersive storytelling top 10 countdown blogs on trending places, tech, gadgets, mysteries, space, and discoveries."
+description: "Fact-checked, text-based Top 10 logistics and transit navigation guides for traveling across India — train routes, flight hacks, mountain passes, Tatkal strategies, and coastal ferries."
 baseurl: ""
 url: "https://adarshnair.in"
 author: "Adarsh Nair"
 
-# Build settings
+# Jekyll Minima Theme
+theme: minima
 markdown: kramdown
-theme: null
+
 permalink: /posts/:year/:month/:day/:title/
 
-# SEO defaults
-seo:
-  twitter_card: "summary_large_image"
-  site_name: "TOP 10 Trend Journal"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Top 10 AI Storyteller"
+minima:
+  date_format: "%b %d, %Y"

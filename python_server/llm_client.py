@@ -15,7 +15,7 @@ class LLMClient:
     def __init__(self, api_url: str, api_key: str, model: str):
         self.api_url = api_url
         self.api_key = api_key
-        self.model = model
+        self.model = model or "gemini-2.5-flash"
 
     def call_llm(self, prompt: str, system_prompt: Optional[str] = None, max_tokens: int = 8192, max_retries: int = 4) -> str:
         """Calls Gemini / LLM endpoint with retry logic, backoff, and fallback models."""
@@ -23,25 +23,23 @@ class LLMClient:
         
         fallback_models = [
             "gemini-2.5-flash",
-            "gemini-3.5-flash-lite",
-            "gemini-1.5-flash"
+            "gemini-1.5-flash",
+            "gemini-2.0-flash-exp",
+            "gemini-1.5-pro"
         ]
 
         current_url = self.api_url
-        current_model = self.model
+        current_model = self.model if self.model in fallback_models else "gemini-2.5-flash"
 
         default_sys = system_prompt or (
-            "You are a master storyteller, investigative journalist, and viral content strategist. "
-            "Your writing is captivating, deeply immersive, creative, and rigorously fact-checked."
+            "You are an expert Indian travel logistics analyst, investigative journalist, and transit editor. "
+            "Your writing is clear, highly structured, practical, and rigorously fact-checked."
         )
 
         for attempt in range(max_retries):
             try:
                 if is_gemini:
-                    if "generativelanguage.googleapis.com" in current_url:
-                        url_with_key = f"https://generativelanguage.googleapis.com/v1beta/models/{current_model}:generateContent?key={self.api_key}"
-                    else:
-                        url_with_key = f"{current_url}?key={self.api_key}" if "?" not in current_url else f"{current_url}&key={self.api_key}"
+                    url_with_key = f"https://generativelanguage.googleapis.com/v1beta/models/{current_model}:generateContent?key={self.api_key}"
 
                     payload = {
                         "contents": [
@@ -52,7 +50,7 @@ class LLMClient:
                             }
                         ],
                         "generationConfig": {
-                            "temperature": 0.85,
+                            "temperature": 0.7,
                             "maxOutputTokens": max_tokens
                         }
                     }
@@ -65,23 +63,26 @@ class LLMClient:
                             {"role": "user", "content": prompt}
                         ],
                         "max_tokens": max_tokens,
-                        "temperature": 0.85
+                        "temperature": 0.7
                     }
 
-                # Execution via requests or urllib
                 if HAS_REQUESTS:
                     headers = {"Content-Type": "application/json"}
                     if not is_gemini:
                         headers["Authorization"] = f"Bearer {self.api_key}"
                     
                     response = requests.post(url_with_key, headers=headers, json=payload, timeout=120)
-                    if response.status_code == 429:
-                        print(f"⚠️ Rate limit 429 on model {current_model}. Failover to fallback...")
+                    if response.status_code in (403, 404, 429):
+                        print(f"⚠️ Status {response.status_code} on model {current_model}. Failing over to next fallback...")
                         if fallback_models:
-                            current_model = fallback_models.pop(0)
+                            # Pop model until we find a new one
+                            next_model = fallback_models.pop(0)
+                            if next_model == current_model and fallback_models:
+                                next_model = fallback_models.pop(0)
+                            current_model = next_model
                             time.sleep(2.0)
                             continue
-                        time.sleep(10.0)
+                        time.sleep(5.0)
                         continue
 
                     response.raise_for_status()
@@ -114,7 +115,9 @@ class LLMClient:
                     raise ValueError(f"Invalid API response format.")
 
             except Exception as e:
-                print(f"⚠️ Error calling LLM (attempt {attempt+1}/{max_retries}): {e}")
+                print(f"⚠️ Error calling LLM (attempt {attempt+1}/{max_retries}) on model {current_model}: {e}")
+                if fallback_models:
+                    current_model = fallback_models.pop(0)
                 if attempt < max_retries - 1:
                     time.sleep(3.0 * (attempt + 1))
                 else:
