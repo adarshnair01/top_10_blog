@@ -15,21 +15,21 @@ class LLMClient:
     def __init__(self, api_url: str, api_key: str, model: str):
         self.api_url = api_url
         self.api_key = api_key
-        self.model = model or "gemini-2.5-flash"
+        self.model = model or "gemini-3.8-flash"
 
     def call_llm(self, prompt: str, system_prompt: Optional[str] = None, max_tokens: int = 8192, max_retries: int = 4) -> str:
         """Calls Gemini / LLM endpoint with retry logic, backoff, and fallback models."""
-        is_gemini = "generativelanguage" in self.api_url or "key=" in self.api_url or self.api_key.startswith("AIza")
+        is_gemini = "generativelanguage" in self.api_url or "key=" in self.api_url or self.api_key.startswith("AIza") or self.api_key.startswith("AQ.")
         
         fallback_models = [
+            "gemini-3.8-flash",
             "gemini-2.5-flash",
             "gemini-1.5-flash",
-            "gemini-2.0-flash-exp",
-            "gemini-1.5-pro"
+            "gemini-2.0-flash-exp"
         ]
 
         current_url = self.api_url
-        current_model = self.model if self.model in fallback_models else "gemini-2.5-flash"
+        current_model = self.model if self.model in fallback_models else "gemini-3.8-flash"
 
         default_sys = system_prompt or (
             "You are an expert Indian travel logistics analyst, investigative journalist, and transit editor. "
@@ -75,7 +75,6 @@ class LLMClient:
                     if response.status_code in (403, 404, 429):
                         print(f"⚠️ Status {response.status_code} on model {current_model}. Failing over to next fallback...")
                         if fallback_models:
-                            # Pop model until we find a new one
                             next_model = fallback_models.pop(0)
                             if next_model == current_model and fallback_models:
                                 next_model = fallback_models.pop(0)

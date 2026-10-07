@@ -30,9 +30,9 @@ if os.path.exists(ENV_PATH_SERVER):
     load_env_file(ENV_PATH_SERVER)
 
 CONFIG = {
-    "llm_api_url": os.getenv("LLM_API_URL", "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"),
+    "llm_api_url": os.getenv("LLM_API_URL", "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent"),
     "llm_api_key": os.getenv("GEMINI_API_KEY", os.getenv("LLM_API_KEY", "")),
-    "llm_model": os.getenv("LLM_MODEL", "gemini-2.5-flash"),
+    "llm_model": os.getenv("LLM_MODEL", "gemini-3.8-flash"),
     "unsplash_access_key": os.getenv("UNSPLASH_ACCESS_KEY", ""),
     "drafts_dir": os.path.join(BASE_DIR, "drafts"),
     "posts_dir": os.path.join(BASE_DIR, "published_posts")
