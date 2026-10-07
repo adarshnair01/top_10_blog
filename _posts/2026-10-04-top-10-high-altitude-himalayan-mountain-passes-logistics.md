@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 High-Altitude Himalayan Mountain Passes & Seasonal Road Closure Logistics"
 date: 2026-10-04
 categories: [Logistics]

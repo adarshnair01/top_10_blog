@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 Vande Bharat Express Routes Ranked by Speed, Comfort & Transit Logistics"
 date: 2026-10-03
 categories: [Logistics]

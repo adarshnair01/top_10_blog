@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 Multi-Modal Transit Corridors to Remote Indian Destinations"
 date: 2026-10-06
 categories: [Logistics]

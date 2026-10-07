@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 IRCTC Tatkal Hacks & Railway Station Transit Logistics in India"
 date: 2026-10-05
 categories: [Logistics]

@@ -5,15 +5,18 @@ baseurl: ""
 url: "https://adarshnair.in"
 author: "Adarsh Nair"
 
-# Jekyll Minima Theme
-theme: minima
+# Theme Configuration: Just the Docs
+theme: "just-the-docs"
 markdown: kramdown
 
 permalink: /posts/:year/:month/:day/:title/
 
+# Just the Docs specific settings
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+enable_copy_code_button: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-minima:
-  date_format: "%b %d, %Y"

@@ -115,7 +115,7 @@ Strictly follow this JSON structure:
         }
 
     def format_as_jekyll_markdown(self, post: Dict[str, Any]) -> str:
-        """Converts structured Top 10 post to clean, text-only Markdown for Jekyll Minima theme."""
+        """Converts structured Top 10 post to clean, text-only Markdown for Just the Docs theme."""
         blog = post.get("blog", {})
         title = blog.get("title", "Top 10 Indian Travel Logistics Guides")
         intro = blog.get("introduction", "")
@@ -127,7 +127,8 @@ Strictly follow this JSON structure:
         
         md_lines = [
             "---",
-            "layout: post",
+            "layout: default",
+            "nav_exclude: true",
             f'title: "{title}"',
             f'date: {date_str}',
             f'categories: [{category}]',
@@ -140,7 +141,7 @@ Strictly follow this JSON structure:
             ""
         ]
 
-        # Countdown items from 10 down to 1 (Text-only, formatted for Minima theme)
+        # Countdown items from 10 down to 1 (Text-only, formatted for Just the Docs theme)
         for item in items:
             rank = item.get("rank")
             item_title = item.get("title", "")

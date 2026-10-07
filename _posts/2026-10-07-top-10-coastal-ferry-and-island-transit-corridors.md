@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 Coastal Ferry & Island Transit Corridors in India"
 date: 2026-10-07
 categories: [Logistics]
