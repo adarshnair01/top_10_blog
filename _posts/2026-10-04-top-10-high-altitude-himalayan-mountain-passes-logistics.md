@@ -7,9 +7,11 @@ categories: [Logistics]
 author: "Adarsh Nair"
 ---
 
+Navigating high-altitude mountain passes across the Indian Himalayas requires far more than basic driving skills—it demands meticulous logistics management. Spanning elevations from 10,000 to over 19,000 feet, these strategic corridors are maintained by the Border Roads Organisation (BRO) under Project Himank, Beacon, and Deepak.
+
 ![Himalayan Mountain Pass](https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=1200&q=80)
 
-Navigating high-altitude mountain passes across the Indian Himalayas requires far more than basic driving skills—it demands meticulous logistics management. Spanning elevations from 10,000 to over 19,000 feet, these strategic corridors are maintained by the Border Roads Organisation (BRO) under Project Himank, Beacon, and Deepak. Operating across severe weather windows, extreme temperature drops, oxygen-deprived environments, and unpredictable landslide zones, overland travel through these passes dictates strict permit compliance, vehicle prep, and altitude safety protocols.
+Operating across severe weather windows, extreme temperature drops, oxygen-deprived environments, and unpredictable landslide zones, overland travel through these passes dictates strict permit compliance, vehicle prep, and altitude safety protocols.
 
 ---
 

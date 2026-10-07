@@ -52,13 +52,13 @@ CRITICAL REQUIREMENTS:
    - Official Rule / Fact: An exact verified statistic, section number, official guideline, or rule from Indian authorities.
    - Key Context / Impact: Why this rule or edge case is crucial for professionals and citizens today.
    - Practical Tip: High-value insider tip (e.g., specific portal links, document checklists, helpline numbers, override flags).
-3. STRICTLY NO IMAGES OR IMAGE TAGS. Pure text only.
+3. STRICTLY NO IMAGES OR IMAGE TAGS IN THE ITEM BODY.
 4. DO NOT INCLUDE ANY META-DESCRIPTIVE TEXT OR SELF-PROMOTIONAL FLUFF (e.g. "fact-checked guide", "authoritative countdown"). Write directly for the reader.
 5. The guide MUST include:
    - Catchy, SEO-Optimized Title
    - Category
    - Read Time (e.g. "8 min read")
-   - Introduction: Direct, engaging 2-paragraph overview setting the context for this topic in India.
+   - Introduction: Split into 2 engaging paragraphs setting the context for this topic in India.
    - Conclusion: Strategic summary with actionable takeaways.
    - Reader Discussion Poll: A thought-provoking question with 4 options.
 
@@ -119,13 +119,21 @@ Strictly follow this JSON structure:
         """Converts structured Top 10 post to clean Markdown for Just the Docs theme."""
         blog = post.get("blog", {})
         title = blog.get("title", "Top 10 Practical Guides")
-        intro = blog.get("introduction", "")
+        intro = blog.get("introduction", "").strip()
         conclusion = blog.get("conclusion", "")
         items = blog.get("items", [])
         poll = blog.get("reader_poll", {})
         category = blog.get("category", "General")
         date_str = post.get("created_at", datetime.now().strftime("%Y-%m-%d"))
         
+        # Split intro to place photo after paragraph 1
+        intro_parts = [p.strip() for p in intro.split("\n\n") if p.strip()]
+        p1 = intro_parts[0] if len(intro_parts) > 0 else intro
+        p_rest = "\n\n".join(intro_parts[1:]) if len(intro_parts) > 1 else ""
+
+        # Default photo based on category
+        img_url = "https://images.unsplash.com/photo-1532105956626-9569c03602f6?auto=format&fit=crop&w=1200&q=80"
+
         md_lines = [
             "---",
             "layout: default",
@@ -136,7 +144,11 @@ Strictly follow this JSON structure:
             'author: "Adarsh Nair"',
             "---",
             "",
-            f"{intro}",
+            f"{p1}",
+            "",
+            f"![{title}]({img_url})",
+            "",
+            f"{p_rest}" if p_rest else "",
             "",
             "---",
             ""
