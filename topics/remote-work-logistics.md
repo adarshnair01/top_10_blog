@@ -22,7 +22,7 @@ Explore in-depth practical guides, official rules, technical mechanics, and insi
     {% endif %}
   {% endfor %}
   {% if is_match %}
-- **[{ post.title }]({{ post.url | relative_url }})** — *{{ post.date | date: "%B %d, %Y" }}*
+- [{{ post.title }}]({{ post.url | relative_url }})
   {% endif %}
 {% else %}
 *No published guides in this category yet. New practical editions published weekly.*

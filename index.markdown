@@ -40,7 +40,7 @@ permalink: /
   .magazine-hero-title a:hover {
     color: #2563eb;
   }
-  .magazine-hero-date {
+  .magazine-hero-author {
     font-size: 0.85rem;
     color: #64748b;
     margin-bottom: 14px;
@@ -89,7 +89,7 @@ permalink: /
     font-size: 1.15rem;
     font-weight: 700;
     line-height: 1.4;
-    margin: 0 0 10px 0;
+    margin: 0;
   }
   .magazine-card-title a {
     color: #0f172a;
@@ -97,10 +97,6 @@ permalink: /
   }
   .magazine-card-title a:hover {
     color: #2563eb;
-  }
-  .magazine-card-date {
-    font-size: 0.8rem;
-    color: #94a3b8;
   }
 </style>
 
@@ -117,8 +113,8 @@ Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cas
   <h2 class="magazine-hero-title">
     <a href="{{ hero_post.url | relative_url }}">{{ hero_post.title }}</a>
   </h2>
-  <div class="magazine-hero-date">
-    Published on {{ hero_post.date | date: "%B %d, %Y" }} • By {{ hero_post.author | default: "Adarsh Nair" }}
+  <div class="magazine-hero-author">
+    By {{ hero_post.author | default: "Adarsh Nair" }}
   </div>
   <a href="{{ hero_post.url | relative_url }}" class="magazine-hero-cta">Read Full Playbook &rarr;</a>
 </div>
@@ -134,9 +130,6 @@ Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cas
       <h3 class="magazine-card-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h3>
-    </div>
-    <div class="magazine-card-date">
-      {{ post.date | date: "%b %d, %Y" }}
     </div>
   </div>
   {% endfor %}

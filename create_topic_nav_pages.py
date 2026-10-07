@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Creates 13 Topic Navigation pages for Just the Docs left sidebar menubar.
+Fixes Liquid syntax in 13 Topic Navigation pages for Just the Docs.
+Removes dates as requested.
 """
 
 import os
@@ -104,7 +105,9 @@ topic_pages = [
 
 for topic in topic_pages:
     filepath = os.path.join(topics_dir, topic["filename"])
-    match_conditions = " or ".join([f"post.categories contains '{m}'" for m in topic["category_matches"]])
+    
+    # Liquid OR condition
+    or_condition = " or ".join([f"cat == '{m}'" for m in topic['category_matches']])
     
     content = f"""---
 layout: default
@@ -125,12 +128,12 @@ Explore in-depth practical guides, official rules, technical mechanics, and insi
 {{% for post in category_posts %}}
   {{% assign is_match = false %}}
   {{% for cat in post.categories %}}
-    {{% if { " || ".join([f"cat == '{m}'" for m in topic['category_matches']]) } %}}
+    {{% if {or_condition} %}}
       {{% assign is_match = true %}}
     {{% endif %}}
   {{% endfor %}}
   {{% if is_match %}}
-- **[{{ post.title }}]({{{{ post.url | relative_url }}}})** — *{{{{ post.date | date: "%B %d, %Y" }}}}*
+- [{{{{ post.title }}}}]({{{{ post.url | relative_url }}}})
   {{% endif %}}
 {{% else %}}
 *No published guides in this category yet. New practical editions published weekly.*
@@ -138,6 +141,6 @@ Explore in-depth practical guides, official rules, technical mechanics, and insi
 """
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content.strip() + "\n")
-    print(f"✅ Created topic nav page: {topic['filename']}")
+    print(f"✅ Fixed topic page: {topic['filename']}")
 
-print("\n🎉 All 13 topic menubar navigation pages generated successfully!")
+print("\n🎉 All 13 topic navigation pages fixed with clean Liquid titles and no dates!")
