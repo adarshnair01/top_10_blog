@@ -52,12 +52,12 @@ CRITICAL REQUIREMENTS:
    - Why Trending: The key reason why this route or logistics strategy is crucial for travelers today.
    - Pro Tip or Secret: A high-value insider tip (e.g., platform numbers, booking windows, preferred coaches, weather windows, luggage storage).
 3. STRICTLY NO IMAGES OR IMAGE TAGS. Pure text only.
-4. The blog MUST include:
+4. DO NOT INCLUDE ANY META-DESCRIPTIVE TEXT OR SELF-PROMOTIONAL FLUFF (e.g. "fact-checked text-based guide", "authoritative countdown", etc.). Write directly for the reader.
+5. The blog MUST include:
    - Catchy, SEO-Optimized Title
-   - Subtitle
    - Category
    - Read Time (e.g. "8 min read")
-   - Introduction: Thorough 2-paragraph overview explaining why logistics management matters for this specific topic in India.
+   - Introduction: Direct, engaging 2-paragraph overview explaining why logistics management matters for this specific topic in India.
    - Conclusion: Strategic summary with actionable takeaways for travelers navigating India.
    - Reader Poll: A thought-provoking question with 4 options.
 
@@ -66,7 +66,6 @@ YOU MUST RETURN STRICT VALID JSON ONLY. DO NOT INCLUDE ANY MARKDOWN WRAPPERS OR 
 Strictly follow this JSON structure:
 {{
   "title": "...",
-  "subtitle": "...",
   "category": "{category}",
   "read_time": "8 min read",
   "introduction": "...",
@@ -119,7 +118,6 @@ Strictly follow this JSON structure:
         """Converts structured Top 10 post to clean, text-only Markdown for Jekyll Minima theme."""
         blog = post.get("blog", {})
         title = blog.get("title", "Top 10 Indian Travel Logistics Guides")
-        subtitle = blog.get("subtitle", "")
         intro = blog.get("introduction", "")
         conclusion = blog.get("conclusion", "")
         items = blog.get("items", [])
@@ -136,9 +134,7 @@ Strictly follow this JSON structure:
             'author: "Adarsh Nair"',
             "---",
             "",
-            f"**{subtitle}**" if subtitle else "",
-            "",
-            f"> **Editorial Logistics Prologue**: {intro}",
+            f"{intro}",
             "",
             "---",
             ""
@@ -163,25 +159,25 @@ Strictly follow this JSON structure:
             md_lines.append(story)
             md_lines.append("")
             
-            # Markdown blockquote callouts for Minima theme
+            # Clean Markdown blockquote callouts
             if fact:
-                md_lines.append(f"> 🛡️ **Verified Transit Fact:** {fact}")
+                md_lines.append(f"> **Transit Fact:** {fact}")
             if trending:
-                md_lines.append(f"> 🔥 **Why It Matters Today:** {trending}")
+                md_lines.append(f"> **Key Context:** {trending}")
             if secret:
-                md_lines.append(f"> 💡 **Insider Logistics Tip:** {secret}")
+                md_lines.append(f"> **Logistics Tip:** {secret}")
             
             md_lines.append("")
             md_lines.append("---")
             md_lines.append("")
 
-        md_lines.append("## Key Takeaways & Strategic Summary")
+        md_lines.append("## Summary")
         md_lines.append("")
         md_lines.append(conclusion)
         md_lines.append("")
 
         if poll and poll.get("question"):
-            md_lines.append("### 🗣️ Interactive Reader Discussion")
+            md_lines.append("### Interactive Reader Discussion")
             md_lines.append("")
             md_lines.append(f"**{poll.get('question')}**")
             md_lines.append("")
