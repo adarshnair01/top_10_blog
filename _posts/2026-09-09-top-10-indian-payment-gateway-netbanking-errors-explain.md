@@ -16,122 +16,122 @@ E-commerce transactions and bill payments frequently fail due to payment gateway
 
 Resolving payment errors requires understanding merchant webhook retries, card network authentication protocols, and refund reconciliation cycles.
 
-## 10. Indian Strategy 10
+## 10. Razorpay / PayU Error 'BAD_REQUEST_ERROR / Transaction Timed Out'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Cause: Session Expiry / Slow Network | Action: Clear Browser Storage & Retry
 
-Detailed practical breakdown of indian operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Occurs when checkout modal loses connection to gateway server.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Do not refresh page while 3D Secure OTP screen is processing.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Switch from Wi-Fi to 5G mobile hotspot if latency exceeds 200ms.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Check bank SMS before initiating duplicate payment.
 
-## 9. Indian Strategy 9
+## 9. SBI Netbanking Error 'Mandatory Fields Missing / Invalid Session Token'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Cause: Stale Session Cookies | Fix: Clear SBI Site Cookies / Restart Browser
 
-Detailed practical breakdown of indian operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+SBI Online netbanking drops session state during multi-step transfers.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Disable browser auto-fill extensions on netbanking login page.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Use Edge or Chrome in Private Window mode.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Log out completely before opening new transaction tabs.
 
-## 8. Indian Strategy 8
+## 8. HDFC Netbanking Error 'Customer ID Blocked / Invalid Credentials'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Cause: 3 Failed Password Attempts | Fix: Forgot Customer ID / IPIN Reset
 
-Detailed practical breakdown of indian operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Entering wrong IPIN 3 times locks netbanking for 24 hours.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Reset IPIN online instantly using debit card number and ATM PIN.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Ensure mobile number receives OTP for authorization.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Unlocks access without visiting physical branch.
 
-## 7. Indian Strategy 7
+## 7. ICICI iMobile Error 'Device Binding Failed / Mobile Number Mismatch'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Cause: Dual SIM Slot Switch | Fix: Move Registered SIM to Slot 1
 
-Detailed practical breakdown of indian operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+iMobile app checks hardware binding against registered SIM slot.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Ensure registered mobile number SIM is placed in primary SIM Slot 1.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Turn off Wi-Fi during initial SMS verification setup.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Grant SMS permissions to iMobile app in Android settings.
 
-## 6. Indian Strategy 6
+## 6. Payment Gateway Error '3D Secure Authentication Failed / Invalid OTP'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Cause: Telecom OTP Delay / Network Jitter | Fix: Resend OTP via Voice Call
 
-Detailed practical breakdown of indian operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Bank fails to deliver SMS OTP within 120-second gateway window.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Click 'Resend OTP via Voice Call' option if SMS is delayed.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Check if SMS inbox is full or spam filter blocked bank shortcode.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensure international roaming is enabled if transacting abroad.
 
-## 5. Indian Strategy 5
+## 5. Razorpay Error 'PAYMENT_FAILED / Bank Issuer Decline'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Cause: Daily Card Limit Exceeded / International Usage Disabled | Action: Card App Setting
 
-Detailed practical breakdown of indian operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Card issuer declines charge due to security limit or disabled channel.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Open card mobile app and verify Online / E-commerce usage toggle is ON.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Increase daily transaction limit on card settings dashboard.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Try alternative RuPay or Visa card.
 
-## 4. Indian Strategy 4
+## 4. Paytm Gateway Error 'Vault Token Expired / Saved Card Failed'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Cause: RBI Card Tokenization Expiry | Action: Delete & Re-save Card Token
 
-Detailed practical breakdown of indian operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Saved credit/debit card token fails during checkout verification.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Delete saved card from merchant checkout screen.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Re-enter 16-digit card number, expiry, and CVV to generate fresh token.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Complies with RBI mandatory tokenization framework.
 
-## 3. Indian Strategy 3
+## 3. Axis Bank Netbanking Error 'ERR_CONNECTION_RESET / SSL Handshake Failed'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Cause: TLS Protocol Mismatch | Fix: Update Browser / Disable Antivirus Inspection
 
-Detailed practical breakdown of indian operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Antivirus software SSL inspection interferes with bank encryption.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Temporarily pause third-party antivirus web shield during payment.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Ensure browser supports TLS 1.3 encryption protocol.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Clear SSL State in Windows Internet Properties.
 
-## 2. Indian Strategy 2
+## 2. BillDesk Error 'Transaction Under Processing / Status Awaited'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Cause: Interbank Settlement Delay | Action: Wait 24 Hours for Reconciliation
 
-Detailed practical breakdown of indian operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Payment status remains ambiguous after money is debited from bank.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Merchant receives webhook update within 2 hours.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Do not re-pay bill immediately; check status on merchant portal.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Refund automatically triggered if transaction fails reconciliation.
 
-## 1. Indian Strategy 1
+## 1. UPI Gateway Error 'Transaction Amount Exceeds Merchant Limit'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Cause: Merchant VPA Tier Limit | Action: Use Netbanking / Debit Card
 
-Detailed practical breakdown of indian operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Small QR merchants cannot accept single UPI payments exceeding ₹20,000.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Use netbanking or credit card for high-value purchases.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Split billing across multiple merchant QR handles if allowed.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensures compliance with NPCI merchant category limits.

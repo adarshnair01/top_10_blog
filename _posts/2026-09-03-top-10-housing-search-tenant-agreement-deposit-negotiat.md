@@ -16,122 +16,122 @@ Renting residential property in Indian metros like Bengaluru, Mumbai, and Gurgao
 
 Securing rental property requires understanding registered leave and license agreements, lock-in period clauses, deposit refund terms, and RWA guidelines.
 
-## 10. Housing Strategy 10
+## 10. Negotiating Rental Security Deposits in Bengaluru vs Mumbai vs Gurgaon
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Deposit Standard: Bengaluru (5-10 Months) | Mumbai (3-6 Months) | Gurgaon (2 Months)
 
-Detailed practical breakdown of housing operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Bengaluru landlords traditionally demand 6-10 months rent as security deposit; negotiate down to 3-4 months.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Gurgaon and Delhi NCR standard deposit is 2 months rent.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Include explicit deposit refund timeline (max 30 days) in agreement.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Deduct final month rent from deposit if landlord resists returning cash.
 
-## 9. Housing Strategy 9
+## 9. Drafting & Registering Leave and License Agreements
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Framework: Registration Act | Mandate: Mandatory Registration in Maharashtra | Cost: 0.25% Stamp Duty
 
-Detailed practical breakdown of housing operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Always execute formal Leave and License Agreement registered at Sub-Registrar office.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Notarized agreements carry low legal weight compared to registered agreements.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Registration mandatory in Maharashtra; highly recommended in all states.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensures legal tenant protection against arbitrary eviction.
 
-## 8. Housing Strategy 8
+## 8. Navigating Lock-In Periods & Early Termination Notice Clauses
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Standard Lock-in: 6 to 11 Months | Notice Period: 1 to 2 Months | Penalty: Forfeiture of Deposit
 
-Detailed practical breakdown of housing operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Lock-in clause legally binds tenant and landlord to minimum stay period.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Terminating lease during lock-in period obligates paying rent for remaining lock-in months.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Ensure agreement includes diplomatic / job transfer exit exception clause.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Standard notice period after lock-in is 1 to 2 months.
 
-## 7. Housing Strategy 7
+## 7. Understanding Maintenance Charges & Municipal Property Tax Liabilities
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Rule: Landlord pays Property Tax | Maintenance: Fixed vs Per Sq Ft | BBPS Payment
 
-Detailed practical breakdown of housing operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Landlord is legally responsible for paying annual municipal property tax.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Tenant pays monthly society maintenance fee unless agreement specifies 'inclusive'.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Verify if society maintenance includes GST (applies if maintenance > ₹7,500/mo).
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Clarify who pays major structural repair costs versus minor maintenance.
 
-## 6. Housing Strategy 6
+## 6. Verifying Landlord Title Ownership & Encumbrance before Paying Advance
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Document: Sale Deed / Khata / Property Tax Receipt | Check: Title Verification | Risk: Sub-let Fraud
 
-Detailed practical breakdown of housing operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Inspect landlord's original sale deed and latest property tax receipt.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Prevents paying security deposit to sub-tenants or unauthorized brokers.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Ensure bank account for rent transfer matches title deed owner name.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Never pay token advance without verifying owner identity proof.
 
-## 5. Housing Strategy 5
+## 5. RWA (Resident Welfare Association) Tenant Onboarding & Move-In Fees
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** RWA Charges: Move-in / Move-out Fee | Rule: Capped by High Court Rulings | Move-In Pass
 
-Detailed practical breakdown of housing operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Housing societies levy move-in/move-out fees for elevator and common area use.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** RWA cannot charge exorbitant discriminatory fees to tenants versus owners.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Obtain tenant move-in NOC pass from RWA manager prior to shift date.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Check society rules regarding pet ownership and visitor parking.
 
-## 4. Housing Strategy 4
+## 4. Negotiating Brokerage Fees & Direct Owner Portals (NoBroker / MagicBricks)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Standard Brokerage: 1 Month Rent | Direct Portals: NoBroker / Housing | Savings: Full Month Rent
 
-Detailed practical breakdown of housing operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Standard broker commission is 1 month rent; negotiate down to 15 days for multi-year leases.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Use direct owner portals (NoBroker, MagicBricks Premium) to eliminate brokers.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Ensure broker provides written receipt specifying scope of service.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Broker fee payable ONLY after registered agreement execution and key handover.
 
-## 3. Housing Strategy 3
+## 3. Painting & Wear-and-Tear Deposit Deduction Clauses
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Standard Deduction: 1 Month Rent for Painting | Rule: Fair Wear & Tear Excluded | Inspection
 
-Detailed practical breakdown of housing operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Landlords often deduct 1 month rent for painting upon move-out.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Specify in agreement that painting deduction applies ONLY if stay is under 2 years.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Fair wear and tear (faded wall paint, minor floor scratches) cannot be penalized.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Take full video walkthrough of flat on move-in day to document existing defects.
 
-## 2. Housing Strategy 2
+## 2. Commercial Utility Tariff Conversion & Power Backup Metering
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Tariff: Residential vs Commercial | Sub-Meter: DG Backup Charges | Rate: ₹15-25 / Unit
 
-Detailed practical breakdown of housing operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Ensure electricity connection is on residential tariff (not commercial).
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** DG power backup electricity in gated societies is metered separately at higher rates (₹15-25/unit).
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Clear all pending electricity and piped gas bills of previous tenant before moving in.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Note initial electricity meter reading on agreement commencement date.
 
-## 1. Housing Strategy 1
+## 1. Obtaining Landlord NOC & Property Tax Receipt for HRA Tax Exemption
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Requirement: Landlord PAN (if rent > ₹1 Lakh/yr) | Form: Form 12BB | Benefit: HRA Tax Deduction
 
-Detailed practical breakdown of housing operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Employers require landlord's PAN card to grant HRA tax exemption for rent > ₹1L/year.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** If landlord has no PAN, obtain signed Form 60 declaration from landlord.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Ensure rental agreement lists full employee name as primary tenant.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pay rent via bank transfer / UPI to maintain digital audit trail for IT return.

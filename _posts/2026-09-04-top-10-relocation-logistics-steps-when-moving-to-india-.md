@@ -16,122 +16,122 @@ Relocating to India as a returning NRI or expat involves container shipping logi
 
 Managing international relocation requires executing Transfer of Residence (TR) rules, shipping personal effects duty-free, and updating NRI banking status.
 
-## 10. Relocation Strategy 10
+## 10. Executing Transfer of Residence (TR) Rules for Duty-Free Baggage Clearance
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Rule: Customs Baggage Rules Rule 6 | Requirement: 2 Years Overseas Stay | Benefit: Duty-Free Personal Effects
 
-Detailed practical breakdown of relocation operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Returning NRIs living abroad for 2+ years can ship household goods duty-free.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Covers used furniture, books, clothing, and personal appliances.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Customs allows container arrival within 1 month before or 2 months after NRI arrival.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit copy of passport with foreign entry/exit stamps to customs broker.
 
-## 9. Relocation Strategy 9
+## 9. Shipping Household Goods & Container Cargo Logistics (FCL vs LCL)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Container: 20ft / 40ft FCL | LCL: Shared Shipping | Timeline: 45-60 Days Transit
 
-Detailed practical breakdown of relocation operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Choose Full Container Load (FCL) for full home relocation; LCL for smaller loads.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Book international movers offering door-to-door customs clearance.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Ensure detailed inventory list with serial numbers is prepared for customs.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Take comprehensive marine cargo transit insurance covering door-to-door damage.
 
-## 8. Relocation Strategy 8
+## 8. Converting Overseas Driving License to Indian Driving License
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Authority: Regional RTO | Process: Exemption from Driving Test (Select Countries) | Requirement: DL Verification
 
-Detailed practical breakdown of relocation operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Some state RTOs issue Indian DL based on valid foreign license without driving test.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Requires notarized copy of foreign DL, embassy verification, and medical Form 1A.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Must pass basic online RTO traffic sign computer test.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply on Parivahan portal under 'Direct DL for Foreign License Holder'.
 
-## 7. Relocation Strategy 7
+## 7. Redesignating Resident Bank Accounts to NRE/NRO Accounts
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Mandate: FEMA Regulations | Timeline: Within 3 Months of Return | Action: Bank Status Update
 
-Detailed practical breakdown of relocation operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Notify Indian banks within 3 months of returning permanently to India.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Re-designate existing resident savings accounts to NRO accounts.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** NRE accounts can be retained or converted to RFC (Resident Foreign Currency) accounts.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** RFC accounts allow holding foreign currency (USD/GBP/EUR) tax-free in India.
 
-## 6. Relocation Strategy 6
+## 6. Customs Duty Rules on Bringing Used Electronics & Appliances
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Concession: Concessional Duty Tiers | Exemption: 1 Laptop Duty-Free | Appliance Cap: ₹5 Lakhs
 
-Detailed practical breakdown of relocation operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+One used laptop per passenger imported duty-free regardless of age.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Used television sets attract flat 38.5% customs duty without basic exemption.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Used home appliances (fridge, washing machine) imported under TR concessional duty slabs.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Declare all electronics in Customs Baggage Declaration form upon arrival.
 
-## 5. Relocation Strategy 5
+## 5. Planning Foreign Asset Disclosures & RNOR Tax Status
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Status: Resident but Not Ordinarily Resident | Duration: 2 to 3 Financial Years | Benefit: Foreign Income Tax-Free
 
-Detailed practical breakdown of relocation operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Returning NRIs enjoy RNOR tax status for 2-3 years after returning.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Global foreign income remains tax-free in India during RNOR period.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Liquidate foreign stocks and offshore assets tax-free while in RNOR status.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Consult Indian cross-border CA before transferring overseas investment portfolios.
 
-## 4. Relocation Strategy 4
+## 4. Shipping Pets (Dogs/Cats) to India under Directorate General of Foreign Trade (DGFT)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Permit: DGFT Import License | Requirement: No Objection Certificate (AQCS) | Cap: 2 Pets per Passenger
 
-Detailed practical breakdown of relocation operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Importing pets requires DGFT import license and AQCS NOC 7 days prior to travel.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Pets must have valid rabies vaccination and microchip ID.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Mandatory 14-day home quarantine required upon arrival in India.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Engage certified pet relocation agency to handle airline and AQCS paperwork.
 
-## 3. Relocation Strategy 3
+## 3. Setting Up Local Mobile Connectivity & e-SIM Activation
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Provider: Jio / Airtel 5G | Requirement: Passport + OCI/Visa + Local Reference | Activation: 2 Hours
 
-Detailed practical breakdown of relocation operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Foreign passport holders and OCI cardholders can get prepaid/postpaid Indian SIM.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Requires physical passport verification and local reference contact details at store.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** e-SIM activation takes 2 hours after QR code scanning.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Select postpaid plan for uninterrupted banking OTP delivery.
 
-## 2. Relocation Strategy 2
+## 2. Opening Resident Demat & Trading Accounts for Stock Portfolio Transfers
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Process: NRI to Resident Demat Conversion | Authority: SEBI / NSDL / CDSL | Action: Broker Intimation
 
-Detailed practical breakdown of relocation operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Convert NRI PIS/Non-PIS Demat accounts to resident Demat accounts.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Transfer Indian equity shares from NRE/NRO Demat to resident Demat account.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Update KYC details with depository participant (broker).
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Prevents trading account freeze due to residency status mismatch.
 
-## 1. Relocation Strategy 1
+## 1. School Admission Logistics for Children (IB / IGCSE vs CBSE)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Curricula: International Baccalaureate / Cambridge IGCSE | Process: Document Attestation | Window: Jan - April
 
-Detailed practical breakdown of relocation operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Admit children returning from abroad into IB or Cambridge IGCSE accredited schools.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Requires attested school transcripts and transfer certificate from foreign school.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Foreign school documents must be apostilled or endorsed by Indian Embassy.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply for school admissions 6 months prior to academic year start.

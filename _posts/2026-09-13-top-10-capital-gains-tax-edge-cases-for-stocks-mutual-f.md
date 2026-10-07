@@ -16,122 +16,122 @@ Indian capital gains tax rules under Section 112A and 115BBH impose specific tax
 
 Navigating tax edge cases requires understanding grandfathering clauses, indexation benefits, loss set-off rules, and Advance Tax payment schedules.
 
-## 10. Capital Strategy 10
+## 10. Equity LTCG Exemption Threshold & Section 112A Mechanics
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Tax Rate: 12.5% | Exemption: ₹1.25 Lakhs / yr | Period: 12 Months
 
-Detailed practical breakdown of capital operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Long-Term Capital Gains (LTCG) on listed equities & equity MFs tax-free up to ₹1.25 Lakhs per financial year.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Gains exceeding ₹1.25 Lakhs taxed at flat 12.5% without indexation.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Harvest ₹1.25 Lakhs capital gains annually to rebalance portfolio tax-free.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensure STT (Securities Transaction Tax) was paid on acquisition and sale.
 
-## 9. Capital Strategy 9
+## 9. Taxation of Debt Mutual Funds Post-2023 Amendment
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Tax Rate: Slabs Rate (As per Income) | Indexation: Removed | Holding: Any Period
 
-Detailed practical breakdown of capital operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Debt MFs acquired after April 1, 2023 lost indexation benefits completely.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** All gains from debt funds classified as Short-Term Capital Gains (STCG) regardless of holding period.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Taxed at individual slab rates (up to 30% + surcharge).
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Use Arbitrage Funds (taxed as equity) for low-risk short-term parking.
 
-## 8. Capital Strategy 8
+## 8. Set-off and Carry Forward Rules for Capital Losses
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** LTCG Loss: Set off against LTCG only | STCG Loss: Set off against STCG & LTCG | Carry Forward: 8 Years
 
-Detailed practical breakdown of capital operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Short-Term Capital Loss (STCL) can be set off against both STCG and LTCG.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Long-Term Capital Loss (LTCL) can ONLY be set off against LTCG.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Unadjusted losses carried forward up to 8 assessment years.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** File ITR on or before original due date (July 31) to carry forward losses.
 
-## 7. Capital Strategy 7
+## 7. Taxation of Virtual Digital Assets (Crypto & NFTs) under Section 115BBH
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Tax Rate: Flat 30% + Surcharge | TDS: 1% under Sec 194S | Loss Set-off: Strictly Prohibited
 
-Detailed practical breakdown of capital operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Gains on crypto and NFTs taxed at flat 30% without basic exemption limit benefit.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Zero deduction allowed except cost of acquisition.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Loss in one crypto pair CANNOT be set off against gain in another crypto pair.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** 1% TDS deducted on all crypto sell transactions on Indian exchanges.
 
-## 6. Capital Strategy 6
+## 6. Taxation of Sovereign Gold Bonds (SGB) on Maturity vs Secondary Sale
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Maturity Tax: 100% Tax-Free | Secondary Sale Tax: 12.5% LTCG | Period: 3 Years
 
-Detailed practical breakdown of capital operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Capital gains on SGBs redeemed with RBI upon 8-year maturity are COMPLETELY TAX-FREE.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Premature secondary market sales on stock exchange before 8 years attract capital gains tax.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Holding SGBs over 3 years qualifies as LTCG taxed at 12.5%.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Hold SGBs till official RBI maturity for 100% tax exemption.
 
-## 5. Capital Strategy 5
+## 5. REITs and InvITs Distribution Taxation Mechanics
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Components: Dividend, Interest, Repayment of Debt | Tax Treatment: Split Matrix
 
-Detailed practical breakdown of capital operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+REIT payouts split into Dividend, Interest, Rental Income, and Repayment of Debt.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Dividend tax-free if SPV opted for old tax regime; Interest taxed at slab rate.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Repayment of debt portion taxed as capital gains if exceeds cost of acquisition.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Check annual tax statement issued by REIT manager before filing ITR.
 
-## 4. Capital Strategy 4
+## 4. Taxation of Employee Stock Options (ESOPs) & RSUs for Tech Workers
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Prerequisite Tax: Exercise Date (Slab Rate) | Capital Gain Tax: Sale Date (STCG/LTCG)
 
-Detailed practical breakdown of capital operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+ESOPs taxed at TWO stages: First as Perquisite (salary slab) on exercise date.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Second as Capital Gains on final sale date based on FMV on exercise date.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** DIPP-recognized startups eligible for deferred ESOP tax payment.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Keep Form 16 and ESOP exercise statement synchronized.
 
-## 3. Capital Strategy 3
+## 3. Taxation of US Stocks & Foreign Equities for Indian Residents
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** LTCG Period: 24 Months | LTCG Rate: 12.5% | Schedule FA: Mandatory Disclosure
 
-Detailed practical breakdown of capital operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Foreign equities (e.g. US stocks) qualify as LTCG after 24 months holding.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** LTCG taxed at 12.5% without indexation; STCG taxed at individual slab rates.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Must declare all foreign stock holdings in Schedule FA of ITR.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Claim Foreign Tax Credit (FTC) by filing Form 67 for US dividend withholding tax.
 
-## 2. Capital Strategy 2
+## 2. Capital Gains Tax Exemption via Section 54F (Property Reinvestment)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Condition: Reinvest Net Sale Consideration | Timeline: 1 yr prior / 2 yrs post sale | Asset: Residential House
 
-Detailed practical breakdown of capital operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Exempt LTCG from sale of shares/land by investing net sale proceeds in residential house.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Must buy house within 1 year before or 2 years after asset sale date.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Capped at maximum reinvestment limit of ₹10 Crores.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Deposit unutilized proceeds in Capital Gains Account Scheme (CGAS) before ITR deadline.
 
-## 1. Capital Strategy 1
+## 1. Advance Tax Schedule & Interest Penalties under Section 234B & 234C
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Threshold: Tax Liability > ₹10,000 | Installments: June (15%), Sept (45%), Dec (75%), March (100%)
 
-Detailed practical breakdown of capital operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+If net tax liability exceeds ₹10,000, must pay Advance Tax in 4 quarterly installments.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Failure triggers 1% per month interest penalty under Section 234B and 234C.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Capital gains occurring after an installment date can be paid in remaining quarters.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pay estimated advance tax immediately in quarter capital gain is realized.

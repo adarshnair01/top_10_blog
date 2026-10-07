@@ -16,122 +16,122 @@ The Indian legal sector is undergoing rapid digitization. High Court litigators,
 
 Evaluating legal AI tools in India requires assessing coverage of Indian Law Reports (SCC, SCR, AIR), regional High Court judgments, data confidentiality, and hallucination protection.
 
-## 10. AI Strategy 10
+## 10. Indian Supreme Court & High Court Case Law Search
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Database: SC & 25 High Courts | Tool: CaseMine / Manupatra AI | Speed: Sub-second
 
-Detailed practical breakdown of ai operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Semantic search over 70+ years of Indian judicial judgments.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Finds exact ratio decidendi matching complex fact patterns.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Replaces keyword searches with natural language legal queries.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Filter results by specific bench strength (e.g. 3-judge vs Constitutional bench).
 
-## 9. AI Strategy 9
+## 9. Automated Contract Clause Analysis & Risk Auditor
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Jurisdiction: Indian Contract Act 1872 | Tool: SpotDraft / Sirion AI | Speed: 2 mins
 
-Detailed practical breakdown of ai operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Scans commercial agreements for non-standard indemnity and termination clauses.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Flags compliance risks under Indian Contract Act and Consumer Protection Act.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Accelerates NDA and vendor contract turnarounds.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Maintain custom fallback clause playbook for team reviews.
 
-## 8. AI Strategy 8
+## 8. Drafting Bail & Writ Petitions via AI Prompts
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Format: High Court / District Court | Engine: Lexis+ AI / LegalGPT | Metric: 60% faster
 
-Detailed practical breakdown of ai operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Generates initial drafts of bail applications, writ petitions, and legal notices.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Auto-populates party details, facts, and statutory provisions.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Provides structured draft foundation for advocate review.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Always verify petition formatting rules of specific state High Courts.
 
-## 7. AI Strategy 7
+## 7. Bilingual Court Judgment Translator (English to Regional Languages)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Languages: Hindi, Tamil, Marathi, Bengali | Engine: SUVAS SC AI | Accuracy: 97%
 
-Detailed practical breakdown of ai operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Official Supreme Court AI tool translating judgments into Indian vernacular languages.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Ensures access to justice for non-English speaking litigants.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Accurately translates technical legal terminology.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Use official Supreme Court SUVAS portal for certified translations.
 
-## 6. AI Strategy 6
+## 6. Virtual Legal Intern for Statutory Cross-Referencing
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Coverage: IPC, BNS, CrPC, BNSS, Evidence Act | Tool: IndianLaw AI | Metric: Instant
 
-Detailed practical breakdown of ai operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Cross-references old Indian Penal Code (IPC) sections with new Bharatiya Nyaya Sanhita (BNS).
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Instantly maps procedural changes across CrPC vs BNSS.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Eliminates manual mapping errors during criminal trial preparation.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Bookmark statutory transition tables for quick courtroom reference.
 
-## 5. AI Strategy 5
+## 5. Automated Deposition & Witness Transcript Summarizer
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Input: Multi-hour Audio/Text | Tool: Otter AI Legal / Whisper | Output: Fact Matrix
 
-Detailed practical breakdown of ai operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Transcribes and summarizes witness cross-examination transcripts.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Extracts key admissions, contradictions, and timeline events.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Prepares trial advocates for final argument briefings.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Verify audio transcription accuracy against court stenographer notes.
 
-## 4. AI Strategy 4
+## 4. Arbitration Award & Statement of Claim Analyzer
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Framework: Arbitration & Conciliation Act 1996 | Tool: Arbitrate AI | Metric: 4x speed
 
-Detailed practical breakdown of ai operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Scans voluminous claims, counter-claims, and evidentiary exhibits.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Builds chronological timelines and financial claim tables.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Assists arbitrators in drafting structured awards.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Cross-check interest rate calculations against Section 31(7) provisions.
 
-## 3. AI Strategy 3
+## 3. Trademark & Intellectual Property Prior-Art Search
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Database: CGPDTM Indian IP Office | Tool: Trademark Vision AI | Feature: Visual OCR
 
-Detailed practical breakdown of ai operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Scans Indian IP Registry for phonetically similar or visually conflicting logos.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Prevents trademark opposition proceedings.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Reduces trademark registration rejection rates.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Search both word mark and device mark registries simultaneously.
 
-## 2. AI Strategy 2
+## 2. Property Due Diligence & Title Search Automation
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Input: Scanned Land Records | Tool: LandDoc AI | Output: Encumbrance Timeline
 
-Detailed practical breakdown of ai operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Parses 30-year encumbrance certificates (EC), sale deeds, and mutation records.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Flags gaps in title ownership and ancestral property claims.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Essential tool for real estate conveyancing lawyers.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Physically verify original title deeds at Sub-Registrar Office.
 
-## 1. AI Strategy 1
+## 1. Compliance Tracker for Indian Startups & Private Limiteds
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Scope: Companies Act 2013, FEMA, SEBI | Tool: CompliAI | Feature: Automated Alert
 
-Detailed practical breakdown of ai operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Tracks annual ROC filing deadlines, board meeting resolutions, and FEMA compliance.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Sends automated reminders to company secretaries and founders.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Prevents heavy director disqualification penalties under Section 164.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Synchronize tracker with MCA portal master data.

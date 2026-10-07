@@ -16,122 +16,122 @@ Managing Employee Provident Fund (EPF) transfers when switching jobs in India re
 
 Navigating EPFO protocols requires referencing Employees' Provident Funds Scheme 1952, Form 13 transfer rules, and EPS pension certificate guidelines.
 
-## 10. Provident Strategy 10
+## 10. How to activate Universal Account Number (UAN) online?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Portal: EPFO Member Sevottam | Requirement: Mobile + Aadhaar | TAT: Instant
 
-Detailed practical breakdown of provident operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Visit EPFO Member Portal and click 'Activate UAN'.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Enter UAN, Member ID, Aadhaar number, name, and date of birth.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** OTP sent to Aadhaar-linked mobile number completes activation.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Set strong password and verify email address immediately.
 
-## 9. Provident Strategy 9
+## 9. How to transfer EPF online when switching jobs (Form 13)?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Portal: Unified Member Portal | Feature: One Member One EPF Account | Approval: Previous/Current Employer
 
-Detailed practical breakdown of provident operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Log in to UAN Member Portal and select 'One Member - One EPF Account (Transfer Request)'.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Verify previous employment details and select attesting employer (current or previous).
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Employer approves digital Form 13 transfer via Digital Signature (DSC).
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Track transfer claim status under 'View Claim Status' tab.
 
-## 8. Provident Strategy 8
+## 8. How to correct Date of Exit on EPF portal if previous employer failed to update?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Portal: UAN Portal | Feature: Mark Exit | Limitation: 2 Months Post Leaving
 
-Detailed practical breakdown of provident operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Employees can self-mark Date of Exit 2 months after leaving previous job.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Select 'Manage' -> 'Mark Exit' on UAN Portal.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Select reason for leaving (short service, health, permanent departure).
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Date of Exit must fall in the month last PF contribution was remitted.
 
-## 7. Provident Strategy 7
+## 7. How to merge multiple UANs into a single active UAN number?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Portal: EPFO Portal / Employer Helpdesk | Process: UAN Consolidation | Protection: Prevents Block
 
-Detailed practical breakdown of provident operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Employees having multiple UANs must request consolidation under active UAN.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Mail EPFO at uanepf@epfindia.gov.in or report to current employer.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Previous UAN balance transferred to current active UAN.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Only one UAN per individual is legally permitted under EPFO rules.
 
-## 6. Provident Strategy 6
+## 6. How to withdraw EPF balance online for medical, house purchase, or marriage advance?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Portal: UAN Portal | Form: Form 31 (Partial Withdrawal) | TAT: 3-5 Working Days
 
-Detailed practical breakdown of provident operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Submit Form 31 online for non-refundable partial PF advance.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Eligible for house purchase (5 yrs service), illness, or marriage (7 yrs service).
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Money credited directly to bank account linked with Aadhaar.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** No physical documents required for online partial withdrawal.
 
-## 5. Provident Strategy 5
+## 5. How to claim EPS Pension Scheme certificate (Form 10C)?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Portal: EPFO Portal | Form: Form 10C | Condition: Under 10 Years Service
 
-Detailed practical breakdown of provident operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Form 10C issued for pension withdrawal or scheme certificate.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Scheme Certificate retains pension service record for future employment.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Mandatory if total service is under 10 years and employee leaves workforce.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Continuous 10 years service unlocks monthly pension eligibility at age 58.
 
-## 4. Provident Strategy 4
+## 4. How to resolve 'Name / Father Name Mismatch' blocking EPF claim?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Portal: Joint Declaration Portal | Approval: Employer & Field Office | Document: Aadhaar / PAN
 
-Detailed practical breakdown of provident operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Submit online Joint Declaration request on UAN portal.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Employer signs request digitally and forwards to regional EPFO field office.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Attach Aadhaar, PAN card, and school leaving certificate copy.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Field officer updates master EPFO database within 7-14 days.
 
-## 3. Provident Strategy 3
+## 3. How to file an EPF Grievance on EPFiGMS portal for delayed claims?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Portal: EPFiGMS Portal | Resolution Window: 15 Days | Escalation: Regional PF Commissioner
 
-Detailed practical breakdown of provident operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Log onto epfigms.gov.in and register complaint under UAN number.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Upload claim acknowledgement receipt and bank statement copy.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Regional PF Commissioner reviews and resolves grievance within 15 days.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Track grievance registration number online for real-time status.
 
-## 2. Provident Strategy 2
+## 2. How to check EPF Passbook balance via SMS and Missed Call?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Number: 9966044425 (Missed Call) / 7738299899 (SMS) | Requirement: Activated UAN
 
-Detailed practical breakdown of provident operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Give missed call to 9966044425 from registered mobile number.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** SMS format 'EPFOHO UAN ENG' sent to 7738299899 returns balance.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Provides instant breakdown of employee, employer, and pension contributions.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Requires UAN to be linked with Aadhaar, PAN, and bank account.
 
-## 1. Provident Strategy 1
+## 1. How to update bank account details (KYC) on UAN portal?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Portal: Member Portal | Section: Manage KYC | Approval: Employer DSC
 
-Detailed practical breakdown of provident operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Log in and navigate to 'Manage' -> 'KYC' -> Select 'Bank'.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Enter bank account number and IFSC code; system validates via bank API.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Employer approves pending bank KYC using Digital Signature Certificate.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensure bank account name matches UAN profile name exactly.

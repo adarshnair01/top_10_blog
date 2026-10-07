@@ -16,122 +16,122 @@ Purchasing real estate in India involves complex property title verification, st
 
 Evaluating property paperwork requires referencing Registration Act 1908, Transfer of Property Act 1882, municipal corporation bylaws, and RERA regulations.
 
-## 10. Land Strategy 10
+## 10. What is Property Mutation (Khata Transfer) and why is it distinct from Registration?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Purpose: Municipal Tax Records | Authority: Revenue Dept / Municipal Corp | Protection: Prevents Title Fraud
 
-Detailed practical breakdown of land operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Registration transfers ownership; Mutation updates municipal tax register.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Without mutation, property tax bills continue issuing in seller's name.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Essential for obtaining electricity connections and selling property later.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply for mutation within 60 days of sale deed registration.
 
-## 9. Land Strategy 9
+## 9. How to verify Encumbrance Certificate (EC) before buying property?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Period: 13 to 30 Years | Authority: Sub-Registrar Office (SRO) | Sign: Nil Encumbrance
 
-Detailed practical breakdown of land operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+EC reflects all registered sales, mortgages, and legal claims on property.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Obtain Form 15 (Encumbrances exist) or Form 16 (Nil Encumbrance).
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Ensures property is free from bank liens or legal disputes.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Verify EC records online via state registration portal.
 
-## 8. Land Strategy 8
+## 8. How to convert Agricultural Land to Non-Agricultural (NA) use?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Process: Land Use Conversion | Authority: District Collector / Revenue Dept | Fee: NA Premium
 
-Detailed practical breakdown of land operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Agricultural land cannot be used for residential/commercial construction without NA order.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Apply to District Collector with land survey map and title chain.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Pay NA conversion premium and development charges.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Verify NA order layout approval by town planning department.
 
-## 7. Land Strategy 7
+## 7. What is a Occupancy Certificate (OC) and can you legally live without it?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Status: Mandatory for Living | Authority: Municipal Corp / Development Authority | Risk: Disconnection
 
-Detailed practical breakdown of land operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+OC certifies building constructed according to approved Sanction Plan.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Living in building without OC is legally unauthorized; risks utility cut-off.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Banks refuse home loans for flats lacking valid OC.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Insist on builder producing OC before taking flat possession.
 
-## 6. Land Strategy 6
+## 6. How to check if real estate project is RERA Registered?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Portal: State RERA Web Portal | Mandatory: Projects over 500 sq m or 8 flats | Verification: RERA Reg No
 
-Detailed practical breakdown of land operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Search project RERA registration number on state RERA website.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Check sanctioned floor plans, promoter background, and completion timeline.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** RERA forces builders to park 70% funds in dedicated escrow account.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Never pay advance money for non-RERA registered projects.
 
-## 5. Land Strategy 5
+## 5. How to calculate Stamp Duty and Registration Fees accurately?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Value: Circle Rate vs Sale Value (Whichever is Higher) | Rate: 4%-8% Stamp + 1% Reg | Discount: Female Buyers
 
-Detailed practical breakdown of land operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Stamp duty calculated on higher of circle rate (guideline value) or agreement value.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Many states offer 1-2% stamp duty discount for female buyers.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Pay stamp duty via e-Stamping portal or franking banks.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Calculate circle rate using official municipal portal calculator.
 
-## 4. Land Strategy 4
+## 4. How to resolve Khata A vs Khata B property classification in Bangalore?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Status: Municipal Classification | Authority: BBMP | Limitation: Bank Loan Restrictions
 
-Detailed practical breakdown of land operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+A Khata properties are fully legal with approved plans and OC.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** B Khata properties have building violations or unreleased layouts.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** B Khata flats face bank loan difficulties and resale challenges.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Convert B Khata to A Khata by paying betterment charges if eligible.
 
-## 3. Land Strategy 3
+## 3. How to execute a Gift Deed for property transfer between family members?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Stamp Duty: Concessional Rate | Registration: Mandatory at SRO | Tax: Tax-Free under Sec 56
 
-Detailed practical breakdown of land operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Transferring property via Gift Deed requires registration at Sub-Registrar office.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Concessional stamp duty applies for transfers to immediate relatives in many states.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Gift Deed is irrevocable once accepted by donee.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensure donee signs Gift Deed accepting transfer during registration.
 
-## 2. Land Strategy 2
+## 2. How to remove Bank Lien (Home Loan NOC) from property records after loan closure?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Document: Deed of Reconveyance / NOC | Authority: SRO & CERSAI | Action: Lien Removal
 
-Detailed practical breakdown of land operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Obtain original property documents, NOC, and No Due Certificate from bank.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Register Deed of Reconveyance at Sub-Registrar office where loan was marked.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Ensure bank updates CERSAI registry database clearing mortgage record.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Collect original sale deed title chain from bank safe vault.
 
-## 1. Land Strategy 1
+## 1. How to handle power of attorney (POA) property sales safely?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Risk: High Fraud Vulnerability | Authority: Supreme Court Ruling | Rule: Registration Mandatory
 
-Detailed practical breakdown of land operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Supreme Court ruled POA sales do not confer legal ownership title.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** General Power of Attorney (GPA) must be registered at SRO to be valid.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Verify POA grantor is alive and POA has not been revoked.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Always insist on direct sale deed execution by property owner.

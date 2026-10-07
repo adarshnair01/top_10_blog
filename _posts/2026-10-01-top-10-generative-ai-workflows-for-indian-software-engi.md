@@ -16,122 +16,122 @@ Generative AI has fundamentally shifted software development in Indian IT hubs f
 
 Implementing AI in software teams requires evaluating code privacy, LLM context windows, API costs, code synthesis accuracy, unit test generation, and compliance with enterprise data policies.
 
-## 10. Generative Strategy 10
+## 10. Automated Unit Test Suite Generation via Claude 3.5 Sonnet
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Context: 200k tokens | Tool: Claude API / Cursor | Metric: 85% test coverage
 
-Detailed practical breakdown of generative operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Generates comprehensive PyTest and Jest test cases including edge cases.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Understands complex multi-file codebase dependencies.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Cuts unit test boilerplate writing time by 70%.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Include mock schemas in prompts to prevent LLM hallucinations.
 
-## 9. Generative Strategy 9
+## 9. Inline AI Code Completion with GitHub Copilot Enterprise
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Latency: <100ms | Tool: Copilot / VS Code | Metric: 40% acceptance rate
 
-Detailed practical breakdown of generative operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Provides real-time code auto-completion tailored to team coding standards.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Indexes internal repository patterns securely.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Accelerates routine CRUD and API endpoint writing.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Use workspace indexing flags for multi-repo microservice context.
 
-## 8. Generative Strategy 8
+## 8. Automated PR Code Review Bot via Cursor IDE
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Integration: GitHub Actions | Tool: Cursor | Metric: 50% faster PR reviews
 
-Detailed practical breakdown of generative operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Scans pull requests for memory leaks, security flaws, and style guide deviations.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Catches SQL injection vulnerabilities before human review.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Provides precise inline code modification suggestions.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Set up automated GitHub Action triggers on every push.
 
-## 7. Generative Strategy 7
+## 7. Legacy Code Refactoring (COBOL/Java 8 to Go/Node.js)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Engine: GPT-4o | Tool: Custom CLI | Metric: 3x refactoring speed
 
-Detailed practical breakdown of generative operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Translates outdated monolithic code into modern microservice architecture.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Preserves business logic edge cases across language shifts.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Dramatically reduces technical debt in legacy banking software.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Perform incremental module-by-module migration with automated diffs.
 
-## 6. Generative Strategy 6
+## 6. Natural Language SQL Query Generation & DB Optimization
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Engine: DB-GPT / vLLM | Tool: DBeaver AI | Metric: 90% query accuracy
 
-Detailed practical breakdown of generative operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Converts plain English queries into complex SQL joins and aggregations.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Recommends index placements for slow Postgres/MySQL queries.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Empowers non-technical PMs to extract analytics directly.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Enforce read-only database connections for AI agent tools.
 
-## 5. Generative Strategy 5
+## 5. Automated API Specification & OpenAPI Documentation
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Tool: Redoc / Swagger AI | Engine: Claude 3.5 | Metric: Zero manual doc effort
 
-Detailed practical breakdown of generative operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Extracts REST and gRPC code endpoints and generates full OpenAPI 3.0 docs.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Includes request payload examples and error status codes.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Keeps frontend and backend teams perfectly synchronized.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Automate doc generation inside CI/CD deployment pipelines.
 
-## 4. Generative Strategy 4
+## 4. Infrastructure as Code (Terraform) Synthesis
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Engine: Claude / GPT-4o | Tool: Terraform AI | Metric: 60% faster infra setup
 
-Detailed practical breakdown of generative operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Generates AWS/GCP Terraform manifests from architecture diagrams or text.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Enforces cloud security baseline configs (S3 encryption, IAM roles).
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Prevents manual cloud console configuration drift.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Validate generated plans with terraform plan before applying.
 
-## 3. Generative Strategy 3
+## 3. Automated Bug Root Cause Analysis from Log Traces
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Tool: Datadog AI / Sentry AI | Engine: Fine-tuned LLM | Metric: 15-min MTTR
 
-Detailed practical breakdown of generative operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Analyzes stack traces and cloud logs to point directly to problematic code lines.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Correlates system metrics with recent git commits.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Reduces Mean Time to Resolution during production incidents.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Sanitize PII and credentials from logs before sending to AI APIs.
 
-## 2. Generative Strategy 2
+## 2. Regex & Complex Parsing Expression Synthesis
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Tool: Regex101 AI / ChatGPT | Engine: GPT-4o | Metric: Instant pattern matching
 
-Detailed practical breakdown of generative operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Synthesizes complex regular expressions for string validation and data extraction.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Provides plain English breakdown of every regex token.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Eliminates tedious manual regex debugging.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Test generated regex against edge-case string corpora.
 
-## 1. Generative Strategy 1
+## 1. Developer Onboarding Architecture Q&A Agent
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Tool: LlamaIndex / RAG Pipeline | Engine: Local Llama 3 | Metric: Day-1 productivity
 
-Detailed practical breakdown of generative operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+RAG pipeline indexing company Confluence, Notion, and git repos for new hires.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Answers internal architectural questions in real time.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Reduces senior developer interruptions during onboarding.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Re-index repo vectors automatically on main branch merges.

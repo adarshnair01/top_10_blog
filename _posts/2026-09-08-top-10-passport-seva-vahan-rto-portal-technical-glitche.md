@@ -16,122 +16,122 @@ Booking urgent Tatkaal passport slots or submitting online vehicle transfer appl
 
 Solving portal glitches requires understanding slot release timing windows, browser cookie clearing, Aadhaar OTP sync, and RTO helpdesk ticketing.
 
-## 10. Passport Strategy 10
+## 10. Passport Seva Error 'Session Timed Out / High Server Traffic'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Cause: Peak 11 AM Tatkaal Release Surge | Fix: Login 5 Mins Prior / High-Speed ISP
 
-Detailed practical breakdown of passport operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Portal crashes at 11:00 AM sharp when Tatkaal slots open nationwide.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Log into Passport Seva portal at 10:55 AM and keep application open.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Fill captcha code quickly using keyboard shortcuts.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Select POPSK (Post Office PSK) as fallback if metro PSK slots lock up.
 
-## 9. Passport Strategy 9
+## 9. Passport Seva Error 'Aadhaar Verification Failed / Details Mismatch'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Cause: Minor Name or Address Variation | Fix: Update Aadhaar Profile First
 
-Detailed practical breakdown of passport operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Passport application rejects online Aadhaar integration.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Ensure name, father name, and DOB match character-for-character.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Update Aadhaar profile online via UIDAI MyAadhaar portal.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Carry physical printed voter ID or bank passbook as secondary proof.
 
-## 8. Passport Strategy 8
+## 8. Vahan 4.0 Error 'Chassis Number Already Registered in System'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Cause: Previous RTO Digitization Typo | Fix: RTO Data Correction Entry
 
-Detailed practical breakdown of passport operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Blocks online vehicle transfer (Form 29/30) or NOC issuance.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Submit physical correction application to original registering RTO.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Attach pencil tracing of vehicle physical chassis number.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** RTO clerk updates master Vahan database within 3 days.
 
-## 7. Passport Strategy 7
+## 7. Vahan 4.0 Error 'Fitness Expiry Date Invalid / Insurance Unlinked'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Cause: Vahan-mParivahan API Sync Lag | Fix: Upload Insurance Copy via Vaahan Portal
 
-Detailed practical breakdown of passport operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+System refuses tax payment because insurance details don't auto-fetch.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Request insurance company to push policy details to Vahan database via IIB.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Upload PDF insurance policy manually under 'Update Insurance' link.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Wait 24 hours for automated IIB API sync.
 
-## 6. Passport Strategy 6
+## 6. Sarathi RTO Error 'LL/DL Slot Booking Not Available / No Quota'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Cause: State RTO Quota Cap | Fix: Slot Refresh Window (Midnight / 8 AM)
 
-Detailed practical breakdown of passport operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Driving license test slots fill up within minutes of opening.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** RTO releases fresh slot quotas daily at midnight or 8:00 AM.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Book test slots for mid-week days (Tuesday-Thursday) for lower rush.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensure LL (Learner License) is at least 30 days old before DL booking.
 
-## 5. Passport Strategy 5
+## 5. Passport Portal Error 'Payment Debited but Appointment Not Booked'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Cause: Gateway Settlement Delay | Fix: Track Payment Status Button
 
-Detailed practical breakdown of passport operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Bank debits fee but portal shows payment pending status.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** DO NOT pay twice; click 'Track Payment Status' link on dashboard.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** System auto-reconciles payment within 1 to 2 hours.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Locks appointment booking link once reconciliation completes.
 
-## 4. Passport Strategy 4
+## 4. Vahan Error 'e-Challan Block / Pending Traffic Fines'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Cause: Outstanding Traffic Challan | Fix: Clear Fine on Parivahan Challan Portal
 
-Detailed practical breakdown of passport operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+RTO blocks vehicle ownership transfer or NOC if pending challans exist.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Check pending fines on echallan.parivahan.gov.in using RC number.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Pay pending Virtual Court fines online.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Download digital receipt and refresh Vahan RC status page.
 
-## 3. Passport Strategy 3
+## 3. Passport Seva Error 'Tatkaal Application Rejected at Counter'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Cause: Invalid Annexure / Document Defect | Fix: Present Standard Annexure F
 
-Detailed practical breakdown of passport operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+PSK token officer rejects Tatkaal file and converts to Normal category.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Carry Annexure F (Verification Certificate) from Gazetted Officer or 3 standard IDs.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Standard 3 IDs: Aadhaar, PAN card, and Bank Passbook with photo.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensures application processed under Tatkaal scheme.
 
-## 2. Passport Strategy 2
+## 2. Vahan Error 'State Road Tax Calculation Mismatch'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Cause: Tax Slab Formula Update | Fix: RTO Account Officer Verification
 
-Detailed practical breakdown of passport operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Online road tax payment total differs from manual RTO quote.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Occurs for age-based road tax transfers across states.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Submit calculation sheet to RTO Accounts department.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** RTO overrides system entry with verified tax demand notice.
 
-## 1. Passport Strategy 1
+## 1. Sarathi Error 'Biometric Photo / Signature Upload Failed'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Cause: Image Dimensions Out of Bounds | Fix: Resize to 20KB - 50KB JPEG
 
-Detailed practical breakdown of passport operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Portal rejects photo or signature scan during DL renewal application.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Resize photo image file size between 20KB and 50KB in JPEG format.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Ensure photo dimensions are exactly 35mm x 45mm with white background.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Sign on clean white paper using black ink pen for signature scan.

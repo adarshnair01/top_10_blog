@@ -16,122 +16,122 @@ Financial regulations under RBI, FEMA, and SEBI govern how Non-Resident Indians 
 
 Evaluating financial queries requires consulting Foreign Exchange Management Act (FEMA) provisions, Income Tax Act sections, and RBI circulars.
 
-## 10. Indian Strategy 10
+## 10. Can an NRI continue holding resident Indian bank accounts?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Legal Status: Strictly Illegal | Authority: FEMA Section 3 | Action: Convert to NRE/NRO
 
-Detailed practical breakdown of indian operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Holding resident bank accounts after acquiring NRI status violates FEMA.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Must re-designate existing accounts to NRO (Non-Resident Ordinary) accounts.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Penalty includes fines up to 3x the un-designated amount.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Notify bank within 3 months of changing residency status.
 
-## 9. Indian Strategy 9
+## 9. Can I transfer money from NRO account to foreign bank account?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Legal Status: Permitted up to $1M/yr | Authority: RBI FEMA Guidelines | Requirement: Form 15CA/15CB
 
-Detailed practical breakdown of indian operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs can repatriate up to USD 1 Million per financial year from NRO account.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Requires CA certificate (Form 15CB) confirming all Indian taxes are paid.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** NRE account funds are fully repatriable without any dollar limits.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Obtain Form 15CB from registered Indian CA before wire transfer.
 
-## 8. Indian Strategy 8
+## 8. Can an Indian resident send money abroad for buying foreign stocks?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Legal Status: Permitted up to $250k/yr | Authority: RBI LRS Scheme | Tax: TCS Applies
 
-Detailed practical breakdown of indian operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Liberalised Remittance Scheme (LRS) permits residents to send up to USD 250,000 annually.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Used for overseas stock investments, real estate, education, and travel.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** TCS (Tax Collected at Source) of 20% applies on remittances exceeding ₹7 Lakhs.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Claim TCS credit while filing annual Indian income tax return.
 
-## 7. Indian Strategy 7
+## 7. Can an NRI invest in Indian stock market directly?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Legal Status: Permitted | Authority: SEBI & RBI | Route: PIS / Non-PIS Account
 
-Detailed practical breakdown of indian operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs can trade Indian equities through Portfolio Investment Scheme (PIS) or Non-PIS accounts.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Must open NRE/NRO Demat and Trading account with SEBI-registered broker.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Intraday trading is strictly prohibited for NRIs; only delivery trades allowed.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Use Non-PIS NRO account for trading derivative contracts.
 
-## 6. Indian Strategy 6
+## 6. Can I gift money to foreign relatives tax-free under Indian Income Tax Act?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Legal Status: Tax-Free for Specified Relatives | Authority: Income Tax Act Section 56(2)(x) | Limit: LRS Ceiling
 
-Detailed practical breakdown of indian operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Gifts to specified linear relatives (parents, children, siblings) are tax-free.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Remittance subject to TCS under LRS rules if sent abroad from resident account.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Non-relatives receiving gifts over ₹50,000 in India face income tax.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Execute written Gift Deed for all high-value monetary transfers.
 
-## 5. Indian Strategy 5
+## 5. Can an NRI claim home loan tax benefits on Indian property?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Legal Status: Fully Permitted | Authority: Income Tax Act Section 24 & 80C | Condition: Taxable Income in India
 
-Detailed practical breakdown of indian operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs can claim deduction up to ₹2 Lakhs on home loan interest under Section 24.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Principal repayment eligible under Section 80C up to ₹1.5 Lakhs.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Benefits apply if NRI has taxable income generated within India.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Set off property loss against rental income in Indian IT return.
 
-## 4. Indian Strategy 4
+## 4. Can I invest in Public Provident Fund (PPF) as an NRI?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Legal Status: Restricted Continuation | Authority: Ministry of Finance | Rule: No New PPF Accounts
 
-Detailed practical breakdown of indian operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs cannot open NEW PPF accounts after becoming non-residents.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Existing PPF accounts opened prior to becoming NRI can continue till 15-year maturity.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** No extension permitted beyond 15-year maturity period for NRIs.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Maturity proceeds can be credited directly to NRO account.
 
-## 3. Indian Strategy 3
+## 3. Can an Indian resident open a foreign bank account while living in India?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Legal Status: Permitted under LRS | Authority: RBI FEMA Guidelines | Requirement: Schedule FA Disclosure
 
-Detailed practical breakdown of indian operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Residents can open foreign bank accounts for holding LRS investments.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Must disclose foreign bank details in Schedule FA of Income Tax Return.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Non-disclosure of foreign assets triggers severe Black Money Act penalties.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Declare all foreign bank accounts annually regardless of balance.
 
-## 2. Indian Strategy 2
+## 2. Can an NRI invest in Indian Mutual Funds without visiting India?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Legal Status: Permitted | Authority: AMFI / SEBI | Condition: KYC & US/Canada Rules
 
-Detailed practical breakdown of indian operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs can invest in Indian mutual funds online via paperless e-KYC.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** US and Canada-based NRIs face restrictions due to FATCA compliance.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Select mutual fund houses (e.g. SBI, HDFC, ICICI) accept US/Canada NRI investments.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Complete FATCA self-declaration during online onboard process.
 
-## 1. Indian Strategy 1
+## 1. Can I withdraw entire EPF balance when moving abroad permanently?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Legal Status: Permitted | Authority: EPFO Rules | Condition: 2 Months Unemployment / Settlement Abroad
 
-Detailed practical breakdown of indian operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Can withdraw full Provident Fund balance upon settling abroad permanently.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Tax-free if continuous service exceeded 5 years before leaving India.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Service under 5 years attracts income tax on employer contribution.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit online EPF Form 19 via Universal Account Number (UAN) portal.

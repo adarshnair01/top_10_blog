@@ -16,122 +16,122 @@ Non-Resident Indians earning foreign income must navigate Double Taxation Avoida
 
 Managing NRI tax liability requires verifying physical stay days in India under Section 6, NRE tax exemptions, and foreign tax credit claims under Rule 128.
 
-## 10. NRI Strategy 10
+## 10. Determining NRI Residential Status under Section 6 of Income Tax Act
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Threshold: < 182 Days in India | Special Rule: 120 Days for Income > ₹15 Lakhs
 
-Detailed practical breakdown of nri operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Individual classified as NRI if physical stay in India is under 182 days in financial year.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Threshold drops to 120 days if Indian-sourced taxable income exceeds ₹15 Lakhs.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Deemed Resident rule applies to Indian citizens paying zero tax in any foreign country.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Track arrival and departure passport stamps carefully every financial year.
 
-## 9. NRI Strategy 9
+## 9. NRE vs NRO Bank Account Tax Treatment Matrix
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** NRE Interest: 100% Tax-Free | NRO Interest: Taxable at 30% + Surcharge | Repatriation: NRE (Unlimited), NRO ($1M)
 
-Detailed practical breakdown of nri operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Interest earned on NRE (Non-Resident External) savings & FDs is COMPLETELY TAX-FREE in India.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Interest on NRO (Non-Resident Ordinary) accounts is taxable at 30% + surcharge.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** TDS of 30% deducted automatically by bank on NRO interest payouts.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit DTAA benefit request to bank to reduce NRO TDS rate to 15%.
 
-## 8. NRI Strategy 8
+## 8. Claiming DTAA Benefits to Lower Indian TDS Rates (Form 10F & TRC)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Requirement: Tax Residency Certificate (TRC) + Form 10F | Lower Rate: 10-15%
 
-Detailed practical breakdown of nri operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs can claim lower TDS rates under DTAA for Indian rental and interest income.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Obtain Tax Residency Certificate (TRC) from foreign country's tax department (e.g. IRS Form 6166).
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** File Form 10F electronically on Indian Income Tax portal.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit TRC and Form 10F copy to Indian bank/tenant to reduce TDS.
 
-## 7. NRI Strategy 7
+## 7. Rule 128 Foreign Tax Credit (FTC) & Form 67 Filing Protocol
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Mandate: File Form 67 BEFORE ITR | Benefit: Tax Credit for Foreign Paid Taxes
 
-Detailed practical breakdown of nri operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs paying tax in foreign country can set off foreign tax paid against Indian tax liability.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Must submit Form 67 online on Income Tax portal BEFORE filing annual ITR.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Failure to file Form 67 before ITR disallows foreign tax credit completely.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Attach official foreign tax return or foreign tax payment receipt copy.
 
-## 6. NRI Strategy 6
+## 6. Taxation of Indian Rental Income for NRIs & Tenant TDS Rules
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Tenant Obligation: Deduct 31.2% TDS under Sec 195 | Certificate: Form 16A | Exemption: Lower Deduction Cert
 
-Detailed practical breakdown of nri operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Tenants renting property from NRIs MUST deduct 31.2% TDS under Section 195 regardless of rent amount.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Tenant deposits TDS using TAN number and issues Form 16A to NRI landlord.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** NRI files Indian ITR to claim refund of excess TDS deducted.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply for Lower Deduction Certificate under Section 197 to reduce upfront TDS.
 
-## 5. NRI Strategy 5
+## 5. Taxation of Capital Gains on Indian Property Sale by NRIs
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** TDS Rate: 20% LTCG / 30% STCG + Surcharge | Purchaser Duty: Deduct TDS on Gross Sale Value
 
-Detailed practical breakdown of nri operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Buyer of NRI property must deduct 20% LTCG (or 30% STCG) + surcharge TDS on GROSS sale price.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Differs from resident sellers where TDS is 1% under Section 194-IA.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** NRI seller applies for Section 197 Certificate to compute TDS on actual capital gain only.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Reinvest capital gains in Section 54 residential house to claim tax exemption.
 
-## 4. NRI Strategy 4
+## 4. Inheritance Tax & Gift Tax Rules for NRIs Receiving Property in India
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Inheritance Tax: ZERO in India | Gift Tax: Tax-Free from Specified Relatives
 
-Detailed practical breakdown of nri operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+India does not levy any Inheritance Tax on inherited cash, property, or stocks.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Gifts of Indian property or cash from linear relatives (parents, siblings) are 100% tax-free.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Subsequent sale of inherited property attracts capital gains tax.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Cost of acquisition for capital gains is taken as cost to original owner.
 
-## 3. NRI Strategy 3
+## 3. Taxation of Global Income for Returning NRIs (RNOR Status)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Status: Resident but Not Ordinarily Resident | Window: 2 to 3 Years | Tax: Foreign Income Tax-Free
 
-Detailed practical breakdown of nri operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Returning NRIs qualify for RNOR status for 2-3 financial years after moving back.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Global foreign income remains TAX-FREE in India during RNOR period.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Only income earned or received within India is taxable during RNOR window.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ideal window to liquidate foreign stocks and offshore assets tax-free.
 
-## 2. NRI Strategy 2
+## 2. FEMA Compliance & Repatriation of NRO Funds up to $1 Million
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Limit: USD 1,000,000 / Financial Year | Documents: Form 15CA & Form 15CB | CA Cert Required
 
-Detailed practical breakdown of nri operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+NRIs can repatriate up to USD 1 Million per financial year from NRO account balances.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Requires CA certificate (Form 15CB) certifying all Indian taxes paid.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Submit Form 15CA online on IT portal along with Form 15CB.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** AD Bank processes wire transfer upon verifying Form 15CA/CB.
 
-## 1. NRI Strategy 1
+## 1. Filing Income Tax Returns (ITR) in India as an NRI
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Mandatory Trigger: Taxable Income > ₹2.5 Lakhs in India | Form: ITR-2 | Schedule AL Disclosure
 
-Detailed practical breakdown of nri operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+NRI must file Indian ITR if taxable income in India exceeds basic exemption limit.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** NRIs MUST file using ITR-2 (or ITR-3 if business income); ITR-1 Sahaj cannot be used.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** NRIs do NOT need to declare foreign assets in Schedule FA unless resident.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Claim TDS refunds deducted on NRO interest and property transactions.

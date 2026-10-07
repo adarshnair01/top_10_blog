@@ -16,122 +16,122 @@ Inoperative bank accounts and unclaimed fixed deposits across Indian banks run i
 
 Claiming unclaimed deposits requires verifying bank master lists, submitting legal heir certificates, and filing indemnity bonds with bank branches.
 
-## 10. Dormant Strategy 10
+## 10. Searching Unclaimed Deposits on RBI UDGAM Portal
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Portal: udgam.rbi.org.in | Coverage: 30+ Major Banks | Input: Name, PAN, DOB
 
-Detailed practical breakdown of dormant operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Register on RBI UDGAM (Unclaimed Deposits - Gateway to Access information) portal.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Search across participating commercial banks using owner name and PAN/Aadhaar.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Displays Unclaimed Deposit Reference Number (UDRN) and bank name.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Covers savings accounts, FDs, RDs, and demand drafts unpaid for 10+ years.
 
-## 9. Dormant Strategy 9
+## 9. Understanding Deaf (Depositor Education and Awareness Fund)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Authority: RBI DEAF Cell | Transfer Window: 10 Years | Rule: Principal + Interest Refundable
 
-Detailed practical breakdown of dormant operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Balances unclaimed for 10 years transferred from bank to RBI DEAF fund.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Depositors retain full legal right to claim balance at any time.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** RBI refunds principal plus accrued interest through home bank branch.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** No loss of funds occurs even after transfer to DEAF.
 
-## 8. Dormant Strategy 8
+## 8. Submitting Physical Claim Dossier to Home Bank Branch
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Requirement: UDRN Number + KYC | Documents: Aadhaar, PAN, Passbook | Verification: Branch Head
 
-Detailed practical breakdown of dormant operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Take UDRN search printout to nearest branch of specific bank.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Submit claim application along with original passbook/FD receipt and KYC.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Branch verifies records against legacy ledger archives.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Process takes 7-14 working days for balance transfer to active account.
 
-## 7. Dormant Strategy 7
+## 7. Claiming Unclaimed Accounts Belonging to Deceased Relatives
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Category: Legal Heir Claim | Documents: Death Cert, Legal Heir Cert, Indemnity Bond | Rule: Zero Penalty
 
-Detailed practical breakdown of dormant operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Legal heirs submit death certificate and legal heirship certificate.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** If claim value exceeds ₹5 Lakhs, bank demands probate or succession certificate.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Two independent guarantors sign indemnity bond at bank branch.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Bank releases funds to joint legal heir account or designated nominee.
 
-## 6. Dormant Strategy 6
+## 6. Resolving Name Discrepancies in Legacy Bank Records
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Issue: Spelling Error in Old Records | Solution: Gazetted Affidavit / CA Cert | Action: Manual Verification
 
-Detailed practical breakdown of dormant operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Old physical ledgers often contain spelling variations or missing surnames.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Submit notarized affidavit confirming single and same person identity.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Cross-reference old address details with old passport or ration card.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Branch manager verifies legacy signature registers.
 
-## 5. Dormant Strategy 5
+## 5. Recovering Unclaimed Fixed Deposits (FDs) and Reinvestments
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Status: Matured Unclaimed FD | Rule: Savings Interest Rate | Claim: Re-issue or Cashout
 
-Detailed practical breakdown of dormant operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Matured FDs left unclaimed earn interest at prevailing savings account rate.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Submit original physical FD receipt (FD Certificate) to branch.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** If original FD receipt lost, submit Form L-106 indemnity bond.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Choose between instant bank credit or booking fresh term deposit.
 
-## 4. Dormant Strategy 4
+## 4. Claiming Unclaimed Dividends & Shares from IEPF Portal
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Portal: iepf.gov.in | Authority: IEPF Authority | Form: Form IEPF-5 | Coverage: Corporate Shares
 
-Detailed practical breakdown of dormant operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Unclaimed company dividends and shares after 7 years transferred to IEPF.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** File online Form IEPF-5 on MCA portal with NSDL/CDSL Demat details.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Submit physical verification dossier to company Nodal Officer.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** IEPF authority transfers shares back to Demat account.
 
-## 3. Dormant Strategy 3
+## 3. Tracing Lost Bank Accounts of Pre-CBS Era (Before 2005)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Challenge: Pre-Digital Paper Ledgers | Method: Archive Ledger Search | Location: Legacy Branch
 
-Detailed practical breakdown of dormant operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Pre-2005 bank accounts were maintained in physical paper ledgers.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Identify original branch code and submit old account number/passbook.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Branch archivists locate physical ledger folio in bank vault.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Old account migrated into modern Core Banking System (CBS) for payout.
 
-## 2. Dormant Strategy 2
+## 2. Claiming Unclaimed Demand Drafts (DD) & Banker's Cheques
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Validity: 3 Months | Rule: Refund to Buyer Account | Action: Revalidation / Cancellation
 
-Detailed practical breakdown of dormant operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Demand drafts un-encashed after 3 months can only be refunded to purchaser.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** If purchaser lost DD copy, file cancellation application with bank.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Unclaimed DDs older than 10 years searchable on UDGAM portal.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Money credited back to purchaser's active bank account.
 
-## 1. Dormant Strategy 1
+## 1. Tracking Progress of Unclaimed Deposit Claims Online
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Ref: Claim Tracking ID | Service: Bank Nodal Officer | Escalation: Banking Ombudsman
 
-Detailed practical breakdown of dormant operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Collect acknowledgment receipt containing claim reference number from branch.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Track settlement status on bank official unclaimed deposit portal.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** If branch delays processing beyond 30 days, submit complaint to Nodal Officer.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Escalate to RBI Ombudsman if claim remains unpaid past 45 days.

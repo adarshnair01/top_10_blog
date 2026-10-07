@@ -16,122 +16,122 @@ Indian Railways specifies luggage weight limits per coach class and regulates ca
 
 Navigating railway luggage rules requires understanding luggage office booking procedures, pet dog coupe allocation rules, and excess baggage fee slabs.
 
-## 10. Indian Strategy 10
+## 10. Free Luggage Allowance by Train Class & Marginal Allowance
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** 1st AC: 70 kg | 2nd AC / Executive: 50 kg | 3rd AC / CC: 40 kg | Sleeper: 40 kg
 
-Detailed practical breakdown of indian operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+First AC passengers get maximum 70 kg free baggage allowance per ticket.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** 2nd AC and Executive Class allow 50 kg; 3rd AC, Chair Car, and Sleeper allow 40 kg.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Marginal allowance grants extra 10-15 kg buffer before imposing excess luggage penalty.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Dimensions must not exceed 100cm x 60cm x 25cm.
 
-## 9. Indian Strategy 9
+## 9. Booking Excess Baggage & Luggage Van (Parcel Office) Rules
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Rate: 1.5x Parcel Rate for Excess | Action: Book at Luggage Office | Penalty: 6x Rate if Caught
 
-Detailed practical breakdown of indian operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Luggage exceeding free allowance must be booked at station Luggage/Parcel Office.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Excess baggage booked in advance charged at standard parcel rate.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Unbooked excess luggage detected by ticket collector on train penalized at 6x rate.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Book heavy trunks at parcel office 2 hours before train departure.
 
-## 8. Indian Strategy 8
+## 8. Rules for Travelling with Pet Dogs & Cats on Indian Railways
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Class: 1st AC / Executive (Full Coupe/Cabin) | Booking: Parcel Counter | Alternate: Luggage Van
 
-Detailed practical breakdown of indian operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Pet dogs allowed inside passenger coach ONLY in 1st AC / Executive Class if booking entire coupe (2-berth) or cabin (4-berth).
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Requires veterinary fit-to-travel certificate and rabies vaccination card.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** If traveling in 2AC/3AC, pets must travel in dog box inside Brake Van/Luggage Van.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit written request to Chief Reservation Supervisor for 1st AC coupe allotment.
 
-## 7. Indian Strategy 7
+## 7. Carrying Bicycles, Folding Cycles & Two-Wheelers on Trains
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Folding Cycle: Cabin Luggage | Motorbike: Parcel Van Packing | Requirement: Empty Petrol Tank
 
-Detailed practical breakdown of indian operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Folding bicycles fitting luggage rack dimensions permitted inside coach as personal luggage.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Standard bicycles and motorcycles must be booked as parcel cargo in Luggage Van.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Motorcycle petrol tank must be COMPLETELY DRAINED before parcel booking.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Carrying motorbike with petrol attracts heavy criminal penalty under Railway Act.
 
-## 6. Indian Strategy 6
+## 6. Prohibited & Hazardous Items on Indian Railways
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Prohibited: Explosives, Crackers, Gas Cylinders, Acid, Kerosene | Penalty: 3 Yrs Jail / ₹1,000
 
-Detailed practical breakdown of indian operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Carrying inflammable goods (firecrackers, gas cylinders, petrol, acid) strictly prohibited.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Violators prosecuted under Section 164 of Indian Railways Act 1989.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Imprisonment up to 3 years or fine up to ₹1,000 or both.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** RPF conducts surprise luggage scanning at major railway station entry gates.
 
-## 5. Indian Strategy 5
+## 5. Carrying Commercial Goods & Merchandise in Passenger Coaches
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Rule: Personal Effects Only | Penalty: Commercial Parcel Rate + Penalty | Action: Seizure
 
-Detailed practical breakdown of indian operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Passenger coaches meant exclusively for personal travel luggage.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Carrying commercial merchandise bundles inside AC/Sleeper coaches is illegal.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** TTE penalizes commercial traders carrying trade goods in passenger compartments.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Book commercial merchandise via Indian Railways Freight/Parcel booking portal.
 
-## 4. Indian Strategy 4
+## 4. Luggage Storage Dimensions & Under-Berth Space Rules
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Dimensions: Max 100 cm x 60 cm x 25 cm | Location: Under Lower Berth | Right: Berth Passenger Priority
 
-Detailed practical breakdown of indian operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Baggage stored under lower berth must not obstruct aisle walking space.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Passenger holding lower berth has priority right to under-berth storage space.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Oversized trunks exceeding 100cm x 60cm x 25cm must be booked in brake van.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Keep high-value laptops and handbags near your headrest area.
 
-## 3. Indian Strategy 3
+## 3. Cloak Room & Station Luggage Locker Rules
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Requirement: Confirmed Train Ticket + Lockable Bag | Fee: ₹30-50 per 24 Hrs | Max Stay: 7 Days
 
-Detailed practical breakdown of indian operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Major railway stations offer Cloak Room facility for short-term luggage storage.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Must produce confirmed train ticket and government photo ID.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Luggage must be securely locked with physical lock; open bags rejected.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Maximum storage duration is 7 days.
 
-## 2. Indian Strategy 2
+## 2. Carrying Food, Gas Stoves & Cooking Equipment
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Permitted: Packed Food, Electric Kettle | Prohibited: Gas Stoves, Kerosene Burners
 
-Detailed practical breakdown of indian operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Packed cooked food, dry snacks, and electric kettles permitted.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Carrying portable gas stoves, LPG cylinders, or kerosene burners is illegal.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Boiling food using open flame or gas stove inside train coach is a criminal offense.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Utilize IRCTC e-catering service to order fresh food delivered to your seat.
 
-## 1. Indian Strategy 1
+## 1. Claiming Compensation for Lost or Stolen Luggage on Trains
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Action: File GRP FIR Form | Claim: Railway Claims Tribunal (RCT) | Max Claim: ₹100/kg
 
-Detailed practical breakdown of indian operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+If luggage is stolen, request TTE for pre-printed GRP FIR complaint form.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** File formal claim for loss of baggage with Railway Claims Tribunal (RCT).
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Compensation capped at statutory rate unless luggage value was declared during parcel booking.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Always keep valuable jewelry, cash, and electronics in personal shoulder bag.

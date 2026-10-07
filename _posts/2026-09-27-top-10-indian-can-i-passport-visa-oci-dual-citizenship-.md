@@ -16,122 +16,122 @@ Navigating Indian passport renewals, Overseas Citizen of India (OCI) cards, visa
 
 Evaluating immigration rules requires verifying Passports Act 1967 guidelines, OCI registration terms, Bureau of Immigration circulars, and foreign jurisdiction rules.
 
-## 10. Indian Strategy 10
+## 10. Can an Indian citizen hold dual citizenship with another country?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Legal Status: Prohibited | Authority: Constitution of India Article 9 | Requirement: Surrender Indian Passport
 
-Detailed practical breakdown of indian operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+India does not permit dual citizenship under the Citizenship Act 1955.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Acquiring foreign citizenship automatically terminates Indian citizenship.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Must surrender Indian passport within 90 days to avoid monetary penalties.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply for Surrender Certificate immediately upon foreign naturalization.
 
-## 9. Indian Strategy 9
+## 9. Can I travel to India on an expired OCI card if I renewed my foreign passport?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Legal Status: Permitted for specific ages | Authority: MHA OCI Guidelines | Rule: Online Re-issuance
 
-Detailed practical breakdown of indian operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+OCI holders under 20 or over 50 need online updating of foreign passport details.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Between ages 20 to 50, re-issuance is not required each time passport renews.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Travel is permitted as long as foreign passport and OCI card are carried.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Upload new passport copy on MHA OCI portal free of charge before travel.
 
-## 8. Indian Strategy 8
+## 8. Can I renew my Indian passport 1 year before expiry?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Legal Status: Permitted | Authority: Passport Seva (MEA) | Window: Within 1 year of expiry
 
-Detailed practical breakdown of indian operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Passport can be renewed up to 1 year prior to expiry date.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Crucial for international travel as many countries demand 6-month validity.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Fast-track renewal available via Tatkaal scheme within 1-3 days.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Book appointment early as summer vacation slots fill fast.
 
-## 7. Indian Strategy 7
+## 7. Can OCI cardholders purchase agricultural land or farmhouses in India?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Legal Status: Strictly Prohibited | Authority: FEMA / RBI Guidelines | Rule: Residential Only
 
-Detailed practical breakdown of indian operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+OCI cardholders cannot buy agricultural land, plantation property, or farmhouses.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Permitted to acquire residential and commercial real estate.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Inheritance of agricultural land acquired before foreign citizenship is allowed.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Obtain RBI clearance before executing land transactions.
 
-## 6. Indian Strategy 6
+## 6. Can I travel internationally if my name order differs on Passport vs Visa?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Legal Status: High Risk | Authority: Bureau of Immigration & Airlines | Action: Name Rectification
 
-Detailed practical breakdown of indian operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Name mismatch between passport and visa/boarding pass leads to denied boarding.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** First name and surname must strictly match official travel documents.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Single-name passports (no surname) face entry restrictions in UAE and US.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Add surname in passport via official gazette notification prior to visa application.
 
-## 5. Indian Strategy 5
+## 5. Can a divorced parent apply for a child's Indian passport without spouse consent?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Legal Status: Permitted with Annexure C | Authority: Passport Seva | Requirement: Sole Custody Order
 
-Detailed practical breakdown of indian operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Single/divorced parent can apply using Annexure C explaining circumstances.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Must produce court order granting sole custody or explanation of spouse absence.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Prevents child passport delays due to matrimonial disputes.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Attach certified copy of family court custody order.
 
-## 4. Indian Strategy 4
+## 4. Can OCI cardholders work commercially in India?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Legal Status: Fully Permitted | Authority: Ministry of Home Affairs | Exception: Govt & Political Jobs
 
-Detailed practical breakdown of indian operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+OCI cardholders enjoy parity with NRIs in economic, financial, and educational fields.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Can work in private companies, practice medicine, law, architecture, and accounting.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Cannot vote, hold constitutional posts, or work in government offices.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** No separate employment visa or work permit required.
 
-## 3. Indian Strategy 3
+## 3. Can I visit restricted/protected areas in India (Ladakh border, NE) on an OCI?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Legal Status: Requires PAP / RAP | Authority: MHA & District Magistrate | Rule: Special Permit Needed
 
-Detailed practical breakdown of indian operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+OCI holders require Protected Area Permit (PAP) or Restricted Area Permit (RAP).
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Applies to border regions in Ladakh, Sikkim, Arunachal Pradesh, Nagaland, and Andaman.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Standard OCI card does not grant automatic access to strategic border zones.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply for PAP through Ministry of Home Affairs or Resident Commissioner offices.
 
-## 2. Indian Strategy 2
+## 2. Can I change my address on Indian passport while living abroad?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Legal Status: Permitted | Authority: Indian Embassy / VFS Global | Requirement: Proof of Residence
 
-Detailed practical breakdown of indian operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Can update Indian or foreign address during passport re-issuance at Indian mission.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Requires utility bill, bank statement, or rental lease as address proof.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** New passport will reflect updated primary address.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit self-attested address proof copies during VFS appointment.
 
-## 1. Indian Strategy 1
+## 1. Can I retain my Indian SIM card while living abroad as an NRI?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Legal Status: Fully Permitted | Authority: TRAI Guidelines | Requirement: International Roaming / Top-up
 
-Detailed practical breakdown of indian operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+SIM stays active by maintaining minimum recharge and international roaming pack.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Essential for receiving Indian bank OTPs, income tax updates, and UPI validation.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Unused SIM cards are deactivated by telecom operators after 90 days of zero usage.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Recharge with low-cost annual validity pack to keep number alive.

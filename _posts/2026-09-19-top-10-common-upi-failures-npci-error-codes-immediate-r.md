@@ -16,122 +16,122 @@ Unified Payments Interface (UPI) handles billions of transactions monthly in Ind
 
 Resolving UPI errors requires understanding NPCI error codes, bank server status checks, UPI Lite offline wallets, and Banking Ombudsman escalation paths.
 
-## 10. Common Strategy 10
+## 10. NPCI Error Code 'U16' or 'RM': Bank Server Down
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Cause: Issuer Bank Core System Timeout | Action: Switch Payment Method | Auto-TAT: 24 Hours
 
-Detailed practical breakdown of common operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Occurs when issuing bank's core banking server (CBS) fails to respond.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** System auto-reverses debited amount within 24 hours.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Use UPI Lite or alternate bank account for urgent payments.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Check UPI server status on bank app before retrying.
 
-## 9. Common Strategy 9
+## 9. NPCI Error Code 'U30' or 'ZM': Daily Transaction Limit Exceeded
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Cause: RBI / Bank Limit Cap | Cap: ₹1 Lakh per Day / 20 Txns | Solution: Use NEFT/IMPS
 
-Detailed practical breakdown of common operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+NPCI caps daily UPI transactions at ₹1 Lakh (₹5 Lakhs for hospital/education).
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Maximum 20 UPI transactions permitted per 24-hour rolling window.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Wait 24 hours or switch to netbanking for larger transfers.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Split large payments across two distinct bank accounts.
 
-## 8. Common Strategy 8
+## 8. UPI Error 'Payment Pending': Money Debited but Not Credited
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Status: Interbank Reconciliation | TAT: T+1 Working Day | Escalation: BHIM / NPCI
 
-Detailed practical breakdown of common operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Money leaves sender bank but remains pending in NPCI settlement queue.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** DO NOT initiate duplicate payment; status resolves to success or failure.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** NPCI guidelines mandate auto-reversal within T+1 days.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** File dispute on BHIM app if pending past 48 hours.
 
-## 7. Common Strategy 7
+## 7. UPI Error 'Incorrect UPI PIN / Max Attempts Exceeded'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Cause: Wrong PIN Entered 3 Times | Penalty: 24-Hour Block | Solution: Reset PIN via Debit Card
 
-Detailed practical breakdown of common operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Entering wrong UPI PIN 3 consecutive times blocks UPI access for 24 hours.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Reset PIN instantly using debit card last 6 digits and expiry date.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Ensure mobile number registered with bank is in primary SIM slot.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Never share UPI PIN; PIN is entered ONLY to send money, never receive.
 
-## 6. Common Strategy 6
+## 6. UPI Error 'Receiver Bank Account Inactive / Frozen'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Cause: Recipient Account Credit Freeze | Action: Request Alternate VPA / QR
 
-Detailed practical breakdown of common operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Sender's money auto-reverses because recipient bank rejects credit.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Recipient must update KYC or clear account lien with home branch.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Ask merchant for alternative UPI QR code or bank account number.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Reversal credits sender account within 2 hours.
 
-## 5. Common Strategy 5
+## 5. UPI Lite Setup & Offline Transaction Resolution
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Cap: ₹500 per Txn / ₹2,000 Wallet | Tech: On-Device Wallet | Advantage: Zero Pin Needed
 
-Detailed practical breakdown of common operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+UPI Lite processes micro-payments under ₹500 directly from device wallet.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Does not depend on bank CBS availability; zero payment failures.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Recharge wallet online using UPI PIN.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ideal for daily tea, groceries, and metro ticket buys.
 
-## 4. Common Strategy 4
+## 4. UPI AutoPay Mandate Bounces & Revocation Hacks
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Category: Recurring Subscriptions | Action: Pause / Revoke on App | Penalty: Autodebit Bounce
 
-Detailed practical breakdown of common operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+AutoPay mandates fail if linked savings account lacks adequate balance.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Manage or revoke recurring mandates under UPI Settings on GPay/PhonePe.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Canceling app subscription does not automatically revoke UPI AutoPay mandate.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Revoke mandate on UPI app 24 hours prior to debit date.
 
-## 3. Common Strategy 3
+## 3. UPI Error 'VPA / QR Code Invalid or Expired'
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Cause: Dynamic QR Expiry / Typo | Action: Re-scan Fresh QR Code
 
-Detailed practical breakdown of common operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Dynamic QR codes generated by merchants expire after 5-10 minutes.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Re-scan fresh QR code or manually verify VPA address (e.g. name@upi).
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Prevents sending money to stale or hijacked payment handles.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Verify merchant display name on app screen before tapping Pay.
 
-## 2. Common Strategy 2
+## 2. UPI Transaction Failed Due to SIM Swap / Device Change
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Security: Binding Mechanism | Fix: Re-register Device | Prerequisite: SMS Balance
 
-Detailed practical breakdown of common operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Changing phone handset or SIM card unbinds registered UPI app.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** UPI app sends outgoing verification SMS to re-bind device.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Ensure primary SIM slot has active SMS plan.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Disable VPN services during device re-binding process.
 
-## 1. Common Strategy 1
+## 1. Escalating Unresolved UPI Debits to RBI Banking Ombudsman
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Portal: CMS RBI (cms.rbi.org.in) | Window: 30 Days Post Complaint | Relief: ₹100/day Compensation
 
-Detailed practical breakdown of common operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+If bank fails to resolve stuck UPI refund within 30 days, file RBI Ombudsman case.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Attach UPI transaction reference (RRR) number and bank statements.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** RBI awards statutory ₹100 per day compensation for delayed reversals.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Submit online complaint via RBI CMS portal for fast resolution.

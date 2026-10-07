@@ -16,122 +16,122 @@ Navigating DGCA aviation security guidelines for domestic flights in India requi
 
 Complying with airport security requires verifying power bank milliampere-hour (mAh) limits, liquid container sizes, and checked baggage dimensions.
 
-## 10. Luggage Strategy 10
+## 10. Power Bank Carry-On Rules & Wh Capacity Limits
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Status: Hand Luggage ONLY | Prohibition: Strictly Banned in Checked Baggage | Limit: 100Wh (27,000 mAh)
 
-Detailed practical breakdown of luggage operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Power banks, lithium spare batteries, and e-cigarettes are STRICTLY PROHIBITED in checked luggage.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Must carry power banks inside hand baggage only.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Cap limit is 100Wh (approx 27,000 mAh at 3.7V); batteries 100Wh-160Wh require airline approval.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Power banks exceeding 160Wh are completely banned on passenger aircraft.
 
-## 9. Luggage Strategy 9
+## 9. Liquid, Aerosol & Gel (LAG) Limits for Domestic Cabin Baggage
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Cabin Container Limit: 100 ml per item | Total Limit: 1 Liter Transparent Bag | Checked: Unlimited
 
-Detailed practical breakdown of luggage operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Liquids, gels, lotions, and aerosols in cabin baggage must be in containers of 100 ml or less.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** All 100 ml containers must fit inside a single transparent resealable 1-liter bag.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Containers larger than 100 ml are confiscated at CISF security screening, even if half empty.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pack full-sized shampoos, perfume bottles, and sunscreen in checked luggage.
 
-## 8. Luggage Strategy 8
+## 8. Domestic Airlines Checked Baggage Allowance & Excess Weight Fees
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Free Weight Limit: 15 kg (Economy) | Hand Baggage Limit: 7 kg | Excess Fee: ₹550/kg
 
-Detailed practical breakdown of luggage operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Standard domestic economy tickets allow 15 kg checked baggage per passenger.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Hand baggage limit is strictly 1 laptop bag/handbag up to 7 kg.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Air India offers higher 20-25 kg checked baggage allowance.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pre-book excess baggage online 6 hours prior to save 50% over airport counter rates.
 
-## 7. Luggage Strategy 7
+## 7. Prohibited Items in Cabin Baggage (Sharp Objects, Tools & Sporting Gear)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Prohibited: Scissors (>6cm), Pocket Knives, Screw Drivers, Cricket Bats | Action: Confiscation
 
-Detailed practical breakdown of luggage operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Sharp metallic objects, Swiss army knives, scissors with blades >6cm are banned in cabin bags.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Tools (wrenches, pliers, drill bits) and sporting bats/clubs must go into checked baggage.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Confiscated items at CISF security gates are permanently destroyed or auctioned.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pack multi-tools, nail clippers, and sporting equipment in checked suitcases.
 
-## 6. Luggage Strategy 6
+## 6. Carrying Alcohol & Alcoholic Beverages on Domestic Flights
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Status: Checked Baggage ONLY | Limit: 5 Liters per Passenger | ABV Limit: 24% to 70% ABV
 
-Detailed practical breakdown of luggage operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Alcoholic beverages (24% to 70% ABV) permitted in checked baggage up to 5 liters per passenger.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Liquors under 24% ABV (beer, wine) have no DGCA quantity limit within checked weight allowance.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Carrying open alcohol bottles or consuming alcohol on board is a punishable offense.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pack glass alcohol bottles in bubble wrap inside hardshell checked luggage.
 
-## 5. Luggage Strategy 5
+## 5. Carrying Fresh Food, Spices, Pickles & Ghee
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Cabin Status: Ghee & Pickles Banned in Cabin | Checked Status: Permitted in Sealed Container
 
-Detailed practical breakdown of luggage operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Pickles, ghee, oil, and liquid food items strictly prohibited in cabin hand baggage.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Permitted in checked luggage if packed in leak-proof sealed plastic containers.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Dry snacks (sweets, biscuits, dry fruits) allowed in cabin hand baggage.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Wrap pickle jars in multiple sealed polythene bags to prevent grease damage.
 
-## 4. Luggage Strategy 4
+## 4. Transit Rules for Coconut (Dry Copra) Prohibition
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Status: Strictly Banned in Cabin & Checked Baggage | Reason: Highly Flammable Solid
 
-Detailed practical breakdown of luggage operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Dry coconut (Copra) is classified as a dangerous flammable solid under DGCA rules.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** STRICTLY BANNED in both hand cabin baggage AND checked baggage.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Contains high oil content prone to spontaneous combustion under pressure.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Fresh green coconuts with water also banned due to liquid volume limits.
 
-## 3. Luggage Strategy 3
+## 3. Carrying Firearms, Matchboxes & Lighter Regulations
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Lighters: Strictly Banned | Matchbox: 1 Safety Matchbox on Person | Firearms: License + Security Fee
 
-Detailed practical breakdown of luggage operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Lighters and butane torches are completely banned in both cabin and checked baggage.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** One small safety matchbox permitted on person (pocket), but not inside hand bags.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Licensed firearms/ammunition require 24h prior airline notice, valid license, and ₹5000 handling fee.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Surrender firearms at airline security counter before main check-in.
 
-## 2. Luggage Strategy 2
+## 2. Musical Instruments as Cabin vs Checked Baggage
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Small Instruments: Violin/Flute (Cabin) | Large: Guitar/Cello (Extra Seat / Hardshell)
 
-Detailed practical breakdown of luggage operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Small musical instruments (flute, violin) can replace standard 7 kg hand bag.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Guitars require purchasing an extra seat or packing in flight-ready hardshell case for checked transit.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Loosen instrument strings before flight to prevent bridge damage from cabin pressure drops.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Label instrument case fragile at airline check-in counter.
 
-## 1. Luggage Strategy 1
+## 1. Carrying Medical Equipment (CPAP, Oxygen Concentrators & Insulin)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Approval: Doctor Certificate + Airline NOC | CPAP: Allowed Free | Battery: Dry Cell
 
-Detailed practical breakdown of luggage operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+CPAP machines, nebulizers, and portable oxygen concentrators (POC) allowed on board free.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Must carry medical certificate from registered doctor explaining equipment need.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Insulin pens and needles permitted in cabin with valid doctor prescription.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Inform airline disability customer care desk 48 hours prior to flight date.

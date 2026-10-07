@@ -16,122 +16,122 @@ Expat and returning families moving to India require smooth school admission tra
 
 Integrating family logistics requires evaluating international school accreditation, corporate health insurance top-ups, and cashless hospital networks.
 
-## 10. International Strategy 10
+## 10. Selecting International Schools: IB World Schools vs Cambridge IGCSE in Indian Metros
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Curricula: IB PYP/MYP/DP vs IGCSE A-Levels | Accreditation: IB / CAIE | Metros: Blr, Mum, NCR
 
-Detailed practical breakdown of international operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+IB (International Baccalaureate) offers holistic inquiry-based learning suitable for global moves.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Cambridge IGCSE provides structured exam-oriented curriculum widely recognized in UK/India.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** Major hubs: Bengaluru (TISB, Indus), Mumbai (DAIS, Oberoi), Gurgaon (Heritage, Pathways).
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply 6-9 months in advance as international school seats fill fast.
 
-## 9. International Strategy 9
+## 9. School Admission Eligibility, Document Attestation & Equivalency Certificates
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Authority: Association of Indian Universities (AIU) | Document: School Transcript | Attestation: Embassy
 
-Detailed practical breakdown of international operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Transferring children from foreign schools requires transcripts attested by Indian Embassy.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** AIU issues Grade 10/12 equivalency certificates for overseas school boards.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Verify school's affiliation on official IB (ibo.org) or Cambridge portal.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Obtain detailed syllabus breakdown from foreign school to assist grade placement.
 
-## 8. International Strategy 8
+## 8. School Transportation, Bus Logistics & Safety Standards
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Safety: GPS Tracking & CCTV | Transport: AC School Buses | Supervision: Bus Nanny
 
-Detailed practical breakdown of international operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Top international schools operate fleet AC buses with GPS tracking and speed governors.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Verify bus route coverage before finalizing residential housing location.
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Commute times in metros like Mumbai and Bengaluru can exceed 60 minutes.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Select housing within 5-8 km radius of chosen school campus.
 
-## 7. International Strategy 7
+## 7. Navigating Expat Private Health Insurance & Local Cashless Hospital Networks
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Coverage: Private Health Insurance + Top-up | Hospital Networks: Apollo, Fortis, Max, Manipal | Claim: Cashless TPA
 
-Detailed practical breakdown of international operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+Secure comprehensive private health insurance covering top private hospital chains.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Ensure policy includes cashless hospitalization via Third Party Administrator (TPA).
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Top chains: Manipal (Bengaluru), Max/Fortis (NCR), Apollo/Hinduja (Mumbai/Chennai).
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Maintain physical health card and TPA authorization code in emergency wallet.
 
-## 6. International Strategy 6
+## 6. Corporate Group Health Insurance (GHI) Top-Ups & Super Top-Up Plans
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Base Cover: Corporate ₹5 Lakhs | Super Top-Up: ₹20-50 Lakhs | Deductible: Base Policy
 
-Detailed practical breakdown of international operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Corporate health insurance (₹5-10L) is often inadequate for major medical procedures.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Purchase individual Super Top-Up health plan to increase total coverage to ₹50 Lakhs.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Super top-up triggers once base corporate policy threshold is exhausted.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Requires zero medical check-up if bought below age 45.
 
-## 5. International Strategy 5
+## 5. Vaccination Schedules & Pediatric Healthcare Integration
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Framework: Indian Academy of Pediatrics (IAP) vs CDC/NHS | Action: Pediatrician Alignment
 
-Detailed practical breakdown of international operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Align child's vaccination record with Indian Academy of Pediatrics (IAP) schedule.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Additional vaccines recommended in India: Typhoid, Hepatitis A, Japanese Encephalitis.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Consult international-grade pediatric clinics (e.g. Cloudnine, Rainbow Children's).
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Carry foreign vaccination record book to local pediatrician.
 
-## 4. International Strategy 4
+## 4. Dental, Optical & Wellness Outpatient (OPD) Coverage Hacks
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Coverage: OPD Rider / Corporate Wellness Allowance | Discount: Dental Chains
 
-Detailed practical breakdown of international operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Standard Indian health insurance policies exclude outpatient OPD and dental care.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Add OPD coverage rider or utilize corporate wellness reimbursement allowances.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Major dental chains (Clove Dental, Sabka Dentist) offer annual subscription plans.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Pay OPD consultation fees via health wallet for tax benefits under 80D.
 
-## 3. International Strategy 3
+## 3. Emergency Medical Response & Ambulance Logistics (108 vs Private)
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Emergency No: 108 (Govt) / Private Hospital Helplines | Service: Cardiac AC Ambulance
 
-Detailed practical breakdown of international operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Government 108 emergency service offers free ambulance response nationwide.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** Private hospital chains run dedicated ACLS (Advanced Cardiac Life Support) ambulances.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Save direct emergency numbers of nearest 24/7 private hospital on phone speed dial.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Keep emergency cash and identity documents ready in house entrance drawer.
 
-## 2. International Strategy 2
+## 2. Expat Prescription Medication Continuity & Importing Personal Drugs
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Regulation: CDSCO Rules | Exemption: Personal Medical Import (Form 12B) | Limit: 100 Doses
 
-Detailed practical breakdown of international operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Importing personal prescription medicines requires doctor prescription and Form 12B.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Ensure foreign medications have exact generic chemical equivalents available in India.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Indian pharmacy chains (Apollo Pharmacy, 1mg, Netmeds) offer online delivery.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Carry 3-month supply of specialized prescription drugs when relocating.
 
-## 1. International Strategy 1
+## 1. Mental Health & Expat Relocation Counseling Services
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Support: Relocation Stress / Cross-Cultural Adaptation | Platforms: Mindhouse, MPower, Amaha
 
-Detailed practical breakdown of international operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Relocation stress and cultural transition challenges affect expat families.
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Access online therapy and counseling platforms specializing in expat integration.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** International schools employ full-time child psychologists and guidance counselors.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Join local expat social groups (e.g. Bangalore Expat Club, Gurgaon Expat Network).

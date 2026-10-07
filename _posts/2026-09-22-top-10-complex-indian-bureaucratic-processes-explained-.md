@@ -16,122 +16,122 @@ Navigating Indian administrative procedures can feel overwhelming due to overlap
 
 Evaluating government documentation requires referencing UIDAI circulars, NSDL/UTIITSL guidelines, Passport Seva manuals, and Gazetted officer verification protocols.
 
-## 10. Complex Strategy 10
+## 10. How to update address on Aadhaar Card online without document proof?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 1
+**Core Specs & Mechanics:** Portal: UIDAI MyAadhaar | Method: Head of Family (HoF) Consent | Fee: ₹50
 
-Detailed practical breakdown of complex operational step 1. Navigating core rules, technical parameters, and execution protocols in India.
+Log into MyAadhaar portal and select 'Address Update via Head of Family'.
 
-> **Official Rule / Fact:** Official regulatory rule 1 enforced by statutory authority.
+> **Official Rule / Fact:** Enter HoF's Aadhaar number; HoF receives OTP for verification.
 
-> **Key Context:** Key operational context 1 for Indian conditions and system behavior.
+> **Key Context:** HoF approves request on portal within 30 days.
 
-> **Practical Tip:** Practical insider tip 1 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Requires HoF to have updated address on their Aadhaar already.
 
-## 9. Complex Strategy 9
+## 9. How to link PAN card with Aadhaar after passing penalty deadline?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 2
+**Core Specs & Mechanics:** Portal: Income Tax e-Filing | Penalty: ₹1,000 under Sec 234H | TAT: 4-7 Days
 
-Detailed practical breakdown of complex operational step 2. Navigating core rules, technical parameters, and execution protocols in India.
+Pay ₹1,000 fee under Minor Head 500 on e-Filing portal.
 
-> **Official Rule / Fact:** Official regulatory rule 2 enforced by statutory authority.
+> **Official Rule / Fact:** Submit PAN-Aadhaar link request 24 hours after tax fee payment.
 
-> **Key Context:** Key operational context 2 for Indian conditions and system behavior.
+> **Key Context:** Unlinked PANs become inoperative, stopping bank interest and IT refunds.
 
-> **Practical Tip:** Practical insider tip 2 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Ensure name spelling matches character-for-character across both cards.
 
-## 8. Complex Strategy 8
+## 8. How to change name on government documents after marriage or legal name change?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 3
+**Core Specs & Mechanics:** Authority: Dept of Publication | Process: Central Gazette Notification | Cost: ₹1,100-1,500
 
-Detailed practical breakdown of complex operational step 3. Navigating core rules, technical parameters, and execution protocols in India.
+Execute sworn affidavit before First Class Judicial Magistrate.
 
-> **Official Rule / Fact:** Official regulatory rule 3 enforced by statutory authority.
+> **Official Rule / Fact:** Publish name change advertisement in 2 daily newspapers (1 local, 1 English).
 
-> **Key Context:** Key operational context 3 for Indian conditions and system behavior.
+> **Key Context:** Submit dossier to Department of Publication for Gazette printing.
 
-> **Practical Tip:** Practical insider tip 3 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Gazette copy serves as master proof for changing PAN, Aadhaar, and Passport.
 
-## 7. Complex Strategy 7
+## 7. How to issue a Duplicate Driving License if original is lost?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 4
+**Core Specs & Mechanics:** Portal: Parivahan Sarathi | Requirement: LLD Form & Police LOR | Fee: ₹400-600
 
-Detailed practical breakdown of complex operational step 4. Navigating core rules, technical parameters, and execution protocols in India.
+File online Lost Report (LOR) on state police portal.
 
-> **Official Rule / Fact:** Official regulatory rule 4 enforced by statutory authority.
+> **Official Rule / Fact:** Apply for duplicate DL on Parivahan Sarathi portal using DL number.
 
-> **Key Context:** Key operational context 4 for Indian conditions and system behavior.
+> **Key Context:** Upload police report, affidavit, and pay fee online.
 
-> **Practical Tip:** Practical insider tip 4 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Physical DL dispatched to registered address via Speed Post.
 
-## 6. Complex Strategy 6
+## 6. How to transfer vehicle ownership (RTO Form 29 & 30) after buying second-hand car?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 5
+**Core Specs & Mechanics:** Portal: Vahan Citizen Services | Forms: Form 29 (Notice) & Form 30 (Application) | TAT: 30 Days
 
-Detailed practical breakdown of complex operational step 5. Navigating core rules, technical parameters, and execution protocols in India.
+Submit seller and buyer signed Form 29 and Form 30 to regional RTO.
 
-> **Official Rule / Fact:** Official regulatory rule 5 enforced by statutory authority.
+> **Official Rule / Fact:** Attach original RC, valid insurance, PUC certificate, and buyer address proof.
 
-> **Key Context:** Key operational context 5 for Indian conditions and system behavior.
+> **Key Context:** Clear all pending traffic e-challans before submitting file.
 
-> **Practical Tip:** Practical insider tip 5 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Complete biometric buyer verification if required by state RTO.
 
-## 5. Complex Strategy 5
+## 5. How to obtain non-creamy layer OBC certificate for government jobs/education?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 6
+**Core Specs & Mechanics:** Portal: State Revenue Portal / E-District | Limit: Annual Income under ₹8 Lakhs | Validity: 1 Financial Year
 
-Detailed practical breakdown of complex operational step 6. Navigating core rules, technical parameters, and execution protocols in India.
+Obtain income certificate from Tehsildar proving annual family income under ₹8L.
 
-> **Official Rule / Fact:** Official regulatory rule 6 enforced by statutory authority.
+> **Official Rule / Fact:** Submit caste validity proof of father/paternal relatives.
 
-> **Key Context:** Key operational context 6 for Indian conditions and system behavior.
+> **Key Context:** Non-creamy layer status excludes salary and agricultural income.
 
-> **Practical Tip:** Practical insider tip 6 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Apply 2 months before job/admission application deadlines.
 
-## 4. Complex Strategy 4
+## 4. How to register a Marriage Certificate online in Indian metros?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 7
+**Core Specs & Mechanics:** Portal: State E-District / Sub-Registrar | Law: Hindu Marriage Act / Special Marriage Act | TAT: 15-30 Days
 
-Detailed practical breakdown of complex operational step 7. Navigating core rules, technical parameters, and execution protocols in India.
+Apply online on state portal and upload couple photo, age proof, and wedding card.
 
-> **Official Rule / Fact:** Official regulatory rule 7 enforced by statutory authority.
+> **Official Rule / Fact:** Book appointment at Sub-Registrar office with 3 adult witnesses.
 
-> **Key Context:** Key operational context 7 for Indian conditions and system behavior.
+> **Key Context:** Sub-Registrar issues digital certified Marriage Certificate.
 
-> **Practical Tip:** Practical insider tip 7 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Special Marriage Act requires mandatory 30-day public notice period.
 
-## 3. Complex Strategy 3
+## 3. How to correct Date of Birth on Birth Certificate years after registration?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 8
+**Core Specs & Mechanics:** Authority: Municipal Corp Registrar of Births | Order: Magistrate Order / School TC | TAT: 30-60 Days
 
-Detailed practical breakdown of complex operational step 8. Navigating core rules, technical parameters, and execution protocols in India.
+Submit application to Municipal Health Officer with SSLC marksheet/school TC.
 
-> **Official Rule / Fact:** Official regulatory rule 8 enforced by statutory authority.
+> **Official Rule / Fact:** If delay exceeds 1 year, requires First Class Magistrate order.
 
-> **Key Context:** Key operational context 8 for Indian conditions and system behavior.
+> **Key Context:** Registrar updates master birth ledger and issues corrected certificate.
 
-> **Practical Tip:** Practical insider tip 8 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** School leaving certificate acts as primary supporting evidence.
 
-## 2. Complex Strategy 2
+## 2. How to issue a Police Clearance Certificate (PCC) for foreign visa/job?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 9
+**Core Specs & Mechanics:** Portal: Passport Seva Kendra (PSK) | Fee: ₹500 | TAT: 7-14 Days
 
-Detailed practical breakdown of complex operational step 9. Navigating core rules, technical parameters, and execution protocols in India.
+Apply online on Passport Seva portal under PCC section.
 
-> **Official Rule / Fact:** Official regulatory rule 9 enforced by statutory authority.
+> **Official Rule / Fact:** Attend appointment at PSK for biometric verification and document check.
 
-> **Key Context:** Key operational context 9 for Indian conditions and system behavior.
+> **Key Context:** Local police station conducts physical residence verification.
 
-> **Practical Tip:** Practical insider tip 9 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** PCC dispatched via post once police verification report clears.
 
-## 1. Complex Strategy 1
+## 1. How to digitize old physical land records (7/12 Extract / Khata) online?
 
-**Core Specs & Mechanics:** Metric: Grade A | Level: Essential | System: Protocol 10
+**Core Specs & Mechanics:** Portal: State Bhulekh / AnyRoR Portal | Service: Digital Record Search | Fee: Nominal
 
-Detailed practical breakdown of complex operational step 10. Navigating core rules, technical parameters, and execution protocols in India.
+Access state land record portal (e.g. Mahabhulekh, Banglarbhumi, Bhoomi).
 
-> **Official Rule / Fact:** Official regulatory rule 10 enforced by statutory authority.
+> **Official Rule / Fact:** Search by survey number, district, and owner name.
 
-> **Key Context:** Key operational context 10 for Indian conditions and system behavior.
+> **Key Context:** Download digitally signed land record copy valid for bank loans.
 
-> **Practical Tip:** Practical insider tip 10 to optimize cost, save time, and avoid penalties.
+> **Practical Tip:** Visit Talathi/Village Revenue Officer if survey number records are unlinked.
