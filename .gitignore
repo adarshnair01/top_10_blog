@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables & secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jekyll build outputs
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Local python scripts for generator
+create_5_logistics_posts.py
+generate_5_posts.py
