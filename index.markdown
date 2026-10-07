@@ -53,27 +53,6 @@ permalink: /
     text-decoration: none;
     margin-top: 10px;
   }
-  .topic-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin: 20px 0 30px 0;
-  }
-  .topic-pill {
-    font-size: 0.8rem;
-    font-weight: 600;
-    background: #f1f5f9;
-    color: #334155;
-    padding: 6px 14px;
-    border-radius: 20px;
-    border: 1px solid #cbd5e1;
-    text-decoration: none;
-  }
-  .topic-pill:hover {
-    background: #2563eb;
-    color: #ffffff;
-    border-color: #2563eb;
-  }
   .magazine-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -128,19 +107,6 @@ permalink: /
 # The Indian Playbook
 
 Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cases, AI Tools & Remote Work.
-
-<div class="topic-pills">
-  <span class="topic-pill">🚂 Travel Logistics</span>
-  <span class="topic-pill">🧳 Can I Carry This?</span>
-  <span class="topic-pill">🏛️ Bureaucracy Explained</span>
-  <span class="topic-pill">🏦 Banking & UPI</span>
-  <span class="topic-pill">💳 Credit Cards</span>
-  <span class="topic-pill">📊 Tax Edge Cases</span>
-  <span class="topic-pill">🤖 AI for Professions</span>
-  <span class="topic-pill">💻 Remote Work</span>
-  <span class="topic-pill">📦 Moving To... India</span>
-  <span class="topic-pill">🔍 Error Dictionary</span>
-</div>
 
 ---
 
