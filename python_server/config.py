@@ -1,8 +1,10 @@
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ENV_PATH_LOCAL = os.path.join(BASE_DIR, ".env")
-ENV_PATH_POST_GEN = os.path.expanduser("~/Development/post_generator/auto-blogger/.env")
+ROOT_DIR = os.path.dirname(BASE_DIR)
+
+ENV_PATH_ROOT = os.path.join(ROOT_DIR, ".env")
+ENV_PATH_SERVER = os.path.join(BASE_DIR, ".env")
 
 def load_env_file(filepath: str):
     if not os.path.exists(filepath):
@@ -21,11 +23,11 @@ def load_env_file(filepath: str):
     except Exception as e:
         print(f"Notice: env read info ({e})")
 
-# Load environment
-if os.path.exists(ENV_PATH_LOCAL):
-    load_env_file(ENV_PATH_LOCAL)
-elif os.path.exists(ENV_PATH_POST_GEN):
-    load_env_file(ENV_PATH_POST_GEN)
+# Load environment exclusively from local repo .env files
+if os.path.exists(ENV_PATH_ROOT):
+    load_env_file(ENV_PATH_ROOT)
+if os.path.exists(ENV_PATH_SERVER):
+    load_env_file(ENV_PATH_SERVER)
 
 CONFIG = {
     "llm_api_url": os.getenv("LLM_API_URL", "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"),
