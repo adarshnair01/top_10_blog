@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Indian Travel Logistics & Transit Guides"
+description: "Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cases & Remote Work"
 permalink: /
 ---
 
@@ -13,7 +13,7 @@ permalink: /
     border-left: 5px solid #2563eb;
     border-radius: 8px;
     padding: 28px;
-    margin-bottom: 36px;
+    margin-bottom: 32px;
   }
   .magazine-hero-badge {
     display: inline-block;
@@ -52,6 +52,27 @@ permalink: /
     color: #2563eb;
     text-decoration: none;
     margin-top: 10px;
+  }
+  .topic-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0 30px 0;
+  }
+  .topic-pill {
+    font-size: 0.8rem;
+    font-weight: 600;
+    background: #f1f5f9;
+    color: #334155;
+    padding: 6px 14px;
+    border-radius: 20px;
+    border: 1px solid #cbd5e1;
+    text-decoration: none;
+  }
+  .topic-pill:hover {
+    background: #2563eb;
+    color: #ffffff;
+    border-color: #2563eb;
   }
   .magazine-grid {
     display: grid;
@@ -104,33 +125,46 @@ permalink: /
   }
 </style>
 
-# Indian Travel Logistics
+# The Indian Playbook
 
-Welcome to **Indian Travel Logistics**. Practical, in-depth transit navigation guides for train corridors, mountain passes, IRCTC Tatkal strategies, multi-modal travel, and island ferry networks across India.
+Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cases, AI Tools & Remote Work.
+
+<div class="topic-pills">
+  <span class="topic-pill">🚂 Travel Logistics</span>
+  <span class="topic-pill">🧳 Can I Carry This?</span>
+  <span class="topic-pill">🏛️ Bureaucracy Explained</span>
+  <span class="topic-pill">🏦 Banking & UPI</span>
+  <span class="topic-pill">💳 Credit Cards</span>
+  <span class="topic-pill">📊 Tax Edge Cases</span>
+  <span class="topic-pill">🤖 AI for Professions</span>
+  <span class="topic-pill">💻 Remote Work</span>
+  <span class="topic-pill">📦 Moving To... India</span>
+  <span class="topic-pill">🔍 Error Dictionary</span>
+</div>
 
 ---
 
 {% assign hero_post = site.posts.first %}
 {% if hero_post %}
 <div class="magazine-hero">
-  <span class="magazine-hero-badge">🔥 FEATURED LEAD GUIDE</span>
+  <span class="magazine-hero-badge">🔥 FEATURED PRACTICAL GUIDE</span>
   <h2 class="magazine-hero-title">
     <a href="{{ hero_post.url | relative_url }}">{{ hero_post.title }}</a>
   </h2>
   <div class="magazine-hero-date">
     Published on {{ hero_post.date | date: "%B %d, %Y" }} • By {{ hero_post.author | default: "Adarsh Nair" }}
   </div>
-  <a href="{{ hero_post.url | relative_url }}" class="magazine-hero-cta">Read Full Guide &rarr;</a>
+  <a href="{{ hero_post.url | relative_url }}" class="magazine-hero-cta">Read Full Playbook &rarr;</a>
 </div>
 {% endif %}
 
-### 📚 Latest Transit Editions
+### 📚 Latest Editions & Guides
 
 <div class="magazine-grid">
   {% for post in site.posts offset:1 %}
   <div class="magazine-card">
     <div>
-      <span class="magazine-card-badge">{{ post.categories | first | default: "Logistics" }}</span>
+      <span class="magazine-card-badge">{{ post.categories | first | default: "Guide" }}</span>
       <h3 class="magazine-card-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h3>

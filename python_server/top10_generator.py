@@ -16,25 +16,26 @@ class Top10GeneratorEngine:
         self,
         topic: str,
         tone: str = "Authoritative & Pragmatic",
-        audience: str = "Indian Travelers & Transit Enthusiasts",
-        category: str = "Logistics"
+        audience: str = "Indian Professionals & Everyday Readers",
+        category: str = "General"
     ) -> Dict[str, Any]:
         """
         Executes full workflow:
         1. Fact Checking & Web Source Dossier
-        2. Clean Text-Only Indian Travel Logistics Top 10 Countdown Generation (No images)
+        2. Clean Text-Only Practical Indian Top 10 Countdown Generation
         """
         print(f"🔍 Step 1: Fact checking topic '{topic}'...")
         dossier = self.fact_checker.verify_topic_facts(topic)
         facts_text = "\n".join(dossier.get("evidence_snippets", []))
 
-        print(f"✍️ Step 2: Generating text-only logistics guide via Gemini LLM...")
+        print(f"✍️ Step 2: Generating practical guide via Gemini LLM...")
         
         prompt = f"""
-You are an expert Indian travel logistics analyst and senior transit editor.
-Your task is to write an EXTREMELY DETAILED, HIGHLY ACCURATE, and PRACTICAL "TOP 10" GUIDE on Indian Travel Logistics.
+You are an expert Indian investigative analyst, legal/financial advisor, and practical guide chief editor.
+Your task is to write an EXTREMELY DETAILED, HIGHLY ACCURATE, and PRACTICAL "TOP 10" GUIDE.
 
 Topic: "{topic}"
+Category: "{category}"
 Writing Tone: "{tone}" (Clear, authoritative, highly structured, practical, and engaging).
 Target Audience: "{audience}"
 
@@ -45,21 +46,21 @@ CRITICAL REQUIREMENTS:
 1. Generate EXACTLY 10 distinct, thoroughly researched countdown items ordered from Rank #10 DOWN TO Rank #1.
 2. Every item (#10 to #1) MUST include:
    - Rank (integer 10 to 1)
-   - Title: Precise, informative title for the route, pass, station, hack, or corridor.
-   - Location or Logistics Specs: Exact geographic coordinates, train numbers, timings, distances, altitude, or official transit authority details.
-   - Narrative Story: 2 to 3 detailed paragraphs explaining the transit mechanics, platform navigation, route bottlenecks, operational dynamics, baggage protocols, and practical travel experiences.
-   - Verified Fact: An exact verified statistic, operational speed, record, or official rule from Indian Railways, NHAI, BRO, or Ministry of Civil Aviation.
-   - Why Trending: The key reason why this route or logistics strategy is crucial for travelers today.
-   - Pro Tip or Secret: A high-value insider tip (e.g., platform numbers, booking windows, preferred coaches, weather windows, luggage storage).
+   - Title: Precise, informative title for the rule, hack, tool, error code, pass, or route.
+   - Specs / Core Mechanics: Technical details, relevant section numbers, official portals, speed limits, or regulatory bodies (e.g. RBI, Income Tax Dept, BRO, DGCA, IRCTC).
+   - Detailed Explanation / Story: 2 to 3 detailed paragraphs explaining the underlying rules, practical steps, workarounds, real-life consequences, or step-by-step procedures.
+   - Official Rule / Fact: An exact verified statistic, section number, official guideline, or rule from Indian authorities.
+   - Key Context / Impact: Why this rule or edge case is crucial for professionals and citizens today.
+   - Practical Tip: High-value insider tip (e.g., specific portal links, document checklists, helpline numbers, override flags).
 3. STRICTLY NO IMAGES OR IMAGE TAGS. Pure text only.
-4. DO NOT INCLUDE ANY META-DESCRIPTIVE TEXT OR SELF-PROMOTIONAL FLUFF (e.g. "fact-checked text-based guide", "authoritative countdown", etc.). Write directly for the reader.
-5. The blog MUST include:
+4. DO NOT INCLUDE ANY META-DESCRIPTIVE TEXT OR SELF-PROMOTIONAL FLUFF (e.g. "fact-checked guide", "authoritative countdown"). Write directly for the reader.
+5. The guide MUST include:
    - Catchy, SEO-Optimized Title
    - Category
    - Read Time (e.g. "8 min read")
-   - Introduction: Direct, engaging 2-paragraph overview explaining why logistics management matters for this specific topic in India.
-   - Conclusion: Strategic summary with actionable takeaways for travelers navigating India.
-   - Reader Poll: A thought-provoking question with 4 options.
+   - Introduction: Direct, engaging 2-paragraph overview setting the context for this topic in India.
+   - Conclusion: Strategic summary with actionable takeaways.
+   - Reader Discussion Poll: A thought-provoking question with 4 options.
 
 YOU MUST RETURN STRICT VALID JSON ONLY. DO NOT INCLUDE ANY MARKDOWN WRAPPERS OR TEXT OUTSIDE THE JSON OBJECT.
 
@@ -91,7 +92,7 @@ Strictly follow this JSON structure:
 
         raw_output = self.llm_client.call_llm(
             prompt=prompt,
-            system_prompt="You return raw valid JSON only for Indian travel logistics Top 10 guides.",
+            system_prompt="You return raw valid JSON only for practical Indian Top 10 guides.",
             max_tokens=8192
         )
 
@@ -115,14 +116,14 @@ Strictly follow this JSON structure:
         }
 
     def format_as_jekyll_markdown(self, post: Dict[str, Any]) -> str:
-        """Converts structured Top 10 post to clean, text-only Markdown for Just the Docs theme."""
+        """Converts structured Top 10 post to clean Markdown for Just the Docs theme."""
         blog = post.get("blog", {})
-        title = blog.get("title", "Top 10 Indian Travel Logistics Guides")
+        title = blog.get("title", "Top 10 Practical Guides")
         intro = blog.get("introduction", "")
         conclusion = blog.get("conclusion", "")
         items = blog.get("items", [])
         poll = blog.get("reader_poll", {})
-        category = blog.get("category", "Logistics")
+        category = blog.get("category", "General")
         date_str = post.get("created_at", datetime.now().strftime("%Y-%m-%d"))
         
         md_lines = [
@@ -141,7 +142,6 @@ Strictly follow this JSON structure:
             ""
         ]
 
-        # Countdown items from 10 down to 1 (Text-only, formatted for Just the Docs theme)
         for item in items:
             rank = item.get("rank")
             item_title = item.get("title", "")
@@ -154,19 +154,18 @@ Strictly follow this JSON structure:
             md_lines.append(f"## {rank}. {item_title}")
             md_lines.append("")
             if specs:
-                md_lines.append(f"**Transit & Technical Specs:** `{specs}`")
+                md_lines.append(f"**Core Specs & Mechanics:** `{specs}`")
                 md_lines.append("")
             
             md_lines.append(story)
             md_lines.append("")
             
-            # Clean Markdown blockquote callouts
             if fact:
-                md_lines.append(f"> **Transit Fact:** {fact}")
+                md_lines.append(f"> **Official Rule / Fact:** {fact}")
             if trending:
                 md_lines.append(f"> **Key Context:** {trending}")
             if secret:
-                md_lines.append(f"> **Logistics Tip:** {secret}")
+                md_lines.append(f"> **Practical Tip:** {secret}")
             
             md_lines.append("")
             md_lines.append("---")
