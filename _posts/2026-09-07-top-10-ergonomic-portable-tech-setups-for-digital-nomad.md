@@ -5,7 +5,6 @@ date: 2026-09-07
 categories: [remote_work_logistics]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Working remotely while traveling across Indian cities and hill stations requires lightweight, durable, and ergonomic tech gear that fits easily into a single travel backpack.

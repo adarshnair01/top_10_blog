@@ -5,7 +5,6 @@ date: 2026-09-22
 categories: [bureaucracy]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Navigating Indian administrative procedures can feel overwhelming due to overlapping government portals, documentation requirements, and gazette notifications. Demystifying these processes guarantees hassle-free approval.

@@ -5,7 +5,6 @@ date: 2026-09-25
 categories: [what_happens_if]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Indian Railways operates one of the world's largest rail networks, carrying over 22 million passengers daily. Yet when operational glitches occur—from losing your physical ticket to missing a connecting train—passengers are caught off guard.

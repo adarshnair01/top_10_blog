@@ -5,7 +5,6 @@ date: 2026-09-04
 categories: [moving_to_india]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Relocating to India as a returning NRI or expat involves container shipping logistics, customs duty clearance, foreign bank account conversions, and tax residence planning.

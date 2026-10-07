@@ -5,7 +5,6 @@ date: 2026-09-02
 categories: [moving_to_india]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Expat and returning families moving to India require smooth school admission transitions (IB/IGCSE curricula) and comprehensive private health insurance coverage.

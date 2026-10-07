@@ -5,7 +5,6 @@ date: 2026-09-24
 categories: [what_happens_if]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Digital payment adoption in India leads the world, but system glitches, unauthorized debits, and phishing attempts create panic. Knowing exact regulatory recourse and turnaround times guarantees financial recovery.

@@ -5,7 +5,6 @@ date: 2026-09-17
 categories: [banking_problems]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Inoperative bank accounts and unclaimed fixed deposits across Indian banks run into tens of thousands of crores. The RBI UDGAM portal simplifies locating and claiming lost family deposits.

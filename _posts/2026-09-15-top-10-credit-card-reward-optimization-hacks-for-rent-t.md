@@ -5,7 +5,6 @@ date: 2026-09-15
 categories: [credit_cards]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Paying utility bills, property taxes, and school fees using credit cards in India can unlock massive reward points when executed through optimized payment gateways.

@@ -5,7 +5,6 @@ date: 2026-09-10
 categories: [error_dictionary]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Accessing Indian government digital portals during peak filing seasons frequently results in obscure error codes, portal timeouts, and failed cryptographic signatures.

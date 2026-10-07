@@ -5,7 +5,6 @@ date: 2026-09-09
 categories: [error_dictionary]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80"
 ---
 
 E-commerce transactions and bill payments frequently fail due to payment gateway session timeouts, 3D Secure OTP delays, and interbank switch errors.

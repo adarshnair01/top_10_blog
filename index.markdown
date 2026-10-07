@@ -100,9 +100,8 @@ permalink: /
     box-shadow: 0 6px 20px rgba(37, 99, 235, 0.5);
   }
 
-  /* Quick Topics Ribbon */
   .topics-ribbon-title {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.08em;
@@ -111,42 +110,40 @@ permalink: /
   }
 
   .topics-ribbon {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
     gap: 12px;
-    margin-bottom: 44px;
+    margin-bottom: 40px;
   }
 
   .topic-card-link {
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
     background: #ffffff;
     border: 1px solid #e2e8f0;
+    padding: 10px 18px;
     border-radius: 10px;
-    padding: 12px 14px;
-    text-decoration: none;
     color: #1e293b !important;
     font-weight: 600;
-    font-size: 0.88rem;
+    font-size: 0.9rem;
+    text-decoration: none;
     transition: all 0.2s ease;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
   }
 
   .topic-card-link:hover {
     border-color: #2563eb;
-    background: #eff6ff;
-    color: #1d4ed8 !important;
+    color: #2563eb !important;
     transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(37, 99, 235, 0.08);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.12);
   }
 
-  /* Magazine Grid */
   .section-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
     padding-bottom: 10px;
     border-bottom: 2px solid #e2e8f0;
   }
@@ -161,7 +158,7 @@ permalink: /
   .magazine-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 28px;
+    gap: 24px;
     margin-bottom: 40px;
   }
 
@@ -177,60 +174,38 @@ permalink: /
   }
 
   .mag-card:hover {
-    transform: translateY(-4px);
+    transform: translateY(-3px);
     box-shadow: 0 12px 24px -4px rgba(0, 0, 0, 0.08);
     border-color: #cbd5e1;
   }
 
-  .mag-card-img-wrap {
-    position: relative;
-    width: 100%;
-    height: 180px;
-    overflow: hidden;
-    background: #f1f5f9;
-  }
-
-  .mag-card-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.4s ease;
-  }
-
-  .mag-card:hover .mag-card-img {
-    transform: scale(1.05);
-  }
-
-  .mag-card-cat {
-    position: absolute;
-    top: 12px;
-    left: 12px;
-    background: rgba(15, 23, 42, 0.85);
-    backdrop-filter: blur(4px);
-    color: #ffffff;
-    font-size: 0.7rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    padding: 4px 10px;
-    border-radius: 4px;
-    z-index: 2;
-  }
-
   .mag-card-body {
-    padding: 20px;
+    padding: 24px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
     justify-content: space-between;
   }
 
+  .mag-card-cat-inline {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #2563eb;
+    background: #eff6ff;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin-bottom: 14px;
+  }
+
   .mag-card-title {
     font-size: 1.15rem;
     font-weight: 700;
-    line-height: 1.4;
+    line-height: 1.45;
     color: #0f172a;
-    margin: 0 0 12px 0;
+    margin: 0 0 16px 0;
   }
 
   .mag-card-title a {
@@ -266,7 +241,7 @@ permalink: /
     <a href="{{ lead_post.url | relative_url }}">{{ lead_post.title }}</a>
   </h1>
   <p class="playbook-hero-desc">
-    An in-depth practical guide breaking down exact mechanics, technical specifications, official regulatory rules, and insider travel tips.
+    An in-depth practical guide breaking down exact mechanics, technical specifications, official regulatory rules, and insider tips.
   </p>
   <a href="{{ lead_post.url | relative_url }}" class="playbook-hero-btn">
     Read Full Playbook <span>&rarr;</span>
@@ -303,20 +278,15 @@ permalink: /
 <div class="magazine-grid">
   {% for post in site.posts offset:1 %}
   <div class="mag-card">
-    <div class="mag-card-img-wrap">
-      <span class="mag-card-cat">{{ post.categories | first | default: "Guide" }}</span>
-      {% if post.image %}
-        <img src="{{ post.image }}" alt="{{ post.title }}" class="mag-card-img" />
-      {% else %}
-        <img src="https://images.unsplash.com/photo-1532105956626-9569c03602f6?auto=format&fit=crop&w=800&q=80" alt="{{ post.title }}" class="mag-card-img" />
-      {% endif %}
-    </div>
     <div class="mag-card-body">
-      <h3 class="mag-card-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
+      <div>
+        <span class="mag-card-cat-inline">{{ post.categories | first | default: "Guide" | replace: "_", " " }}</span>
+        <h3 class="mag-card-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+      </div>
       <div class="mag-card-footer">
-        <span>Read Guide</span>
+        <span>Read Edition</span>
         <span>&rarr;</span>
       </div>
     </div>

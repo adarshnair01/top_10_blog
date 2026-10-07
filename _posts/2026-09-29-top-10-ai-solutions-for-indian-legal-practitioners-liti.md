@@ -5,7 +5,6 @@ date: 2026-09-29
 categories: [ai_professions]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"
 ---
 
 The Indian legal sector is undergoing rapid digitization. High Court litigators, corporate legal counsels, and legal researchers are adopting specialized AI tools to search decades of Supreme Court case law, analyze contracts, and draft petitions.

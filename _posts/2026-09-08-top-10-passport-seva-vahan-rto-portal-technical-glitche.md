@@ -5,7 +5,6 @@ date: 2026-09-08
 categories: [error_dictionary]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Booking urgent Tatkaal passport slots or submitting online vehicle transfer applications on Vahan 4.0 often hits technical errors and session resets.

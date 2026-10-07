@@ -5,7 +5,6 @@ date: 2026-09-14
 categories: [credit_cards]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1542903660-eedba2cda473?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Traveling abroad from India with traditional credit cards incurs high 3.5% foreign exchange markup fees plus GST. Zero forex markup credit cards eliminate international markup fees completely.

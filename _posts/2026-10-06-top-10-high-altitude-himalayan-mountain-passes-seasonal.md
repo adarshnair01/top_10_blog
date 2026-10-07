@@ -5,7 +5,6 @@ date: 2026-10-06
 categories: [travel_logistics]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Navigating high-altitude mountain passes across the Indian Himalayas requires far more than basic driving skills—it demands meticulous logistics management. Spanning elevations from 10,000 to over 19,000 feet, these strategic corridors are maintained by the Border Roads Organisation (BRO).

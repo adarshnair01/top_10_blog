@@ -5,7 +5,6 @@ date: 2026-10-03
 categories: [remote_work]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Working from coastal retreats across India has evolved into a structured lifestyle for developers, marketers, and remote founders. Combining beachside living with high-speed fiber broadband and co-living hubs, South India and Goa offer world-class remote work setups.

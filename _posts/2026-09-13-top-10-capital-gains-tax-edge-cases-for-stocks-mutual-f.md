@@ -5,7 +5,6 @@ date: 2026-09-13
 categories: [tax_edge_cases]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Indian capital gains tax rules under Section 112A and 115BBH impose specific tax rates on equity mutual funds, debt funds, real estate, and Virtual Digital Assets (crypto).

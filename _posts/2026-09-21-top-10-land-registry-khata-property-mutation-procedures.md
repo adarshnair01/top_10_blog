@@ -5,7 +5,6 @@ date: 2026-09-21
 categories: [bureaucracy]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Purchasing real estate in India involves complex property title verification, stamp duty calculations, and municipal property tax mutation. Understanding legal paperwork protects buyers against property fraud.

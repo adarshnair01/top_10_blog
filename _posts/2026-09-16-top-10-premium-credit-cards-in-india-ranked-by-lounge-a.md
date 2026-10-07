@@ -5,7 +5,6 @@ date: 2026-09-16
 categories: [credit_cards]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Indian credit card issuers offer lucrative reward structures, airport lounge access, and milestone benefits. Maximizing credit card value requires strategic card selection tailored to spending habits.

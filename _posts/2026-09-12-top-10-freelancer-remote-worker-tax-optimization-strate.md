@@ -5,7 +5,6 @@ date: 2026-09-12
 categories: [tax_edge_cases]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Indian independent contractors and tech freelancers earning foreign income can claim presumptive taxation under Section 44ADA, declaring 50% of gross receipts as taxable profit.

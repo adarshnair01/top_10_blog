@@ -5,7 +5,6 @@ date: 2026-09-01
 categories: [can_i_carry]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Navigating DGCA aviation security guidelines for domestic flights in India requires knowing exact weight limits, power bank carry-on rules, and prohibited cabin items.

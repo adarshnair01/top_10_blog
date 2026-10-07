@@ -5,7 +5,6 @@ date: 2026-10-04
 categories: [remote_work]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
 ---
 
 The surge in hybrid and remote work models across Indian tech and creative industries has made workations a mainstream lifestyle. Swapping urban traffic for mountain air, Indian remote professionals are relocating to Himalayan hill towns equipped with fiber broadband.

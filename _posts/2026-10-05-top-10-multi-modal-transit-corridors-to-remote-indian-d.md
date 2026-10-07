@@ -5,7 +5,6 @@ date: 2026-10-05
 categories: [travel_logistics]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Reaching India's most isolated destinations—from the alpine valleys of Ladakh and Arunachal Pradesh to the tropical archipelagos of Andaman and Lakshadweep—requires mastering multi-modal travel logistics.

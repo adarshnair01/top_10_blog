@@ -5,7 +5,6 @@ date: 2026-09-23
 categories: [what_happens_if]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1508873696983-2df515122519?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Air travel across Indian domestic sectors can be disrupted by fog seasonal delays, technical faults, and baggage mishandling. Knowing passenger rights under DGCA Civil Aviation Requirements (CAR) guarantees meal vouchers, hotel stays, and financial compensation.

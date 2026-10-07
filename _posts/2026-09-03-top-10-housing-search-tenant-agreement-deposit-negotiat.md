@@ -5,7 +5,6 @@ date: 2026-09-03
 categories: [moving_to_india]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Renting residential property in Indian metros like Bengaluru, Mumbai, and Gurgaon involves negotiating high security deposits, broker fees, and maintenance terms.

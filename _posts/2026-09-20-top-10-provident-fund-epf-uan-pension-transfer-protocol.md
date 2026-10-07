@@ -5,7 +5,6 @@ date: 2026-09-20
 categories: [bureaucracy]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Managing Employee Provident Fund (EPF) transfers when switching jobs in India requires mastering the Universal Account Number (UAN) digital portal. Resolving employer approval roadblocks guarantees pension continuity.

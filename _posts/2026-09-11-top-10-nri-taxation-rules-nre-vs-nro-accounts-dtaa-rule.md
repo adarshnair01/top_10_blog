@@ -5,7 +5,6 @@ date: 2026-09-11
 categories: [tax_edge_cases]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Non-Resident Indians earning foreign income must navigate Double Taxation Avoidance Agreements (DTAA) and Form 67 filings to avoid paying tax twice on the same earnings.

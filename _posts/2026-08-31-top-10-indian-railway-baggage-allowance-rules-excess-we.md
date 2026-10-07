@@ -5,7 +5,6 @@ date: 2026-08-31
 categories: [can_i_carry]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Indian Railways specifies luggage weight limits per coach class and regulates carrying pets, bicycles, and commercial goods inside passenger compartments.

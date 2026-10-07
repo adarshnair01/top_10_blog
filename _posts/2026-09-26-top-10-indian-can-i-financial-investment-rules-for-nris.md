@@ -5,7 +5,6 @@ date: 2026-09-26
 categories: [can_i_queries]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Financial regulations under RBI, FEMA, and SEBI govern how Non-Resident Indians (NRIs) and Indian residents manage bank accounts, stock investments, mutual funds, and overseas money transfers.

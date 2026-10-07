@@ -5,7 +5,6 @@ date: 2026-09-19
 categories: [banking_problems]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Unified Payments Interface (UPI) handles billions of transactions monthly in India, but network congestion and bank server timeouts cause occasional transaction failures.

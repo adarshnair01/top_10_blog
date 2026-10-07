@@ -5,7 +5,6 @@ date: 2026-10-02
 categories: [remote_work]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80"
 ---
 
 As remote work decentralizes from Tier-1 metros like Bengaluru and Gurgaon, Tier-2 Indian cities are emerging as premier hubs for remote workers. Offering lower cost of living, cleaner air, less traffic, and robust gigabit fiber infrastructure, these cities host vibrant co-living communities.

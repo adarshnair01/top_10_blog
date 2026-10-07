@@ -5,7 +5,6 @@ date: 2026-08-30
 categories: [can_i_carry]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1553531384-cc64ac80f931?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Arriving in India from international flights triggers Customs Duty regulations under Indian Customs Baggage Rules regarding gold jewelry, secondary laptops, and high-value gifts.

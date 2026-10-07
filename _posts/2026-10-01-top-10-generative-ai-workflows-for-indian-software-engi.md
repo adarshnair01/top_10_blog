@@ -5,7 +5,6 @@ date: 2026-10-01
 categories: [ai_professions]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Generative AI has fundamentally shifted software development in Indian IT hubs from Bengaluru to Hyderabad. Tech leads and developers are moving beyond simple ChatGPT prompts to integrated AI coding workflows that accelerate production deployments.

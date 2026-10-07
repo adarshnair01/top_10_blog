@@ -5,7 +5,6 @@ date: 2026-09-30
 categories: [ai_professions]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Indian Chartered Accountants (CAs) managing GST filings, Income Tax audits, and corporate accounting are leveraging AI to automate manual document processing. From parsing thousands of invoices to auditing Form 26AS, AI tools are redefining financial practice management.

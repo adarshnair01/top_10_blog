@@ -5,7 +5,6 @@ date: 2026-09-28
 categories: [can_i_queries]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Navigating Indian municipal regulations, motor vehicle rules, and residential property laws often leaves citizens asking essential operational questions. From modifying vehicles to installing rooftop solar, clarity on statutory permissions prevents fines.

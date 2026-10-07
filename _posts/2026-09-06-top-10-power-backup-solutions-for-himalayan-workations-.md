@@ -5,7 +5,6 @@ date: 2026-09-06
 categories: [remote_work_logistics]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Mountain power grids across Himachal Pradesh and Uttarakhand experience unexpected voltage fluctuations and prolonged blackout weather outages.

@@ -5,7 +5,6 @@ date: 2026-09-27
 categories: [can_i_queries]
 author: "Adarsh Nair"
 nav_exclude: true
-image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Navigating Indian passport renewals, Overseas Citizen of India (OCI) cards, visa endorsements, and dual citizenship regulations involves strict compliance with the Ministry of External Affairs (MEA) and Ministry of Home Affairs (MHA).
