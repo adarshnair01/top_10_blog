@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "The Indian Playbook - Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cases & Remote Work"
+description: "Practical Top 10 Guides for Indian Logistics, Bureaucracy, Banking, Tax Edge Cases & Remote Work"
 permalink: /
 ---
 
@@ -172,7 +172,7 @@ permalink: /
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    transition: all 0.25 ease;
+    transition: all 0.25s ease;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
   }
 
@@ -214,6 +214,7 @@ permalink: /
     letter-spacing: 0.06em;
     padding: 4px 10px;
     border-radius: 4px;
+    z-index: 2;
   }
 
   .mag-card-body {
@@ -304,14 +305,10 @@ permalink: /
   <div class="mag-card">
     <div class="mag-card-img-wrap">
       <span class="mag-card-cat">{{ post.categories | first | default: "Guide" }}</span>
-      {% if forloop.index == 1 %}
-        <img src="https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=800&q=80" alt="{{ post.title }}" class="mag-card-img" />
-      {% elsif forloop.index == 2 %}
-        <img src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=800&q=80" alt="{{ post.title }}" class="mag-card-img" />
-      {% elsif forloop.index == 3 %}
-        <img src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80" alt="{{ post.title }}" class="mag-card-img" />
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}" class="mag-card-img" />
       {% else %}
-        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80" alt="{{ post.title }}" class="mag-card-img" />
+        <img src="https://images.unsplash.com/photo-1532105956626-9569c03602f6?auto=format&fit=crop&w=800&q=80" alt="{{ post.title }}" class="mag-card-img" />
       {% endif %}
     </div>
     <div class="mag-card-body">

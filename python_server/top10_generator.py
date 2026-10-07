@@ -142,6 +142,7 @@ Strictly follow this JSON structure:
             f'date: {date_str}',
             f'categories: [{category}]',
             'author: "Adarsh Nair"',
+            f'image: "{img_url}"',
             "---",
             "",
             f"{p1}",

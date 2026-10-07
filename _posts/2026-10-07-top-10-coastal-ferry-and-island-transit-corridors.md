@@ -5,6 +5,7 @@ title: "Top 10 Coastal Ferry & Island Transit Corridors in India"
 date: 2026-10-07
 categories: [Logistics]
 author: "Adarsh Nair"
+image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
 ---
 
 India's 7,516 km coastline and offshore archipelagos host a rapidly modernizing network of **coastal ferries, Ro-Pax (Roll-on/Roll-off Passenger) ships, and high-speed catamarans**.

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generator for 5 Indian Travel Logistics Posts with Unsplash Photography placed after Paragraph 1.
+Generator for 5 Indian Travel Logistics Posts with Unsplash Frontmatter Images
 """
 
 import os
@@ -16,6 +16,7 @@ title: "Top 10 Vande Bharat Express Routes Ranked by Speed, Comfort & Transit Lo
 date: 2026-10-03
 categories: [Logistics]
 author: "Adarsh Nair"
+image: "https://images.unsplash.com/photo-1532105956626-9569c03602f6?auto=format&fit=crop&w=1200&q=80"
 ---
 
 India's semi-high-speed train revolution, led by the indigenous Vande Bharat Express (Train 18), has fundamentally altered intercity rail travel across the subcontinent. Boasting operational acceleration of 0 to 100 km/h in just 52 seconds, sealed gangways, automated plug doors, and bio-vacuum toilets, these trainsets demand a fresh logistics playbook for travelers.
@@ -179,6 +180,7 @@ title: "Top 10 High-Altitude Himalayan Mountain Passes & Seasonal Road Closure L
 date: 2026-10-04
 categories: [Logistics]
 author: "Adarsh Nair"
+image: "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Navigating high-altitude mountain passes across the Indian Himalayas requires far more than basic driving skills—it demands meticulous logistics management. Spanning elevations from 10,000 to over 19,000 feet, these strategic corridors are maintained by the Border Roads Organisation (BRO) under Project Himank, Beacon, and Deepak.
@@ -342,6 +344,7 @@ title: "Top 10 IRCTC Tatkal Hacks & Railway Station Transit Logistics in India"
 date: 2026-10-05
 categories: [Logistics]
 author: "Adarsh Nair"
+image: "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Booking a confirmed train ticket on Indian Railways during peak festive seasons or urgent travel windows is one of the most competitive logistical challenges in India. With millions of passengers competing for limited Tatkal quotas every morning at 10:00 AM (AC classes) and 11:00 AM (Non-AC classes), split-second execution determines whether you secure a confirmed berth or land on an unconfirmed Waitlist.
@@ -505,6 +508,7 @@ title: "Top 10 Multi-Modal Transit Corridors to Remote Indian Destinations"
 date: 2026-10-06
 categories: [Logistics]
 author: "Adarsh Nair"
+image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80"
 ---
 
 Reaching India's most isolated destinations—from the alpine valleys of Ladakh and Arunachal Pradesh to the tropical archipelagos of Andaman and Lakshadweep—requires mastering **multi-modal travel logistics**.
@@ -668,6 +672,7 @@ title: "Top 10 Coastal Ferry & Island Transit Corridors in India"
 date: 2026-10-07
 categories: [Logistics]
 author: "Adarsh Nair"
+image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
 ---
 
 India's 7,516 km coastline and offshore archipelagos host a rapidly modernizing network of **coastal ferries, Ro-Pax (Roll-on/Roll-off Passenger) ships, and high-speed catamarans**.
@@ -836,6 +841,6 @@ for filename, content in posts:
     filepath = os.path.join(posts_dir, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content.strip() + "\n")
-    print(f"📸 Placed image after Para 1: {filename}")
+    print(f"📸 Added image frontmatter: {filename}")
 
-print("\n🎉 All 5 posts updated with Unsplash photos placed after Paragraph 1!")
+print("\n🎉 All 5 posts updated with image in frontmatter!")
