@@ -1,22 +1,24 @@
 #!/usr/bin/env python3
 """
-Clean Generator for 5 Indian Travel Logistics Posts
+Generator for 5 Indian Travel Logistics Posts with High-Res Unsplash Photography
 """
 
 import os
-import re
 
 posts_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "_posts")
 os.makedirs(posts_dir, exist_ok=True)
 
 # Post 1: Vande Bharat Express Routes
 post1_content = """---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 Vande Bharat Express Routes Ranked by Speed, Comfort & Transit Logistics"
 date: 2026-10-03
 categories: [Logistics]
 author: "Adarsh Nair"
 ---
+
+![Vande Bharat Express Train](https://images.unsplash.com/photo-1532105956626-9569c03602f6?auto=format&fit=crop&w=1200&q=80)
 
 India's semi-high-speed train revolution, led by the indigenous Vande Bharat Express (Train 18), has fundamentally altered intercity rail travel across the subcontinent. Boasting operational acceleration of 0 to 100 km/h in just 52 seconds, sealed gangways, automated plug doors, and bio-vacuum toilets, these trainsets demand a fresh logistics playbook for travelers. Bypassing congested national highways and traditional superfast train delays, navigating Vande Bharat services requires precise knowledge of platform allocations, catering meal windows, and baggage rack dimensions.
 
@@ -169,12 +171,15 @@ Navigating India's Vande Bharat Express network efficiently requires planning ar
 
 # Post 2: Himalayan Passes Logistics
 post2_content = """---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 High-Altitude Himalayan Mountain Passes & Seasonal Road Closure Logistics"
 date: 2026-10-04
 categories: [Logistics]
 author: "Adarsh Nair"
 ---
+
+![Himalayan Mountain Pass](https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=1200&q=80)
 
 Navigating high-altitude mountain passes across the Indian Himalayas requires far more than basic driving skills—it demands meticulous logistics management. Spanning elevations from 10,000 to over 19,000 feet, these strategic corridors are maintained by the Border Roads Organisation (BRO) under Project Himank, Beacon, and Deepak. Operating across severe weather windows, extreme temperature drops, oxygen-deprived environments, and unpredictable landslide zones, overland travel through these passes dictates strict permit compliance, vehicle prep, and altitude safety protocols.
 
@@ -327,12 +332,15 @@ High-altitude Himalayan logistics require careful preparation: verify BRO road o
 
 # Post 3: IRCTC Tatkal Hacks
 post3_content = """---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 IRCTC Tatkal Hacks & Railway Station Transit Logistics in India"
 date: 2026-10-05
 categories: [Logistics]
 author: "Adarsh Nair"
 ---
+
+![Indian Railways Station Platform](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80)
 
 Booking a confirmed train ticket on Indian Railways during peak festive seasons or urgent travel windows is one of the most competitive logistical challenges in India. With millions of passengers competing for limited Tatkal quotas every morning at 10:00 AM (AC classes) and 11:00 AM (Non-AC classes), split-second execution determines whether you secure a confirmed berth or land on an unconfirmed Waitlist. Beyond ticket generation, smooth transit across major junction stations requires precise knowledge of cloakroom protocols, porter tariffs, and executive lounge access.
 
@@ -485,12 +493,15 @@ Mastering Indian Railways logistics involves leveraging digital tools: pre-fill 
 
 # Post 4: Multi-Modal Transit Corridors
 post4_content = """---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 Multi-Modal Transit Corridors to Remote Indian Destinations"
 date: 2026-10-06
 categories: [Logistics]
 author: "Adarsh Nair"
 ---
+
+![Mountain Transit Corridor](https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80)
 
 Reaching India's most isolated destinations—from the alpine valleys of Ladakh and Arunachal Pradesh to the tropical archipelagos of Andaman and Lakshadweep—requires mastering **multi-modal travel logistics**. When no single flight or direct express train reaches your final destination, seamless coordination between commercial aviation, regional rail networks, shared mountain sumos, state ferry systems, and high-altitude road tunnels becomes mandatory.
 
@@ -643,12 +654,15 @@ Mastering multi-modal transit across India involves planning around seasonal wea
 
 # Post 5: Coastal Ferry & Island Corridors
 post5_content = """---
-layout: post
+layout: default
+nav_exclude: true
 title: "Top 10 Coastal Ferry & Island Transit Corridors in India"
 date: 2026-10-07
 categories: [Logistics]
 author: "Adarsh Nair"
 ---
+
+![Coastal Ferry & Island Corridor](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80)
 
 India's 7,516 km coastline and offshore archipelagos host a rapidly modernizing network of **coastal ferries, Ro-Pax (Roll-on/Roll-off Passenger) ships, and high-speed catamarans**. Managed by state maritime boards, private vessel operators, and the Inland Waterways Authority of India (IWAI), these maritime transit corridors bypass congested coastal highways, reduce carbon footprints, and provide essential connectivity to island communities.
 
@@ -799,7 +813,7 @@ From Agatti Jetty, high-speed passenger catamarans (**MV Parali, MV Valiyapani**
 Coastal ferries and Ro-Pax vessels across India offer scenic, time-saving, and eco-friendly alternatives to long highway drives. Whether taking the M2M Ro-Ro to Alibaug, the Kochi Water Metro electric boats, or high-speed catamarans in the Andaman and Lakshadweep islands, integrating maritime routes into your itinerary elevates the travel experience.
 """
 
-# Write all 5 cleaned posts to _posts/
+# Write all 5 posts to _posts/
 posts = [
     ("2026-10-03-top-10-vande-bharat-express-routes-ranked-by-speed-and-logistics.md", post1_content),
     ("2026-10-04-top-10-high-altitude-himalayan-mountain-passes-logistics.md", post2_content),
@@ -812,6 +826,6 @@ for filename, content in posts:
     filepath = os.path.join(posts_dir, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content.strip() + "\n")
-    print(f"✅ Updated clean post: {filename}")
+    print(f"📸 Updated post with Unsplash photo: {filename}")
 
-print("\n🎉 All 5 posts successfully cleaned of meta-text!")
+print("\n🎉 All 5 posts successfully updated with Unsplash high-res photography!")

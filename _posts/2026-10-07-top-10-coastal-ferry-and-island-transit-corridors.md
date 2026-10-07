@@ -7,6 +7,8 @@ categories: [Logistics]
 author: "Adarsh Nair"
 ---
 
+![Coastal Ferry & Island Corridor](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80)
+
 India's 7,516 km coastline and offshore archipelagos host a rapidly modernizing network of **coastal ferries, Ro-Pax (Roll-on/Roll-off Passenger) ships, and high-speed catamarans**. Managed by state maritime boards, private vessel operators, and the Inland Waterways Authority of India (IWAI), these maritime transit corridors bypass congested coastal highways, reduce carbon footprints, and provide essential connectivity to island communities.
 
 ---
